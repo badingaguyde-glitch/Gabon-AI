@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000013",
+  "scientific_name": "Genetta servalina",
+  "normalized_name": "genetta_servalina",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Viverridae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-002304",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 24094,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 25096 24094  C10 C10 _ FSC5_C10   FSC5-2019-10-C10 Animal 2019-11-24 2019-11-24 18:24:47 11240235.JPG MAMMALIA CARNIVORA VIVERRIDAE G",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:24.373287+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:24.376744+00:00",
+  "updated_at": "2026-10-14T10:10:24.376747+00:00"
+}

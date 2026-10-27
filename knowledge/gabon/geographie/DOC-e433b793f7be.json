@@ -1,0 +1,47 @@
+{
+ "doc_id": "DOC-e433b793f7be",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "infrastructures_transport",
+  "histoire",
+  "economie"
+ ],
+ "classification_confidence": 0.442,
+ "language": "fr",
+ "source_files": [
+  "Aéroport_international_de_Port-Gentil.pdf"
+ ],
+ "sha256": "e433b793f7be36898924a738311e5c3b44999eea4a4e3417e5e20d10e3726966",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:29.376938+00:00",
+ "kind": "text",
+ "title": "Aéroport international de Port-Gentil — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Aéroport International de\nPort-Gentil\nAéroport Joseph Rendjambe\nIssani\nVue de l'aéroport de Port-Gentil en 2009.\nLocalisation\nPays\nGabon\nVille\nPort-Gentil\nCoordonnées\n0° 42′ 42″ sud,\n8° 45′ 16″ est\nInformations aéronautiques\nCode IATA\nPOG\nCode OACI\nFOOG\nType\nd'aéroport\nCivil\nGestionnaire\nASECNA puis GSEZ\nAirport\nSite web\naéroport\nSite officiel (http://www.ad\nlgabon.com)\nPistes\nDirection\nLongueur\nSurface\n03/21\n2 700 m\n(8 858 ft)\nBéton\nbitumineux\nAéroport international de Port-Gentil\nL’Aéroport\nInternational\nde\nPort-Gentil\n(officiellement Aéroport Joseph Rendjambé Issani)\ndessert Port-Gentil, capitale économique du Gabon et\ndeuxième ville du pays par le nombre d'habitants après\nLibreville.\nL’aéroport international de Port-Gentil a été la plateforme de correspondance d'Air Inter Gabon de 1956 à\n2001.\nIl a été fermé à la circulation aérienne internationale et\ndomestique[Quand ?], puis rouvert le 20 novembre 2016.\nIl est inauguré le 17 juin 2016 par le chef de l’État Ali\nBongo Ondimba avec la mise en service de l’aérogare\npassagers et du parking payant.\nLa réouverture a eu lieu quelques semaines avant la\nCoupe d’Afrique des nations 2017. La plateforme\naccueille les délégations de cette compétition.\nGéolocalisation sur la carte : Gabon\nSituation\nFranceville\nKoulamoutou\nLibreville\nMakokou\nMouila\nOyem\nPort-Gentil\nTchibanga\nHistoire",
+   "chunk_id": "DOC-e433b793f7be-C0001",
+   "text_hash": "e425c23470321305b586552c06418f457418db62"
+  },
+  {
+   "section": "",
+   "text": "Le nouvel aéroport de Port-Gentil, baptisé Ali Bongo\nOndimba a coûté 73 milliards de FCFA, entièrement\nfinancés par les revenus du pétrole grâce à un partenariat\navec Total Gabon qui a assuré la maitrise d'ouvrage pour\nle compte du gouvernement gabonais (construction d’une\nnouvelle aérogare passagers, construction d’un pavillon\nprésidentiel, extension et réhabilitation des circulations et\naires avions, mise en œuvre des infrastructures\nsécuritaires, réalisation des voiries et parkings du côté\npublic). Le chantier avait démarré en août 2011. La nouvelle aérogare passagers a dorénavant une surface\nau sol de 8 000 m2 environ et 3 000 m2 en mezzanine. L'aérogare comporte douze banques d'enregistrement et\ntrois filtres départ « passeport-sûreté », deux salles d’embarquement, 800 m2 pour la livraison bagages et\nun restaurant accessible depuis l’extérieur. L'aérogare bénéficie d'un concept moderne (stylé, fluidifié et\noptimisé). La piste a été allongée de 1 900 mètres à 2 700 mètres (sur 45 mètres de large) . C'est l'un des trois aéroports internationaux gabonais avec Libreville (aéroport international Léon M’Ba)\net Franceville (aéroport international El Adj Omar Bongo Ondimba). Un million de passagers est attendu chaque année. Les liaisons vers Libreville facilitent les transferts des\nexperts pétroliers travaillant à la raffinerie SOGARA de Port-Gentil.",
+   "chunk_id": "DOC-e433b793f7be-C0002",
+   "text_hash": "3964771fbeb795dee5efc3aa83348cd336b620b4"
+  },
+  {
+   "section": "",
+   "text": "Grâce à l’allongement de la piste\nd’atterrissage, l'aéroport peut maintenant recevoir des avions long courrier. Il permettra également aux\npétroliers de faire des vols directs Europe – Port-Gentil sans passer par Libreville . Air France devait ouvrir une ligne directe vers Paris mais vu le contexte économique pétrolier, le projet\na été suspendu . Le 18 mars 2025, un an et demi après la destitution du président Ali Bongo, son successeur Brice Oligui\nNguéma rebaptise l'aéroport international jusqu'alors appelé aéroport Ali Bongo Ondimba. Il prend le\nnom de Joseph Rendjambé Issani, un opposant au régime d'Omar Bongo originaire de l'OgoouéMaritime, mort mystérieusement en 1990 . Compagnies\nDestinations\nAfrijet\nLibreville-Léon Mba\nEquaflight\nPointe-Noire A. Neto\nNationale Régionale Transport\nLibreville-Léon Mba, Oyem\n1\n2\n3\n4\n5\n6\nCompagnies et destinations\nVols passagers Tropical Air Gabon\nCharter : Libreville-Léon Mba, Onal\nActualisé le 16/10/2023\nCompagnies\nDestinations\nSafe air\nLibreville-Léon Mba\nNairobi-J. Kenyatta\n1. « Gabon: l'aéroport de Port-Gentil inauguré par le président Ali Bongo - RFI (http://www.rfi.fr/\nafrique/20160618-gabon-aeroport-port-gentil-inaugure-ali-bongo-total) », sur RFI Afrique\n(consulté le 10 février 2019)\n2.",
+   "chunk_id": "DOC-e433b793f7be-C0003",
+   "text_hash": "837f5ffad44b4b3c7edb03fcc8301c4b9558c96a"
+  },
+  {
+   "section": "",
+   "text": "« Inauguration de l’aéroport international de Port-Gentil (http://gabonews.com/fr/actus/comm\nunique/article/inauguration-de-l-aeroport-international-de-port) », sur gabonews.com,\n17 juin 2016\n3. Amadjiguéne Ndoye, « Gabon : l’Aéroport de Port-Gentil enfin réceptionné (https://www.fina\nncialafrik.com/2016/06/17/gabon-laeroport-de-port-gentil-enfin-receptionne/) », sur\nfinancialafrik.com, 17 juin 2016\n4. « Air France lancera deux nouvelles liaisons reliant Paris à Port-Gentil et à Maputo (http://w\nww.gabontribune.com/?Air-France-lancera-deux-nouvelles) », sur gabontribune.com,\n7 novembre 2014\n5. Francis Zablocki, « Air France n’ira pas tout de suite à Port-Gentil (https://airinfo.org/2016/1\n1/27/air-france-pas-tout-de-suite-port-gentil/) », sur airinfo.org, 7 novembre 2016\n6. Sydney Ivembi, « Port-Gentil : Oligui Nguéma rebaptise l’aéroport et annonce la\nréhabilitation de l’hôtel Dowé où Rendjambé est tragiquement décédé (https://gabonactu.co\nm/blog/2025/03/18/port-gentil-oligui-nguema-rebaptise-laeroport-et-annonce-la-constructionde-lhotel-dowe-ou-rendjambe-est-mort-assassine/) », sur Gabonactu.com, 18 mars 2025. Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Aéroport_international_de_PortGentil&oldid=236189531 ». Espace cargo\nNotes et références",
+   "chunk_id": "DOC-e433b793f7be-C0004",
+   "text_hash": "df07734712faeefd40f969756dc4720c51f67e11"
+  }
+ ]
+}

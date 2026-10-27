@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000029",
+  "scientific_name": "Cephalophus callipygus",
+  "normalized_name": "cephalophus_callipygus",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009674",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 9767,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 10787 9767  C04 C04 _ FSC5_C04   FSC5-2019-10-C04 Animal 2019-11-19 2019-11-19 12:04:58 11190772.JPG MAMMALIA ARTIODACTYLA BOVIDAE Ce",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:26.950334+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:27.042782+00:00",
+  "updated_at": "2026-10-14T10:10:27.042810+00:00"
+}

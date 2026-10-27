@@ -1,0 +1,1624 @@
+{
+  "timestamp": "2026-10-14T10:14:59.665137+00:00",
+  "summary": {
+    "total_files_scanned": 107,
+    "new_resources": 105,
+    "already_known_resources": 2,
+    "new_species": 242,
+    "updated_species": 45,
+    "new_facts": 658,
+    "duplicate_facts": 1,
+    "new_observations": 97,
+    "conflicts_count": 65,
+    "total_species": 242,
+    "output_files_added": 242,
+    "output_files_updated": 45,
+    "legal_documents_processed": 21,
+    "legal_documents_total": 21
+  },
+  "conflicts_count": 65,
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0001",
+      "species_id": "SPECIES-000034",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.958693+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0002",
+      "species_id": "SPECIES-000034",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.959566+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0003",
+      "species_id": "SPECIES-000034",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.960162+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0004",
+      "species_id": "SPECIES-000035",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.986843+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0005",
+      "species_id": "SPECIES-000035",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.987946+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0006",
+      "species_id": "SPECIES-000035",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.988637+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0007",
+      "species_id": "SPECIES-000036",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.012631+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0008",
+      "species_id": "SPECIES-000036",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.013803+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0009",
+      "species_id": "SPECIES-000036",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.015047+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0010",
+      "species_id": "SPECIES-000037",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.038508+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0011",
+      "species_id": "SPECIES-000037",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.039473+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0012",
+      "species_id": "SPECIES-000037",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.040187+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0013",
+      "species_id": "SPECIES-000183",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.067089+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0014",
+      "species_id": "SPECIES-000183",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.068019+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0015",
+      "species_id": "SPECIES-000184",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.120190+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0016",
+      "species_id": "SPECIES-000184",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.121538+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0017",
+      "species_id": "SPECIES-000185",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.154041+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0018",
+      "species_id": "SPECIES-000185",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.154718+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0019",
+      "species_id": "SPECIES-000028",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "NT",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.394183+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0020",
+      "species_id": "SPECIES-000028",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "NT",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.395573+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0021",
+      "species_id": "SPECIES-000216",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.446623+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0022",
+      "species_id": "SPECIES-000216",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.455756+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0023",
+      "species_id": "SPECIES-000217",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.496951+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0024",
+      "species_id": "SPECIES-000217",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.506482+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0025",
+      "species_id": "SPECIES-000218",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.554209+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0026",
+      "species_id": "SPECIES-000218",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.558917+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0027",
+      "species_id": "SPECIES-000219",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.604414+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0028",
+      "species_id": "SPECIES-000219",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.611941+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0029",
+      "species_id": "SPECIES-000220",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.653992+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0030",
+      "species_id": "SPECIES-000220",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.658445+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0031",
+      "species_id": "SPECIES-000221",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.697788+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0032",
+      "species_id": "SPECIES-000221",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.705575+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0033",
+      "species_id": "SPECIES-000222",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.745310+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0034",
+      "species_id": "SPECIES-000222",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.749960+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0035",
+      "species_id": "SPECIES-000223",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.794216+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0036",
+      "species_id": "SPECIES-000223",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.802359+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0037",
+      "species_id": "SPECIES-000224",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.846941+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0038",
+      "species_id": "SPECIES-000224",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.853178+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0039",
+      "species_id": "SPECIES-000225",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.897379+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0040",
+      "species_id": "SPECIES-000225",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.901673+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0041",
+      "species_id": "SPECIES-000226",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.947456+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0042",
+      "species_id": "SPECIES-000226",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.951583+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0043",
+      "species_id": "SPECIES-000227",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.989781+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0044",
+      "species_id": "SPECIES-000227",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.997886+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0045",
+      "species_id": "SPECIES-000228",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.037717+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0046",
+      "species_id": "SPECIES-000228",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.046538+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0047",
+      "species_id": "SPECIES-000081",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.114332+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0048",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.118427+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0049",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.119276+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0050",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.120034+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0051",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.120680+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0052",
+      "species_id": "SPECIES-000234",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.219013+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0053",
+      "species_id": "SPECIES-000234",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.228574+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0054",
+      "species_id": "SPECIES-000079",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.273998+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0055",
+      "species_id": "SPECIES-000079",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.282913+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0056",
+      "species_id": "SPECIES-000079",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.283829+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0057",
+      "species_id": "SPECIES-000079",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.284842+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0058",
+      "species_id": "SPECIES-000079",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.285648+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0059",
+      "species_id": "SPECIES-000238",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.354158+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0060",
+      "species_id": "SPECIES-000239",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.370732+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0061",
+      "species_id": "SPECIES-000240",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.386045+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0062",
+      "species_id": "SPECIES-000154",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015",
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.399257+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0063",
+      "species_id": "SPECIES-000241",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.415453+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0064",
+      "species_id": "SPECIES-000242",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.463401+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0065",
+      "species_id": "SPECIES-000242",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.469581+00:00"
+    }
+  ],
+  "review_required_files": []
+}

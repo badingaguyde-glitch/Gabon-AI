@@ -1,0 +1,254 @@
+{
+ "doc_id": "DOC-d1c771bb6d38",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "environnement"
+ ],
+ "classification_confidence": 0.867,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Individual_capture_data.csv"
+ ],
+ "sha256": "d1c771bb6d38388d23dc81ff992509611edadac97a8ad5d78a1dd4a4762a674b",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:30.549493+00:00",
+ "dataset_summary": {
+  "columns": [
+   "Country",
+   "date",
+   "tree_code",
+   "individual_id",
+   "family",
+   "genus",
+   "species",
+   "mass_g",
+   "svl_mm",
+   "mouth_width_mm",
+   "toe_disc_mm",
+   "tibia_mm",
+   "animal_height_m"
+  ],
+  "rows_analyzed": 141,
+  "numeric_stats": {
+   "mass_g": {
+    "min": 0.35,
+    "max": 32.0,
+    "mean": 3.5487,
+    "n": 119
+   },
+   "svl_mm": {
+    "min": 14.0,
+    "max": 74.0,
+    "mean": 31.0202,
+    "n": 119
+   },
+   "mouth_width_mm": {
+    "min": 4.8,
+    "max": 25.0,
+    "mean": 10.5912,
+    "n": 119
+   },
+   "toe_disc_mm": {
+    "min": 0.4,
+    "max": 4.8,
+    "mean": 1.5424,
+    "n": 119
+   },
+   "tibia_mm": {
+    "min": 7.2,
+    "max": 34.7,
+    "mean": 15.9815,
+    "n": 119
+   },
+   "animal_height_m": {
+    "min": 0.0,
+    "max": 31.1,
+    "mean": 4.1607,
+    "n": 141
+   }
+  },
+  "categorical_top_values": {
+   "Country": [
+    [
+     "Gabon",
+     141
+    ]
+   ],
+   "date": [
+    [
+     "17/10/2022",
+     15
+    ],
+    [
+     "28/10/2022",
+     9
+    ],
+    [
+     "11/11/2022",
+     9
+    ],
+    [
+     "04/11/2022",
+     8
+    ],
+    [
+     "10/10/2022",
+     7
+    ],
+    [
+     "23/11/2022",
+     7
+    ],
+    [
+     "08/10/2022",
+     5
+    ],
+    [
+     "12/10/2022",
+     5
+    ]
+   ],
+   "tree_code": [
+    [
+     "G25",
+     14
+    ],
+    [
+     "G38",
+     6
+    ],
+    [
+     "G74",
+     5
+    ],
+    [
+     "G12",
+     4
+    ],
+    [
+     "G18",
+     4
+    ],
+    [
+     "G43",
+     4
+    ],
+    [
+     "G48",
+     4
+    ],
+    [
+     "G50",
+     4
+    ]
+   ],
+   "family": [
+    [
+     "Arthroleptidae",
+     90
+    ],
+    [
+     "Hyperoliidae",
+     33
+    ],
+    [
+     "Bufonidae",
+     8
+    ],
+    [
+     "Phrynobatrachidae",
+     5
+    ],
+    [
+     "Ranidae",
+     3
+    ],
+    [
+     "Ptychadenidae",
+     2
+    ]
+   ],
+   "genus": [
+    [
+     "Leptopelis",
+     47
+    ],
+    [
+     "Arthroleptis",
+     37
+    ],
+    [
+     "Hyperolius",
+     24
+    ],
+    [
+     "Nectophryne",
+     8
+    ],
+    [
+     "Phrynobatrachus",
+     5
+    ],
+    [
+     "Astylosternus",
+     4
+    ],
+    [
+     "Amnirana",
+     3
+    ],
+    [
+     "Afrixalus",
+     3
+    ]
+   ],
+   "species": [
+    [
+     "sylvaticus",
+     30
+    ],
+    [
+     "aubryioides",
+     27
+    ],
+    [
+     "ocellatus",
+     14
+    ],
+    [
+     "platyceps",
+     7
+    ],
+    [
+     "brevirostris",
+     5
+    ],
+    [
+     "africanus",
+     5
+    ],
+    [
+     "afra",
+     4
+    ],
+    [
+     "batesi",
+     4
+    ]
+   ]
+  },
+  "readme": "# Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of temperature and humidity range are included which are the maximum - the minimum values per day."
+ },
+ "kind": "dataset",
+ "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Individual_capture_data.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Data from: Vertical niche usage and trait associations in Gabonese amphibians — Individual_capture_data.csv (Gabon).\nDescription : # Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of\nColonnes (13) : Country, date, tree_code, individual_id, family, genus, species, mass_g, svl_mm, mouth_width_mm, toe_disc_mm, tibia_mm, animal_height_m.\nNombre de lignes analysées : 141.\n- mass_g : min 0.35, max 32.0, moyenne 3.5487 (n=119).\n- svl_mm : min 14.0, max 74.0, moyenne 31.0202 (n=119).\n- mouth_width_mm : min 4.8, max 25.0, moyenne 10.5912 (n=119).\n- toe_disc_mm : min 0.4, max 4.8, moyenne 1.5424 (n=119).\n- tibia_mm : min 7.2, max 34.7, moyenne 15.9815 (n=119).\n- animal_height_m : min 0.0, max 31.1, moyenne 4.1607 (n=141).\n- Country : valeurs principales Gabon (141).\n- date : valeurs principales 17/10/2022 (15), 28/10/2022 (9), 11/11/2022 (9), 04/11/2022 (8), 10/10/2022 (7), 23/11/2022 (7).\n- tree_code : valeurs principales G25 (14), G38 (6), G74 (5), G12 (4), G18 (4), G43 (4).\n- family : valeurs principales Arthroleptidae (90), Hyperoliidae (33), Bufonidae (8), Phrynobatrachidae (5), Ranidae (3), Ptychadenidae (2).\n- genus : valeurs principales Leptopelis (47), Arthroleptis (37), Hyperolius (24), Nectophryne (8), Phrynobatrachus (5), Astylosternus (4).\n- species : valeurs principales sylvaticus (30), aubryioides (27), ocellatus (14), platyceps (7), brevirostris (5), africanus (5).",
+   "chunk_id": "DOC-d1c771bb6d38-C0001",
+   "text_hash": "69ee5d3e168a94bc3ae1a29c390254e6d82bebcb"
+  }
+ ]
+}

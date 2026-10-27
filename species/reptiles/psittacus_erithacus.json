@@ -1,0 +1,138 @@
+{
+  "species_id": "SPECIES-000130",
+  "scientific_name": "Psittacus erithacus",
+  "normalized_name": "psittacus_erithacus",
+  "category": "reptiles",
+  "taxonomy": {
+    "class": "Reptilia",
+    "order": "Psittaciformes",
+    "family": "Psittacidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "African grey parrot",
+      "Grey Parrot",
+      "Grey parrot"
+    ],
+    "fr": [
+      "Jaco",
+      "Perroquet Jaco ; Perroquet Gris",
+      "Perroquet gris",
+      "Perroquet jaco"
+    ]
+  },
+  "iucn_status": "NT",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000350",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.396909+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000351",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Partiellement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Partiellement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.396927+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000352",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Corps, os, œufs, plumes, oiseaux vivants, squelettes, peaux,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Corps, os, œufs, plumes, oiseaux vivants, squelettes, peaux,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.396939+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000353",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "NT",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: NT",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.396947+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.398178+00:00",
+  "updated_at": "2026-10-14T10:10:29.398187+00:00"
+}

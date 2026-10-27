@@ -1,0 +1,53 @@
+{
+ "doc_id": "DOC-915d9286d33f",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "infrastructures_transport",
+  "culture_tourisme",
+  "securite"
+ ],
+ "classification_confidence": 0.503,
+ "language": "fr",
+ "source_files": [
+  "Aéroport_international_Léon-Mba.pdf"
+ ],
+ "sha256": "915d9286d33f46096258f90d3347b51ca78e803c6d873463966750bf6c79ce21",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:30.371747+00:00",
+ "kind": "text",
+ "title": "Aéroport international Léon-Mba — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Aéroport international LéonMba\nSalle d'attente à l'aéroport international\nLéon-Mba. Localisation\nPays\nGabon\nVille\nLibreville\nCoordonnées\n0° 27′ 28″ nord,\n9° 24′ 43″ est\nAltitude\n12 m (39 ft)\nInformations aéronautiques\nCode IATA\nLBV\nCode OACI\nFOOL\nType\nd'aéroport\nCommercial\nGestionnaire\nAéroport de Libreville\n(ADL)\nSite web\naéroport\nSite officiel (http://www.libr\neville-aeroport.com/)\nPistes\nDirection\nLongueur\nSurface\n16/34\n3 000 m\n(9 843 ft)\nBéton\nbitumineux\nAéroport international Léon-Mba\nL'aéroport international Léon-Mba est le principal aéroport du Gabon. Situé dans\nla partie nord de la capitale Libreville, sa piste est orientée parallèlement et située à\nquelques centaines de mètres au nord-est de l’estuaire du Gabon et de la côte du golfe\nde Guinée. Son emprise est aujourd’hui entourée par l’urbanisation. Il assure aussi\nbien une desserte internationale que des vols intérieurs. Libreville, capitale du Gabon, dispose d’un aéroport international depuis les années\ncinquante. Des aménagements successifs lui ont permis d’accueillir au fil de\nl’évolution tous les types d’avions. L’adaptation aux très gros porteurs (type 747) date\nde la fin des années soixante. Des équipements de navigation aérienne et\nd’atterrissage aux instruments, conformes aux spécifications internationales,\npermettent l’accès de l’aéroport par tous les temps.",
+   "chunk_id": "DOC-915d9286d33f-C0001",
+   "text_hash": "12aaea7a399f8acaf5d4765e534c315bd5aba432"
+  },
+  {
+   "section": "",
+   "text": "Il doit sa dénomination au premier Président de la République Gabonaise\n(17 août 1961 – 28 novembre 1967). L’aérogare sous sa forme actuelle date de 1991. Avec ses 16 000 m2, elle peut\naccueillir jusqu’à 1,2 million de passagers par an. Deux passerelles télescopiques\npermettent un accès direct de l’aérogare aux avions. Une aérogare fret de 10 000 m2\npermet de traiter jusqu’à 40 000 tonnes de fret par an. Jusqu’en 1988, l’aéroport est géré par l’ASECNA (Agence pour la sécurité de la\nnavigation aérienne en Afrique et à Madagascar). Depuis cette date l’État gabonais a\nconcédé la gestion commerciale de l’aéroport pour 30 ans à ADL, société anonyme de\ndroit gabonais. Cette concession, accordée par décret, fixe les missions du\nconcessionnaire : exploitation, entretien, renouvellement et développement des\ninfrastructures. Un cahier des charges précise les conditions dans lesquelles s’exerce\ncette délégation de service public. Les missions de navigation aérienne et de sécurité\nGéolocalisation sur la carte : Gabon\nHistorique incendie restent du domaine de l’ASECNA. Les missions de sécurité publique et de sûreté restent du domaine de l’État gabonais :\npolice aux frontières, Gendarmerie, Haute Autorité de Sûreté et de Facilitation.",
+   "chunk_id": "DOC-915d9286d33f-C0002",
+   "text_hash": "27e9a8fb61d56196aec8f57947ace2223b7401f6"
+  },
+  {
+   "section": "",
+   "text": "Voir la requête brute et les sources sur Wikidata (https://query.wikidata.org/embed.html#%23%20Scroll%20down%20and%20hit%20blue%20arrow%20down%\n20to%20run%20and%20see%20the%20results%20%2B%20the%20sources%0ASELECT%20%3Fyear%20%3Fitem%20%3Fshortname%20%28MAX%28%3\nFnumber%29%20AS%20%3Fpassengers%29%20%20%28SAMPLE%28COALESCE%28%3Freference_URL%2C%20%3Fmonthly_reference_URL2%29%2\n9%20AS%20%3Fsample_reference_URL%29%0AWITH%0A%7B%20%20SELECT%20%3Fitem%20%3Fstatement%20%3Fdate%20%3Fyear%20%3Ftime\nvalue%20%3Fnumberperperiod%20%3Freference_URL%0A%20%20WHERE%20%20%20%7B%0A%20%20%20%20%3Fitem%20wdt%3AP238%20%3Fai\nrport_code%0A%20%20%20%20VALUES%20%3Fairport_code%0A%20%20%20%20%7B%20%22LBV%22%20%20%20%20%7D%0A%20%20%20%2\n0%3Fitem%20p%3AP3872%20%3Fstatement.%0A%20%20%20%20%3Fstatement%20pqv%3AP585%20%3Ftimevalue%3B%20ps%3AP3872%20%3Fnumb\nerperperiod.%0A%20%20%20%20%3Ftimevalue%20wikibase%3AtimeValue%20%3Fdate.%0A%20%20%20%20OPTIONAL%20%7B%20%3Fstatement%2\n0pq%3AP518%20%3Fapplies.%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Fstatement%20prov%3AwasDerivedFrom%20%2F%20%28pr%3\nAP854%7Cpr%3AP4656%29%20%3Freference_URL.%20%7D%0A%20%20%20%20FILTER%20%28BOUND%28%3Fapplies%29%3Dfalse%20%7C%7\nC%20%3Fapplies%20%3D%20wd%3AQ2165236%29%0A%20%20%20%20MINUS%20%7B%20%3Fstatement%20wikibase%3Arank%20wikibase%3ADe\nprecatedRank%20%7D%0A%20%20%20%20BIND%20%28YEAR%28%3Fdate%29%20AS%20%3Fyear%29%0A%20%20%20%20FILTER%20%28%3Fye\nar%20%3E1949%29.%20FILTER%20%28%3Fyear%20%3C%20YEAR%28NOW%28%29%29%29%0A%20%20%7D%0A%7D%20AS%20%25airport%0A\nWHERE%0A%7B%20%20%7B%20%20%20%20%23%20Get%20the%20sum%20of%20monthly%20values%20within%20a%20year%0A%20%20%20%20\nSELECT%20%3Fitem%20%3Fyear%20%28SUM%28%3Fmax_numberperperiod%29%20AS%20%3Fnumber%29%20%28SAMPLE%28%3Fmonthly_refere\nnce_URL%29%20AS%20%3Fmonthly_reference_URL2%29%0A%20%20%20%20WHERE%0A%20%20%20%20%7B%20%20%20%20%20%20%23%20\nGet%20the%20maximal%20value%20and%20a%20sample%20reference%20URL%20for%20each%20unique%20month%0A%20%20%20%20%20%20%7\nB%20%20%20%20%20%20%20%20SELECT%20%3Fitem%20%3Fyear%20%28MAX%28%3Fnumberperperiod%29%20AS%20%3Fmax_numberperperio\nd%29%20%28SAMPLE%28%3Freference_URL%29%20AS%20%3Fmonthly_reference_URL%29%0A%20%20%20%20%20%20%20%20WHERE%0A%2\n0%20%20%20%20%20%20%20%7B%20%20%20%20%20%20%20%20%20%20INCLUDE%20%25airport%0A%20%20%20%20%20%20%20%20%20%2\n0%3Ftimevalue%20wikibase%3AtimePrecision%20%3Fprecmonth.%0A%20%20%20%20%20%20%20%20%20%20FILTER%20%28%3Fprecm%20%20%3\nD10%29%23%20precision%20%3D%20month%0A%20%20%20%20%20%20%20%20%7D%20%20%20%20%20%20%20%20%20GROUP%20BY%20%3\nFitem%20%3Fyear%20%3Fdate%20%20%20%20%20%20%7D%20%20%20%20%7D%20%20%20%20GROUP%20BY%20%3Fitem%20%3Fyear%20%2\n0%7D%0A%20%20UNION%0A%20%20%7B%0A%20%20%20%20%3Ftimevalue%20wikibase%3AtimePrecision%20%3Fprecyear.%0A%20%20%20%2\n0%20%20%20%20%20%20FILTER%20%28%3Fprecyear%20%20%3D9%29%23%20precision%20%3D%20year%0A%20%20%20%20BIND%20%28%3Fn\numberperperiod%20AS%20%3Fnumber%29%0A%20%20%20%20BIND%20%28%3Freference_URL%20AS%20%3Fsample_reference_URL%29%0A%2\n0%20%20%20INCLUDE%20%25airport%0A%20%20%20%7D%0A%20%20OPTIONAL%20%7B%3Fitem%20wdt%3AP1813%20%3Fthis.%20%20%20%\n20%20%20%20%20%20%20%20%20%23%20has%20shortname%0A%20%20%20%20FILTER%28LANG%28%3Fthis%29%3D%22fr%22%29%20%20%7\nPrincipaux aéroports gabonais\nFranceville\nKoulamoutou\nLibreville\nMakokou\nMouila\nOyem\nPort-Gentil\nTchibanga\nStatistiques\nLe graphique qui aurait dû être présenté ici ne peut pas être affiché car il utilise l'ancienne\nextension Graph, désactivée pour des questions de sécurité.",
+   "chunk_id": "DOC-915d9286d33f-C0003",
+   "text_hash": "cce207daa6aa07e70c082a026a14a4b7c6abe6c7"
+  },
+  {
+   "section": "",
+   "text": "Des indications pour créer un\nnouveau graphique avec la nouvelle extension Chart sont disponibles ici. D%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cf\nr%2Cen%22.%20%3Fitem%20rdfs%3Alabel%20%3FitemLabel.%7D%0ABIND%28COALESCE%28%3Fthis%2C%3FitemLabel%29%20as%20%3Fshortna\nme%29%0A%7D%20GROUP%20BY%20%3Fitem%20%3Fshortname%20%3Fyear%20ORDER%20BY%20%3Fitem%20DESC%20%28%3Fyear%29). Compagnies\nDestinations\nAir Algérie\nAlger-Houari-Boumédiène\nAfriJet\nBangui,\nBrazzaville,\nCotonou,\nDouala,\nFranceville,\nPointe-Noire A. Neto,\nPort-Gentil,\nSão Tomé,\nYaoundéNsimalen\nAir Côte d'Ivoire\nAbidjan-F.-H.-Boigny, Brazzaville, Cotonou, Pointe-Noire A. Neto\nAir France\nParis-Charles de Gaulle\nAir Senegal\nCotonou, Dakar-B. Diagne, Douala\nASKY Airlines\nDouala,\nJohannesbourg OR\nTambo,\nKinshasa-N'djili,\nLomé-G. Eyadéma,\nSão Tomé,\nYaoundé-Nsimalen\nCamair-Co\nDouala\nEthiopian Airlines\nAddis-Abeba Bole, Malabo\nMauritania Airlines\nBamako-M. Keïta\nNationale Régionale Transport\nFranceville,\nKoulamoutou,\nMakokou,\nMouila (en),\nOyem,\nPort-Gentil,\nTchibanga (en)\nRoyal Air Maroc\nCasablanca-Mohammed-V\nRwandair\nBrazzaville, Cotonou , Douala , Kigali, Yaoundé-Nsimalen\nTrans Air Congo\nDouala, Pointe-Noire A. Neto\nTurkish Airlines\nIstanbul , Luanda-Quatro de Fevereiro, Pointe-Noire A.",
+   "chunk_id": "DOC-915d9286d33f-C0004",
+   "text_hash": "f37cab18ebc92ec19597e719fe96eff7f0d2fc84"
+  },
+  {
+   "section": "",
+   "text": "Neto\nActualisé le 07/07/2026\nCompagnies\nDestinations\nCargolux\nLuxembourg, Brazzaville\nDHL Aviation\nAbidjan, Franceville-Mvengue, Port-Gentil\nRoyal Air Maroc Cargo\nAddis-Abeba, Casablanca\nSky Gabon\nDouala, Malabo, Pointe-noire, Port-Gentil\n1. « Air Algérie lance sa ligne vers Libreville et vise l’Afrique (https://www.tsa-algerie.com/air-algerie-lance-sa-ligne-vers-li\nbreville-et-vise-lafrique/) », sur tsa-algerie.com (consulté le 7 juillet 2026)\n2. June 2016 Timetable, http://www.flyasky.com/asky/horaires/lbv\n3. UBM (UK) Ltd. 2017, « Rwandair network adjustment from Sep 2016 (http://www.routesonline.com/news/38/airlinerout\ne/268379/rwandair-network-adjustment-from-sep-2016/) » (consulté le 30 mai 2017)\nCompagnies aériennes et destinations\nPassagers\n1\n2\n3\n3\n4\n5\nCargo\nNotes et références\n\n4. « Our New Flights: Libreville (http://www.turkishairlines.com/en-int/corporate/news/17319/our-new-flights-libreville) »,\nTurkish Airlines, 21 janvier 2013 (consulté le 21 janvier 2013)\n5. Édité le 20/10/2018 Actualisé le 18/09/2021\nSite officiel (https://www.libreville-aeroport.com)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Aéroport_international_Léon-Mba&oldid=237645099 ».\nLiens externes",
+   "chunk_id": "DOC-915d9286d33f-C0005",
+   "text_hash": "f19b36f399c6b666d35ffc0ad2a4a3c09037b57f"
+  }
+ ]
+}

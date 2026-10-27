@@ -1,0 +1,432 @@
+{
+  "species_id": "SPECIES-000081",
+  "scientific_name": "Hippopotamus amphibius",
+  "normalized_name": "hippopotamus_amphibius",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Hippopotamidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Common Hippopotamus",
+      "Common hippopotamus",
+      "Hippopotamus"
+    ],
+    "fr": [
+      "Hippopotame"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000186",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 22,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.837300+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000187",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Intégralement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 22,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Intégralement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.837311+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000188",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Animaux vivants, viande, os, oreilles, organes sexuels, queues,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 22,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Animaux vivants, viande, os, oreilles, organes sexuels, queues,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.837316+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000189",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 22,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.837320+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "morphology": {
+      "length": {
+        "fact_id": "FACT-001009",
+        "category": "morphology",
+        "predicate": "length",
+        "value": {
+          "min": 106.0,
+          "max": 106.0,
+          "unit": "cm",
+          "original": "106 cm"
+        },
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Les mâles peuvent atteindre une longueur de 106 cm sans la",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.088508+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "weight": {
+        "fact_id": "FACT-001010",
+        "category": "morphology",
+        "predicate": "weight",
+        "value": {
+          "min": 20.0,
+          "max": 20.0,
+          "unit": "kg",
+          "original": "20 kg"
+        },
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "queue pour un poids maximal de 20 kg",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.088543+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "habitat": {
+      "type": {
+        "fact_id": "FACT-001012",
+        "category": "habitat",
+        "predicate": "type",
+        "value": "savanna",
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "sèches de la savane",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.088963+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "diet": {
+      "type": {
+        "fact_id": "FACT-001014",
+        "category": "diet",
+        "predicate": "type",
+        "value": [
+          "carnivore"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "carnivores",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.089437+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "food_items": {
+        "fact_id": "FACT-001015",
+        "category": "diet",
+        "predicate": "food_items",
+        "value": [
+          "herbe"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Comme la plupart des félins, le caracal peut ingérer de l'herbe mais il mange aussi du raisin",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.089485+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "population": {
+      "estimate": {
+        "fact_id": "FACT-001016",
+        "category": "population",
+        "predicate": "estimate",
+        "value": 800,
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "La ration journalière de viande nécessaire à un caracal est estimée à 800 g",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.089544+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {
+          "year": null,
+          "location": null
+        }
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015",
+    "SRC-000189"
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0047",
+      "species_id": "SPECIES-000081",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.114332+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0048",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.118427+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0049",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.119276+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0050",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.120034+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0051",
+      "species_id": "SPECIES-000081",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.120680+00:00"
+    }
+  ],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:28.837987+00:00",
+  "updated_at": "2026-10-14T10:14:06.121490+00:00"
+}

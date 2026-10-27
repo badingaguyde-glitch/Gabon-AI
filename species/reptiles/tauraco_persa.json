@@ -1,0 +1,108 @@
+{
+  "species_id": "SPECIES-000132",
+  "scientific_name": "Tauraco persa",
+  "normalized_name": "tauraco_persa",
+  "category": "reptiles",
+  "taxonomy": {
+    "class": "Reptilia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Guinea Turaco"
+    ],
+    "fr": [
+      "Touraco Vert"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000357",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.418835+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000358",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Oiseaux vivants, corps, spécimens, trophées",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Oiseaux vivants, corps, spécimens, trophées",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.418847+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000359",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 30,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.418853+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.419603+00:00",
+  "updated_at": "2026-10-14T10:10:29.419607+00:00"
+}

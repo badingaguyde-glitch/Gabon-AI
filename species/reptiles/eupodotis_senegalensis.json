@@ -1,0 +1,108 @@
+{
+  "species_id": "SPECIES-000124",
+  "scientific_name": "Eupodotis senegalensis",
+  "normalized_name": "eupodotis_senegalensis",
+  "category": "reptiles",
+  "taxonomy": {
+    "class": "Reptilia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "White-bellied Bustard"
+    ],
+    "fr": [
+      "Outarde du Sénégal"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000332",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 29,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.333845+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000333",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Oiseaux vivants, corps, peaux, spécimens, trophées, squelettes",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 29,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Oiseaux vivants, corps, peaux, spécimens, trophées, squelettes",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.333859+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000334",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 29,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.333865+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.334607+00:00",
+  "updated_at": "2026-10-14T10:10:29.334610+00:00"
+}

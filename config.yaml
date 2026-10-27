@@ -1,0 +1,74 @@
+# ==============================================================================
+# Configuration Générale du Pipeline de Données - Bitirme Projesi (Vize v1.0)
+# Domaine : Biodiversité, Droit Environnemental & Connaissances Nationales du Gabon
+# ==============================================================================
+
+project:
+  name: "Gabon-Domain-LLM-Corpus"
+  domain: "Gabon Biodiversity, Environmental Law, Demographics & National Knowledge"
+  version: "1.0.0"
+  random_seed: 42
+  primary_language: "fr"
+  secondary_languages: ["en"]
+
+paths:
+  raw_dir: "data"
+  extracted_dir: "data/extracted"
+  cleaned_dir: "data/cleaned"
+  final_dir: "data/final"
+  reports_dir: "reports"
+  sources_csv: "data/sources.csv"
+  metadata_dir: "metadata"
+  train_file: "data/final/train.jsonl"
+  validation_file: "data/final/validation.jsonl"
+  test_file: "data/final/test.jsonl"
+  instruction_file: "data/final/instruction_v1.0.jsonl"
+
+preprocessing:
+  extraction:
+    pdf_tool: "pymupdf"
+    html_tool: "trafilatura"
+    ocr_tool: "tesseract"
+    ocr_languages: ["fra", "eng"]
+  cleaning:
+    unicode_normalization: "NFKC"
+    min_line_length: 20
+    normalize_whitespace: true
+    remove_repeated_headers_threshold: 5
+  filtering:
+    min_document_characters: 150
+    max_corrupt_character_ratio: 0.10
+    allowed_languages: ["fr", "en"]
+  deduplication:
+    exact_hash_algorithm: "sha256"
+    near_duplicate_method: "minhash_jaccard"
+    jaccard_similarity_threshold: 0.85
+    num_perm: 128
+  splitting:
+    strategy: "document_level"
+    train_ratio: 0.90
+    validation_ratio: 0.05
+    test_ratio: 0.05
+    random_seed: 42
+
+tokenizer:
+  model_family: "Qwen/Qwen2.5-7B"
+  alternative_model: "google/gemma-2-9b"
+  vocab_size: 152064
+  chars_per_token_approx: 3.8
+
+instruction_dataset:
+  target_size_min: 3000
+  target_size_max: 5000
+  taxonomy:
+    - definition_concept
+    - profil_biodiversite
+    - taxonomie_espece
+    - analyse_article_loi
+    - attribution_juridique
+    - valeur_indicateur
+    - analyse_tendance
+    - situation_recente
+    - explication_synthese
+    - methodologie_enquete
+    - bilgi_yetersizligi

@@ -1,0 +1,593 @@
+{
+  "doc_id": "LAW-0015",
+  "law_number": "Loi N° 5/86 du 17",
+  "title": "JOURNAL OFFICIEL N°14 ET 15 DU 30 JUIN 1986",
+  "doc_type": "loi",
+  "date_enacted": null,
+  "ministry_or_authority": null,
+  "summary": "Document juridique comportant 61 articles identifiés.",
+  "total_articles": 61,
+  "articles": [
+    {
+      "article_number": "Article 2",
+      "title": null,
+      "content": "- Les dispositions de la présente loi s'appliquent, sous réserve de conventions internationales conclues en la matière, aux personnes de nationalité étrangère et aux apatrides pénétrant sur le territoire national :\r\n\r\n- soit en qualité de visiteurs temporaires,\r\n\r\n- soit pour y résider.",
+      "topic": "park_governance",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 3",
+      "title": null,
+      "content": "- Est considéré comme étranger tout individu de nationalité autre que gabonaise ou de nationalité inconnue pénétrant sur le territoire national.\r\n\r\nCHAPITRE II\r\nDes visiteurs temporaires",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 4",
+      "title": null,
+      "content": "- Les visiteurs temporaires sont les étrangers ou apatrides admis sur le territoire national pour un séjour d'une durée limitée à trois mois.\r\n\r\nCette catégorie comporte cinq classes :\r\n\r\n1°/ les visiteurs proprement dits ;\r\n\r\n2°/ les touristes ;\r\n\r\n3°/ les travailleurs temporaires ;\r\n\r\n4°/ les hommes d'affaires ;\r\n\r\n5°/ les propriétaires, rentiers ou pensionnés.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 5",
+      "title": null,
+      "content": "- Les visiteurs proprement dits sont les personnes qui viennent au Gabon pour leur agrément, mais qui sont hébergées par un particulier :\r\n\r\n- un membre de leur famille,\r\n\r\n- une personne de connaissance.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 6",
+      "title": null,
+      "content": "- Les touristes sont les personnes qui viennent au Gabon pour leur agrément, mais séjournent dans un établissement hôtelier ou assimilé.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 7",
+      "title": null,
+      "content": "- Les travailleurs temporaires en mission au Gabon sont les personnes qui viennent au Gabon dans le cadre de leurs activités professionnelles.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 8",
+      "title": null,
+      "content": "- Les hommes d'affaires sont les personnes dont l'activité professionnelle est tournée vers les affaires à caractère économique ou financier.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 9",
+      "title": null,
+      "content": "- Les propriétaires, rentiers ou pensionnés sont les personnes qui possèdent à titre personnel des biens immobiliers et qui viennent périodiquement les visiter et s'occuper de leur gestion ou sont titulaires d'un titre de rente ou de pension servi par un organisme officiel gabonais.\r\n\r\nCHAPITRE III\r\nDes résidents",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 10",
+      "title": null,
+      "content": "- Sont considérés comme résidents les étrangers et les apatrides qui sont admis à pénétrer sur le territoire national pour y résider pour une durée de séjour de plus de trois mois.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 11",
+      "title": null,
+      "content": "- La catégorie des résidents comporte cinq classes :\r\n\r\n1° / les résidents proprement dits ;\r\n\r\n2°/ les contractuels ;\r\n\r\n3°/ les travailleurs indépendants ;\r\n\r\n4°/ les propriétaires, rentiers ou pensionnés ;\r\n\r\n5°/ les membres de la famille du résident.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 12",
+      "title": null,
+      "content": "- Les résidents proprement dits sont les personnes déjà en possession d'une carte de séjour en cours de validité.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 13",
+      "title": null,
+      "content": "- Les contractuels sont :\r\n\r\n- les salariés du secteur privé ;\r\n\r\n- les contractuels du secteur public ;\r\n\r\n- les personnels de l'assistance technique.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 14",
+      "title": null,
+      "content": "- Les travailleurs indépendants sont les personnes exerçant, à titre individuel, une profession libérale, commerciale ou industrielle.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 15",
+      "title": null,
+      "content": "- Les propriétaires, rentiers ou pensionnés sont les personnes qui possèdent à titre personnel des biens immobiliers ou sont titulaires d'un titre de rente ou de pension servi par un organisme officiel gabonais.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 16",
+      "title": null,
+      "content": "- Les membres de la famille du résident sont le conjoint et les enfants rejoignant ce dernier.\r\n\r\nTITRE II\r\nDES CONDITIONS D'ENTREE\r\n\r\nCHAPITRE I\r\nDe l'admission des visiteurs temporaires\r\n\r\nSection I.- Visiteurs temporaires ressortissants des Etats non soumis à visa",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 17",
+      "title": null,
+      "content": "- Le visiteur proprement dit pénétrant sur le territoire national est tenu de présenter lors de son passage à la frontière :\r\n\r\n- un passeport en cours de validité ;\r\n\r\n- un titre de transport aller et retour ou circulaire nominatif, non cessible à un tiers et non négociable ;\r\n\r\n- une autorisation d'entrée.\r\n\r\nSont également soumis à ces conditions d'entrée, les ministres du culte et les membres des congrégations agréées, en mission.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 18",
+      "title": null,
+      "content": "- Le touriste est dispensé de l'autorisation d'entrée, mais doit justifier de moyens de subsistance suffisants pour la durée du séjour déclarée, ainsi que de la réservation d'une chambre dans un établissement hôtelier ou assimilé.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 19",
+      "title": null,
+      "content": "- L'homme d'affaires est dispensé de l'autorisation d'entrée, mais doit justifier de sa qualité et ou énumérer, par tout moyen écrit, les contacts qu'il doit prendre durant son séjour.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 20",
+      "title": null,
+      "content": "- Les visiteurs, les touristes, les hommes d'affaires ne sont pas autorisés à occuper un emploi salarié au Gabon pendant la durée du séjour qui leur est accordé. Des cachets le spécifiant expressément sont opposés sur leur passeport à leur passage à la frontière.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 21",
+      "title": null,
+      "content": "- Le travailleur temporaire, en mission au Gabon, sera tenu de présenter une autorisation d'emploi temporaire, ainsi qu'une autorisation d'entrée.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 22",
+      "title": null,
+      "content": "- Les propriétaires, rentiers ou pensionnés doivent, pour entrer au Gabon, présenter un titre de propriété en cours de validité ou un document administratif attestant de leur rente ou de leur pension.\r\n\r\nIls sont dispensés de l'autorisation d'entrée.\r\n\r\nSection II. - Visiteurs temporaires ressortissants des Etats soumis à visa",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 23",
+      "title": null,
+      "content": "- Les ressortissants des Etats n'ayant pas conclu un accord avec le Gabon en matière d'immigration doivent, pour entrer sur le terrritoire national, être munis d'un visa et d'un titre de transport aller et retour ou circulaire, nominatif, non cessible à un tiers et non négociable.\r\n\r\nLes visas d'entrée sont délivrés par les Représentations diplomatiques ou les Postes consulaires de la République gabonaise à l'étranger, après avis de l'autorité compétente.\r\n\r\nLa durée de ces visas peut être prorogée, sur place, par les services habilités.\r\n\r\nCHAPITRE II\r\nDe l'admission des résidents\r\n\r\nSection I.- Résidents ressortissants des Etats non soumis à visa",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 24",
+      "title": null,
+      "content": "- Le résident proprement dit, qui revient au Gabon après sa sortie du territoire national, est tenu de présenter à l'entrée une autorisation de sortie et retour et une carte de séjour en cours de validité.\r\n\r\nL'autorisation de sortie et retour cesse de produire ses effets à la date d'expiration du délai de validité de la carte de séjour, à moins qu'il soit apporté la preuve que les documents ayant servi à la délivrance de ladite carte sont encore valables ou ont été renouvelés.\r\n\r\nLe résident proprement dit, qui vit en dehors du Gabon sans interruption pendant plus de six mois, perd le bénéfice des effets attachés à la validité de la carte de séjour et de l'autorisation de sortie et retour.\r\n\r\nDans ce cas, son entrée au Gabon est soumise aux conditions exigées des visiteurs proprement dits, telles que prévues à l'article 17 ci-dessus.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 25",
+      "title": null,
+      "content": "- Pour entrer au Gabon, les étrangers salariés du secteur privé doivent présenter les documents suivants :\r\n\r\n- un passeport en cours de validité ;\r\n\r\n- une autorisation individuelle d'emploi ;\r\n\r\n- une autorisation d'entrée ;\r\n\r\n- un engagement de rapatriement ou, à défaut, un billet retour transformable en caution ;\r\n\r\n- un engagement d'hébergement signé de l'employeur et visé du ministère compétent.\r\n\r\nS'agissant des contractuels du secteur public ou des personnels de l'assistance technique, leurs formalités d'entrée sont limitées à la présentation d'un passeport en cours de validité et à la production, pour les premiers d'une décision d'engagement, et pour les seconds, d'une décision d'affectation.\r\n\r\nLes ministres du culte et les membres des congrégations agréées, désignés pour servir au Gabon, doivent présenter à leur entrée sur le territoire, un passeport en cours de validité et une autorisation d'entrée.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 26",
+      "title": null,
+      "content": "- Pour entrer au Gabon, les travailleurs indépendants doivent présenter , outre le passeport en cours de validité et un engagement de rapatriement ou, à défaut, un billet retour transformable en caution, un agrément du Ministère du Commerce.\r\n\r\nLes travailleurs indépendants autres que les commerçants, dont l'activité professionnelle dépend d'un autre département ministériel, doivent présenter une autorisation de ce ministère.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 27",
+      "title": null,
+      "content": "- Pour entrer au Gabon, les propriétaires, rentiers ou pensionnés doivent présenter, outre un passeport en cours de validité et un engagement de rapatriement ou, à défaut, un billet retour transformable en caution, un titre de propriété en cours de validité ou un document administratif attestant de leur rente ou de leur pension.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 28",
+      "title": null,
+      "content": "- Les membres de la famille du résident accompagnant ce dernier qui a satisfait aux conditions prévues à l'un ou l'autre des articles 25 à 27 ci-dessus, sont admis à entrer au Gabon sur présentation d'un passeport en cours de validité, d'un engagement de rapatriement ou, à défaut, d'un billet retour transformable en caution, et des documents d'état-civil justificatifs.\r\n\r\nPour les membres d'une famille de contractuel du secteur public ou du personnel de l'assistance technique, leurs formalités d'entrée sont limitées à la présentation d'un passeport en cours de validité et des documents d'état-civil justificatifs.\r\n\r\nLe conjoint et les enfants de plus de seize ans, rejoignant le chef de famille installé au Gabon, doivent présenter, outre un passeport en cours de validité et, éventuellement un engagement de rapatriement ou, à défaut, un billet retour transformable en caution, une autorisation d'entrée.\r\n\r\nLes enfants mineurs de moins de seize ans rejoignant leurs parents établis au Gabon, peuvent entrer sur présentation d'un passeport en cours de validité et des documents d'état-civil justificatifs.\r\n\r\nSection II- Résidents ressortissants des Etats soumis à visas",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 29",
+      "title": null,
+      "content": "- Outre les documents cités aux articles 25 à 28 ci-dessus, les ressortissants des Etats n'ayant pas signé un accord avec le Gabon en matière de circulation des personnes doivent, pour entrer sur le territoire national, avoir obtenu un visa d'entrée auprès des Représentations diplomatiques ou consulaires de la République gabonaise à l'étranger.\r\n\r\nIls sont dispensés, de ce fait, de la présentation de l'autorisation d'entrée.\r\n\r\nCHAPITRE III\r\nDe l'admission des diplomates, des experts internationaux et des étrangers frontaliers",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 30",
+      "title": null,
+      "content": "- L'entrée des diplomates étrangers venant en mission ou accrédités au Gabon et de leur famille est subordonnée à la présentation d'un passeport diplomatique ou de service.\r\n\r\nCeux dont les pays sont soumis à la formalité du visa devront obtenir, au préalable, un visa diplomatique auprès des Représentations diplomatiques ou des Postes consulaires de la République gabonaise.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 31",
+      "title": null,
+      "content": "- L'entrée des experts internationaux et des fonctionnaires en mission est subordonnée à la présentation d'un passeport en cours de validité ou de tout document en tenant lieu.\r\n\r\nCe passeport sera obligatoirement assorti d'un ordre de mission ou d'un document accréditif ainsi que d'un titre de transport aller et retour ou circulaire, non cessible à un tiers.\r\n\r\nLes experts internationaux et les fonctionnaires en mission, originaires des pays n'ayant pas conclu d'accord avec le Gabon en matière de circulation des personnes, devront obtenir, au préalable, un visa d'entrée auprès des Représentations diplomatiques ou des Postes consulaires de la République gabonaise à l'étranger.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 32",
+      "title": null,
+      "content": "- Les conditions d'entrée et de séjour des étrangers frontaliers font l'object de mesures à caractère réglementaire.\r\n\r\nCHAPITRE IV\r\nDe l'autorisation d'entrée",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 33",
+      "title": null,
+      "content": "- Les conditions dans lesquelles sont délivrées les autorisations d'entrée prévues par les articles 17, 21, 25 et 28, ci-dessus sont définies par décret.\r\n\r\nCHAPITRE V\r\nDes mesures sanitaires",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 34",
+      "title": null,
+      "content": "- Toute personne en provenance d'un pays étranger est tenue de se soumettre au contrôle sanitaire en application des mesures prévues par le règlement sanitaire international et par les lois et règlements nationaux en matière de protection contre les maladies quarantenaires.\r\n\r\nTITRE III\r\nDES CONDITIONS DE SEJOUR\r\n\r\nCHAPITRE I\r\n\r\nDe la carte de séjour",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 35",
+      "title": null,
+      "content": "- Tout étranger, àgé de plus de seize ans, entré régulièrement sur le territoire national et autorisé à y résider doit, dans un délai d'un mois, sous peine de refoulement, se présenter aux autorités compétentes pour solliciter une carte de séjour de résident étranger, dans les conditions prévues par décret.\r\n\r\nCes dispositions ne s'appliquent pas à l'étranger admis à titre de visiteur temporaire.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": [
+        {
+          "raw": "peine de refoulement, se présenter aux autorités compétentes pour solliciter une carte de séjour de résident étranger, dans"
+        }
+      ]
+    },
+    {
+      "article_number": "Article 36",
+      "title": null,
+      "content": "- Doivent solliciter la délivrance d'une carte de séjour de résident étranger :\r\n\r\n- les étrangers tels que définis à l'article 11, ci-dessus ;\r\n\r\n- leS ministres du culte et les membreS des congrégations agréées ;\r\n\r\n- les étrangers mariés à une personne de nationalité gabonaise, ne justifiant pas de l'acquisition de cette nationalité.\r\n\r\nLe bénéfice de la délivrance de la carte de séjour de résident étranger au chef de famille s'étend de plein droit à son conjoint et aux enfants légitimes ou reconnus.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 37",
+      "title": null,
+      "content": "- La délivrance de la carte de séjour de résident étranger donne lieu à la perception de droits dont le montant et les modalités de recouvrement sont fixés par décret.\r\n\r\nToutefois, sont exonérés des droits de carte de séjour, les contractuels du secteur public, les personnels de l'assistance technique, les personnes chargées de missions officielles, les ministres du culte et les membres des congrégations agréées, ainsi que les membres de leur famille.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 38",
+      "title": null,
+      "content": "- La carte de séjour de résident étranger doit être présentée à toute réquisition des autorités compétentes.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 39",
+      "title": null,
+      "content": "- Les formalités de renouvellement de la carte de séjour de résident étranger doivent s'effectuer dans le mois qui suit son expiration. Ces formalités donnent également lieu à la perception des droits dans les conditions prévues par décret.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 40",
+      "title": null,
+      "content": "- La sanction administrative de refoulement pourra être prononcée si la demande de renouvellement de la carte de séjour de résident étranger n'a pas été effectuée dans le délai de six mois suivant sa date d'expiration, ou si elle a été refusée.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 41",
+      "title": null,
+      "content": "- Le titulaire d'une carte de séjour de résident étranger ne peut faire l'objet d'une mesure d'expulsion que par arrêté du Ministre compétent.\r\n\r\nCHAPITRE II\r\nDe l'emploi",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 42",
+      "title": null,
+      "content": "- Les ressortissants étrangers ne peuvent occuper un emploi au Gabon que s'ils ont satisfait aux conditions requises en matière d'immigration prévues par les dispositions du Titre II de la présente loi.\r\n\r\nSans préjudice des dispositions du Code du Travail, les étrangers salariés doivent être munis d'une autorisation individuelle d'emploi et ne peuvent exercer une autre profession que celle pour laquelle l'autorisation d'emploi a été délivrée.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 43",
+      "title": null,
+      "content": "- Tout travailleur étranger qui se trouve en infraction avec les dispositions qui précèdent peut être refoulé sans préjudice des poursuites judiciaires qui pourraient être exercées à son encontre.\r\n\r\nLa résiliation anticipée du contrat de travail entraîne l'invalidation de tous les documents de séjour et le rapatriement du titulaire sur son pays d'origine, dans un délai qui ne saurait excéder deux mois.\r\n\r\nToutefois, si pendant ce même délai l'étranger obtient un emploi dans la catégorie de sa profession, il est soumis, après son rapatriement préalable, aux mêmes conditions d'admission et de séjour sur le territoire national que pour le contrat précédent.\r\n\r\nCes dispositions ne s'appliquent pas si l'étranger devient contractuel de l'Etat ou des Collectivités locales.\r\n\r\nCHAPITRE III\r\nDe la circulation",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 44",
+      "title": null,
+      "content": "- La circulation des étrangers immigrants ou non sur le territoire de la République Gabonaise n'est soumise à aucune restriction si les intéressés ont satisfait aux conditions d'entrée et de séjour.\r\n\r\nNéanmoins, en cas de changement définitif de domicile, tout étranger est tenu de le signaler aux autorités compétentes au moment de son départ et sous huitaine à l'arrivée à son nouveau lieu de séjour.\r\n\r\nDans le cadre des règles régissant la sécurité publique ou la protection de certains intérêts économiques, la circulation des étrangers peut être réglementée par mesure collective ou individuelle et le séjour dans certains lieux peut leur être interdit.\r\n\r\nCes mesures sont décidées par l'autorité compétente.\r\n\r\nTITRE IV\r\nDU CAUTIONNEMENT",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 45",
+      "title": null,
+      "content": "- Les étrangers âgés de plus de seize ans dont le rapatriement n'est pas garanti par l'Etat gabonais ou, en vertu d'accords bilatéraux, par un autre Gouvernement, sont tenus de verser un cautionnement en vue de leur rapatriement sur leur pays d'origine.\r\n\r\nLe versement du cautionnement s'effectue au moment du dépôt de la demande de la carte de séjour de résident étranger",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 46",
+      "title": null,
+      "content": "- Les conditions de versement, de retrait et de remboursement du cautionnement sont déterminées par décret.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 47",
+      "title": null,
+      "content": "- L'ensemble des sommes perçues, soit au titre des droits de délivrance ou de renouvellement de la carte de séjour de résident étranger, soit au titre des pénalités afférentes ou du cautionnement sont reversées au Trésor Public.\r\n\r\nTITRE V\r\nDES CONDITIONS DE SORTIE\r\n\r\nCHAPITRE I Dispositions générales",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 48",
+      "title": null,
+      "content": "- Tout étranger est tenu de quitter le territoire national à l'expiration du délai de séjour accordé.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 49",
+      "title": null,
+      "content": "- Le résident étranger est soumis à la délivrance d'une autorisation de sortie lorsqu'il quitte le territoire national, exception faite des membres de missions officielles dépêchées auprès du Gouvernement gabonais, à charge pour eux de faire la preuve de leur mission.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 50",
+      "title": null,
+      "content": "- Les autorisations de sortie sont classées en trois catégories :\r\n\r\n- l'autorité de sortie simple (A.S.S.)\r\n\r\n- l'autorisation de sortie et retour (A.S.R.)\r\n\r\n- l'autorisation permanente de sortie et retour (A.P.S.R.)\r\n\r\nLa délivrance de ces autorisations donne lieu à la perception de droits dont le montant et les modalités de recouvrement sont fixés par décret.\r\n\r\nTITRE VI\r\nDU REFOULEMENT ET DE L'EXPULSION\r\n\r\nCHAPITRE: I\r\nDu refoulement",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 51",
+      "title": null,
+      "content": "- Le refoulement est la mesure administrative prise à l'encontre de tout étranger qui se présente à l'entrée sur le territoire national sans avoir rempli les conditions d'admission prévues par la présente loi, ou qui y séjourne dans les conditions définies à l'article 52, ci-après.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 52",
+      "title": null,
+      "content": "- L'acte de refoulement est pris à la frontière par tout agent chargé du contrôle à l'entrée sur le territoire national.\r\n\r\nL'étranger qui est entré irrégulièrement au Gabon, ou qui n'a pas quitté le territoire national à l'expiration du délai de séjour qui lui a été accordé, ou à qui la carte de séjour a été refusée, peut être refoulé par l'autorité chargée du contrôle de l'immigration, sans préjudice de poursuites judiciaires.\r\n\r\nCHAPITRE II\r\nDe l'expulsion",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 53",
+      "title": null,
+      "content": "- L'expulsion est la mesure administrative prise à l'encontre d'un étranger résident dont la présence est jugée indésirable sur le territoire national.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 54",
+      "title": null,
+      "content": "- Sera expulsé l'étranger dont la présence sur le territoire constitue une menace pour le maintien de l'ordre public, pour la protection de la santé, de la moralité, de la sécurité publique, pour tout autre motif laissé à l'appréciation de l'autorité compétente, ou à la suite de l'exécution d'une peine privative de liberté supérieure à un mois.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": [
+        {
+          "raw": "peine privative de liberté supérieure à un mois"
+        }
+      ]
+    },
+    {
+      "article_number": "Article 55",
+      "title": null,
+      "content": "- L'étranger qui a fait l'objet d'un arrêté d'expulsion et qui est dans l'impossibilité de quitter le territoire, sera astreint par arrêté conjoint des autorités compétentes 0 résider dans un lieu déterminé, dans les conditions qui seront définies par décret.\r\n\r\nTITRE VII\r\nDES DISPOSITIONS PENALES",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 56",
+      "title": null,
+      "content": "- Sera refoulé et passible d'une amende de 250.000 à 500.000 francs, tout étranger qui n'aura pas quitté le territoire national à l'expiration du délai de séjour accordé.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 57",
+      "title": null,
+      "content": "- Sera puni d'une amende de 180.000 à 1.000.000 de francs et d'un emprisonnement de six mois à un an, ou de l'une de ces deux peines seulement, l'étranger qui est entré sur le territoire national sans se conformer aux prescriptions du Titre II de la présente loi. Toutefois le simple défaut de présentation de la carte de séjour de résident étranger sera puni d'une amende de 2.000 francs au moins et de 24.000 francs au plus.\r\n\r\nLa peine sera doublée pour les personnes entrées en fraude, soit en faisant de fausses déclarations pour obtenir les documents nécessaires, soit en utilisant de faux documents. Il en sera de même pour ceux qui auront prêté aide et assistance à une entrée frauduleuse sur le territoire national.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": [
+        {
+          "raw": "emprisonnement de six mois à un an, ou de l'une de ces deux peines seulement, l'étranger qui est entré sur le territoire national sans"
+        },
+        {
+          "raw": "peine sera doublée pour les personnes entrées en fraude, soit en faisant de fausses déclarations pour obtenir les documents nécessaires, soit en utilisan"
+        }
+      ]
+    },
+    {
+      "article_number": "Article 58",
+      "title": null,
+      "content": "- Sera punie d'une amende dont le maximum sera de 1.200.000 francs toute personne qui emploie un étranger non muni d'une autorisation individuelle d'emploi ou dans une catégorie professionnelle autre que celle pour laquelle l'autorisation a été accordée.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 59",
+      "title": null,
+      "content": "- Sera punie d'un emprisonnement de six mois à trois ans, toute personne qui, sans excuse valable, n'aura pas quitté le territoire national à la suite d'un arrêté d'expulsion régulièrement pris et notifié.",
+      "topic": "penalties_sanctions",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": [
+        {
+          "raw": "punie d'un emprisonnement de six mois à trois ans, toute personne qui, sans"
+        }
+      ]
+    },
+    {
+      "article_number": "Article 60",
+      "title": null,
+      "content": "- Des décrets seront pris, en tant que de besoin, pour l'application des dispositions de la présente loi.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 61",
+      "title": null,
+      "content": "- Sont abrogées toutes dispositions antérieures contraires à la présente loi, et notamment :\r\n\r\n- la loi N° 34/62 du 10 décembre 1962, réglementant l'admission et le séjour des étrangers au Gabon, modifiée par les ordonnances N° 13/71 du 3 mars 1971 et N° 54/76 du 2 décembre 1976 ;\r\n\r\n- l'ordonnance N° 42bis/74 du 1er avril 1974, portant abrogation du décret N° 289/PR du 17 décembre 1962 réglementant les modalités de la délivrance de la carte de séjour et l'ordonnance N° 22/70 du 3 avril 1970, portant création d'une taxe pour sa délivrance.",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    },
+    {
+      "article_number": "Article 62",
+      "title": null,
+      "content": "- La présente loi sera enregistrée, publiée selon la procédure d'urgence et exécutée comme loi de l'Etat.\r\n\r\nFait à Libreville, le 18 juin 1986\r\n\r\nPar le Président de la République,\r\nChef de l'Etat,\r\n\r\nEl Hadj Omar BONGO\r\n\r\nLe Premier Ministre Chef du Gouvernement,\r\n\r\nLéon MEBIAME\r\n\r\nP. Le Ministre d'Etat, Ministre de l'Administration du Territoire et des Collectivités Locales et P.O.\r\n\r\nLe Ministre Délégué\r\n\r\nAntoine MBOUMBOU MIYAKOU\r\n\r\nLe Ministre de l'Immigration et des Calamités Naturelles\r\n\r\nGénéral Barthélemy MBIA\r\n\r\nLe Ministre chargé de la Défense Nationale et des Anciens Combattants, chargé de la Sécurité Publique\r\n\r\nJulien MPOUHO-EPIGAT",
+      "topic": "general",
+      "mentioned_species": [],
+      "mentioned_parks": [],
+      "penalties": []
+    }
+  ],
+  "protected_species_lists": {
+    "integral": [],
+    "partial": []
+  },
+  "general_sanctions": [
+    "Article 35: peine de refoulement, se présenter aux autorités compétentes pour solliciter une carte de séjour de résident étranger, dans",
+    "Article 54: peine privative de liberté supérieure à un mois",
+    "Article 57: emprisonnement de six mois à un an, ou de l'une de ces deux peines seulement, l'étranger qui est entré sur le territoire national sans",
+    "Article 57: peine sera doublée pour les personnes entrées en fraude, soit en faisant de fausses déclarations pour obtenir les documents nécessaires, soit en utilisan",
+    "Article 59: punie d'un emprisonnement de six mois à trois ans, toute personne qui, sans"
+  ],
+  "source_id": "SRC-000069",
+  "created_at": "2026-10-14T10:11:15.027889+00:00"
+}

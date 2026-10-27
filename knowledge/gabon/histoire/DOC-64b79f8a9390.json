@@ -1,0 +1,31 @@
+{
+ "doc_id": "DOC-64b79f8a9390",
+ "country": "Gabon",
+ "category": "histoire",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.692,
+ "language": "fr",
+ "source_files": [
+  "Armoiries_du_Gabon.pdf"
+ ],
+ "sha256": "64b79f8a9390291ecff7a7e2922b857d04512302953ef6eca6bd39d62c3722d1",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:22.035547+00:00",
+ "kind": "text",
+ "title": "Armoiries du Gabon — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Armoiries du Gabon\nDétails\nAdoption 1963\nÉcu\nD'or, à la nef de sable équipée\ndu même, au pavillon du Gabon,\ntiercé en fasce de sinople, d'or\net d'azur, naviguant sur une mer\nd'azur ; au chef de sinople,\nchargé de trois besants d'or. Supports Deux panthères noires. Soutiens Un okoumé d'or. Devise\nUnion - Travail - Justice\nCri\nUniti progrediemur\nUsage\nPrésidence de la République\nGouvernement\nArmoiries du Gabon\nLes armoiries du Gabon furent dessinées par l'héraldiste\net vexilologue suisse Louis Mühlemann, un des membres\nfondateurs\nde\nla\nFédération\ninternationale\ndes\nassociations\nvexillologiques\n(FIAV)\net\négalement\ndessinateur des armoiries de la république du Congo. D'or, à la nef de sable équipée du même, au pavillon du\nGabon, tiercé en fasce de sinople, d'or et d'azur,\nnaviguant sur une mer d'azur ; au chef de sinople, chargé\nde trois besants d'or. Les émaux représentent la forêt équatoriale (sinople), le\nsoleil (or) et l'océan (azur). Les besans d'or montrent\nl'abondance minérale du pays. La nef (navire) représente\nle Gabon qui part en direction d'un avenir meilleur. L'écu est tenu par deux panthères noires. Elles\nsymbolisent la vigilance et la valeur du président qui\nprotège la nation. Il est posé sur un okoumé (arbre utilisé\nnotamment dans la production du contreplaqué, l'une des\npremières\nressources\ndu\nGabon)\nsymbolisant\nle\ncommerce du bois.",
+   "chunk_id": "DOC-64b79f8a9390-C0001",
+   "text_hash": "1ee1c59152ed100ee538c13f685df898017b895e"
+  },
+  {
+   "section": "",
+   "text": "Un listel en pointe porte la devise officielle du pays, en\ncapitales d'or sur champ d'azur : « Union - Travail -\nJustice ». Le cri, placé en chef, en capitales de sable, est :\n« Uniti progrediemur » (en latin : « Unis, nous allons de\nl'avant »). Jean-Christophe Blanchard, « Drapeaux et armoiries des pays issus de la décolonisation\nde l'Afrique équatoriale française et de l'Afrique occidentale française. Un marqueur\nNotes et références\nBibliographie\n\nd'indépendance ? », HAL-UL (CRULH),‎ 2019 (lire en ligne (https://hal.univ-lorraine.fr/hal-0277852\n4), consulté le 12 septembre 2023).\nNotice dans un dictionnaire ou une encyclopédie généraliste : Store norske leksikon (htt\nps://snl.no/Gabons_flagg_og_v%C3%A5pen)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Armoiries_du_Gabon&oldid=229586235 ».\nLiens externes",
+   "chunk_id": "DOC-64b79f8a9390-C0002",
+   "text_hash": "95c31c4ad85778e76b1a43f4d36e42a3f4d14e68"
+  }
+ ]
+}

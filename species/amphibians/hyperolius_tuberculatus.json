@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000208",
+  "scientific_name": "Hyperolius tuberculatus",
+  "normalized_name": "hyperolius_tuberculatus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Hyperoliidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009835",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 52,
+        "extracted_text_snippet": "Table row: Gabon 21/10/2022 G29 G0213 Hyperoliidae Hyperolius tuberculatus 4 35 11.4 2 16.9 2.9",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.938056+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009902",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 59,
+        "extracted_text_snippet": "Table row: Hyperolius tuberculatus Hyperolius ARAQ 1.3609765531356006 0.0863821585173751 0.3254538003125327 0.171209497385668 0.5421442021173599 0.13472717793525",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:31.952596+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.938231+00:00",
+  "updated_at": "2026-10-14T10:10:31.953660+00:00"
+}

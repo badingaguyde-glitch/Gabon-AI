@@ -1,0 +1,35 @@
+{
+ "doc_id": "DOC-d1efb9ec2284",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "administration",
+  "infrastructures_transport",
+  "culture_tourisme"
+ ],
+ "classification_confidence": 0.506,
+ "language": "fr",
+ "source_files": [
+  "Booué.pdf"
+ ],
+ "sha256": "d1efb9ec228465cc52f02c22dc4e9e9f8122e3d5cc1fe935082dfa922c855d8c",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:43.389350+00:00",
+ "kind": "text",
+ "title": "Booué — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Booué\nBooué, mars 1878, peu avant la fondation\nde la ville\nAdministration\nPays\nGabon\nProvince\nOgooué-Ivindo\nDépartement\nLopé\nGéographie\nCoordonnées 0° 05′ 33″ sud,\n11° 56′ 53″ est\nLocalisation\nBooué\nBooué est une petite ville du Gabon, située sur l'Ogooué,\ndans la province de l'Ogooué-Ivindo ; elle est chef-lieu\ndu département de la Lopé.\nFondé en 1883 par Pierre Savorgnan de Brazza, le poste\nde Booué déclina d'une part quand il perdit son statut de\nchef-lieu de province au profit de Makokou, en 1958, et,\nd'autre part, quand le fleuve Ogooué perdit son rôle de\nvoie de communication avec le développement du réseau\nroutier puis du chemin de fer. La présence d'une gare du\nTransgabonais à Booué, depuis 1983, a redonné un peu\nde vitalité à la ville.\nBooué possède un aéroport (code AITA : BGB).\nGéolocalisation sur la carte : Gabon\nBooué\nGéolocalisation sur la carte : Gabon\nBibliographie",
+   "chunk_id": "DOC-d1efb9ec2284-C0001",
+   "text_hash": "69e5afa4f2424b4babe79e59b6d9ac798affe25a"
+  },
+  {
+   "section": "",
+   "text": "(en) Maria Petringa, Brazza, A Life for Africa, Bloomington (IN, USA), AuthorHouse, 2006,\n256 p. (ISBN 978-1-4259-1198-0)\nSamuel Mendou Nguema, L'impact du chemin de fer transgabonais sur l'aménagement et\nles modifications de l'environnement de Booue (Gabon), Université Montpellier 3, 1988,\n144 p. — Thèse de 3e cycle de géographie\nMylène Rémy, « Booué », dans Le Gabon aujourd'hui, Paris, Éd. du Jaguar\n(réimpr. 2005) (ISBN 978-2-86950-395-3), p. 140-141\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Booué&oldid=201421764 ».\nBooué\nSur les autres projets Wikimedia :\nBooué (https://commons.wikimedia.org/wi\nki/Category:Boou%C3%A9?uselang=fr),\nsur Wikimedia Commons",
+   "chunk_id": "DOC-d1efb9ec2284-C0002",
+   "text_hash": "d0811e83e3baffbc8b338fec9afbadbe2bdb5745"
+  }
+ ]
+}

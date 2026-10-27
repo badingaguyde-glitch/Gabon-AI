@@ -1,0 +1,110 @@
+{
+  "species_id": "SPECIES-000111",
+  "scientific_name": "Stephanoaetus coronatus",
+  "normalized_name": "stephanoaetus_coronatus",
+  "category": "birds",
+  "taxonomy": {
+    "class": "Aves",
+    "order": "Accipitriformes",
+    "family": "Accipitridae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Crowned Hawk-Eagle",
+      "Crowned eagle"
+    ],
+    "fr": [
+      "Aigle Couronné",
+      "Aigle couronné"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000292",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 27,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.183623+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000293",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Corps, œufs, plumes, articles en cuir, oiseaux vivants, sque-",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 27,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Corps, œufs, plumes, articles en cuir, oiseaux vivants, sque-",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.183647+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000294",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 27,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.183656+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.184799+00:00",
+  "updated_at": "2026-10-14T10:10:29.184808+00:00"
+}

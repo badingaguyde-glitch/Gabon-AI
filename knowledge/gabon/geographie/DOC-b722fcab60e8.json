@@ -1,0 +1,40 @@
+{
+ "doc_id": "DOC-b722fcab60e8",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "administration",
+  "droit"
+ ],
+ "classification_confidence": 0.644,
+ "language": "fr",
+ "source_files": [
+  "Archidiocèse_de_Libreville.pdf"
+ ],
+ "sha256": "b722fcab60e8630dadb7c3d00efc5ab477ba59d9aadb94c9e049c94d7f13b227",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:21.897282+00:00",
+ "kind": "text",
+ "title": "Archidiocèse de Libreville — Wikipédia",
+ "chunks": [
+  {
+   "section": "Population",
+   "text": "Population\ncatholique\n596 580 fidèles (2023)\nL'archidiocèse composé des\ndeux provinces d'Estuaire et\nMoyen-Ogooué.\nArchidiocèse de Libreville\nL’archidiocèse de Libreville (en latin : Archidioecesis\nLiberopolitana) est une juridiction de l'Église catholique\nau\nGabon.\nSiège\nmétropolitain\nde\nla\nprovince\necclésiastique de Libreville, son ordinaire actuel est JeanPatrick Iba-Ba, depuis le 12 mars 2020.\nL'archidiocèse comprend les provinces gabonaises\nd'Estuaire et de Moyen-Ogooué.\nLa cathédrale Notre-Dame-de-l'Assomption est l'église\ndu siège archiépiscopal situé à Libreville\nLe territoire s'étendant sur 39 275 km2 est divisé en 37\nparoisses.\nLa préfecture apostolique des Deux Guinées et\nSénégambie (appelée également préfecture apostolique\nde Guinée Supérieure et Inférieure et de Sierra Leone) est\ncréée le 22 janvier 1842, par détachement du diocèse de\nFunchal (au Portugal).\nTerritoire\nHistorique Pourcentage de\ncatholiques\n59,8 %\nNombre de\nparoisses\n37\nNombre de prêtres\n110\nNombre de diacres\n2\nNombre de\nreligieux\n146\nNombre de\nreligieuses\n113\n.html (en) Notice sur www.catholic-hierarchy.org\n(http://www.catholic-hierarchy.org/diocese/d\nlibr)\nElle est érigée en vicariat apostolique en 1846.",
+   "chunk_id": "DOC-b722fcab60e8-C0001",
+   "text_hash": "af6ac8862d60378086c39b7ebe2cce423dc42174"
+  },
+  {
+   "section": "Population",
+   "text": "Ce dernier change de dénomination le 6 février 1863\npour devenir le vicariat apostolique des Deux Guinées, à\nla suite d'une scission qui entraîne par ailleurs la création\ndu vicariat apostolique de Sénégambie. Il change à nouveau de dénomination le 18 mars 1890\npour devenir le vicariat apostolique du Gabon, puis\nencore une fois le 10 juillet 1947 pour devenir le vicariat\napostolique de Libreville. Il est érigé en diocèse le 14 septembre 1955 par la\nconstitution apostolique Dum tantis du pape Pie XII ,\npuis élevé en archidiocèse de Libreville (Archidioecesis\nLiberopolitanus) le 11 décembre 1958 par la constitution apostolique Supremi illius muneris du pape Jean\nXXIII\n. En février 1982, le diocèse reçoit la visite du pape Jean-Paul II . 1. (la) [PDF] Constitution apostolique Dum tantis (https://www.vatican.va/archive/aas/document\ns/AAS-48-1956-ocr.pdf), Acta Apostolicae Sedis 48 (1956), p. 113\n2. (la) Constitution apostolique Supremi illius muneris (https://www.vatican.va/holy_father/john\n_xxiii/apost_constitutions/1958/documents/hf_j-xxiii_apc_19581211_liberopolitana_lt.html),\nsur le site du Saint-Siège. 3. Archidiocèse de Libreville (https://journallechemin.com/archidiocese-de-libreville/), Le\nChemin, mensuel catholique gabonais d'informations générales. 4.",
+   "chunk_id": "DOC-b722fcab60e8-C0002",
+   "text_hash": "7c222d80ea6e7d0723e64e4e3837846d153697bc"
+  },
+  {
+   "section": "Population",
+   "text": "Henri Fresquet, « Pour la dernière étape de son voyage en Afrique Jean-Paul II se rend au\nGabon et en Guinée-Équatoriale (https://www.lemonde.fr/archives/article/1982/02/19/pour-laderniere-etape-de-son-voyage-en-afrique-jean-paul-ii-se-rend-au-gabon-et-en-guinee-equat\noriale_3104782_1819218.html) », sur Le Monde, 19 février 1982 (consulté le 28 mai 2025). Cathédrale Notre-Dame-de-l'Assomption de Libreville\n1\n2, 3\n4\nArchevêques\nNotes et références\nAnnexes\nArticles liés\n\nListe des cathédrales du Gabon\nSite officiel (https://archidiocesedelibreville.wordpress.com/)\nRessources relatives à la religion : Catholic Hierarchy (https://www.catholic-hierarchy.or\ng/diocese/dlibr.html) · GCatholic.org (https://www.gcatholic.org/dioceses/diocese/libr0.htm)\nCe document provient de « https://fr.wikipedia.org/w/index.php?\ntitle=Archidiocèse_de_Libreville&oldid=235565205 ».\nLiens externes",
+   "chunk_id": "DOC-b722fcab60e8-C0003",
+   "text_hash": "b11cb55910e7c470e5c67f88f1b8af11e7a9716f"
+  }
+ ]
+}

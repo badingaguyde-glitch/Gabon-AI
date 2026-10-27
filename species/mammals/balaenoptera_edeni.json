@@ -1,0 +1,108 @@
+{
+  "species_id": "SPECIES-000057",
+  "scientific_name": "Balaenoptera edeni",
+  "normalized_name": "balaenoptera_edeni",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Bryde's Whale"
+    ],
+    "fr": [
+      "Rorqual de Bryde"
+    ]
+  },
+  "iucn_status": "DD",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000105",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe I",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 19,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe I",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.505398+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000106",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Corps, os, sque- lettes, viande, peaux, spécimens, crânes,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 19,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Corps, os, sque- lettes, viande, peaux, spécimens, crânes,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.505409+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000107",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "DD",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 19,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: DD",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.505415+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:28.506112+00:00",
+  "updated_at": "2026-10-14T10:10:28.506117+00:00"
+}

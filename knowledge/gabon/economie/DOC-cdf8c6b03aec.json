@@ -1,0 +1,33 @@
+{
+ "doc_id": "DOC-cdf8c6b03aec",
+ "country": "Gabon",
+ "category": "economie",
+ "subcategory": null,
+ "secondary_categories": [
+  "geographie"
+ ],
+ "classification_confidence": 0.546,
+ "language": "fr",
+ "source_files": [
+  "Bélinga.pdf"
+ ],
+ "sha256": "cdf8c6b03aec9792fd82eafcf65a37351156d38de6c737bb94680ff407da534b",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:50.814536+00:00",
+ "kind": "text",
+ "title": "Bélinga — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Bélinga\nPrésentation\nType\nGisement de minerai\nLocalisation\nLocalisation\nOgooué-Ivindo\nGabon\nCoordonnées\n1° 05′ 20″ N, 13° 11′ 59″ E\nBélinga\nBélinga est un vaste gisement de minerai de fer du\nGabon, situé dans la province de l'Ogooué-Ivindo\nparticulièrement dans le district de M'vady (le nom\nBè'pbiél en kwelé signifie fer [réf. souhaitée]).\nCe gisement s'étend au Cameroun et à la\nRépublique du Congo voisins\n.\nCe gisement, découvert en 1895 , recèle une\nréserve d'un milliard de tonnes .\nSon exploitation devrait commencer à la mi-2023\nou en 2024.\nAfin de permettre l'évacuation des produits, un\nembranchement\ndu\ntransgabonais\nrejoignant\nBooué à Bélinga devrait être construit en parallèle\ndu démarrage de l'exploitation .\n1. « Gabon : Sundance lorgne le fer de\nBelinga », Jeune Afrique,‎ 21 février 2014\n(lire en ligne (http://economie.jeuneafrique.\ncom/regions/afrique-subsaharienne/21456sundance-lorgne-belinga-eco.html))\n2. (en) « Belinga, Ogooué-Ivindo Province,\nGabon (http://www.mindat.org/loc-195924.\nhtml) », sur mindat.org (consulté le\n3 avril 2015)\n3. Thierry Vircoulon, « Matières premières,\nrégulation internationale et États rentiers »,\nÉtudes, t. 410, n 5,‎ 2009, p. 593-604 (lire\nen ligne (http://www.cairn.info/revue-etude\ns-2009-5-page-593.htm))\n1, 2\n2\n3\n4\n5\nNotes et références\no",
+   "chunk_id": "DOC-cdf8c6b03aec-C0001",
+   "text_hash": "159dbb8ad2c28f91861779721f4bccaf2bd470b8"
+  },
+  {
+   "section": "",
+   "text": "4. (en-US) Tom Parker, « Belinga iron ore mine to start second half of 2023 (https://www.australi\nanresourcesandinvestment.com.au/2023/02/08/belinga-iron-ore-mine-to-start-second-half-of2023/) », sur Australian Resources & Investment, 8 février 2023 (consulté le\n10 décembre 2023)\n5. « Croissance à l’horizon pour le secteur minier gabonais (http://www.oxfordbusinessgroup.co\nm/news/croissance-%C3%A0-l%E2%80%99horizon-pour-le-secteur-minier-gabonais) »,\nOxford Business Group, 18 mars 2014 (consulté le 3 avril 2015)\nCraton du Congo\nÉconomie du Gabon\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Bélinga&oldid=223837891 ».\nVoir aussi",
+   "chunk_id": "DOC-cdf8c6b03aec-C0002",
+   "text_hash": "24957afd7f51812c2678ef278bd75c0a34cbe3e1"
+  }
+ ]
+}

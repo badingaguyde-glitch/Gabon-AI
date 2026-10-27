@@ -1,0 +1,1925 @@
+{
+ "doc_id": "DOC-779f10015602",
+ "country": "Gabon",
+ "category": "droit",
+ "subcategory": "constitution",
+ "secondary_categories": [
+  "administration"
+ ],
+ "classification_confidence": 0.55,
+ "language": "fr",
+ "source_files": [
+  "Droit\\Codes\\Décret N° 0094PRMBCP du 08022016 portant Règlement Général sur la Comptabilité Publique.txt"
+ ],
+ "sha256": "779f100156027454e4d0b39b0f3a9f5873ab30a9d8ee07e27a6c13ddeb514adb",
+ "format": "text",
+ "processed_at": "2026-10-14T10:11:00.907574+00:00",
+ "kind": "legal_text",
+ "title": "loi n°07/94 du 16 septembre 1994 portant organisation de la justice, ensemble les textes modificatifs subséquents ;",
+ "chunks": [
+  {
+   "article": "Préambule / Dispositions introductives",
+   "context": "",
+   "text": "LE PRESIDENT DE LA REPUBLIQUE,\r\n\r\nCHEF DE L’ETAT ;\r\n\r\nVu la Constitution ;\r\n\r\nVu la directive n°02/11-UEAC-190-CM-22 du 19 décembre 2011 relative au Règlement Général sur la Comptabilité Publique de l'Etat ;\r\n\r\nVu la loi organique n°020/2014 du 21 mai 2015 relative aux lois de finances et à l'exécution du budget ;\r\n\r\nVu la loi organique n°001/2014 du 15 juin 2015 relative à la décentralisation ;\r\n\r\nVu la loi n°07/94 du 16 septembre 1994 portant organisation de la justice, ensemble les textes modificatifs subséquents ;\r\n\r\nVu la loi n°11/94 du 17 septembre 1994 fixant l'organisation, la composition, les compétences, le fonctionnement et les règles de procédures de la Cour des Comptes ;\r\n\r\nVu la loi n°020/2005 du 03 janvier 2006 fixant les règles de création, d'organisation et de gestion des services de l'Etat, ensemble-les textes modificatifs subséquents ;\r\n\r\nVu la loi n°14/2005 du 08 août 2005 portant Code de Déontologie de la Fonction Publique ;\r\n\r\nVu le décret n°00993-PR du 12 septembre 1972 portant régime financier et comptable des collectivités secondaires ;\r\n\r\nVu le décret n°15/PR/MINECOFIN du 6 janvier 1976 portant règlement général sur la comptabilité publique ;\r\n\r\nVu le décret n°627/PR/MINECOFIN du 22 mai 1980 habilitant les services du trésor à prêter leur concours pour le recouvrement des créances liquidées au profit de certains organismes publics ou paraétatiques ;\r\n\r\nVu le décret n°1908/PR/MFB/PART du 17 décembre 1987 fixant le cautionnement des comptables de deniers publics et déterminant leur régime de rémunération ;\r\n\r\nVu le décret n°00152/PR/MEFBP du 3 février 2006 portant attributions et organisation de la Direction Générale des Douanes et Droits Indirects ;\r\n\r\nVu le décret n°00122/PR/MECIT du 28 février 2012 portant attributions et réorganisation de la Direction Générale des Impôts ;\r\n\r\nVu le décret n°280/PR/MBCP du 22 août 2014 portant création et organisation de la Direction Générale de la Comptabilité Publique et du Trésor ;\r\n\r\nVu le décret n°0653/PR/MBCPFPRE du 13 avril 2011 relatif à la responsabilité des ordonnateurs et des comptables publics ;\r\n\r\nVu le décret n°0058/PR/MBCP du 16 janvier 2015 portant création et organisation de la Direction Générale du Budget et des Finances Publiques ;\r\n\r\nVu le décret n°1264/PR/MBCPFPRE du 20 octobre 2011 portant attributions et organisation du Conseil Supérieur de la Comptabilité ;\r\n\r\nVu le décret n°1403/PR/MBCPFPRE du 06 décembre 2011 fixant la nomenclature des pièces justificatives des opérations de recettes et de dépenses publiques ;\r\n\r\nVu le décret n°0692/PR/MBCPFPRE du 14 octobre 2010 portant attributions et organisation du Ministère du Budget, des Comptes Publics et de la Fonction Publique, ensemble les textes modificatifs subséquents ;\r\n\r\nVu le décret n°193/PR/MBCPFP du 22 mai 2012 portant création et organisation des fonctions de responsable de programme, responsable de budget opérationnel de programme et de responsable d'unité opérationnelle ;\r\n\r\nVu le décret n°0254/MEEDD du 19 juin 2012 portant Code des Marchés Publics ;\r\n\r\nVu le décret n°0033/PR du 24 janvier 2014 portant nomination du Premier Ministre, Chef du Gouvernement ;\r\n\r\nVu le décret n°0487/PR du 11 septembre 2015 fixant la composition du Gouvernement de la République, ensemble les textes modificatifs subséquents ;\r\n\r\n\r\n\r\nLe Conseil d'Etat consulté ;\r\n\r\nLe Conseil des Ministres entendu ;\r\n\r\nD E C R E T E : \r\n\r\nTitre Ier: De l'objet et du champ d'application",
+   "chunk_id": "DOC-779f10015602-C0001",
+   "text_hash": "757203bb75a4ee939a6d8de7b59067113d853f94"
+  },
+  {
+   "article": "Article 1er",
+   "context": "",
+   "text": "Le présent décret fixe les principes fondamentaux de la comptabilité publique de l'Etat, des collectivités locales, des établissements publics, des administrations jouissant de l'autonomie de gestion, et des institutions constitutionnelles, ci-après désignés « entités publiques ».\r\n\r\nIl détermine les conditions dans lesquelles sont effectuées les opérations financières et comptables résultant de l'exécution :\r\n\r\n-du budget général de l'Etat et des comptes spéciaux du Trésor ;\r\n\r\n-des budgets des collectivités locales et des établissements locaux qui leur sont rattachés ;\r\n\r\n-des budgets des établissements publics nationaux et des administrations jouissant de l'autonomie de gestion ;\r\n\r\n-des budgets des institutions constitutionnelles.\r\n\r\nCes opérations concernent les recettes, les dépenses, les emprunts, la trésorerie et le patrimoine. Elles sont retracées dans des comptabilités établies selon des normes générales et soumises au contrôle des autorités qualifiées.",
+   "chunk_id": "DOC-779f10015602-C0002",
+   "text_hash": "f0335f60931e77dc0a140a7d326df183b9ba65c3"
+  },
+  {
+   "article": "Article 2",
+   "context": "",
+   "text": "L'application des dispositions du présent décret à une entité intégrant son champ d'application se fait au plus tard à compter de l'exercice comptable suivant cette intégration.",
+   "chunk_id": "DOC-779f10015602-C0003",
+   "text_hash": "a150b53ea4d511546dd73c12858138f1addce2a3"
+  },
+  {
+   "article": "Article 3",
+   "context": "",
+   "text": "En cas de nécessité d'intégration, pour quelque cause que ce soit, des règles du présent décret, cette intégration se fait au plus tard, à compter de l'exercice suivant.\r\n\r\nEn cas de sortie de ce champ d'application, le présent décret cesse de recevoir application à l'issue du deuxième exercice suivant cette sortie, sauf disposition législative ou statutaire contraire.",
+   "chunk_id": "DOC-779f10015602-C0004",
+   "text_hash": "149288d8c02833bc1928dc54eac2512fbfbcb2cf"
+  },
+  {
+   "article": "Article 4",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Le budget est l'acte législatif par lequel sont prévues et autorisées les recettes et les dépenses des entités publiques. Il est élaboré, arrêté, voté et exécuté conformément aux dispositions des textes en vigueur.\r\n\r\nLes comptes qui retracent les opérations budgétaires, de trésorerie et de financement sont arrêtés, approuvés et vérifiés dans les mêmes conditions.",
+   "chunk_id": "DOC-779f10015602-C0005",
+   "text_hash": "badf136e6b5f96197fbbc5985cd8cf26e85b51d3"
+  },
+  {
+   "article": "Article 5",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les opérations financières et comptables résultant de l'exécution des budgets sont respectivement assurées par les ordonnateurs, les comptables publics et les contrôleurs budgétaires.",
+   "chunk_id": "DOC-779f10015602-C0006",
+   "text_hash": "9159f4fcc9f6d74e4160f1b7a9bd06e0b05ecd29"
+  },
+  {
+   "article": "Article 6",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Est ordonnateur, toute personne ayant qualité, au nom d'une entité publique, pour prescrire l'exécution des recettes et des dépenses inscrites dans le budget de cette entité. Il constate les droits et les obligations, liquide les recettes et émet les ordres de recouvrer. Il engage, liquide et ordonnance les dépenses.\r\n\r\nIl assure la programmation, la répartition et, le cas échéant, la mise à disposition des crédits.\r\n\r\nIl transmet au comptable public compétent les ordres de recouvrer et de payer assortis des pièces justificatives requises, ainsi que les certifications qu’il délivre.\r\n\r\nIl établit les documents nécessaires à la tenue, par les comptables publics, des comptabilités dont la charge incombe à ces derniers.",
+   "chunk_id": "DOC-779f10015602-C0007",
+   "text_hash": "636409aefbd9903a56fee2a4e48c93452012a97a"
+  },
+  {
+   "article": "Article 7",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Est comptable public, tout fonctionnaire ayant qualité pour exécuter, au nom des entités publiques, des opérations de recettes, de dépenses et de maniement de titres, soit par virement interne d'écritures, soit par l'intermédiaire d'autres comptables publics ou de comptes externes de disponibilités dont il ordonne ou surveille les mouvements.",
+   "chunk_id": "DOC-779f10015602-C0008",
+   "text_hash": "037beefcb356ceb0285fe5031e6a7e2e31bc1bb0"
+  },
+  {
+   "article": "Article 8",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les comptables publics assument la direction des postes comptables. Un même poste comptable ne peut être confié qu'à un seul comptable public.\r\n\r\nLe comptable assignataire est le comptable public habilité à prendre en charge les ordres de payer, les dépenses sans ordonnancement, les ordres de recouvrer ainsi que les opérations de trésorerie émanant de l'ordonnateur compétent.\r\n\r\nA l’occasion de leur première installation, les comptables publics prêtent serment devant la juridiction financière.\r\n\r\nLa publication de l'acte de nomination d'un comptable public emporte accréditation de ce dernier auprès d'un ou de plusieurs ordonnateurs.\r\n\r\nLes comptables publics peuvent désigner des mandataires ayant qualité pour agir en leur nom et sous leur responsabilité.",
+   "chunk_id": "DOC-779f10015602-C0009",
+   "text_hash": "0c3320485d5080a52b698ee73db661f2e00f2105"
+  },
+  {
+   "article": "Article 9",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les fonctions d'ordonnateur et de comptable sont incompatibles.\r\n\r\nLes conjoints, les ascendants et les descendants des ordonnateurs ne peuvent être comptables des entités publiques auprès desquelles ces ordonnateurs exercent leurs fonctions.",
+   "chunk_id": "DOC-779f10015602-C0010",
+   "text_hash": "4e4f3d22ac31f26e49dfbdf75142605630664c34"
+  },
+  {
+   "article": "Article 10",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les fonctions d'autorité de règlementation comptable sont incompatibles avec celles de comptable public.",
+   "chunk_id": "DOC-779f10015602-C0011",
+   "text_hash": "797bce2db132f856af61a52a4ec32b2385a9c0aa"
+  },
+  {
+   "article": "Article 11",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Il est interdit à toute personne non pourvue d'un titre légal ou réglementaire d'exercer des fonctions d'ordonnateur ou de comptable public, sous peine de sanctions prévues par les textes en vigueur.\r\n\r\nLe titre légal résulte de la nomination et de l'accréditation d'un ordonnateur ou d'un comptable public tels que prévus par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0012",
+   "text_hash": "f1fa8dd3babc14dc6c7fe33ad2faa645f255f0cb"
+  },
+  {
+   "article": "Article 12",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les comptables publics sont, avant d'être installés dans leur poste, astreints à la constitution de garanties et, le cas échéant, à la prestation de serment prévue à l'article 8 ci-dessus.\r\n\r\nIls procèdent à l'arrêté de leurs écritures dans les conditions prévues par la réglementation en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0013",
+   "text_hash": "339fce12204ae320cbb2fdd92392c0dc611679cd"
+  },
+  {
+   "article": "Article 13",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "L’accréditation emporte l’obligation, pour tout agent intervenant dans les opérations financières d’une entité publique, de notifier à tout intéressé, son acte de nomination et son spécimen de signature.\r\n\r\nL’accréditation s’effectue à la diligence de l’agent lui-même dès son installation et sous sa responsabilité.",
+   "chunk_id": "DOC-779f10015602-C0014",
+   "text_hash": "1a5797a2b9830a5c6afb7e2371a897c51c7a6d0c"
+  },
+  {
+   "article": "Article 14",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les comptables publics sont personnellement et pécuniairement responsables des opérations dont ils sont chargés ainsi que de l'exercice régulier des contrôles prévus.",
+   "chunk_id": "DOC-779f10015602-C0015",
+   "text_hash": "ac907269b803a61bb8ff97c96df01005b4f0642c"
+  },
+  {
+   "article": "Article 15",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Toute personne qui s’ingère dans les opérations de recettes, de dépenses ou de maniement de valeurs publiques sans qualité ou titre est réputée comptable de fait. Elle est justiciable du juge des comptes, sans préjudice des sanctions prévues par le Code Pénal.",
+   "chunk_id": "DOC-779f10015602-C0016",
+   "text_hash": "202eac845e509745f1c32aace05607a098509768"
+  },
+  {
+   "article": "Article 16",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Dans les conditions fixées par la règlementation en vigueur, les ordonnateurs engagent leur responsabilité personnelle s'il est établi qu'ils ont commis des irrégularités ou des fautes de gestion dans les opérations qu'ils effectuent.",
+   "chunk_id": "DOC-779f10015602-C0017",
+   "text_hash": "288a6c865f615e45963f545430e05130c7e1d352"
+  },
+  {
+   "article": "Article 17",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les ordonnateurs et les comptables publics dont la responsabilité a été mise en jeu à la suite d'un cas de force majeure peuvent obtenir décharge totale ou partielle de leur responsabilité après production de toutes justifications nécessaires.",
+   "chunk_id": "DOC-779f10015602-C0018",
+   "text_hash": "adea1ac6cc2eb33c320c2094f0d6357ca657a7f6"
+  },
+  {
+   "article": "Article 18",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Aucune recette autre que celles qui sont autorisées par les textes en vigueur, à quelque titre et sous quelque dénomination que ce soit, ne peut être ordonnée ni encaissée, sous peine pour les employés qui confectionneraient les titres de recettes et ceux qui en feraient le recouvrement, d'être poursuivis comme concussionnaires.",
+   "chunk_id": "DOC-779f10015602-C0019",
+   "text_hash": "a5663fa76799517a0bdfcb9166988c159fe8a597"
+  },
+  {
+   "article": "Article 19",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Il est fait recette du montant intégral des produits sans contraction entre les recettes et les dépenses.",
+   "chunk_id": "DOC-779f10015602-C0020",
+   "text_hash": "b5381c485ce491aaa41873396d4e3a6c72c6b20e"
+  },
+  {
+   "article": "Article 20",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Les opérations de dépenses comprennent successivement l'engagement, la liquidation, l'ordonnancement et le paiement.",
+   "chunk_id": "DOC-779f10015602-C0021",
+   "text_hash": "e54bbe462c04fe4e9cc8c5bf99504001d657feb4"
+  },
+  {
+   "article": "Article 21",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "L'engagement est à la fois juridique et comptable.\r\n\r\nL'engagement juridique est l'acte par lequel l'entité publique crée ou constate à son encontre une obligation de laquelle résultera une charge.\r\n\r\nL'engagement comptable consiste à s'assurer de la disponibilité des crédits et à les réserver à titre de précaution, préalablement à l'engagement juridique.",
+   "chunk_id": "DOC-779f10015602-C0022",
+   "text_hash": "a1b28572f57fbc483a43e4e7f20012e3974febdb"
+  },
+  {
+   "article": "Article 22",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "La liquidation a pour objet de vérifier la réalité de la dette et d'arrêter son montant et sa date d'exigibilité.",
+   "chunk_id": "DOC-779f10015602-C0023",
+   "text_hash": "c96faebc8f13056e8e2098a4041e6cf5589b82ca"
+  },
+  {
+   "article": "Article 23",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "L'ordonnancement est l'ordre donné par l'ordonnateur au comptable, de payer une dépense.",
+   "chunk_id": "DOC-779f10015602-C0024",
+   "text_hash": "8a6306e7c6f30912316323b32d1d13ae2e559820"
+  },
+  {
+   "article": "Article 24",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Le paiement est l'acte par lequel l'entité publique se libère de sa dette.\r\n\r\nSous réserve des dispositions spéciales relatives aux avances consenties aux agents publics et aux fournisseurs ainsi que des autres exceptions prévues par les lois et règlements, le paiement ne peut intervenir avant l'échéance de la dette, telle que constatée par la liquidation.",
+   "chunk_id": "DOC-779f10015602-C0025",
+   "text_hash": "8a9c49938b7f5a5a1e91a4dfe738a25f3a1c4bcd"
+  },
+  {
+   "article": "Article 25",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "Toutes oppositions ou autres significations ayant pour objet d'arrêter un paiement doivent être faites, à peine de nullité, entre les mains du comptable assignataire de la dépense.",
+   "chunk_id": "DOC-779f10015602-C0026",
+   "text_hash": "674f8bb3a641b4dfb48fa8dc627c4a7352b88ba2"
+  },
+  {
+   "article": "Article 27",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "L'établissement, la conservation et la transmission des documents et pièces justificatives de toute nature peuvent, dans les conditions arrêtées par le ministre responsable, être effectués sous forme dématérialisée.\r\n\r\nDans ce cas, la durée de conservation des pièces justificatives est de cinq ans à compter du premier jour de l'année suivant celle au cours de laquelle les comptes sont produits au juge des comptes.",
+   "chunk_id": "DOC-779f10015602-C0027",
+   "text_hash": "0a99ca58b564eed30fab0bce4a92cfd3d09ec367"
+  },
+  {
+   "article": "Article 28",
+   "context": "Titre II : Des définitions, des principes fondamentaux et du cadre général",
+   "text": "La comptabilité publique est un système d'organisation de l'information financière permettant :\r\n\r\n-de saisir, de classer, d'enregistrer et de contrôler les données des opérations budgétaires, comptables et de trésorerie afin d'établir des comptes réguliers et sincères ;\r\n\r\n-de présenter les états financiers reflétant une image fidèle du patrimoine, de la situation financière et du résultat à la date de clôture de l'exercice ;\r\n\r\n-de contribuer au calcul du coût des actions ou des services ainsi qu'à l'évaluation de leur performance.\r\n\r\nElle est également organisée en vue de permettre le traitement de ces opérations par la comptabilité nationale.",
+   "chunk_id": "DOC-779f10015602-C0028",
+   "text_hash": "36535cc008137883662c1a7d8b1cfb08354dccff"
+  },
+  {
+   "article": "Article 29",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Sous réserve du pouvoir de régulation des crédits budgétaires et de gestion de la trésorerie de 1'Etat au dévolu au Ministre chargé du Budget, sont ordonnateurs principaux des budgets de leurs institutions et ministères :\r\n\r\n-les présidents des institutions constitutionnelles ;\r\n\r\n-les ministres, chefs de départements ;\r\n\r\n-toutes autres autorités.",
+   "chunk_id": "DOC-779f10015602-C0029",
+   "text_hash": "1c93447c9f790488436a29e5e55899ec4c275683"
+  },
+  {
+   "article": "Article 30",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Sont ordonnateurs délégués au sein des départements ministériels :\r\n\r\n-le responsable de programme ;\r\n\r\n-le responsable de budget opérationnel de programme ;\r\n\r\n-le responsable d'unité opérationnelle de programme.\r\n\r\nLes ordonnateurs et leurs délégués peuvent également se faire suppléer en cas d'absence ou d'empêchement.",
+   "chunk_id": "DOC-779f10015602-C0030",
+   "text_hash": "462f4b5f036f6d4400789f1dc12a110094aaf1da"
+  },
+  {
+   "article": "Article 31",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Outre la qualité d'ordonnateur du budget alloué à son département, le Ministre chargé des Finances assure la fonction d'ordonnateur des recettes du budget général. Il constate les droits de l'Etat, liquide et prescrit, par ses administrations compétentes, l'exécution des recettes et émet les titres de créances correspondants.",
+   "chunk_id": "DOC-779f10015602-C0031",
+   "text_hash": "94117c9cd27fee4ebf2ea17d6f76d994b0be2a34"
+  },
+  {
+   "article": "Article 32",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Outre la qualité d'ordonnateur du budget alloué à son département, le Ministre chargé du Budget est l'ordonnateur des crédits liés aux dépenses accidentelles et des comptes spéciaux du Trésor correspondant à ses attributions.",
+   "chunk_id": "DOC-779f10015602-C0032",
+   "text_hash": "db709a241eeb5c3f1b7fdd9319904748fd0a7549"
+  },
+  {
+   "article": "Article 33",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Les ordonnateurs prescrivent l'exécution des dépenses prévues et autorisées.\r\n\r\nSans préjudice du pouvoir de régulation des crédits budgétaires et de la gestion de la trésorerie de l'Etat dévolu au Ministre chargé du Budget, les ordonnateurs principaux procèdent aux engagements, liquidations et ordonnancements des dépenses inscrites à leur budget.\r\n\r\nLa liquidation et l'ordonnancement sont concomitants et doivent intervenir immédiatement après la certification du service fait.",
+   "chunk_id": "DOC-779f10015602-C0033",
+   "text_hash": "0cdbf197db0fe1bea865739269fa3f80ce3a7998"
+  },
+  {
+   "article": "Article 34",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Les ordonnateurs émettent les ordres de mouvement affectant les biens et matières de l'Etat.\r\n\r\nIls veillent, sous leur responsabilité, à la tenue de la comptabilité des matières, valeurs et titres de l'Etat et participent ainsi à la tenue de la comptabilité générale de l'Etat sous le contrôle du comptable.",
+   "chunk_id": "DOC-779f10015602-C0034",
+   "text_hash": "e29b26df78de528604d5012b1fa0b95085a90975"
+  },
+  {
+   "article": "Article 35",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Les ordonnateurs, leurs délégués, leurs suppléants ainsi que les personnes auxquelles ils ont délégué leur signature sont accrédités auprès des comptables publics assignataires des opérations de recettes et de dépenses inscrites au budget dont ils prescrivent l'exécution, selon les modalités fixées par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0035",
+   "text_hash": "efa468bbd5ba2d9def381dd7b1bd143b03e4da8a"
+  },
+  {
+   "article": "Article 36",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Les actes des ordonnateurs, notamment l'engagement, la liquidation et l'ordonnancement sont retracés dans la comptabilité budgétaire permettant de suivre le déroulement des opérations budgétaires et d'effectuer le rapprochement avec les écritures des comptables publics.",
+   "chunk_id": "DOC-779f10015602-C0036",
+   "text_hash": "35bead186d873fa8fd015b0ee633092456ac54bf"
+  },
+  {
+   "article": "Article 37",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre Ier : Des ordonnateurs",
+   "text": "Dans l'exercice de leurs fonctions les ordonnateurs sont soumis au régime des droits, obligations, interdictions et incompatibilités applicable aux comptables et contrôleurs budgétaires, prévu par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0037",
+   "text_hash": "2ff7964da0dfebe4eb1b091b7da88b05a3b95abc"
+  },
+  {
+   "article": "Article 38",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics",
+   "text": "Les comptables publics comprennent :\r\n\r\n-les comptables deniers et valeurs ;\r\n\r\n-les comptables d'ordre.",
+   "chunk_id": "DOC-779f10015602-C0038",
+   "text_hash": "89dec8b79254f9e80688858ae5ac88c2af3a4e46"
+  },
+  {
+   "article": "Article 39",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics",
+   "text": "Chaque comptable public peut être :\r\n\r\n-comptable supérieur ou subordonné ;\r\n\r\n-comptable principal ou secondaire ;\r\n\r\n-comptable centralisateur ou non centralisateur.\r\n\r\nLe comptable supérieur a sous son autorité hiérarchique un ou plusieurs comptables subordonnés.\r\n\r\nLe comptable principal rend directement ses comptes à la Cour des Comptes ; il a sous sa responsabilité un ou plusieurs comptables secondaires.\r\n\r\nLe comptable centralisateur centralise les opérations des comptables inférieurs non centralisateurs.",
+   "chunk_id": "DOC-779f10015602-C0039",
+   "text_hash": "cc019edaae1f33a8b4428486357736a6a28e6168"
+  },
+  {
+   "article": "Article 40",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics",
+   "text": "L'agent comptable centralisateur du Trésor qui, outre ses attributions de comptable principal, est seul chargé de centraliser les écritures permettant de dresser le Compte Général de l'Etat et les états financiers y afférents.",
+   "chunk_id": "DOC-779f10015602-C0040",
+   "text_hash": "7247e3dedf75289f0e48b3c6cd0539d02675b107"
+  },
+  {
+   "article": "Article 41",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 1 : Des comptables deniers et valeurs",
+   "text": "Les comptables deniers et valeurs sont des personnes habilitées au maniement et à la conservation des fonds publics, des valeurs qui sont des valeurs de portefeuille, bons, traites, obligations, rentes et actions de société.",
+   "chunk_id": "DOC-779f10015602-C0041",
+   "text_hash": "d44273299a8ce9a8d44ed5524dddc096e18cf86b"
+  },
+  {
+   "article": "Article 42",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 1 : Des comptables deniers et valeurs",
+   "text": "Les comptables deniers et valeurs des Impôts et des Douanes sont chargés en particulier du recouvrement des impôts, des droits, des redevances, des pénalités fiscales, des frais de poursuites et des autres recettes, dans les conditions fixées par le Code Général des Impôts, le Code des Douanes, le Code du-Domaine de l'Etat, ainsi que par les autres textes en vigueur.\r\n\r\nLes comptables deniers et valeurs peuvent être organisés en réseaux de postes comptables comprenant des comptables supérieurs ou subordonnés, principaux ou secondaires, distincts du réseau du Trésor, dans les conditions fixées par les textes en vigueur.\r\n\r\nLeurs opérations sont centralisées dans les écritures du Trésor.",
+   "chunk_id": "DOC-779f10015602-C0042",
+   "text_hash": "ada470e94ac7aea3e7739c7af22531a1912a893b"
+  },
+  {
+   "article": "Article 43",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 1 : Des comptables deniers et valeurs",
+   "text": "Les comptables deniers et valeurs peuvent avoir sous leur autorité des régisseurs de recettes ou d'avances.\r\n\r\nCes régisseurs sont habilités à exécuter des opérations d'encaissement ou de décaissement sous leur responsabilité personnelle et pécuniaire.",
+   "chunk_id": "DOC-779f10015602-C0043",
+   "text_hash": "281e3aa2962a5ed2e1c17a0d397b8423b46a4c57"
+  },
+  {
+   "article": "Article 44",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 1 : Des comptables deniers et valeurs",
+   "text": "Le comptable deniers et valeur de rattachement a l'obligation de contrôler sur pièces et sur place les opérations et la comptabilité des régisseurs. Il est personnellement et pécuniairement responsable des opérations des régisseurs dans la limite des contrôles qui lui incombent.\r\n\r\nLes dispositions relatives à l’institution, à l’organisation et au fonctionnement des régies de recettes et des régies d’avances, sont fixées par voie réglementaire.",
+   "chunk_id": "DOC-779f10015602-C0044",
+   "text_hash": "4194864eb0524e7f914840e030d49d6d6de7d92d"
+  },
+  {
+   "article": "Article 45",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 2 : Des comptables d'ordre",
+   "text": "Les comptables d'ordre centralisent et présentent dans leurs écritures et leurs comptes les opérations financières exécutées par d'autres comptables.\r\n\r\nLes fonctions de comptable d'ordre ne sont pas incompatibles avec celles de comptable deniers et valeurs.",
+   "chunk_id": "DOC-779f10015602-C0045",
+   "text_hash": "7ad36f24f6abeb6169a908552dee56f18b9d3fb4"
+  },
+  {
+   "article": "Article 46",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 3 : Des droits et obligations du comptable",
+   "text": "Sous réserve des dispositions concernant les régisseurs en la matière, les comptables publics sont seuls chargés :\r\n\r\n-de la prise en charge et du recouvrement en totalité des ordres de recettes, ainsi que de l'encaissement des droits au comptant et des recettes de toute nature que l'Etat et ses démembrements sont habilités à percevoir ;\r\n\r\n-du visa, de la prise en charge et du règlement des dépenses publiques, ainsi que de la suite à donner aux oppositions et autres significations ;\r\n\r\n-de la garde et de la conservation des fonds, valeurs, titres et matières appartenant ou confiés à l'Etat ou aux autres administrations publiques ;\r\n\r\n-du maniement des fonds et des mouvements des comptes de disponibilités ;\r\n\r\n-de l'exécution des autres opérations de trésorerie des établissements publics nationaux ;\r\n\r\n-de la tenue de la comptabilité du poste comptable qu'ils dirigent ;\r\n\r\n-de la conservation des pièces justificatives y afférentes ;\r\n\r\n-de la tenue de la comptabilité des dépenses et recettes dont il est assignataire ainsi que de la tenue de la comptabilité des valeurs inactives.",
+   "chunk_id": "DOC-779f10015602-C0046",
+   "text_hash": "d97716b81f2d6343d63c4f0b1f8954d197d95f3b"
+  },
+  {
+   "article": "Article 47",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 3 : Des droits et obligations du comptable",
+   "text": "Les comptables publics sont tenus d'assurer, sous leur responsabilité personnelle et pécuniaire, le contrôle :\r\n\r\n1- en matière de recettes :\r\n\r\n-de la validité de l'autorisation de percevoir la recette ;\r\n\r\n-de la validité de la mise en recouvrement ;\r\n\r\n-de la régularité des réductions ou annulations opérées sur les ordres de recettes ;\r\n\r\n2- en matière de dépenses :\r\n\r\n-de l'habilitation des autorités administratives ;\r\n\r\n-de l'imputation budgétaire et la disponibilité des crédits ;\r\n\r\n-de la validité de la créance ;\r\n\r\n-du caractère libératoire du paiement ;\r\n\r\n3- en matière de patrimoine :\r\n\r\n-de la conservation des droits, privilèges et hypothèques ;\r\n\r\n-de la conservation des biens dont ils tiennent la comptabilité matières.",
+   "chunk_id": "DOC-779f10015602-C0047",
+   "text_hash": "ec664e202aa023d5a3061462996dd271ea1a9e7d"
+  },
+  {
+   "article": "Article 48",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre II : Des comptables publics > Section 3 : Des droits et obligations du comptable",
+   "text": "Le contrôle de la validité de la créance porte sur :\r\n\r\n-la justification du service fait résultant de la certification délivrée par l'ordonnateur et confirmée par le contrôleur budgétaire ainsi que des pièces justificatives produites ;\r\n\r\n-l’exactitude de la liquidation ;\r\n\r\n-l’intervention des contrôles préalables prescrits par la réglementation ;\r\n\r\n-l’existence du visa ou de l’avis préalable du contrôleur budgétaire sur les engagements, dans la mesure où les règles propres à l’entité publique concernée le prévoient ;\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n-la production des pièces justificatives ;\r\n\r\n-l'application des règles de prescription et de déchéance.",
+   "chunk_id": "DOC-779f10015602-C0048",
+   "text_hash": "c1237ffc7afeeab62da4ce5ed02ca984a14f33c4"
+  },
+  {
+   "article": "Article 49",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre III : Des contrôleurs budgétaires",
+   "text": "Les contrôleurs budgétaires sont des autorités chargées de la gestion budgétaire et/ou comptable auprès de l'ordonnateur principal ou délégué, du contrôle des ressources et des charges des entités publiques.\r\n\r\nIls sont notamment chargés :\r\n\r\n-de viser le document de répartition initiale des crédits et emplois et du document prévisionnel de gestion des emplois et des crédits ;\r\n\r\n-de rendre un avis sur le caractère soutenable de la programmation pour chacun des ministères ;\r\n\r\n-de veiller à la sincérité des prévisions des dépenses et à la maîtrise des risques budgétaires ;\r\n\r\n-d'exercer le contrôle a postériori des actes dispensés de visa ou d'avis ;\r\n\r\n-d'évaluer les circuits et procédures et analyser les déterminants de la dépense ;\r\n\r\n-d'assister les services gestionnaires dans la mise en œuvre de la loi organique relative aux lois de finances et à l'exécution du budget, au moyen du développement du contrôle interne ;\r\n\r\n-de coordonner l'action des autorités chargées du contrôle financier auprès des services déconcentrés du ministère auprès duquel il est placé et des comptables publics assignataires des ordres de dépenses et de recettes émis par les ordonnateurs secondaires de ce ministère ;\r\n\r\n-de transmettre aux autorités budgétaires et à l'ordonnateur principal un rapport annuel sur l'exécution budgétaire et une analyse de la situation financière du ministère.",
+   "chunk_id": "DOC-779f10015602-C0049",
+   "text_hash": "8505c104ee9344090251aff517fd064c3af7a68e"
+  },
+  {
+   "article": "Article 50",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre III : Des contrôleurs budgétaires",
+   "text": "Dans l'exercice de leurs fonctions, les contrôleurs budgétaires sont soumis au régime des droits, obligations, interdictions et incompatibilités applicable aux ordonnateurs et comptables publics prévu par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0050",
+   "text_hash": "beef8f7c8337dac3aa81600c5188759a7f117160"
+  },
+  {
+   "article": "Article 51",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre III : Des contrôleurs budgétaires",
+   "text": "Les fonctions de contrôleur budgétaire sont incompatibles avec celles d'ordonnateur et de comptable public.\r\n\r\nElles résultent d'une nomination et d'une accréditation expresse.",
+   "chunk_id": "DOC-779f10015602-C0051",
+   "text_hash": "1c1b999ae04db8b0de0918e138f8cdc4a3cb6389"
+  },
+  {
+   "article": "Article 52",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Les recettes de l'Etat comprennent les produits d'impôts, de taxes, de droits et les autres produits institués par les lois et règlements en vigueur ou résultant de décisions de justice ou de conventions.",
+   "chunk_id": "DOC-779f10015602-C0052",
+   "text_hash": "e07007616c86e2cf3b128325f9b26b33a493b701"
+  },
+  {
+   "article": "Article 53",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Dans les conditions applicables à chacune d’entre elle, les recettes de l’Etat sont liquidées avant d’être recouvrées.",
+   "chunk_id": "DOC-779f10015602-C0053",
+   "text_hash": "fae197cd17e9dc7f6758b48b5b8f70ad60d863e2"
+  },
+  {
+   "article": "Article 54",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "La liquidation a pour effet de déterminer le montant de la dette des redevables.\r\n\r\nToute créance liquidée doit faire l’objet d’une déclaration ou d’un ordre de recouvrer qui indique les bases de sa liquidation.\r\n\r\nL'acte de liquidation constituant l'ordre de recette peut être un extrait de décision de justice, un acte formant titre, un arrêté de débet ou un titre de perception.\r\n\r\nPour les recettes encaissées sur versements spontanés des redevables, les titres de régularisation sont établis sans délai par l'ordonnateur, à la demande du comptable.\r\n\r\nEn cas d'erreur de liquidation, l'ordonnateur émet un ordre de recouvrer complémentaire, un ordre d'annulation ou de réduction de la recette indiquant les bases de la nouvelle liquidation.\r\n\r\nPour les créances faisant l'objet d'une déclaration, une déclaration rectificative, indiquant les bases de la nouvelle liquidation est souscrite.",
+   "chunk_id": "DOC-779f10015602-C0054",
+   "text_hash": "c94bb5ac56f6912b11216e720deed56d08bea954"
+  },
+  {
+   "article": "Article 55",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Les comptables publics sont responsables du recouvrement de la totalité des droits liquidés par les ordonnateurs à partir de la prise en charge par leurs soins.\r\n\r\nIls doivent justifier de l'apurement de ces prises en charge dans les délais et formes prévus par la réglementation en vigueur.\r\n\r\nL'apurement résulte soit de recouvrements effectifs, soit de réductions ou des annulations de droits préalablement liquidés, soit de leur admission en non-valeur.",
+   "chunk_id": "DOC-779f10015602-C0055",
+   "text_hash": "c4812861f34746044479c21fa20220ff7f07f40a"
+  },
+  {
+   "article": "Article 56",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Les règlements sont faits par versement d'espèces, remise de chèques ou d'effets bancaires, ou virement à l'ordre du Trésor public.\r\n\r\nToutefois, dans des cas expressément prévus par les textes en vigueur, les redevables peuvent être admis à s'acquitter de leur dette par dation en paiement, remise de valeurs, remise de timbres, formules ou fournitures, d'effets de commerce ou d'obligations cautionnées, ou par l'exécution de prestations en nature.\r\n\r\nSauf dispositions contraires de la loi, le débiteur d'une créance publique ne peut invoquer à son profit la compensation.",
+   "chunk_id": "DOC-779f10015602-C0056",
+   "text_hash": "6c4f6a728d3cbaab77e26d51ca234157d058aa24"
+  },
+  {
+   "article": "Article 57",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Le recouvrement forcé des créances est poursuivi, conformément aux voies de droit, en vertu d'un titre ayant force exécutoire.\r\n\r\nSauf exception tenant soit à la nature ou au caractère contentieux de la créance, soit à la nécessité de prendre sans délai des mesures conservatoires, le recouvrement forcé est précédé d'une tentative de recouvrement amiable.",
+   "chunk_id": "DOC-779f10015602-C0057",
+   "text_hash": "bc52f5548ea0d234744b3828adba2323801723ab"
+  },
+  {
+   "article": "Article 58",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Les délais de prescription sont fixés par la loi. A défaut de dispositions particulières, ces délais de prescription sont ceux du droit commun.\r\n\r\nLes règles propres à chaque catégorie de créances fixent les conditions dans lesquelles le recouvrement d'une créance peut être suspendu ou abandonné et dans lesquelles une remise de dette, une transaction ou une adhésion à un concordat peuvent intervenir.",
+   "chunk_id": "DOC-779f10015602-C0058",
+   "text_hash": "7fe3a059fd4fdc8f149694bf0c192ab43cce6674"
+  },
+  {
+   "article": "Article 59",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Les textes réglementaires, pris sur proposition du Ministre chargé des Finances, fixent les seuils des créances en dessous desquels les ordres de recettes ne sont pas émis ou dont le recouvrement peut être abandonné.",
+   "chunk_id": "DOC-779f10015602-C0059",
+   "text_hash": "919f44685062de2976bef43c1d484ba98f99faaf"
+  },
+  {
+   "article": "Article 60",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Tout paiement en espèces ou par chèque donne lieu à la délivrance concomitante d’une quittance.\r\n\r\nPour les autres modes de paiement, les quittances sont délivrées après constatation du règlement.\r\n\r\nToutefois, il n'est pas délivré de quittance au redevable lorsque celui-ci reçoit, en échange de son versement, des timbres, tickets, formules, ou une fourniture dont la possession justifie à elle seule le paiement des droits, ou une quittance établie sur un document particulier.",
+   "chunk_id": "DOC-779f10015602-C0060",
+   "text_hash": "f128175d754aa8eb002704abfdd3846f2f2d6169"
+  },
+  {
+   "article": "Article 61",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Le débiteur de l'Etat est libéré lorsque :\r\n\r\n-il présente une quittance régulière ;\r\n\r\n-il bénéficie d'une prescription ;\r\n\r\n-il établit la réalité de l'encaissement par un comptable public des effets bancaires émis au profit du Trésor.",
+   "chunk_id": "DOC-779f10015602-C0061",
+   "text_hash": "e68200bbc92b52e7dd54a09f9875a44768418e0c"
+  },
+  {
+   "article": "Article 62",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 1 : Des dispositions communes",
+   "text": "Le comptable public doit opérer, préalablement à tout paiement, la compensation légale au profit de l'Etat entre les dettes et les créances assignées sur sa caisse, sauf dispense expresse du Ministre chargé du Budget.\r\n\r\nToutefois, le débiteur conserve la faculté de se libérer par versements directs à la caisse de l'agent chargé du recouvrement.",
+   "chunk_id": "DOC-779f10015602-C0062",
+   "text_hash": "cbf4063157dc3997fb6c94347af8c346d4864db6"
+  },
+  {
+   "article": "Article 63",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 1 er: Des dispositions applicables aux impôts directs et aux taxes assimilées en ma",
+   "text": "Les impôts directs et taxes assimilées sont perçus conformément aux dispositions du Code Général des Impôts.\r\n\r\nLes comptables directs du Trésor, seuls chargés de la perception des articles d'impôts et taxes assimilés, doivent délivrer une quittance pour chaque versement.\r\n\r\nEn cas de retard dans le paiement, ils appliquent de leur propre initiative, les majorations prévues par le Code Général des Impôts, les ajoutent au principal de l'impôt et en poursuivent le recouvrement par toutes voies de droit.\r\n\r\nIls peuvent, conformément aux modalités prévues ou autorisées par le Ministre chargé de l'Economie, procéder aux remises totales ou partielles des majorations.",
+   "chunk_id": "DOC-779f10015602-C0063",
+   "text_hash": "b15b78c2d5789f5a6ea1441b4715d05430b830d4"
+  },
+  {
+   "article": "Article 64",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 1 er: Des dispositions applicables aux impôts directs et aux taxes assimilées en ma",
+   "text": "Les dégrèvements et les états des cotes admises en non-valeur viennent en diminution des prises en charge. Ils sont joints aux pièces justificatives à transmettre à l'appui du compte de gestion.",
+   "chunk_id": "DOC-779f10015602-C0064",
+   "text_hash": "c073a8b95630f23cb3d932b2821d98ba85050b39"
+  },
+  {
+   "article": "Article 65",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 1 er: Des dispositions applicables aux impôts directs et aux taxes assimilées en ma",
+   "text": "Lorsqu'un dégrèvement intervient après paiement par le contribuable, le trop perçu est versé à un compte de trésorerie ouvert dans les écritures du Trésor, et vient en déduction des recettes correspondantes.\r\n\r\nSi ce dégrèvement concerne des recettes donnant lieu à répartition entre l'Etat et d'autres établissements publics, il est en totalité supporté par l'Etat.\r\n\r\nLes excédents de versement sont conservés dans les écritures du trésor conformément aux dispositions régissant la prescription des créances sur l’Etat. Ils sont remboursables contre reçu dans les limites de ce délai.",
+   "chunk_id": "DOC-779f10015602-C0065",
+   "text_hash": "ef81d81d465a6470f2f0c9ffb85ea73cd67e9fc9"
+  },
+  {
+   "article": "Article 66",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 1 er: Des dispositions applicables aux impôts directs et aux taxes assimilées en ma",
+   "text": "En cas d'admission en non-valeur, les recouvrements opérés en application des dispositions du Code Général des Impôts sont imputés au budget général de l'Etat\r\n\r\nL'admission en non-valeur des créances irrécouvrables est prononcée par le Ministre chargé de l'Economie, sur proposition du Ministre chargé du Budget.",
+   "chunk_id": "DOC-779f10015602-C0066",
+   "text_hash": "87cc6d0d027571154796afb2f36b1a797deb4211"
+  },
+  {
+   "article": "Article 67",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 2 : Des dispositions applicables en matière douanière et droits indirects et en mat",
+   "text": "Les droits de douane et droits indirects sont liquidés par l’administration des douanes et droits indirects et perçus par les comptables directs du trésor, dans les conditions fixées par le Code des Douanes.",
+   "chunk_id": "DOC-779f10015602-C0067",
+   "text_hash": "b4b509215cb1926964cd15fc596ef87f1afd28ac"
+  },
+  {
+   "article": "Article 68",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 2 : Des dispositions applicables en matière douanière et droits indirects et en mat",
+   "text": "Lorsqu'une erreur de taxation au détriment du redevable est constatée, l'administration des douanes et droits indirects établit un état de réduction des prises en charge et l'adresse au comptable chargé du recouvrement.",
+   "chunk_id": "DOC-779f10015602-C0068",
+   "text_hash": "66443a33a4c3044624d399e9b3046b51843888ff"
+  },
+  {
+   "article": "Article 69",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 2 : Des dispositions applicables en matière douanière et droits indirects et en mat",
+   "text": "Les excédents de versements sur droits et taxes sont remboursables au vu d'un bulletin de remboursement émis par l'administration des douanes et droits indirects.",
+   "chunk_id": "DOC-779f10015602-C0069",
+   "text_hash": "e03934205603b81b4bf351f247cfc7240b81c4e6"
+  },
+  {
+   "article": "Article 70",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 2 : Des dispositions applicables en matière douanière et droits indirects et en mat",
+   "text": "Les créances domaniales et recettes assimilées sont liquidées et recouvrées dans les conditions prévues par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0070",
+   "text_hash": "1ce6df6a67a20a547274ecc3c2fc42fae197105a"
+  },
+  {
+   "article": "Article 71",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 3 : Des dispositions applicables en matière d'amendes et condamnations pécuniaires",
+   "text": "Les amendes et condamnations pécuniaires sont liquidées sur la base des textes les régissant, des décisions de justice ou des décisions administratives les ayant prononcées.\r\n\r\nElles comprennent notamment :\r\n\r\n-les amendes pénales, les frais de justice et les droits de timbre correspondants ;\r\n\r\n-les amendes civiles, administratives et certaines amendes fiscales ;\r\n\r\n-les confiscations, réparations, restitutions, dommages et intérêts, frais ayant le caractère de réparation et intérêts moratoires.",
+   "chunk_id": "DOC-779f10015602-C0071",
+   "text_hash": "1e215c4f7e6e5681e4c7faf6f4d09e0aed7b99f9"
+  },
+  {
+   "article": "Article 72",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 3 : Des dispositions applicables en matière d'amendes et condamnations pécuniaires",
+   "text": "Le recouvrement des produits visés à l'article 71 ci-dessus est assuré par les comptables publics, dans les conditions et selon les modalités fixées par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0072",
+   "text_hash": "8cb4f21a99d2bdb958a42697f19d0ef02a954f58"
+  },
+  {
+   "article": "Article 73",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 3 : Des dispositions applicables en matière d'amendes et condamnations pécuniaires",
+   "text": "Le recouvrement des autres produits, non soumis à un mode de recouvrement spécial est confié à l'Agent Judiciaire de l'Etat.\r\n\r\nLe titre de perception est constitué, selon le cas, par l'extrait de jugement, l'arrêt ou la décision administrative. Il est transmis à l'Agent Judiciaire de l'Etat par le greffier près la juridiction qui a prononcé la décision de justice.\r\n\r\nLes poursuites sont exercées comme en matière de contributions directes.",
+   "chunk_id": "DOC-779f10015602-C0073",
+   "text_hash": "00502a18fe15b41ad8ccd8f69d358f81a4227d21"
+  },
+  {
+   "article": "Article 74",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 3 : Des dispositions applicables en matière d'amendes et condamnations pécuniaires",
+   "text": "Les amendes pour contraventions de police concernant la circulation routière font l’objet d’un ordre de recette délivré au contrevenant par l’agent verbalisateur.\r\n\r\nLe paiement s’effectue exclusivement à la caisse du Trésor Public contre délivrance d’une quittance.",
+   "chunk_id": "DOC-779f10015602-C0074",
+   "text_hash": "be223f2adc174279939f243bd8652101b4b41b7f"
+  },
+  {
+   "article": "Article 75",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 4 : Des recettes étrangères à l'impôt et à l'amende",
+   "text": "Les créances de l'Etat autres que l'impôt et l'amende sont liquidées selon leur nature, sur les bases fixées par le texte ou l'acte leur servant de support.\r\n\r\nElles sont matérialisées, sauf dispositions contraires, par un ordre de recette ou de reversement établi par l'ordonnateur et transmis au comptable chargé du recouvrement.",
+   "chunk_id": "DOC-779f10015602-C0075",
+   "text_hash": "92d482233ccea21c96f9a085525832d376058233"
+  },
+  {
+   "article": "Article 76",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 4 : Des recettes étrangères à l'impôt et à l'amende",
+   "text": "Tout ordre de recette ou de reversement doit indiquer les bases de la liquidation.\r\n\r\nToute erreur de liquidation au préjudice du débiteur donne lieu à l’émission d’un ordre d’annulation ou de réduction de recette. Cet ordre indique les bases de la nouvelle liquidation.",
+   "chunk_id": "DOC-779f10015602-C0076",
+   "text_hash": "ed6e836d4b9be64531b06d970934490ecdaf4a06"
+  },
+  {
+   "article": "Article 77",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 4 : Des recettes étrangères à l'impôt et à l'amende",
+   "text": "Le comptable chargé du recouvrement adresse l'avis au redevable, qui dispose d'un délai de trente jours pour se libérer.\r\n\r\nSi le débiteur ne s'est pas libéré à l'expiration de ce délai, le dossier est transmis à l'Agent Judiciaire de l'Etat, seul habilité à engager des poursuites.",
+   "chunk_id": "DOC-779f10015602-C0077",
+   "text_hash": "68481796565a50faaea97620164f73fddf366378"
+  },
+  {
+   "article": "Article 78",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 4 : Des recettes étrangères à l'impôt et à l'amende",
+   "text": "En cas de contestation du débiteur, les ordres de recettes doivent être émis sous forme d'états exécutoires.\r\n\r\nLes poursuites en matière d'états exécutoires sont exercées comme en matière de contributions directes.\r\n\r\nLe contentieux du recouvrement des états exécutoires relève de la compétence exclusive de la juridiction administrative.",
+   "chunk_id": "DOC-779f10015602-C0078",
+   "text_hash": "2a791012795136662db6252b2f57bb260b046fcf"
+  },
+  {
+   "article": "Article 79",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 4 : Des recettes étrangères à l'impôt et à l'amende",
+   "text": "Dans les conditions fixées par voie règlementaire, les débiteurs peuvent obtenir une remise gracieuse, partielle ou totale de leurs dettes.",
+   "chunk_id": "DOC-779f10015602-C0079",
+   "text_hash": "f2306718a7556e1f0cf97c93eb15c017d0757bc2"
+  },
+  {
+   "article": "Article 80",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 2 : Des dispositions particulières concernant certaines recettes > Paragraphe 4 : Des recettes étrangères à l'impôt et à l'amende",
+   "text": "L'admission en non-valeur des créances irrécouvrables est prononcée par le Ministre chargé de l'Economie, sur proposition de l'Agent Judiciaire de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0080",
+   "text_hash": "49827293ffec2f592faca468108ae115827f80ef"
+  },
+  {
+   "article": "Article 81",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 1 : Des opérations de recettes > Sous-section 3 : Des régies de recettes",
+   "text": "Les régies de recettes sont destinées à faciliter l'encaissement des recettes d'un faible montant ou dont le recouvrement présente un caractère d'urgence.\r\n\r\nElles sont instituées par arrêté du Ministre chargé de l'Economie.\r\n\r\nCet arrêté fixe, dans chaque cas :\r\n\r\n-le comptable de rattachement ;\r\n\r\n-la nature des produits à percevoir et leurs modalités d'encaissement ;\r\n\r\n-la périodicité des versements que le régisseur doit faire au comptable de rattachement.\r\n\r\nLes autres dispositions relatives aux régies de recettes sont fixées conformément aux dispositions de l'article 44 ci-dessus.",
+   "chunk_id": "DOC-779f10015602-C0081",
+   "text_hash": "5660064c56bfa04cc7c6d1f4d022a14e8a565ff3"
+  },
+  {
+   "article": "Article 82",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses",
+   "text": "Les dépenses de l'Etat doivent être prévues dans les lois de finances et être conformes aux lois et règlements en vigueur.\r\n\r\nLes crédits sont regroupés par mission relevant soit d’un ou de plusieurs services, soit d’un ou de plusieurs ministères.\r\n\r\nLes crédits ouverts sont mis à la disposition des ordonnateurs dans les conditions et conformément aux modalités prévues par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0082",
+   "text_hash": "0e490faa68d75c65e4143934fe056dde1c0634af"
+  },
+  {
+   "article": "Article 83",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses",
+   "text": "Avant d'être payées, les dépenses sont successivement engagées, liquidées et ordonnancées.",
+   "chunk_id": "DOC-779f10015602-C0083",
+   "text_hash": "7f7d4bf410a4db382e546ba9760bbecd3ac5289d"
+  },
+  {
+   "article": "Article 84",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 1 : De l'engagement",
+   "text": "Les engagements sont constitués :\r\n\r\n-en matière de dépenses de personnel, par les décisions prises par les autorités qualifiées concernant la situation de chaque agent ;\r\n\r\n-en matière d'achats de fournitures ou d'exécution de travaux ou de services, par l'établissement d'une commande ou la passation d'une convention ou d'un marché ;\r\n\r\n-en matière d'acquisition immobilière, par la passation d'un contrat ou par une décision d'expropriation ;\r\n\r\n-en matière de subventions et secours, par les décisions des autorités qualifiées ;\r\n\r\n-en matière de charges résultant de l'exécution des opérations de trésorerie, par les décisions du Ministre chargé du Budget ;\r\n\r\n-en matière d'indemnisation, par les décisions des autorités administratives ou judiciaires.",
+   "chunk_id": "DOC-779f10015602-C0084",
+   "text_hash": "2357b817535ad3ef1cf7582d27831d4c277a1020"
+  },
+  {
+   "article": "Article 85",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 1 : De l'engagement",
+   "text": "Les ordonnateurs, leurs délégués et leurs suppléants ont, seuls, qualité pour engager les dépenses de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0085",
+   "text_hash": "633c9e38ac8a2764beae4b193eb4b18768168450"
+  },
+  {
+   "article": "Article 86",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 1 : De l'engagement",
+   "text": "Sous réserve des dispositions spéciales concernant les crédits évaluatifs, les engagements sont limités soit au montant des crédits de paiement soit au montant des autorisations d'engagement régulièrement ouverts par les lois de finances.\r\n\r\nToute violation de cette règle par une autorité administrative engage la mise en jeu de sa responsabilité personnelle.",
+   "chunk_id": "DOC-779f10015602-C0086",
+   "text_hash": "c7c32ab784ca4f39e55c108f3b5dd6e59aece3b8"
+  },
+  {
+   "article": "Article 87",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 2 : De la liquidation",
+   "text": "La liquidation est faite au vu des titres établissant les droits acquis au créancier.\r\n\r\nA l'exception des cas d'avances autorisés par les règlements, la liquidation est effectuée seulement après service fait, autrement dit, après exécution de ses obligations par le créancier.\r\n\r\nLa réalité du service fait est certifiée par l'ordonnateur, sous sa responsabilité.",
+   "chunk_id": "DOC-779f10015602-C0087",
+   "text_hash": "3abe3b28090740d0a73e2a512508e05bf84607dd"
+  },
+  {
+   "article": "Article 88",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 2 : De la liquidation",
+   "text": "Les ordonnateurs, leurs délégués et suppléants ont, seuls, qualité pour liquider les dépenses de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0088",
+   "text_hash": "2519c40ce485976052363fe0ef367baff5f2dedc"
+  },
+  {
+   "article": "Article 89",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 3 : De l’ordonnancement",
+   "text": "L'ordonnancement est l'acte administratif par lequel, conformément aux résultats de la liquidation, l'ordre est donné au comptable de payer la dette de l'Etat. Il prend la forme d'un ordre de paiement.\r\n\r\nToutefois, certaines dépenses dont la liste est arrêtée par le Ministre chargé du Budget, peuvent, en considération de leur nature ou de leur montant, être payées sans ordonnancement ou avec ordonnancement sans que celui-ci soit préalable au paiement.",
+   "chunk_id": "DOC-779f10015602-C0089",
+   "text_hash": "1f04b92ffe813b29bdffee51073e0054e89c37b6"
+  },
+  {
+   "article": "Article 90",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 3 : De l’ordonnancement",
+   "text": "Les crédits évaluatifs peuvent, dans les conditions prévues par arrêté du Ministre chargé du Budget, faire l'objet de dépenses sans ordonnancement. Ces crédits ne donnent lieu à aucun contrôle de disponibilité.",
+   "chunk_id": "DOC-779f10015602-C0090",
+   "text_hash": "61f164c1083b8988e8bb1e10f851e9df2b569905"
+  },
+  {
+   "article": "Article 91",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 3 : De l’ordonnancement",
+   "text": "Les ordonnateurs, leurs délégués et suppléants ont, seuls, qualité pour ordonnancer les dépenses de l’Etat.",
+   "chunk_id": "DOC-779f10015602-C0091",
+   "text_hash": "6341324f70dccefa88f8a8b3b66082290b38bc71"
+  },
+  {
+   "article": "Article 92",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Le paiement est l'acte par lequel l'Etat se libère de sa dette.\r\n\r\nToutefois, sans préjudice des avances et acomptes qui peuvent être consentis aux personnels, aux entrepreneurs et fournisseurs ainsi qu'aux bénéficiaires de subventions, et sous réserve des dérogations ou acomptes consacrés par les textes en vigueur, le paiement ne peut intervenir avant l'échéance de la dette, l'exécution du service, la décision individuelle d'attribution d'allocations ou la décision individuelle de subvention.",
+   "chunk_id": "DOC-779f10015602-C0092",
+   "text_hash": "a848b11d5dff663ea18615c4a9ba85873c3fda3b"
+  },
+  {
+   "article": "Article 93",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Sauf dispositions contraires des textes en vigueur, les paiements sont effectués par remise d'espèces, de chèques, par virement bancaire ou sur un compte ouvert dans les écritures du Trésor Public.\r\n\r\nLes paiements au profit d'une personne morale sont exclusivement effectués par voie bancaire.",
+   "chunk_id": "DOC-779f10015602-C0093",
+   "text_hash": "f0330b48d949b1e90030bdfd6c0a8e6e1696f9ae"
+  },
+  {
+   "article": "Article 94",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Le règlement d'une dépense est libératoire lorsqu'il intervient suivant l'un des modes de paiement prévus à l'article 93 ci-dessus au profit du créancier ou de son représentant qualifié.\r\n\r\nLes cas dans lesquels les règlements peuvent être effectués entre les mains de tiers sont prévus par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0094",
+   "text_hash": "0ae6673234385edff529facc5fb58cd88637be70"
+  },
+  {
+   "article": "Article 95",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Le comptable public assignataire est seul chargé, sous sa responsabilité, de vérifier les droits et qualités des parties prenantes et la régularité de leurs acquis. A ce titre, il est fondé à exiger la production de toutes justifications utiles.",
+   "chunk_id": "DOC-779f10015602-C0095",
+   "text_hash": "044b12db45b9f56cf62c08e7d05a48caa3161b0d"
+  },
+  {
+   "article": "Article 96",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Lorsqu'à l'occasion des contrôles, des irrégularités sont constatées, le comptable public suspend le paiement de la dépense et en informe l'ordonnateur aux fins de régularisation. Dans ce cas, l'ordonnateur peut requérir, sous sa responsabilité et par écrit, le comptable de payer. Il ne peut déléguer ce droit. Il en est de même lorsque les comptables publics ont pu établir que les certifications délivrées par les ordonnateurs sont inexactes.\r\n\r\nLes comptables sont tenus d'adresser aux ordonnateurs une déclaration écrite et motivée de leur suspension de visa, accompagnée des pièces rejetées.\r\n\r\nToutefois, aucune réquisition n'est possible lorsque la suspension de paiement est motivée par :\r\n\r\n-l’indisponibilité des crédits ;\r\n\r\n-l’absence de certification du service fait ;\r\n\r\n-le caractère non libératoire du règlement ;\r\n\r\n-l'absence de visa de l'ordonnance par le contrôleur budgétaire.",
+   "chunk_id": "DOC-779f10015602-C0096",
+   "text_hash": "5f6462765100ea0219d1ba550458d90efc8af4ac"
+  },
+  {
+   "article": "Article 97",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Sont prescrites au profit de l’Etat, sans préjudice des déchéances spéciales prévues par les textes en vigueur ou consenties dans les marchés ou conventions, toutes créances qui n'ont pas été payées dans un délai de quatre ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis.\r\n\r\nToutefois, ces dispositions ne s'appliquent pas aux créances dont la liquidation, l'ordonnancement et le paiement n'ont pu être effectués dans les délais ci-dessus par le fait de l'administration ou par suite d'action en justice.",
+   "chunk_id": "DOC-779f10015602-C0097",
+   "text_hash": "cc488ab921fda5d2ebe7302239a8e23c91ba6bc3"
+  },
+  {
+   "article": "Article 98",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 4 : Du paiement",
+   "text": "Est atteinte d'extinction vis-à-vis de l'Etat, toute action destinée à constituer une créance opposable à celui-ci intentée plus de quatre années après la date de réalisation du fait générateur du dommage servant de support à cette action.\r\n\r\nToutefois, la réclamation adressée à l'Etat avant l'expiration du délai prévu à l'alinéa ci-dessus, destinée à obtenir la réparation ou la cessation du dommage causé par l'Etat, interrompt le cours de la prescription instituée par le présent article.",
+   "chunk_id": "DOC-779f10015602-C0098",
+   "text_hash": "541f94127dfb4eb36400dbc0b53faa09fac5e4aa"
+  },
+  {
+   "article": "Article 99",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 5 : Des oppositions",
+   "text": "Toutes oppositions ou autres significations ayant pour objet d'arrêter un paiement doivent être faites, à peine de nullité, entre les mains du comptable public assignataire de la dépense.",
+   "chunk_id": "DOC-779f10015602-C0099",
+   "text_hash": "aba6da4c732c9ad4fd9db258adbdcbc5c34c0695"
+  },
+  {
+   "article": "Article 100",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 5 : Des oppositions",
+   "text": "Les comptables publics ne sont conservateurs que des oppositions régulièrement formées entre leurs mains par exploit d'huissier et sur les sommes payables à leur caisse.\r\n\r\nIls ne peuvent se charger d'oppositions transmises par un autre comptable ou par une intervention autre que celle des tribunaux.\r\n\r\nLes oppositions relatives à des cautionnements sont irrecevables tant que la main levée n'a pas été donnée aux déposants.",
+   "chunk_id": "DOC-779f10015602-C0100",
+   "text_hash": "f6a6290c3b0d73228375c1aecc5a0e14b429f795"
+  },
+  {
+   "article": "Article 101",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 5 : Des oppositions",
+   "text": "La durée d'effet des saisies-attributions et oppositions signifiées aux comptables publics est de quatre ans. Elle peut être renouvelée dans les mêmes formes.",
+   "chunk_id": "DOC-779f10015602-C0101",
+   "text_hash": "a4455456f6f89f84da1dbba4137a6756bea6d1d3"
+  },
+  {
+   "article": "Article 102",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 6 : Des délégations de crédits",
+   "text": "La délégation de crédits est la mise à disposition, auprès d'un comptable assignataire, de l'ensemble des crédits d'une unité administrative.\r\n\r\nElle s'effectue en une ou plusieurs tranches, par ordonnance de délégation visée par le contrôleur budgétaire.",
+   "chunk_id": "DOC-779f10015602-C0102",
+   "text_hash": "34749befbe193d5214aadfa01bc8c016fa520668"
+  },
+  {
+   "article": "Article 103",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 6 : Des délégations de crédits",
+   "text": "Les dépenses effectuées sur crédits délégués sont engagées, liquidées, ordonnancées et payées conformément aux dispositions des articles 84 à 96 du présent décret.",
+   "chunk_id": "DOC-779f10015602-C0103",
+   "text_hash": "c4beef7edf3a64c04e66bd29675e169c502f4106"
+  },
+  {
+   "article": "Article 104",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 7 : Des régies d'avances",
+   "text": "Les régies d'avances sont destinées à permettre le règlement de menues dépenses des services ou à accélérer le règlement des dépenses présentant un caractère d'urgence.\r\n\r\nElle consiste en la mise à la disposition d’un régisseur d'avances de tout ou partie des fonds correspondant aux crédits inscrits sur une ligne budgétaire d'une unité administrative.",
+   "chunk_id": "DOC-779f10015602-C0104",
+   "text_hash": "729222b8b16add7ec163c877df00392b7057e3e5"
+  },
+  {
+   "article": "Article 105",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 2 : Des opérations de dépenses > Sous-section 7 : Des régies d'avances",
+   "text": "Les régies d’avance sont instituées par arrêté du ministre responsable. Cet arrêté fixe, dans chaque cas :\r\n\r\n-le comptable assignataire ;\r\n\r\n-l'imputation budgétaire ;\r\n\r\n-la nature des dépenses à payer ;\r\n\r\n-le délai dans lequel les justifications des dépenses doivent être produites au comptable de rattachement, ce délai ne pouvant excéder trois mois ni dépasser le 31 décembre de l'année budgétaire concerné.\r\n\r\nLes autres dispositions relatives aux régies d'avances sont fixées conformément aux dispositions de l'article 44 ci-dessus.",
+   "chunk_id": "DOC-779f10015602-C0105",
+   "text_hash": "c71ff18193c50d8584f0178bc79906beeac2a49c"
+  },
+  {
+   "article": "Article 106",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Sont des opérations de trésorerie et de financement, tous les mouvements de numéraires, de valeurs mobilisables, de comptes de dépôts, de comptes courants et de comptes de créances et de dettes à court, moyen et long termes.",
+   "chunk_id": "DOC-779f10015602-C0106",
+   "text_hash": "1a117ae97d7357f685b770eece9a6401b98e77fc"
+  },
+  {
+   "article": "Article 107",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les opérations de trésorerie comprennent notamment :\r\n\r\n-la centralisation et la répartition des fonds publics dans l'espace et dans le temps ;\r\n\r\n-l'escompte et l'encaissement des effets et obligations émis au profit de l'Etat ;\r\n\r\n-la gestion des fonds déposés par les correspondants et les opérations faites pour leur compte ;\r\n\r\n-la gestion des fonds consignés par les particuliers ou pour leur compte ;\r\n\r\n-les opérations de prêts et avances octroyés par l'Etat ;\r\n\r\n-l'encaissement des produits de cessions d'actifs.",
+   "chunk_id": "DOC-779f10015602-C0107",
+   "text_hash": "9750d7e48a216b09b141e308744de77eb88ba3eb"
+  },
+  {
+   "article": "Article 108",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les opérations de financement comprennent l'émission, la conversion, la gestion et le remboursement des emprunts à court, moyen et long termes et des autres dettes de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0108",
+   "text_hash": "3e244993aade6dde182b98b6cdc6efe54f931cb7"
+  },
+  {
+   "article": "Article 109",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Toute convention de financement contractée par l'Etat sous forme d'emprunt, d'ouverture de ligne de crédits, de marché ou convention à paiement différé, doit être autorisée par une loi.\r\n\r\nLes tirages sur conventions doivent être conformes aux autorisations données par les lois de finances.\r\n\r\nCes tirages font l'objet d'ordres de recette établis par l'ordonnateur.\r\n\r\nLorsque le tirage correspond à une dépense financée par la convention, cette dépense est ordonnancée pour ordre, dans des conditions fixées par le ministre responsable.",
+   "chunk_id": "DOC-779f10015602-C0109",
+   "text_hash": "293e535858e52a86218aae236b1f2da95fe0c70b"
+  },
+  {
+   "article": "Article 110",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les créances résultant d'un emprunt d'Etat auprès du public donnent lieu à la remise d'un titre au souscripteur. Elles peuvent toutefois être inscrites au crédit d'un compte courant de titres, dans les conditions fixées par arrêté du ministre responsable.\r\n\r\nLes titres sont établis sous forme nominative ou au porteur. Ils ne peuvent être délivrés aux souscripteurs avant que ceux-ci ne se soient libérés de la totalité de leur souscription.\r\n\r\nLes conditions dans lesquelles les titres détériorés, détruits, perdus ou volés peuvent être frappés d’opposition, remplacés ou remboursés sont fixées par le ministre responsable.",
+   "chunk_id": "DOC-779f10015602-C0110",
+   "text_hash": "8a1113a798f1d39e3e8b147135b617094a946649"
+  },
+  {
+   "article": "Article 111",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Le Trésor Public a un seul compte ouvert au nom de l'Etat dans les livres de la Banque Centrale dans lequel toutes les ressources détenues par l'ensemble des comptables publics sont déposées et duquel tous les décaissements sont effectués.",
+   "chunk_id": "DOC-779f10015602-C0111",
+   "text_hash": "d4b15c9f93c7da89c7baad95ac07467edc010014"
+  },
+  {
+   "article": "Article 112",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les conditions d'ouverture et de fonctionnement des comptes de disponibilités des comptables sont fixées par arrêté du Ministre chargé des Comptes Publics.\r\n\r\nLes agents de l'Etat n'ayant pas la qualité de comptable public ou de régisseur de recettes ou d'avances ne peuvent se faire ouvrir es qualités un compte de disponibilités.\r\n\r\nLe Ministre chargé des Comptes Publics fixe les règles relatives à la limitation des encaisses des comptables et des régisseurs de recettes ou d'avances, ainsi qu'à la limitation de l'actif des comptes ouverts à leur nom.",
+   "chunk_id": "DOC-779f10015602-C0112",
+   "text_hash": "f6c43755874108980bc2e1254d0de05d37e0f718"
+  },
+  {
+   "article": "Article 113",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "A l'exception des mouvements de numéraire nécessités par l'approvisionnement ou le nivellement des caisses des comptables, tous les règlements entre comptables publics sont réalisés par virement de compte.\r\n\r\nLe Ministre chargé des Comptes Publics peut prescrire aux comptables ou aux correspondants du Trésor Public, toute procédure susceptible de simplifier les opérations de règlement ou d'en réduire les délais.\r\n\r\nIl fixe également les modalités selon lesquelles s'exécutent les mouvements de numéraire entre comptables publics.",
+   "chunk_id": "DOC-779f10015602-C0113",
+   "text_hash": "2cf2d8c8020a370745d21e953d8f7d326115e268"
+  },
+  {
+   "article": "Article 114",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les comptables publics procèdent à l’encaissement des traites et obligations qu’ils détiennent.\r\n\r\nIls peuvent présenter les traites à l’escompte dans les conditions définies par le Ministre chargé des Comptes Publics.\r\n\r\nIls sont seuls responsables de la concession et du contrôle du crédit en faveur des soumissionnaires admis à se libérer par traites et obligations.",
+   "chunk_id": "DOC-779f10015602-C0114",
+   "text_hash": "c205a85f78e87d88775232863a5a6bba9cce8347"
+  },
+  {
+   "article": "Article 115",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les correspondants du Trésor sont les personnes morales et les particuliers qui, soit en application des textes en vigueur, soit en vertu de conventions, déposent à titre obligatoire ou facultatif des fonds au Trésor ou sont autorisés à procéder à des opérations de recettes ou de dépenses par l'intermédiaire des comptables directs du Trésor.\r\n\r\nLe Ministre chargé des Comptes Publics fixe les conditions d'ouverture et de fonctionnement des comptes des correspondants ainsi que, le cas échéant, les taux et le mode de liquidation de l'intérêt qui peut leur être alloué.",
+   "chunk_id": "DOC-779f10015602-C0115",
+   "text_hash": "f7bd80354901f636afdeee7ee65cd637c3d697fa"
+  },
+  {
+   "article": "Article 116",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Sauf dérogations prévues par les textes en vigueur, les comptes des correspondants ne peuvent présenter de découvert.",
+   "chunk_id": "DOC-779f10015602-C0116",
+   "text_hash": "93d7fdbe63d3eb96e0431d8ec3d77a93d23254c3"
+  },
+  {
+   "article": "Article 117",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 3 : Des opérations de trésorerie et de financement",
+   "text": "Les comptables publics habilités à assurer un service de dépôt de fonds particulier sont tenus de déposer au Trésor Public tous les fonds ou valeurs qui leur sont confiés à ce titre.",
+   "chunk_id": "DOC-779f10015602-C0117",
+   "text_hash": "727f561aa29301bd9c5e07e040cffb637e01f025"
+  },
+  {
+   "article": "Article 118",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 4 : Des opérations de patrimoine",
+   "text": "Les opérations de patrimoine concernent les biens de l'Etat ainsi que les objets et valeurs appartenant à des tiers, confiés à la gestion de l'Etat.\r\n\r\nLes modalités de prise en charge, d’emploi et de conservation de ces biens, objets et valeurs sont fixées par décret pris sur proposition du Ministre chargé du Budget.",
+   "chunk_id": "DOC-779f10015602-C0118",
+   "text_hash": "435c5bc4e79b66bcb2e9ecb597cac447fd839027"
+  },
+  {
+   "article": "Article 119",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre IV : Des opérations > Section 4 : Des opérations de patrimoine",
+   "text": "Le Ministre chargé du Budget détermine, le cas échéant, en accord avec le ministre intéressé :\r\n\r\n-les règles de classement et d'évaluation des stocks et des éléments du patrimoine mobilier et immobilier ;\r\n\r\n-les limites dans lesquelles doivent être fixés les taux d'amortissement ou les provisions pour dépréciation ;\r\n\r\n-les modalités de réévaluation des éléments patrimoniaux.",
+   "chunk_id": "DOC-779f10015602-C0119",
+   "text_hash": "08e3a498399047fad2f470fedcbffae20142da2c"
+  },
+  {
+   "article": "Article 120",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les opérations budgétaires, de trésoreries et de financement doivent être appuyées des pièces justificatives prévues dans la nomenclature des pièces justificatives en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0120",
+   "text_hash": "6ec55cfc6687c8573191ef60850057a3cb5e3dba"
+  },
+  {
+   "article": "Article 121",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les justificatifs des recettes concernant le budget général et les comptes spéciaux sont notamment constitués par :\r\n\r\n-les états récapitulatifs du montant des émissions d'impôts et taxes ;\r\n\r\n-les originaux des ordres de recettes et des titres de réduction, ainsi que les relevés récapitulatifs de ces ordres et de ces titres visés par l'ordonnateur compétent ;\r\n\r\n-les états des produits recouvrés et des créances restant à recouvrer.",
+   "chunk_id": "DOC-779f10015602-C0121",
+   "text_hash": "8317543c7e00daa22d4f5bec27d10c4f2ed8e84a"
+  },
+  {
+   "article": "Article 122",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les justificatifs des dépenses concernant le budget général et les comptes spéciaux sont notamment constitués par :\r\n\r\n-les titres d'engagement visés par le contrôleur budgétaire ;\r\n\r\n-les pièces établissant la réalité du service fait et les droits des créanciers ;\r\n\r\n-les ordonnances de paiement ou de délégation, signées par l'ordonnateur et visées par le contrôleur budgétaire, accompagnées de leurs bordereaux récapitulatifs ;\r\n\r\n-le cas échéant, les ordres de réquisition établis par les ordonnateurs ;\r\n\r\n-l'acquit des créanciers ou les mentions attestant le paiement ;\r\n\r\n-les titres, valeurs ou coupons remis par les créanciers lors du paiement ;\r\n\r\n-les bordereaux et états récapitulatifs des dépenses des régisseurs ;\r\n\r\n-les pièces relatives au paiement avant service fait.",
+   "chunk_id": "DOC-779f10015602-C0122",
+   "text_hash": "5c5e2c65bcfd6039bdafc34b7b400a01e051fd80"
+  },
+  {
+   "article": "Article 123",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les justificatifs des opérations d'emprunt sont notamment constitués par :\r\n\r\n1- pour les tirages sur conventions de financement :\r\n\r\n-la loi autorisant l'emprunt ;\r\n\r\n-la convention ;\r\n\r\n-l'ordre de recette visé à l'article 54 ci-dessus ;\r\n\r\n-les pièces établissant la qualité et les droits du bénéficiaire du tirage lorsque le tirage correspond à une dépense financée par la convention ;\r\n\r\n-l’ordonnance de paiement émise pour ordre dans les conditions fixées à l’article 89 ci-dessus ;\r\n\r\n2- pour les remboursements liés aux conventions de financement ou d’avals :\r\n\r\n-le texte autorisant la convention de financement ou d’aval ;\r\n\r\n-les pièces établissant la qualité et les droits du créancier.",
+   "chunk_id": "DOC-779f10015602-C0123",
+   "text_hash": "21dc7416843f2eafdd6ef364f9fea586fabaa90e"
+  },
+  {
+   "article": "Article 124",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les justificatifs des opérations de trésorerie sont notamment constitués par :\r\n\r\n-les certificats d'accord ou les états de développement des soldes ;\r\n\r\n-les chèques, ordres de paiement ou de virement remis par les titulaires des comptes de dépôt, ou les mandats de trésorerie dûment acquittés ;\r\n\r\n-les bons de caisse ou chèques sur le Trésor ;\r\n\r\n-les bons de commande sur crédits délégués.",
+   "chunk_id": "DOC-779f10015602-C0124",
+   "text_hash": "8a15437cbf7371985d4143548a6851eaffcc1ef1"
+  },
+  {
+   "article": "Article 125",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les documents justificatifs visés au présent chapitre font l'objet d'une nomenclature générale fixée par les textes en vigueur.\r\n\r\nLorsque certaines opérations n'ont pas été prévues par la nomenclature, les justificatifs produits doivent, en tout état de cause, permettre d'établir la régularité de la dette et du paiement.",
+   "chunk_id": "DOC-779f10015602-C0125",
+   "text_hash": "5e18ec3f4909e38fec71fdb7919de02a5ff7bb3a"
+  },
+  {
+   "article": "Article 126",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les ordonnateurs et les régisseurs sont tenus de produire les pièces justificatives de leurs opérations à leur comptable assignataire.\r\n\r\nEn cas de perte, de vol, de destruction ou de détérioration de ces pièces, les comptables peuvent pourvoir à leur remplacement sous forme de duplicata.",
+   "chunk_id": "DOC-779f10015602-C0126",
+   "text_hash": "33393a3e7a7b38b14f71f08171b2bef38eb88ade"
+  },
+  {
+   "article": "Article 127",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre V : Des justificatifs des opérations",
+   "text": "Les justificatifs sont produits par les comptables secondaires aux comptables principaux et par les comptables principaux au juge des comptes.\r\n\r\nToutefois, le Ministre chargé des Comptes Publics peut autoriser les comptables à conserver certaines pièces justificatives. Il fixe par ailleurs les conditions dans lesquelles les justificatifs peuvent être détruits après jugement des comptes.",
+   "chunk_id": "DOC-779f10015602-C0127",
+   "text_hash": "66de3a3a326d5d5e4383df776ad9823f46acfdc9"
+  },
+  {
+   "article": "Article 128",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre VI : De la période d'exécution des opérations",
+   "text": "Les opérations du budget général de l'Etat et des comptes spéciaux sont exécutées selon le système de l'exercice.\r\n\r\nLes opérations sont prises en compte au titre de l'exercice auquel elles se rattachent, indépendamment de leur date de paiement ou d'encaissement.",
+   "chunk_id": "DOC-779f10015602-C0128",
+   "text_hash": "3a3a17a4bd662a362701a430f08c73be7cc92da9"
+  },
+  {
+   "article": "Article 129",
+   "context": "Titre III : Du cadre de gestion au niveau de l’Etat > Chapitre VI : De la période d'exécution des opérations",
+   "text": "Les engagements de dépenses s'imputent sur les crédits du budget de l'année en cours.\r\n\r\nIls doivent être visés par le contrôleur budgétaire avant le 20 décembre.\r\n\r\nLe service correspondant à ces engagements doit être exécuté au plus tard le 31 décembre de l'année concernée.",
+   "chunk_id": "DOC-779f10015602-C0129",
+   "text_hash": "2ba1af0bdc298c3cb7c78b18a9b1725dd1de598e"
+  },
+  {
+   "article": "Article 130",
+   "context": "Titre IV: De la comptabilité de l'Etat",
+   "text": "La comptabilité de l'Etat a pour objet la description, le contrôle des opérations ainsi que l'information des autorités de contrôle et de gestion. Elle est organisée en vue de permettre notamment :\r\n\r\n-la connaissance et le contrôle des opérations budgétaires, des opérations de trésorerie et de financement ;\r\n\r\n-la connaissance de la situation du patrimoine et des opérations de régularisation ;\r\n\r\n-l'analyse des coûts des différentes actions engagées dans le cadre des programmes ;\r\n\r\n-la détermination des résultats annuels ;\r\n\r\n-l’intégration des opérations dans la comptabilité économique nationale.\r\n\r\nElle comprend :\r\n\r\n-une comptabilité budgétaire ;\r\n\r\n-une comptabilité générale ;\r\n\r\n-une comptabilité d'analyse des coûts des différentes actions engagées dans le cadre de la mise en œuvre des programmes ;\r\n\r\n-une comptabilité des matières, valeurs et titres.",
+   "chunk_id": "DOC-779f10015602-C0130",
+   "text_hash": "849d59f610507c9a15cf029b61a0fb5b1aed8b40"
+  },
+  {
+   "article": "Article 131",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre Ier : De la comptabilité budgétaire",
+   "text": "La comptabilité budgétaire a pour objet de retracer, pour chaque exercice, les opérations d'exécution du budget de l'Etat en recettes et en dépenses, conformément à la nomenclature de présentation et de vote du budget\r\n\r\nElle permet de suivre les liquidations, émissions, prises en charge, recouvrements et restes à recouvrer en matière de recettes, d'une part, les engagements, liquidations, ordonnancements, paiements et restes à payer en matière de dépenses, d'autre part.\r\n\r\nLa comptabilité budgétaire dégage un résultat correspondant à la différence entre les recettes encaissées et les dépenses décaissées sur le budget général et les comptes spéciaux au titre de l'année considérée.",
+   "chunk_id": "DOC-779f10015602-C0131",
+   "text_hash": "7bfa2c54c7aede73e077e42666ce8a6c40059900"
+  },
+  {
+   "article": "Article 132",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre Ier : De la comptabilité budgétaire",
+   "text": "La comptabilité budgétaire est tenue dans la phase administrative par les ordonnateurs et dans la phase comptable par les comptables publics.\r\n\r\nElle permet de fournir la situation d'exécution du budget par entité attributaire et par programme.\r\n\r\nElle est tenue en partie simple.",
+   "chunk_id": "DOC-779f10015602-C0132",
+   "text_hash": "a771f541c6f9bafb52ef5c0fb94262a55a7bd5fb"
+  },
+  {
+   "article": "Article 133",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre Ier : De la comptabilité budgétaire",
+   "text": "La période couverte par la comptabilité budgétaire correspond à la période de gestion couvrant l’année civile.\r\n\r\nToutefois des dépenses budgétaires engagées et liquidées au cours de l'exercice budgétaire peuvent être payées après la fin de cet exercice, au cours d'une période complémentaire dont la durée ne peut excéder trente jours étant entendu que, lorsqu'une loi de finances rectificative est promulguée au cours du dernier mois de l'année civile, les opérations de recettes et de dépenses qu'elle prévoit peuvent être exécutées au cours de cette période complémentaire.",
+   "chunk_id": "DOC-779f10015602-C0133",
+   "text_hash": "c3f90e7a69b806634452f6f512cbf33976d054b4"
+  },
+  {
+   "article": "Article 134",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre Ier : De la comptabilité budgétaire",
+   "text": "Les comptes générés par la comptabilité budgétaire sont constitués des comptes administratifs établis par les ordonnateurs et consolidés par le ministre responsable, appuyés des états de développement de recettes budgétaires et des états de développement des dépenses budgétaires établis par les comptables principaux consolidés par le comptable supérieur compétent.",
+   "chunk_id": "DOC-779f10015602-C0134",
+   "text_hash": "e44d9d314bc5b235d8158c8d26869a2d538f0ac2"
+  },
+  {
+   "article": "Article 135",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre II : De la comptabilité générale de l'Etat",
+   "text": "L'organisation de la comptabilité générale de l'Etat repose sur les principes suivants :\r\n\r\n-la déconcentration de la comptabilité générale, en vue de la rapprocher du fait générateur et des ordonnateurs ainsi que de leurs services gestionnaires ;\r\n\r\n-l'inscription au bilan de l'Etat de tous les flux de gestion portant sur les actifs non financiers, les dettes et créances, en vue de la connaissance du patrimoine public et partant, de la capacité de l'Etat à faire face à ses engagements.",
+   "chunk_id": "DOC-779f10015602-C0135",
+   "text_hash": "14f9954152b773d88e6396131f1d1dca0ff05ba3"
+  },
+  {
+   "article": "Article 136",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre II : De la comptabilité générale de l'Etat",
+   "text": "La comptabilité générale de l’Etat a pour objet de décrire le patrimoine de l’Etat et son évolution.\r\n\r\nElle est fondée sur le principe de la constatation des droits et obligations. Les opérations sont prises en compte au titre de l'exercice auquel elles se rattachent indépendamment de leur date de paiement ou d’encaissement. Elle est tenue en partie double sur la base du plan comptable général.\r\n\r\nLes règles applicables à la comptabilité générale de l'Etat s'inspirent des normes comptables internationalement reconnues.\r\n\r\nLes comptables publics sont chargés de la tenue et de l'établissement des comptes de l'Etat, dans le respect des principes et règles de la profession comptable. Ils s'assurent notamment de la sincérité des enregistrements comptables et du respect des procédures.",
+   "chunk_id": "DOC-779f10015602-C0136",
+   "text_hash": "eca58e11186f428c81045fc529b8bbe65b4d8450"
+  },
+  {
+   "article": "Article 137",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre II : De la comptabilité générale de l'Etat",
+   "text": "A la fin de chaque année, le Compte Général de l'Etat est produit par le comptable centralisateur supérieur de l'Etat sous l'autorité du Ministre chargé des Comptes Publics.\r\n\r\nIl comprend la balance générale des comptes de l'Etat, établie mensuellement et les états financiers suivants :\r\n\r\n-le bilan ;\r\n\r\n-le compte de résultat ;\r\n\r\n-le tableau des flux de trésorerie ;\r\n\r\n-l'état annexé dans les conditions définies par le décret portant plan comptable de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0137",
+   "text_hash": "f9733666f9a66ecfae8b11dde1a8e17da4471352"
+  },
+  {
+   "article": "Article 138",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre II : De la comptabilité générale de l'Etat",
+   "text": "La certification de la régularité et de la sincérité des états financiers est assurée par la Cour des Comptes.",
+   "chunk_id": "DOC-779f10015602-C0138",
+   "text_hash": "d84c2230f4c786c1df5173e0fcaa1ad4d69e5a7f"
+  },
+  {
+   "article": "Article 139",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre III : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières, valeurs et titres est une comptabilité d'inventaire permanent ayant pour objet la description des existants, des biens mobiliers et immobiliers, des stocks et des valeurs inactives autres que les deniers et archives administratives appartenant à l'Etat.\r\n\r\nElle permet de réceptionner, d'enregistrer, de suivre et de contrôler, en quantité et en qualité, les différents corps ayant une propriété physique et matérielle.",
+   "chunk_id": "DOC-779f10015602-C0139",
+   "text_hash": "6d894b8344564f04982ba1a629ed11c7089c5e3c"
+  },
+  {
+   "article": "Article 140",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre III : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières, valeurs et titres est une comptabilité auxiliaire tenue en partie simple ou en partie double. Elle décrit l'existant et les mouvements d'entrée et de sortie concernant :\r\n\r\n-les immobilisations incorporelles et corporelles ;\r\n\r\n-les stocks de marchandises et fournitures ;\r\n\r\n-les titres nominatifs, au porteur ou à ordre, et les valeurs diverses appartenant ou confiées à l'Etat ainsi que les objets qui lui sont remis en dépôt ;\r\n\r\n-les formules, titres, tickets et vignettes destinés à l'émission ou à la vente.\r\n\r\nDes inventaires et comptes d'emploi sont établis à date fixe et à l'occasion des contrôles effectués par les organes habilités.",
+   "chunk_id": "DOC-779f10015602-C0140",
+   "text_hash": "f5183250894f492591193d26aaa6548356cdd682"
+  },
+  {
+   "article": "Article 141",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre III : De la comptabilité des matières, valeurs et titres",
+   "text": "Les biens corporels et incorporels acquis avant la date d’effet du présent décret sont inventoriés, immatriculés, valorisés et enregistrés dans les livres suivant les modalités, méthodes et techniques définies par les textes en vigueur.\r\n\r\nLes nouvelles acquisitions sont enregistrées au fur et à mesure des certifications délivrées par les ordonnateurs et des imputations données par les comptables aux comptes appropriés.\r\n\r\nDes rapprochements contradictoires périodiques sont effectués entre les données de la comptabilité matière et celles de la comptabilité générale de l’Etat.",
+   "chunk_id": "DOC-779f10015602-C0141",
+   "text_hash": "4c7dd0890a20096ff79aca428cef3a70e403be4c"
+  },
+  {
+   "article": "Article 142",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre III : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières est tenue par des agents habilités par les ordonnateurs.\r\n\r\nCes derniers sont responsables des mouvements qu'ils ordonnent sur les éléments du patrimoine.\r\n\r\nL’organisation et le système comptables applicables à la comptabilité matières sont définis par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0142",
+   "text_hash": "ab05b17ed878b533c10b48760dc71e36e20d637d"
+  },
+  {
+   "article": "Article 143",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre IV : De la comptabilité analytique des coûts",
+   "text": "La comptabilité d'analyse des coûts a pour objet de faire apparaître les éléments de coûts des actions engagées dans le cadre de la mise en œuvre des programmes de politiques publiques.\r\n\r\nLa comptabilité analytique est autonome. Elle s'appuie sur les données de la comptabilité générale.",
+   "chunk_id": "DOC-779f10015602-C0143",
+   "text_hash": "371487852863c5c2210dccd1fa4a3d2173aad97d"
+  },
+  {
+   "article": "Article 144",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre IV : De la comptabilité analytique des coûts",
+   "text": "La comptabilité analytique permet de justifier les crédits indispensables à la conduite des actions et de mettre en évidence les éléments nécessaires à la mesure de la performance au sein des programmes.\r\n\r\nElle est également destinée à fournir des éléments de comparaison dans l'espace et dans le temps et éventuellement entre différentes structures administratives.\r\n\r\nLes règles relatives à la tenue de la comptabilité analytique sont fixées par voie réglementaire.",
+   "chunk_id": "DOC-779f10015602-C0144",
+   "text_hash": "f7b62c090b9bfb288785b6baa8cf1b1d2398d7bc"
+  },
+  {
+   "article": "Article 145",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre V : Des résultats et des états financiers annuels",
+   "text": "Le compte de résultat décrit l'ensemble des excédents et des déficits de l'Etat au cours de chaque exercice.\r\n\r\nY sont imputés, le solde des recettes et des dépenses du budget général ainsi que les excédents et les déficits constatés dans l'exécution des comptes spéciaux du Trésor.",
+   "chunk_id": "DOC-779f10015602-C0145",
+   "text_hash": "36c8a5f469fcb7f03594d6f84d4c7f054f8b666f"
+  },
+  {
+   "article": "Article 146",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre V : Des résultats et des états financiers annuels",
+   "text": "Les états financiers de l'Etat forment un tout indissociable comprenant :\r\n\r\n-le bilan ;\r\n\r\n-le compte de résultat ;\r\n\r\n-le tableau de flux de trésorerie ;\r\n\r\n-l'état annexé.",
+   "chunk_id": "DOC-779f10015602-C0146",
+   "text_hash": "858a518d837476f456fa483fe79caada5a65667f"
+  },
+  {
+   "article": "Article 147",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre V : Des résultats et des états financiers annuels",
+   "text": "Le Ministre chargé des Comptes Publics fixe les conditions d'exécution des opérations permettant la détermination des résultats annuels.\r\n\r\nIl fixe en particulier les délais impartis en fin de gestion aux différentes catégories de comptables publics de l’Etat pour achever l’imputation des opérations budgétaires de l’année écoulée et arrêter les écritures.\r\n\r\nIl fixe également les modalités suivant lesquelles les comptables principaux sont tenus de rendre au juge des comptes le compte annuel comprenant tous les actes de leur gestion.",
+   "chunk_id": "DOC-779f10015602-C0147",
+   "text_hash": "d5a30ca953362b18c25b88e5fa09e52ba0042545"
+  },
+  {
+   "article": "Article 148",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre V : Des résultats et des états financiers annuels",
+   "text": "Les comptes de l'Etat sont dressés chaque année sous l'autorité du Ministre chargé des Comptes Publics.\r\n\r\nLe compte général de l'Etat est établi par comptable centralisateur supérieur de l'Etat par intégration des écritures des comptables principaux.",
+   "chunk_id": "DOC-779f10015602-C0148",
+   "text_hash": "e92faf14d298ad42ca1dc9a2adf0b2746ba59c49"
+  },
+  {
+   "article": "Article 149",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre V : Des résultats et des états financiers annuels",
+   "text": "Le compte général administratif de l'Etat et le compte général de l'Etat sont transmis par le Ministre chargé des Comptes Publics au juge des comptes avant le 30 mars de l'année suivant celle au titre de laquelle ils sont établis.",
+   "chunk_id": "DOC-779f10015602-C0149",
+   "text_hash": "9547d31192ddfcf4b64414c1c7d6d56c70ae2466"
+  },
+  {
+   "article": "Article 150",
+   "context": "Titre IV: De la comptabilité de l'Etat > Chapitre V : Des résultats et des états financiers annuels",
+   "text": "La loi de règlement approuve les comptes et règle définitivement le budget de l'Etat, conformément aux modalités fixées par la loi organique relative aux lois de finances et à l'exécution du budget.",
+   "chunk_id": "DOC-779f10015602-C0150",
+   "text_hash": "26301ff74535968ecdba55140450af02e1cb7ed0"
+  },
+  {
+   "article": "Article 151",
+   "context": "Titre V : Des contrôles",
+   "text": "Les opérations relatives à l'exécution des lois de finances sont soumises à un triple contrôle : parlementaire, administratif et juridictionnel.",
+   "chunk_id": "DOC-779f10015602-C0151",
+   "text_hash": "5e7976c1c86b44af86e604ee6532cf2d96f64689"
+  },
+  {
+   "article": "Article 152",
+   "context": "Titre V : Des contrôles > Chapitre Ier : Du contrôle parlementaire",
+   "text": "Sans préjudice des pouvoirs généraux de contrôle du Parlement, le contrôle parlementaire s'exerce à l'occasion de l'examen des projets de loi de finances, conformément aux dispositions de la loi organique relative aux lois de finances et à l'exécution du budget.\r\n\r\nLes commissions parlementaires ont tout pouvoir pour entreprendre toutes investigations et enquêtes relatives à l'exécution des lois de finances.",
+   "chunk_id": "DOC-779f10015602-C0152",
+   "text_hash": "344e13977ac2a5c4b17b8545d772074a7d8a6f5b"
+  },
+  {
+   "article": "Article 153",
+   "context": "Titre V : Des contrôles > Chapitre Ier : Du contrôle parlementaire",
+   "text": "Dans l'exercice de leur pouvoir de contrôle, les commissions parlementaires peuvent procéder, conformément aux modalités prévues par les textes en vigueur, à l'audition de tout responsable des administrations, organismes et institutions bénéficiaires du budget ou fonds publics relevant du champ d'application du présent décret, ainsi qu’à celle des préposés de ces responsables.\r\n\r\nLe secret professionnel ne peut leur être opposé et aucune entrave ne doit être posée à leur action.\r\n\r\nLes informations ou les investigations sur place que ces commissions demandent ne peuvent leur être refusées. Elles peuvent procéder à l'audition des responsables des institutions, des autorités administratives indépendantes, des ministres et de leurs préposés dans les conditions déterminées par les textes en vigueur. Toute personne entendue par ces commissions est, en ce qui concerne les questions budgétaires, financières et comptables, déliée du secret professionnel.",
+   "chunk_id": "DOC-779f10015602-C0153",
+   "text_hash": "0859f9b6818cc18d75746530569e7f08265f0723"
+  },
+  {
+   "article": "Article 154",
+   "context": "Titre V : Des contrôles > Chapitre Ier : Du contrôle parlementaire",
+   "text": "Le Ministre chargé des Comptes Publics, au nom et pour le compte du Gouvernement, transmet au Parlement, à titre d'information et aux fins de contrôle, des rapports trimestriels sur l'exécution du budget, en recettes comme en dépenses et sur l'application de la loi de finances.\r\n\r\nCes rapports sont mis à la disposition du public.",
+   "chunk_id": "DOC-779f10015602-C0154",
+   "text_hash": "4491755931f3d8afcc9e6a5d98f7c0129a9431ae"
+  },
+  {
+   "article": "Article 155",
+   "context": "Titre V : Des contrôles > Chapitre Ier : Du contrôle parlementaire",
+   "text": "Le Parlement peut s'appuyer sur la Cour des Comptes pour l'exercice du contrôle parlementaire. A ce titre, les commissions parlementaires chargées des finances peuvent demander à la Cour des Comptes la réalisation de toute enquête sur la gestion des services de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0155",
+   "text_hash": "8a735bdaceac7d005c48bc1cb35a9c6ac14277f4"
+  },
+  {
+   "article": "Article 156",
+   "context": "Titre V : Des contrôles > Chapitre II : Du contrôle administratif et du contrôle juridictionnel",
+   "text": "Le contrôle administratif comprend :\r\n\r\n-le contrôle hiérarchique de l'administration sur ses agents ;\r\n\r\n-le contrôle interne qui regroupe l'ensemble des procédures et méthodes permettant au responsable d'un service de s'assurer du bon fonctionnement de celui-ci et notamment de la bonne maîtrise des risques ;\r\n\r\n-le contrôle exercé par les inspections et corps de contrôle ;\r\n\r\n-le contrôle budgétaire et comptable tel que défini par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0156",
+   "text_hash": "bf8163284564c6ff9f4b070d5302d31370cc4ebe"
+  },
+  {
+   "article": "Article 157",
+   "context": "Titre V : Des contrôles > Chapitre II : Du contrôle administratif et du contrôle juridictionnel",
+   "text": "Le contrôle juridictionnel des opérations budgétaires et comptables de l'ensemble des administrations publiques est assuré par la Cour des Comptes, dans les conditions fixées par les textes en vigueur.\r\n\r\nCette juridiction est juge de l'opportunité de la publication de ses avis, décisions et rapports.",
+   "chunk_id": "DOC-779f10015602-C0157",
+   "text_hash": "a2d3b885838f1093247cc1d28180ca2fd9f40c5a"
+  },
+  {
+   "article": "Article 158",
+   "context": "Titre V : Des contrôles > Chapitre II : Du contrôle administratif et du contrôle juridictionnel",
+   "text": "Le contrôle juridictionnel porte notamment sur :\r\n\r\n-l'exécution des lois de finances ;\r\n\r\n-la régularité, la sincérité et la fidélité du compte général de l'Etat ;\r\n\r\n-la légalité financière et la conformité budgétaire de toutes les opérations de dépenses et de recettes de l'Etat ;\r\n\r\n-l'économie, l'efficacité et l'efficience de l'emploi des fonds publics au regard des objectifs fixés, des moyens utilisés et des résultats obtenus ainsi que la pertinence et la fiabilité des méthodes, indicateurs et données permettant de mesurer la performance des politiques et administrations publiques ;\r\n\r\n-toute question budgétaire, comptable et financière.",
+   "chunk_id": "DOC-779f10015602-C0158",
+   "text_hash": "ba3865c028365177a52f26ebadae9c651f18c146"
+  },
+  {
+   "article": "Article 159",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Les dispositions du présent titre s'appliquent aux collectivités locales et à leurs établissements publics.\r\n\r\nLes collectivités locales comprennent les communes, les départements et toutes autres entités locales qui pourraient être dotées par la loi de la personnalité juridique et de l’autonomie financière.",
+   "chunk_id": "DOC-779f10015602-C0159",
+   "text_hash": "036d0d3132db5c7001cb0d061b393b1478315117"
+  },
+  {
+   "article": "Article 160",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Les collectivités locales sont placées sous la tutelle administrative et la tutelle financière des ministères compétents.",
+   "chunk_id": "DOC-779f10015602-C0160",
+   "text_hash": "bdf9654123c04dd77ad356b6e4db2b0edf48914b"
+  },
+  {
+   "article": "Article 161",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Le budget des collectivités locales est préparé, délibéré, voté, adopté et rendu exécutoire dans les conditions fixées par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0161",
+   "text_hash": "18313a3a9123e80116d41f38ad68c82d0228531a"
+  },
+  {
+   "article": "Article 162",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Le budget local est l'acte par lequel sont prévues et autorisées les dépenses et les recettes d’une collectivité locale.\r\n\r\nIl correspond à l’année civile. Les autorisations qu’il prévoit sont annuelles.\r\n\r\nLes budgets locaux comportent pour chaque exercice, un budget primitif et éventuellement un budget additionnel.",
+   "chunk_id": "DOC-779f10015602-C0162",
+   "text_hash": "26d0bb7d89a93480756c5c6b4ecb58c57ec2a473"
+  },
+  {
+   "article": "Article 163",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Le projet de budget primitif est élaboré par l'ordonnateur, sur la base des hypothèses validées au cours d’un débat d’orientation budgétaire.\r\n\r\nLe débat d'orientation budgétaire a notamment pour but de présenter :\r\n\r\n-les perspectives économiques et financières nationales ;\r\n\r\n-la situation budgétaire et financière de la collectivité et les perspectives d'évolution ;\r\n\r\n-les orientations de l'année à venir tant en fonctionnement qu'en investissement avec présentation des engagements pluriannuels.\r\n\r\nUn arrêté conjoint des Ministres chargé des Collectivités Locales, du Budget et de l'Economie fixe les modalités d'application des dispositions du présent article.",
+   "chunk_id": "DOC-779f10015602-C0163",
+   "text_hash": "4d8ac9bcde52c42a8d7ece5d6fc8cadd84981e32"
+  },
+  {
+   "article": "Article 164",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Le projet de budget primitif préparé par l'ordonnateur, est soumis au vote de l'organe délibérant afin qu'il soit exécutoire au 1er janvier de l'exercice auquel il se rapporte.\r\n\r\nLorsque le budget d'une collectivité locale n'est pas voté avant la date limite fixée par les textes en vigueur, l'ordonnateur reconduit le budget de fonctionnement de l'exercice en cours.",
+   "chunk_id": "DOC-779f10015602-C0164",
+   "text_hash": "b9a477e44f001999f9f069054ecfb431335d5692"
+  },
+  {
+   "article": "Article 165",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Le budget additionnel est établi, délibéré et adopté au plus tard le 30 juin de l'année en cours.",
+   "chunk_id": "DOC-779f10015602-C0165",
+   "text_hash": "46ef2d8b04d6fbc8d8b969c17142ed69187b152f"
+  },
+  {
+   "article": "Article 166",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Le projet de budget primitif doit être accompagné des pièces suivantes :\r\n\r\n-la note de présentation du budget ;\r\n\r\n-l'état de l'actif ;\r\n\r\n-l'état du passif ;\r\n\r\n-l'état des dépenses de personnel ;\r\n\r\n-le projet de délibération portant vote du budget ;\r\n\r\n-les projets de conventions et marchés et les projets de délibérations y afférents.",
+   "chunk_id": "DOC-779f10015602-C0166",
+   "text_hash": "a377629effaef399056025a9633323f873a16b7a"
+  },
+  {
+   "article": "Article 167",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Outre les documents visés à l'article 166 ci-dessus, le projet de budget additionnel doit être accompagné des pièces suivantes :\r\n\r\n-le compte administratif de l'exercice précédent ;\r\n\r\n-l'état des restes à recouvrer ;\r\n\r\n-l'état des restes à payer.",
+   "chunk_id": "DOC-779f10015602-C0167",
+   "text_hash": "46ec08c154cc2637d0aee0579b93445ba9127614"
+  },
+  {
+   "article": "Article 168",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Les projets de budget adoptés par les conseils locaux font l’objet d'arrêtés des ordonnateurs de ces conseils.\r\n\r\nIls sont rendus exécutoires dans les quinze jours de leur adoption par approbation de l'autorité de tutelle compétente.\r\n\r\nEn cas de refus, les projets de budgets sont soumis à l'appréciation du supérieur hiérarchique de cette autorité qui dispose d'un délai de quinze jours pour se prononcer.\r\n\r\nSi à l'expiration de ce délai, le projet de budget n'est toujours pas approuvé, le juge des comptes est saisi à la diligence de l'ordonnateur de la collectivité locale concernée.\r\n\r\nLe juge des comptes dispose d'un délai ferme de quinze jours pour statuer définitivement\r\n\r\nLe budget est alors rendu exécutoire conformément à la décision du juge des comptes.",
+   "chunk_id": "DOC-779f10015602-C0168",
+   "text_hash": "69660cbc55646a166c562e4c8f84a70e8b8065ca"
+  },
+  {
+   "article": "Article 169",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier : Des budgets des collectivités locales",
+   "text": "Les budgets locaux doivent être votés en équilibre réel.\r\n\r\nLa section de fonctionnement ne peut excéder 60% du budget.\r\n\r\nLes crédits pour les dépenses imprévues ne peuvent excéder 6% du budget de fonctionnement.\r\n\r\nDans tous les cas, une recette extraordinaire ne peut être destinée à faire face à des dépenses ordinaires.\r\n\r\nLe recours à l’emprunt ne peut intervenir que pour la section extraordinaire.",
+   "chunk_id": "DOC-779f10015602-C0169",
+   "text_hash": "6ca6b1ee986be76a7a25b7473c7f2dd83ea39b6b"
+  },
+  {
+   "article": "Article 170",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 1 : Des ordonnateurs",
+   "text": "Est ordonnateur d’une collectivité locale, toute personne ayant qualité pour prescrire, au nom de la collectivité concernée, l’exécution des recettes et des dépenses, notamment :\r\n\r\n-pour le budget communal, le maire de la commune ;\r\n\r\n-pour le budget départemental, le président du conseil départemental.\r\n\r\nSelon les modalités prévues par les textes en vigueur, les ordonnateurs locaux peuvent déléguer leurs pouvoirs à un ou plusieurs de leurs adjoints pour agir en leur nom et sous leur responsabilité ou aux maires d’arrondissement dans la limite des compétences dévolues à ces autorités.\r\n\r\nLes ordonnateurs peuvent également se faire suppléer en cas d’absence ou d’empêchement.\r\n\r\nLes ordonnateurs locaux sont soumis aux obligations et sanctions prévues par les textes en vigueur en matière de gestion des finances publiques.",
+   "chunk_id": "DOC-779f10015602-C0170",
+   "text_hash": "637e4469a42511ca4653268a1d46367a97e52818"
+  },
+  {
+   "article": "Article 171",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 1 : Des ordonnateurs",
+   "text": "Sous réserve des dispositions de l’article 176 ci-dessous, l’ordonnateur peut par écrit et sous sa responsabilité requérir le comptable de payer lorsque celui-ci suspend le paiement de la dépense.",
+   "chunk_id": "DOC-779f10015602-C0171",
+   "text_hash": "0a0039e1ab188e607d6ac7778f183d9f5c5c168f"
+  },
+  {
+   "article": "Article 172",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 2 : Des comptables des collectivités locales",
+   "text": "Il existe, pour chaque collectivité locale, un poste comptable principal à la tête duquel est placé un comptable direct du trésor.\r\n\r\nSauf disposition contraire, ce comptable est dénommé « receveur ». Il est comptable principal et, à ce titre, soumis aux obligations applicables aux comptables publics.",
+   "chunk_id": "DOC-779f10015602-C0172",
+   "text_hash": "45773f7a2b10279bacfe4da1ce8c0eeee7484a74"
+  },
+  {
+   "article": "Article 173",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 2 : Des comptables des collectivités locales",
+   "text": "Chaque comptable détient sous sa responsabilité, les fonds et valeurs de la collectivité locale dont il est assignataire.\r\n\r\nIl a seul qualité pour assurer le recouvrement des créances et le paiement des dettes dans la limite des crédits régulièrement ouvert et des fonds disponibles du budget de la collectivité locale.",
+   "chunk_id": "DOC-779f10015602-C0173",
+   "text_hash": "8d6345b1612addb3f45ce3949f879c1284c47197"
+  },
+  {
+   "article": "Article 174",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 2 : Des comptables des collectivités locales",
+   "text": "Les collectivités locales ne peuvent créer de régies d’avances ou de recettes que dans des cas exceptionnellement prévus par la réglementation en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0174",
+   "text_hash": "3f41954e0199cbb34e843ab92ed722f99007e1c4"
+  },
+  {
+   "article": "Article 175",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 2 : Des comptables des collectivités locales",
+   "text": "Lorsque, par application de l’article 171 ci-dessus, l’ordonnateur a requis le receveur de payer et que celui-ci défère à la réquisition, le receveur rend compte au Ministre chargé des Comptes Publics. Dans ce cas la responsabilité de l’ordonnateur se substitue à celle du comptable.\r\n\r\nUne copie de l’ordre de réquisition est transmise au juge des comptes pour information et l’original annexé au mandat de paiement.",
+   "chunk_id": "DOC-779f10015602-C0175",
+   "text_hash": "8f21cbae05781d6d0ddcb1e1514cdce11e8f82a8"
+  },
+  {
+   "article": "Article 176",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Des personnels d’exécution du budget des collectivités locales > Section 2 : Des comptables des collectivités locales",
+   "text": "Par dérogation aux dispositions de l'article 175 ci-dessus, le receveur doit refuser de déférer à l'ordre de réquisition lorsque la suspension de paiement est motivée par :\r\n\r\n-l’indisponibilité de crédit ;\r\n\r\n-l'absence de justification de service fait ;\r\n\r\n-le caractère non libératoire du règlement ;\r\n\r\n-le défaut de fonds disponible ;\r\n\r\n-l'absence de visa du contrôleur budgétaire lorsque ce visa est obligatoire.\r\n\r\nDans ces cas, le receveur rend immédiatement compte au Ministre chargé des Comptes Publics.",
+   "chunk_id": "DOC-779f10015602-C0176",
+   "text_hash": "b8be0cae12f6c108d5b19dfc20a685d8b9908d7f"
+  },
+  {
+   "article": "Article 177",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations",
+   "text": "Sauf dans les cas de dérogations expressément prévus par les textes en vigueur, les opérations de recettes, de dépenses et de financement sont autorisées par l'organe délibérant de chaque collectivité locale.",
+   "chunk_id": "DOC-779f10015602-C0177",
+   "text_hash": "dd5b80ef37d00afe84a9ae52ab45c3198fad91c6"
+  },
+  {
+   "article": "Article 178",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations",
+   "text": "L'exercice budgétaire commence le 1er janvier et se termine le 31 décembre de l'année en cours.\r\n\r\nToutefois, un délai est accordé pour compléter les opérations annuelles et la période de clôture de l'exercice. Cette clôture est alors fixée au 15 janvier de l'année suivante pour les dépenses engagées avant le 31 décembre de l'année précédente.",
+   "chunk_id": "DOC-779f10015602-C0178",
+   "text_hash": "372ceb368392eb9c3e5d152bebe0cc2c24c4b9a7"
+  },
+  {
+   "article": "Article 179",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "Les ressources des collectivités locales proviennent du produit des impôts et taxes locaux, des ristournes sur les impôts de répartition, des subventions, des emprunts, des dons, des legs et des fonds de concours et de toutes autres ressources propres ou affectées.",
+   "chunk_id": "DOC-779f10015602-C0179",
+   "text_hash": "36f3454455c101258339b4eb336f9066b2a266d6"
+  },
+  {
+   "article": "Article 180",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "La loi de finances autorise chaque année la perception des impôts, droits ou taxes assis au profit des collectivités locales et fixe le plafond des ristournes revenant à ces collectivités.\r\n\r\nLes délibérations des conseils sur les tarifs des droits et taxes ainsi que celles relatives aux emprunts, aux fonds de concours, aux dons et legs doivent faire l'objet d'une approbation contresignée par les ministres responsables.\r\n\r\nDans le ressort d'une collectivité locale, les directions régionales des impôts dirigent et surveillent l'assiette de tous les impôts dont le recouvrement au profit des collectivités a été autorisé.",
+   "chunk_id": "DOC-779f10015602-C0180",
+   "text_hash": "bfabf035bfa280d54680f0e8aeb921cd83cab6af"
+  },
+  {
+   "article": "Article 181",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "Les recettes assises au profit des collectivités locales donnent lieu à émission d'ordres de recette qui sont constitués par :\r\n\r\n-les rôles de contribution ou de régularisation ;\r\n\r\n-les certificats établis par l'administration fiscale ;\r\n\r\n-les avis de mise en recouvrement ;\r\n\r\n-les actes et contrats notariés et les jugements définitifs revêtus de la formule exécutoire ;\r\n\r\n-les états de recouvrement sur ordre de recettes établis par l'ordonnateur.\r\n\r\nLa répartition des ristournes a lieu périodiquement suivant le montant des recettes encaissées.\r\n\r\nLe Ministre chargé de l’Economie détermine la nature des recettes dont le produit est directement imputé au compte de la collectivité locale.",
+   "chunk_id": "DOC-779f10015602-C0181",
+   "text_hash": "5fcb5e7e9f7fe95b97a941c83481f4c535e62f7e"
+  },
+  {
+   "article": "Article 182",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "Les recettes sont liquidées par l'ordonnateur, conformément aux dispositions des textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0182",
+   "text_hash": "1a24c247647794b210740c0e77ef5f6a7216e44e"
+  },
+  {
+   "article": "Article 183",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "L'ordonnateur transmet au comptable les titres de recette qu'il a reçus ou établis sous bordereau en triple exemplaire, accompagnés des pièces justificatives. Le comptable les prend en charge et les notifie aux redevables.",
+   "chunk_id": "DOC-779f10015602-C0183",
+   "text_hash": "be5ae74bc84245ab16d2fc34974d2faf2bb41b13"
+  },
+  {
+   "article": "Article 184",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "Le comptable notifie à l'ordonnateur, sur bordereau en triple exemplaire, les recettes qu'il a encaissées sans émission de titre.\r\n\r\nL'ordonnateur arrête et signe les bordereaux dont il retourne au comptable deux exemplaires appuyés, s'il y a lieu, des titres de régularisation y afférents.\r\n\r\nLes réductions ou annulations de titres de recettes ayant pour but de rectifier des erreurs, sont constatées au vu de titres rectificatifs établis par l'ordonnateur et notifiées au comptable.\r\n\r\nLes bordereaux des titres à annuler sont établis suivant une série spéciale.",
+   "chunk_id": "DOC-779f10015602-C0184",
+   "text_hash": "9f9831bb6fcba619117ea3dcba09d807372ea4ec"
+  },
+  {
+   "article": "Article 185",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "Le comptable prend en charge, sous sa responsabilité, les titres de recettes. Il doit faire diligence pour recouvrer les produits aux échéances déterminées par les lois, les règlements ou les actes qui les régissent.\r\n\r\nIl délivre quittance pour toutes les sommes qui lui sont versées et émarge les recouvrements sur les titres de recettes.\r\n\r\nIl n'est toutefois pas délivré quittance lorsque le redevable reçoit, pour constater ses versements, des tickets, timbres, vignettes dont la possession justifie à elle seule le paiement des droits.",
+   "chunk_id": "DOC-779f10015602-C0185",
+   "text_hash": "4abe4aef4aad177fbd3d40faaf17f8cd3ec98796"
+  },
+  {
+   "article": "Article 186",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "Le receveur est tenu, sous sa responsabilité personnelle, de faire contre les débiteurs en retard, les exploits, significations et poursuites nécessaires.\r\n\r\nLes poursuites s'effectuent comme en matière de contributions directes.",
+   "chunk_id": "DOC-779f10015602-C0186",
+   "text_hash": "78c4423ed88482d90ba1eee6833c8bc2f5aab67a"
+  },
+  {
+   "article": "Article 187",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "A la clôture de l'exercice, et au plus tard le 15 janvier de l'exercice suivant, le receveur établit par nature de recettes, l'état des restes à recouvrer de l'exercice arrivé au terme de sa clôture et des gestions antérieures qu'il soumet au visa de l'ordonnateur.\r\n\r\nL'état visé est joint au compte de gestion. Un exemplaire est joint au compte administratif et un autre exemplaire, le cas échéant, au projet de budget additionnel.",
+   "chunk_id": "DOC-779f10015602-C0187",
+   "text_hash": "4ce02612c18cce0ce11695e47fc94e42105c3967"
+  },
+  {
+   "article": "Article 188",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recettes",
+   "text": "En matière d'impositions sur rôles, il est procédé à l'apurement des restes à recouvrer dans les mêmes conditions que pour les contributions directes.\r\n\r\nEn toute autre matière, le receveur adresse ses demandes d'admission en non-valeur à l'ordonnateur pour saisine du conseil.\r\n\r\nLa délibération du conseil devient exécutoire après son approbation par l'autorité de tutelle.\r\n\r\nNonobstant l’admission du titre en non-valeur, le comptable est tenu de poursuivre le recouvrement de la créance si la situation du débiteur le permet.\r\n\r\nLes décisions d’admission en non valeur sont notifiées par l’ordonnateur au receveur sous bordereaux de titres à annuler dont le montant vient en déduction des prises en charges antérieures.",
+   "chunk_id": "DOC-779f10015602-C0188",
+   "text_hash": "2cb0a38680cdd2fbd5ccc5f433725b96412c7c15"
+  },
+  {
+   "article": "Article 189",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "Les opérations de dépenses des collectivités locales sont exécutées en phases administrative et comptable, dans les mêmes formes et conditions que pour les dépenses de l'Etat, en tenant notamment compte de la disponibilité de la trésorerie.\r\n\r\nL'engagement, la liquidation et l'ordonnancement ou le mandatement des dépenses de la collectivité locale sont effectués par l'ordonnateur.\r\n\r\nLe paiement est effectué par le receveur.",
+   "chunk_id": "DOC-779f10015602-C0189",
+   "text_hash": "bc44cb46a8428fa30c51ecf28ac0bdee30a6cedc"
+  },
+  {
+   "article": "Article 190",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "Lorsque le montant des fonds disponibles d'une collectivité est inférieur aux sommes à payer, le comptable en informe l'ordonnateur qui fixe l'ordre de paiement des mandats en instance.\r\n\r\nPriorité est donnée au paiement des dépenses obligatoires, notamment les dépenses de personnel.\r\n\r\nLa date de paiement d'un mandat est fixée au plus tard au quinzième jour à partir de son dépôt auprès du receveur pour mise en paiement.\r\n\r\nToutefois, en cas d'urgence, le receveur ne pourra être interpelé qu'après le cinquième jour ouvré à partir du dépôt du mandat auprès du receveur pour mise en paiement.",
+   "chunk_id": "DOC-779f10015602-C0190",
+   "text_hash": "a2f2c216ad3e5ac495ca8390f5322c0b1ac5ed6c"
+  },
+  {
+   "article": "Article 191",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "Tout comptable qui refuse ou retarde indûment la mise en paiement d'un mandat ou qui n'a pas délivré à l'ordonnateur une déclaration motivée de suspension de paiement dans les délais fixés, engage sa responsabilité.",
+   "chunk_id": "DOC-779f10015602-C0191",
+   "text_hash": "a7f159a7c1738c3882fc490f4b1c043d3c7e1af1"
+  },
+  {
+   "article": "Article 192",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "En cours d'année, le comptable annote de la mention de paiement :\r\n\r\n-les bordereaux de mandats ;\r\n\r\n-les états des restes à payer.\r\n\r\nA la clôture de l'exercice, le comptable établit, sur la base des mandats visés et non payés, l'état des restes à payer et le soumet au visa de l'ordonnateur. Cet état est joint au compte de gestion, au compte administratif et au projet de budget primitif de l'année suivante.",
+   "chunk_id": "DOC-779f10015602-C0192",
+   "text_hash": "621f70d6d1ad593966be8d656da6b89ad87340d6"
+  },
+  {
+   "article": "Article 193",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "Les régies d'avances sont créées par arrêté de l'ordonnateur, sur délibération du conseil. Le receveur est le comptable assignataire. Le régisseur d'avances est un agent de 1a collectivité locale.\r\n\r\nLes titulaires locaux d'une caisse d'avances ou de recettes sont soumis aux mêmes obligations que les régisseurs d'avances ou de recettes de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0193",
+   "text_hash": "e76e7df6911e5a820211b93e8589b8873b45fbaf"
+  },
+  {
+   "article": "Article 194",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "Les fonds des collectivités locales sont obligatoirement déposés au Trésor Public et ne sont pas générateurs d'intérêts.\r\n\r\nToutefois les fonds provenant d’excédents d’exercices clos, de libéralités, du produit de l’aliénation d’un élément du patrimoine ou d’emprunts momentanément inutilisables peuvent être placés avec intérêt en valeurs d'Etat ou en valeurs garanties par l'Etat, après délibération du conseil approuvée par les ministres de tutelle.",
+   "chunk_id": "DOC-779f10015602-C0194",
+   "text_hash": "f26bd8019a90d30bd8d78f184634f9889c41cd17"
+  },
+  {
+   "article": "Article 195",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "Le Ministre chargé du Budget fixe, en accord avec le Ministre chargé des Collectivités Locales, la liste des opérations que les comptables locaux peuvent être habilités à exécuter au titre des services hors budget et des comptes qu'ils doivent ouvrir à cet effet.",
+   "chunk_id": "DOC-779f10015602-C0195",
+   "text_hash": "11dcf0e1ead44bc63770e0268c9cab6e9b0d3154"
+  },
+  {
+   "article": "Article 196",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 4 : Des justificatifs des opérations",
+   "text": "La liste des pièces justificatives des opérations de recettes et de dépenses est dressée conformément à la nomenclature des pièces justificatives fixée par la réglementation en vigueur.\r\n\r\nEn cas de perte, destruction ou vol des justificatifs remis au comptable, ce dernier peut pourvoir à leur remplacement sous forme de duplicata en accord avec l'ordonnateur.",
+   "chunk_id": "DOC-779f10015602-C0196",
+   "text_hash": "ad7f5c690f4d9b9fb3b16446794da9b63d748567"
+  },
+  {
+   "article": "Article 197",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 4 : Des justificatifs des opérations",
+   "text": "L'établissement, la conservation et la transmission des documents et pièces justificatives de toute nature peuvent, dans les conditions arrêtées par le Ministre chargé du Budget, être effectués sous forme dématérialisée.",
+   "chunk_id": "DOC-779f10015602-C0197",
+   "text_hash": "f88c092312963a3df41fd7e85f138d1b9ef0736a"
+  },
+  {
+   "article": "Article 198",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 4 : Des justificatifs des opérations",
+   "text": "La durée de conservation des pièces justificatives est de cinq ans à compter du premier jour de l'année suivant celle au cours de laquelle les comptes sont produits au juge des comptes.",
+   "chunk_id": "DOC-779f10015602-C0198",
+   "text_hash": "82f17437c5d9ca934f434bf30fc1e966196effb2"
+  },
+  {
+   "article": "Article 199",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales",
+   "text": "La comptabilité d'une collectivité locale a pour objet la description, le contrôle des opérations ainsi que l'information des autorités de contrôle et de gestion. Elle est organisée en vue de permettre notamment :\r\n\r\n-la connaissance et le contrôle des opérations budgétaires, des opérations de trésorerie et de financement ;\r\n\r\n-la connaissance de la situation du patrimoine et des opérations de régularisation ;\r\n\r\n-l'analyse des coûts des différentes actions engagées dans le cadre des programmes ;\r\n\r\n-la détermination des résultats annuels ;\r\n\r\n-l'intégration des opérations dans la comptabilité économique nationale.\r\n\r\nElle comprend :\r\n\r\n-une comptabilité budgétaire ;\r\n\r\n-une comptabilité générale ;\r\n\r\n-une comptabilité d'analyse des coûts des différentes actions engagées dans le cadre de la mise en œuvre des programmes ;\r\n\r\n-une comptabilité des matières, valeurs et titres.",
+   "chunk_id": "DOC-779f10015602-C0199",
+   "text_hash": "c5a7ecb8366d9b9df01d474b77137d6078b1d979"
+  },
+  {
+   "article": "Article 200",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 1 : De la comptabilité budgétaire",
+   "text": "La comptabilité budgétaire a pour objet de retracer, pour chaque exercice, les opérations d'exécution du budget de la collectivité locale concernée en recettes et en dépenses, conformément à la nomenclature de présentation et de vote des budgets locaux.\r\n\r\nElle permet de suivre les liquidations, émissions, prises en charge, recouvrements et restes à recouvrer en matière de recettes, d'une part, les engagements, liquidations, ordonnancements, paiements et reste à payer en matière de dépenses, d’autre part.\r\n\r\nLa comptabilité budgétaire dégage un résultat correspondant à la différence entre les recettes encaissées et les dépenses décaissées sur le budget de la collectivité locale concernée, au titre de l'année considérée.",
+   "chunk_id": "DOC-779f10015602-C0200",
+   "text_hash": "08a1808c186d216bcdbe48e56444e79f2fa21be3"
+  },
+  {
+   "article": "Article 201",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 1 : De la comptabilité budgétaire",
+   "text": "La comptabilité budgétaire est tenue dans la phase administrative par les ordonnateurs et dans la phase comptable par les comptables publics.\r\n\r\nElle permet de fournir la situation d'exécution du budget de la collectivité locale.\r\n\r\nElle est tenue en partie simple.",
+   "chunk_id": "DOC-779f10015602-C0201",
+   "text_hash": "54c80d08df167b7478e1656d809dc21ca4720be8"
+  },
+  {
+   "article": "Article 202",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 1 : De la comptabilité budgétaire",
+   "text": "La période couverte par la comptabilité budgétaire correspond à la période de gestion couvrant l'année civile.",
+   "chunk_id": "DOC-779f10015602-C0202",
+   "text_hash": "5384e95b7d6f1ba6f23519007a31fd971fb9415c"
+  },
+  {
+   "article": "Article 203",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 1 : De la comptabilité budgétaire",
+   "text": "Les comptes générés par la comptabilité budgétaire d'une collectivité locale sont constitués du compte administratif établi par l'ordonnateur, appuyé des états de développement des recettes budgétaires et des états de développement des dépenses budgétaires établis par le comptable principal compétent.",
+   "chunk_id": "DOC-779f10015602-C0203",
+   "text_hash": "b63543ca2f7a5292c508b423b64d6148328f30a8"
+  },
+  {
+   "article": "Article 204",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 1 : De la comptabilité budgétaire",
+   "text": "Le compte administratif présente, par chapitre et par article :\r\n\r\nEn recettes :\r\n\r\n-les prévisions budgétaires ;\r\n\r\n-les titres de recettes émis ;\r\n\r\n-les recouvrements effectués ;\r\n\r\n-les restes à recouvrer ;\r\n\r\n-les plus ou moins values constatées au titre des gestions antérieures et de la gestion arrivée à la clôture.\r\n\r\nEn dépenses :\r\n\r\n-les crédits ouverts ;\r\n\r\n-les engagements effectués ;\r\n\r\n-les mandats émis ;\r\n\r\n-les dépenses engagées mais non mandatées au titre des gestions antérieures et de la gestion arrivée à sa clôture ;\r\n\r\n-les paiements effectués et les crédits disponibles ;\r\n\r\n-les restes à payer.\r\n\r\nLes crédits non consommés en fin de gestion sont purement et simplement annulés.",
+   "chunk_id": "DOC-779f10015602-C0204",
+   "text_hash": "99f0704b1a9bbcef0def1c7958eface39d1fb116"
+  },
+  {
+   "article": "Article 205",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 1 : De la comptabilité budgétaire",
+   "text": "Le compte administratif est soumis à la délibération du conseil en même temps que le compte de gestion sur chiffres du receveur dans les délais prévus par les textes en vigueur.\r\n\r\nIl est soumis à l'approbation de l'autorité de tutelle, appuyé de la délibération du conseil et accompagné de l'avis du contrôleur budgétaire.",
+   "chunk_id": "DOC-779f10015602-C0205",
+   "text_hash": "d62c61f6a7b7b9aa396ce4400696d69823e539fc"
+  },
+  {
+   "article": "Article 206",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 2 : De la comptabilité générale des collectivités locales",
+   "text": "L'organisation de la comptabilité générale des collectivités locales repose sur les principes suivants :\r\n\r\n-la déconcentration de la comptabilité générale, en vue de la rapprocher du fait générateur et des ordonnateurs ainsi que de leurs services gestionnaires ;\r\n\r\n-l'inscription au bilan de la collectivité locale concernée, de tous les flux de gestion portant sur les actifs non financiers, les dettes et créances, en vue de la connaissance du patrimoine public et partant, de la capacité de la collectivité locale à faire face à ses engagements.",
+   "chunk_id": "DOC-779f10015602-C0206",
+   "text_hash": "342b320a76ce5a92709484be0ae5f45a65a49b2a"
+  },
+  {
+   "article": "Article 207",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 2 : De la comptabilité générale des collectivités locales",
+   "text": "La comptabilité générale a pour objet de décrire le patrimoine de la collectivité locale et son évolution.\r\n\r\nElle est fondée sur le principe de la constatation des droits et obligations. Les opérations sont prises en compte au titre de l'exercice auquel elles se rattachent, indépendamment de leur date de paiement ou d'encaissement. Elle est tenue en partie double sur la base du plan comptable général.\r\n\r\nLes règles applicables à la comptabilité générale des collectivités locales s'inspirent des normes comptables internationalement reconnues.\r\n\r\nLes comptables publics sont chargés de la tenue et de l'établissement des comptes des collectivités locales, dans le respect des principes et règles de la profession comptable. Ils s'assurent notamment de la sincérité des enregistrements comptables et du respect des procédures.",
+   "chunk_id": "DOC-779f10015602-C0207",
+   "text_hash": "a40130318ba020d219c3c6c8f0aaba6b04848f83"
+  },
+  {
+   "article": "Article 208",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières, valeurs et titres est une comptabilité d'inventaire permanent ayant pour objet la description des existants, des biens mobiliers et immobiliers, des stocks et des valeurs inactives autres que les deniers et archives administratives appartenant à la collectivité locale.\r\n\r\nElle permet de réceptionner, d'enregistrer, de suivre et de contrôler, en quantité et en qualité, les différents corps ayant une propriété physique et matérielle.",
+   "chunk_id": "DOC-779f10015602-C0208",
+   "text_hash": "dcf438b4f90435881f26010b7a1106391cc2840d"
+  },
+  {
+   "article": "Article 209",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières, valeurs et titres est une comptabilité auxiliaire tenue en partie simple ou en partie double. Elle décrit l'existant et les mouvements d'entrée et de sortie concernant :\r\n\r\n-les immobilisations incorporelles et corporelles ;\r\n\r\n-les stocks de marchandises et fournitures ;\r\n\r\n-les titres nominatifs, au porteur ou à ordre, et les valeurs diverses appartenant ou confiées à la collectivité locale ainsi que les objets qui lui sont remis en dépôt ;\r\n\r\n-les formules, titres, tickets et vignettes destinés à l'émission ou à la vente.\r\n\r\nDes inventaires et comptes d'emploi sont établis à date fixe et à l'occasion des contrôles effectués par les organes habilités.",
+   "chunk_id": "DOC-779f10015602-C0209",
+   "text_hash": "e61a0104aaa923336262ec14b4791074cc502153"
+  },
+  {
+   "article": "Article 210",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "Les biens corporels et incorporels acquis avant la date d'effet du présent décret sont inventoriés, immatriculés, valorisés et enregistrés dans les livres suivant les modalités, méthodes et techniques définies par les textes en vigueur.\r\n\r\nLes nouvelles acquisitions sont enregistrées au fur et à mesure des certifications délivrées par les ordonnateurs et des imputations données par les comptables aux comptes appropriés.\r\n\r\nDes rapprochements contradictoires périodiques sont effectués entre les données de la comptabilité matières et celles de la comptabilité générale de la collectivité locale.",
+   "chunk_id": "DOC-779f10015602-C0210",
+   "text_hash": "9e9215edaafc4d4d20afe8cdbc2fdc80a41eeb73"
+  },
+  {
+   "article": "Article 211",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières d’une collectivité locale est tenue par des agents habilités par l'ordonnateur.\r\n\r\nCes derniers sont responsables des mouvements qu’ils ordonnent sur les éléments du patrimoine.\r\n\r\nL’organisation et le système comptable applicables à la comptabilité matière sont définis par des textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0211",
+   "text_hash": "e90afadef0c057780472e74b7917c5012e0ed6b8"
+  },
+  {
+   "article": "Article 212",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 4 : De la comptabilité analytique des coûts",
+   "text": "La comptabilité d'analyse des coûts a pour objet de faire apparaître les éléments de coûts des actions engagées dans le cadre de la mise en œuvre des programmes de politiques publiques.\r\n\r\nLa comptabilité analytique est autonome. Elle s'appuie sur les données de la comptabilité générale.",
+   "chunk_id": "DOC-779f10015602-C0212",
+   "text_hash": "371487852863c5c2210dccd1fa4a3d2173aad97d"
+  },
+  {
+   "article": "Article 213",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV : De la comptabilité des collectivités locales > Section 4 : De la comptabilité analytique des coûts",
+   "text": "La comptabilité analytique permet de justifier les crédits indispensables à la conduite des actions et de mettre en évidence les éléments nécessaires à la mesure de la performance au sein des programmes.\r\n\r\nElle est également destinée à fournir des éléments de comparaison dans l'espace et dans le temps et éventuellement entre différentes structures administratives.\r\n\r\nLes règles relatives à la tenue de la comptabilité analytique sont fixées par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0213",
+   "text_hash": "f28c3908416edcb531beeed5e72941d8ea8f0eb0"
+  },
+  {
+   "article": "Article 214",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Sans préjudice des pouvoirs du Parlement, les opérations relatives à l'exécution des budgets des collectivités locales sont soumises à un double contrôle, administratif et juridictionnel.",
+   "chunk_id": "DOC-779f10015602-C0214",
+   "text_hash": "40d7be9ecec62bd10e67df90980e86149b8e05a7"
+  },
+  {
+   "article": "Article 215",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Le contrôle administratif comprend :\r\n\r\n-le contrôle de la tutelle qui vérifie la légalité des actes des collectivités locales ;\r\n\r\n-le contrôle hiérarchique de l'administration sur ses agents, qui le cas échéant peut s'exercer dans un cadre disciplinaire ;\r\n\r\n-le contrôle interne qui regroupe l'ensemble des procédures et méthodes permettant au responsable d'un service de s’assurer du bon fonctionnement de celui-ci et notamment de la bonne maîtrise des risques ;\r\n\r\n-le contrôle exercé par les inspections et corps de contrôle, y compris celui de l’inspection des finances qui peut s’exercer sur les services budgétaire et financiers de l’ensemble des collectivités locales ;\r\n\r\n-le contrôle budgétaire et comptable tel que défini par les lois et règlements en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0215",
+   "text_hash": "8908d84e5b3bd7923f4bb1cc957e9d6453907999"
+  },
+  {
+   "article": "Article 216",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Le contrôle juridictionnel des opérations budgétaires et comptables des collectivités locales est assuré par le juge des comptes, dans les conditions fixées par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0216",
+   "text_hash": "2cc928b4359f1cfb1522be504e3adba62a12c0c2"
+  },
+  {
+   "article": "Article 217",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Le contrôle juridictionnel porte notamment sur :\r\n\r\n-la régularité, la sincérité et la fidélité du compte général de la collectivité locale ;\r\n\r\n-la légalité financière et la conformité budgétaire de toutes les opérations de dépenses et de recettes de la collectivité locale ;\r\n\r\n-l’économie, l’efficacité et l’efficience de l’emploi des fonds publics au regard des objectifs fixés, des moyens utilisés et des résultats obtenus ainsi que la pertinence et la fiabilité des méthodes, indicateurs et données permettant de mesurer la performance des politiques et administration locale ;\r\n\r\n-toute question budgétaire, comptable et financière.\r\n\r\nTitre VII : Des dispositions applicables aux établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "chunk_id": "DOC-779f10015602-C0217",
+   "text_hash": "5ec96988e9c4a7b2b23d04c642e7a671ad415b91"
+  },
+  {
+   "article": "Article 218",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Les établissements publics et les administrations de l'Etat jouissant de l'autonomie de gestion sont, sauf disposition législative contraire, placés sous la tutelle technique d'un ou plusieurs ministres ci-après dénommés « ministre de tutelle » et sous la tutelle financière du Ministre chargé du Budget.\r\n\r\nIls comprennent des organes délibérants constitués en conseil, commission ou comité.\r\n\r\nIls sont gérés par les personnes nommées à cet effet. Ces personnes sont les ordonnateurs des budgets de ces entités publiques.",
+   "chunk_id": "DOC-779f10015602-C0218",
+   "text_hash": "fdbb92e4bbe10906d829b1cb7576f27a5254e3ff"
+  },
+  {
+   "article": "Article 219",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Le budget des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion est préparé, délibéré, voté et rendu exécutoire dans les conditions fixées par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0219",
+   "text_hash": "54325b97b13cd0d4457f58147d725fd4bfd4c8a2"
+  },
+  {
+   "article": "Article 220",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Le budget correspond à l'année civile. Les autorisations qu'il prévoit sont annuelles. Il est constitué d'un budget primitif et, le cas échéant, de budgets modificatifs adoptés en cours d'exercice.",
+   "chunk_id": "DOC-779f10015602-C0220",
+   "text_hash": "f1a56342fab286f290c7e37434cc29c1ea2272cd"
+  },
+  {
+   "article": "Article 221",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Le budget primitif est préparé par l'ordonnateur et adopté par l'organe délibérant, dans des délais permettant qu'il soit exécutoire au 1er janvier de l'exercice auquel il se rapporte.",
+   "chunk_id": "DOC-779f10015602-C0221",
+   "text_hash": "3e92d9e1637e21c74715a934cb45fa037aaa7a3c"
+  },
+  {
+   "article": "Article 222",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Lorsque le budget n'est pas adopté par l'organe délibérant à la date d'ouverture de l'exercice, l'ordonnateur peut exécuter temporairement les opérations de recettes ainsi que les opérations de dépenses de fonctionnement strictement nécessaires à la continuité des activités de l'établissement public concerné.\r\n\r\nLes dépenses sont exécutées dans la limite du douzième du montant du budget de fonctionnement de l'exercice précédent.",
+   "chunk_id": "DOC-779f10015602-C0222",
+   "text_hash": "c8e9f6cb066e8a53397be756fab15e9de5bb7afd"
+  },
+  {
+   "article": "Article 223",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Les budgets modificatifs sont préparés et votés dans les mêmes conditions que le budget primitif.",
+   "chunk_id": "DOC-779f10015602-C0223",
+   "text_hash": "523f3b9fe8ab415c77317385008a95e0334a44a9"
+  },
+  {
+   "article": "Article 224",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre Ier: Des budgets des établissements publics et administrations de l'Etat jouissant de l'autonomie de gestion",
+   "text": "Le budget des établissements publics comprend en recettes et en dépenses deux sections :\r\n\r\n-la section fonctionnement ;\r\n\r\n-la section investissement.\r\n\r\nL'ensemble des recettes générées par l'établissement public et l'ensemble des dépenses doivent impérativement être inscrites dans son budget.",
+   "chunk_id": "DOC-779f10015602-C0224",
+   "text_hash": "52aec03942729197bdca13423d9ee850932a0eba"
+  },
+  {
+   "article": "Article 225",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 1 : Des ordonnateurs",
+   "text": "Est ordonnateur d’un établissement public ou d’une administration de l’Etat jouissant de l’autonomie de gestion, toute personne ayant qualité pour prescrire au nom de ces entités l’exécution des recettes et des dépenses.",
+   "chunk_id": "DOC-779f10015602-C0225",
+   "text_hash": "94a634cd4873a2bd9dceda9cdbe26b79e955df8d"
+  },
+  {
+   "article": "Article 226",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 1 : Des ordonnateurs",
+   "text": "Les ordonnateurs sont principaux ou secondaires. Ils peuvent déléguer leur signature et se faire suppléer en cas d'absence ou d'empêchement.\r\n\r\nLes ordonnateurs, leurs suppléants ainsi que les personnes auxquelles ils ont délégué leur signature sont accrédités auprès des comptables publics assignataires relevant de leur compétence, selon les modalités fixées par arrêté du Ministre chargé du Budget\r\n\r\nLes ordonnateurs sont soumis au régime des droits, obligations, interdictions et incompatibilités applicable aux ordonnateurs de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0226",
+   "text_hash": "02e8aa876d857e17a73b792d49a16e87a62a8d35"
+  },
+  {
+   "article": "Article 227",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 1 : Des ordonnateurs",
+   "text": "Sous réserve des dispositions de l'article 230 ci-dessous, l'ordonnateur peut, par écrit et sous sa responsabilité, requérir l'agent comptable de payer lorsque celui-ci suspend le paiement de la dépense.",
+   "chunk_id": "DOC-779f10015602-C0227",
+   "text_hash": "931fde13ce032621139021bae04a0ce3ca3033fb"
+  },
+  {
+   "article": "Article 228",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 2 : Des comptables des établissements publics et administrations de l'Etat jouissant de",
+   "text": "Chacune des entités visées par le présent chapitre dispose d'un poste comptable principal placé sous l'autorité d'un comptable direct du trésor désigné « agent comptable », soumis aux obligations des comptables prévues par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0228",
+   "text_hash": "5b964f4dba12abc13a7c3cc33a74e8edc19f4f88"
+  },
+  {
+   "article": "Article 229",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 2 : Des comptables des établissements publics et administrations de l'Etat jouissant de",
+   "text": "Chaque comptable détient les fonds et valeurs de son entité assignataire.\r\n\r\nIl a seul qualité pour assurer le recouvrement des créances et le paiement des dépenses dans la limite des crédits régulièrement ouverts et des fonds disponibles du budget de cette entité.",
+   "chunk_id": "DOC-779f10015602-C0229",
+   "text_hash": "e3e3e5a3ea0bb563c0df7bba5c65f601a0ad2704"
+  },
+  {
+   "article": "Article 230",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 2 : Des comptables des établissements publics et administrations de l'Etat jouissant de",
+   "text": "Les établissements publics et les administrations de l'Etat jouissant de l'autonomie de gestion ne peuvent créer de régies d'avances ou de recettes que dans des cas exceptionnellement prévus par la réglementation en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0230",
+   "text_hash": "6bea62aa51ef7cd4c93f3df9165eb01d635885b8"
+  },
+  {
+   "article": "Article 231",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 2 : Des comptables des établissements publics et administrations de l'Etat jouissant de",
+   "text": "Lorsque, par application de l'article 225 ci-dessus, l'ordonnateur a requis l'agent comptable de payer et que celui-ci défère à la réquisition, le comptable rend compte au Ministre chargé des Comptes Publics. Dans ce cas la responsabilité de l’ordonnateur se substitue à celle du comptable.\r\n\r\nUne copie de l'ordre de réquisition est transmise au juge des comptes pour information et l'original annexé au mandat de paiement.",
+   "chunk_id": "DOC-779f10015602-C0231",
+   "text_hash": "ccae63df869fa8caf76d69d1f78c32e07dec586b"
+  },
+  {
+   "article": "Article 232",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre II : Du personnel d’exécution du budget des établissements publics et des administrations de l’Etat jouissant de > Section 2 : Des comptables des établissements publics et administrations de l'Etat jouissant de",
+   "text": "Par dérogation aux dispositions de l'article 229 ci-dessus, l'agent comptable doit refuser de déférer à l'ordre de réquisition lorsque la suspension de paiement est motivée par :\r\n\r\n-l’indisponibilité de crédit ;\r\n\r\n-l'absence de justification de service fait ;\r\n\r\n-le caractère non libératoire de règlement ;\r\n\r\n-le défaut de fonds disponibles ;\r\n\r\n-l'absence de visa du contrôleur budgétaire lorsque ce visa est obligatoire.\r\n\r\nDans ces cas, l’agent comptable rend immédiatement compte au Ministre chargé des Comptes Publics.",
+   "chunk_id": "DOC-779f10015602-C0232",
+   "text_hash": "f7151404bb8f225ddfd335b88cf205f3f10b4df7"
+  },
+  {
+   "article": "Article 233",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations",
+   "text": "Les opérations de recettes, de dépenses et de financement sont autorisées par l’organe délibérant pour les établissements publics et par la loi de finances en ce qui concerne les administrations jouissant de l'autonomie de gestion.",
+   "chunk_id": "DOC-779f10015602-C0233",
+   "text_hash": "dfed07b5b821c92183214c9a7925fd33e1b0c354"
+  },
+  {
+   "article": "Article 234",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations",
+   "text": "L'exercice budgétaire commence le 1er janvier et se termine le 31 décembre de l'année en cours.\r\n\r\nToutefois, pour les dépenses engagées avant le 31 décembre de l'année précédente, un délai est accordé pour compléter les opérations annuelles, la période de clôture de l'exercice étant alors fixée au 15 janvier de l'année suivante.",
+   "chunk_id": "DOC-779f10015602-C0234",
+   "text_hash": "4769dffa124cb9d77dcc09a0766bbf9f68fd7acb"
+  },
+  {
+   "article": "Article 235",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recette",
+   "text": "En matière de recettes, l'approbation expresse du ministre responsable est obligatoire pour rendre exécutoires les délibérations du Conseil d'Administration concernant :\r\n\r\n-la fixation des tarifs applicables aux services rendus par l'établissement ;\r\n\r\n-l'acceptation des dons et legs faits avec charges, conditions ou affectation immobilières ;\r\n\r\n-l'aliénation des biens immobiliers ;\r\n\r\n-l'octroi de concessions d'outillage public, d'autorisations d'outillage privé ou occupation temporaire du domaine public, lorsque ces actes excédent une durée de vingt années ;\r\n\r\n-l'émission d'emprunt.",
+   "chunk_id": "DOC-779f10015602-C0235",
+   "text_hash": "b3c867d0b6524838ef219756c0899ff044dd5fad"
+  },
+  {
+   "article": "Article 236",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recette",
+   "text": "Les recettes sont liquidées par l'ordonnateur conformément aux dispositions des textes en vigueur.\r\n\r\nSous réserve des dispositions du Code Général des Impôts, les recettes des établissements publics sont liquidées par l'ordonnateur, sur la base des textes de support, des décisions de justice et des conventions passées par l'établissement public ou l'administration concernée.",
+   "chunk_id": "DOC-779f10015602-C0236",
+   "text_hash": "60458ce8c520d6d2736392e3f3f96455c35eed8f"
+  },
+  {
+   "article": "Article 237",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recette",
+   "text": "L'ordre de recouvrer émis par l'ordonnateur est adressé, accompagné des pièces justificatives, à l’agent comptable qui les prend en charge et les notifie aux redevables par tout moyen laissant trace.",
+   "chunk_id": "DOC-779f10015602-C0237",
+   "text_hash": "8063e089d16cf139ea6d47163e30c594a1ef8674"
+  },
+  {
+   "article": "Article 238",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recette",
+   "text": "Le recouvrement des recettes est confié à l'agent comptable ou, sous la responsabilité de celui-ci, aux régisseurs.",
+   "chunk_id": "DOC-779f10015602-C0238",
+   "text_hash": "8f9b4af9b622b95f73959a8e38f0a73dec6b8ffd"
+  },
+  {
+   "article": "Article 239",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recette",
+   "text": "Tout ordre de recouvrer donne lieu à une phase de recouvrement amiable. En cas d'échec du recouvrement amiable, il appartient à l'agent comptable d'engager le recouvrement contentieux.",
+   "chunk_id": "DOC-779f10015602-C0239",
+   "text_hash": "94cb670edae6832b1e20e76f8984cb6f0f7d53b1"
+  },
+  {
+   "article": "Article 240",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 1 : Des opérations de recette",
+   "text": "Sur délibération de l'organe délibérant, les créances de l'établissement public peuvent faire l'objet :\r\n\r\n-d'une remise gracieuse du principal et des intérêts moratoires;\r\n\r\n-d'une remise gracieuse des intérêts moratoires ;\r\n\r\n-d'une admission en non-valeur, lorsque la créance est irrécouvrable ;\r\n\r\n-de rabais, remises, ristournes accordés à des fins commerciales.",
+   "chunk_id": "DOC-779f10015602-C0240",
+   "text_hash": "b021266f13e706ac0308a812ce9ae9be0636286c"
+  },
+  {
+   "article": "Article 241",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "L'ordonnateur a seul qualité pour procéder à l'engagement, à la liquidation et à l'ordonnancement des dépenses de l'entité publique concernée dans la limite des crédits autorisés.\r\n\r\nL'ordonnancement s'effectue dans les formes prescrites par le cadre juridique de l'entité publique concernée.",
+   "chunk_id": "DOC-779f10015602-C0241",
+   "text_hash": "429394764adc0ce99e64652131461a4ef6b80d60"
+  },
+  {
+   "article": "Article 242",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "Les ordres de paiement émis par l'ordonnateur sont transmis, accompagnés des pièces justificatives à l'agent comptable qui les prend en charge et procède à leur règlement.",
+   "chunk_id": "DOC-779f10015602-C0242",
+   "text_hash": "0339d4b56522c24d4be304e22691631c5aae22a1"
+  },
+  {
+   "article": "Article 243",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 2 : Des opérations de dépense",
+   "text": "Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se rattachent.",
+   "chunk_id": "DOC-779f10015602-C0243",
+   "text_hash": "a35d00e7946717b73c0dc15f5f332b6aab0ff6b5"
+  },
+  {
+   "article": "Article 244",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "Sont des opérations de trésorerie, tous les mouvements de numéraire, de valeurs mobilisables et de comptes courants ainsi que ceux des comptes de créances et de dettes à court terme, notamment :\r\n\r\n-les opérations d'encaissement et de décaissement ;\r\n\r\n-l'approvisionnement et le dégagement de la caisse du comptable ;\r\n\r\n-la gestion des fonds déposés par les tiers et les opérations faites pour leur compte ;\r\n\r\n-l'émission, la conversion, la gestion et le remboursement des emprunts à court terme.",
+   "chunk_id": "DOC-779f10015602-C0244",
+   "text_hash": "3cbf224500d6981033bef7affa3a21831bc8ee46"
+  },
+  {
+   "article": "Article 245",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "Les fonds des entités publiques sont déposés au Trésor Public ou dans un compte ouvert dans un établissement habilité, sur autorisation du Ministre chargé des Comptes Publics. Ils ne sont pas productifs d'intérêts.",
+   "chunk_id": "DOC-779f10015602-C0245",
+   "text_hash": "00f4b0cd0a098187580654b7f1f5cca288740474"
+  },
+  {
+   "article": "Article 246",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "L'agent comptable de l'entité publique assure, à titre exclusif l'exécution des opérations de trésorerie.",
+   "chunk_id": "DOC-779f10015602-C0246",
+   "text_hash": "6ab82ffb4d41430243bcf98095fbfaf0874aae00"
+  },
+  {
+   "article": "Article 247",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "La liste des pièces justificatives des opérations de recettes et de dépenses est dressée conformément à la nomenclature des pièces justificatives fixée par la règlementation en vigueur.\r\n\r\nEn cas de perte, destruction ou vol des justificatifs remis à l'agent comptable, ce dernier peut pourvoir à leur remplacement sous forme de duplicata, en accord avec l'ordonnateur.",
+   "chunk_id": "DOC-779f10015602-C0247",
+   "text_hash": "e695d4977badf02fd67917b64aabd7749e895983"
+  },
+  {
+   "article": "Article 248",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "L'établissement, la conservation et la transmission des documents et des pièces justificatives de toute nature peuvent, dans les conditions arrêtées par le Ministre chargé du Budget, être effectués sous forme dématérialisée.",
+   "chunk_id": "DOC-779f10015602-C0248",
+   "text_hash": "39a3d2051a4068a4f6be7054cbbc25740a06cfd9"
+  },
+  {
+   "article": "Article 249",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre III : Des opérations > Section 3 : Des opérations de trésorerie",
+   "text": "La durée de conservation des pièces justificatives est de cinq ans à compter du premier jour de l'année suivant celle au cours de laquelle les comptes sont produits au juge des comptes.",
+   "chunk_id": "DOC-779f10015602-C0249",
+   "text_hash": "82f17437c5d9ca934f434bf30fc1e966196effb2"
+  },
+  {
+   "article": "Article 250",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion",
+   "text": "La comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion a pour objet la description, le contrôle des opérations ainsi que l'information des autorités de contrôle et de gestion. Elle est organisée en vue de permettre notamment :\r\n\r\n-la connaissance et le contrôle des opérations budgétaires, des opérations de trésorerie et de financement ;\r\n\r\n-la connaissance de la situation du patrimoine et des opérations de régularisation ;\r\n\r\n-l'analyse des coûts des différentes actions engagées dans le cadre des programmes ;\r\n\r\n-la détermination des résultats annuels ;\r\n\r\n-l'intégration des opérations dans la comptabilité économique nationale.\r\n\r\nElle comprend :\r\n\r\n-une comptabilité budgétaire ;\r\n\r\n-une comptabilité générale ;\r\n\r\n-une comptabilité d'analyse des coûts des différentes actions engagées dans le cadre de la mise en œuvre des programmes ;\r\n\r\n-une comptabilité des matières, valeurs et titres.",
+   "chunk_id": "DOC-779f10015602-C0250",
+   "text_hash": "3b9971941cdb1040594950b17934449f473b1b4b"
+  },
+  {
+   "article": "Article 251",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 1 : De la comptabilité budgétaire",
+   "text": "La comptabilité budgétaire a pour objet de retracer, pour chaque exercice, les opérations d'exécution du budget de l'entité publique concernée en recettes et en dépenses, conformément à la nomenclature de présentation et de vote des budgets des établissements publics et des administrations jouissant de l'autonomie de gestion.\r\n\r\nElle permet de suivre les liquidations, émissions, prises en charge, recouvrements et restes à recouvrer en matière de recettes, d'une part, les engagements, liquidations, ordonnancements, paiements et restes à payer en matière de dépenses, d'autre part.\r\n\r\nLa comptabilité budgétaire dégage un résultat correspondant à la différence entre les recettes encaissées et les dépenses décaissées sur le budget de l'entité publique concernée, au titre de l'année considérée.",
+   "chunk_id": "DOC-779f10015602-C0251",
+   "text_hash": "aee1b28e100b2da9f503ec049908aa7c56516996"
+  },
+  {
+   "article": "Article 252",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 1 : De la comptabilité budgétaire",
+   "text": "La comptabilité budgétaire est tenue dans la phase administrative par les ordonnateurs et dans la phase comptable par les comptables publics.\r\n\r\nElle permet de fournir la situation d'exécution du budget de l'entité publique concernée.\r\n\r\nElle est tenue en partie simple.",
+   "chunk_id": "DOC-779f10015602-C0252",
+   "text_hash": "af1effab12b2112d69637ad989ba758b3be0fbc4"
+  },
+  {
+   "article": "Article 253",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 1 : De la comptabilité budgétaire",
+   "text": "La période couverte par la comptabilité budgétaire correspond à la période de gestion couvrant l'année civile.",
+   "chunk_id": "DOC-779f10015602-C0253",
+   "text_hash": "5384e95b7d6f1ba6f23519007a31fd971fb9415c"
+  },
+  {
+   "article": "Article 254",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 1 : De la comptabilité budgétaire",
+   "text": "Les comptes générés par la comptabilité budgétaire d'une entité publique sont constitués du compte administratif établi par l'ordonnateur, appuyé des états de développement des recettes budgétaires et des états de développement des dépenses budgétaires établis par le comptable principal compétent.",
+   "chunk_id": "DOC-779f10015602-C0254",
+   "text_hash": "277507603f7976608f4c58bc5b10496da011ca52"
+  },
+  {
+   "article": "Article 255",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 1 : De la comptabilité budgétaire",
+   "text": "Le compte administratif présente, par chapitre et par article :\r\n\r\nEn recettes :\r\n\r\n-les prévisions budgétaires ;\r\n\r\n-les titres de recettes émis ;\r\n\r\n-les recouvrements effectués ;\r\n\r\n-les restes à recouvrer ;\r\n\r\n-les plus ou moins-values constatées au titre des gestions antérieures et de la gestion arrivée à la clôture.\r\n\r\nEn dépenses :\r\n\r\n-les crédits ouverts ;\r\n\r\n-les engagements effectués ;\r\n\r\n-les mandats émis ;\r\n\r\n-dépenses engagées mais non mandatées au titre des gestions antérieures et de la gestion arrivée à sa clôture ;\r\n\r\n-les paiements effectués et les crédits disponibles\r\n\r\n-les restes à payer.",
+   "chunk_id": "DOC-779f10015602-C0255",
+   "text_hash": "48d5b5652e901355d28b312da467031a0278da6b"
+  },
+  {
+   "article": "Article 256",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 2 : De la comptabilité générale des établissements publics et ses administrations jouissant ",
+   "text": "L'organisation de la comptabilité générale des établissements publics et des administrations jouissant de l'autonomie de gestion repose sur les principes suivants :\r\n\r\n-la déconcentration de la comptabilité générale, en vue de la rapprocher du fait générateur et des ordonnateurs ainsi que de leurs services gestionnaires ;\r\n\r\n-l'inscription au bilan de l'entité publique concernée, de tous les flux de gestion portant sur les actifs non financiers, les dettes et créances, en vue de la connaissance du patrimoine public et partant, de la capacité de l'entité publique à faire face à ses engagements.",
+   "chunk_id": "DOC-779f10015602-C0256",
+   "text_hash": "d9839e0bc7496f89621e8d9fafeada8b15d28916"
+  },
+  {
+   "article": "Article 257",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 2 : De la comptabilité générale des établissements publics et ses administrations jouissant ",
+   "text": "La comptabilité générale a pour objet de décrire le patrimoine de l'entité publique et son évolution.\r\n\r\nElle est fondée sur le principe de la constatation des droits et obligations. Les opérations sont prises en compte au titre de l'exercice auquel elles se rattachent, indépendamment de leur date de paiement ou d'encaissement. Elle est tenue en partie double sur la base du plan comptable général.\r\n\r\nLes règles applicables à la comptabilité générale des établissements publics et des administrations jouissant de l'autonomie de gestion s'inspirent des normes comptables internationalement reconnues.\r\n\r\nLes comptables publics sont chargés de la tenue et de l'établissement des comptes des établissements publics et des administrations jouissant de l'autonomie de gestion, dans le respect des principes et règles de la profession comptable. Ils s'assurent notamment de la sincérité des enregistrements comptables et du respect des procédures.",
+   "chunk_id": "DOC-779f10015602-C0257",
+   "text_hash": "e6d85f87ff07afbd4c75bff20cd897f3ea60a207"
+  },
+  {
+   "article": "Article 258",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 2 : De la comptabilité générale des établissements publics et ses administrations jouissant ",
+   "text": "A la fin de chaque exercice, l'agent comptable élabore le compte de gestion de l'entité publique concernée.\r\n\r\nCe compte de gestion comprend :\r\n\r\n-la balance générale des comptes ;\r\n\r\n-l’état de développement des dépenses et des recettes budgétaires ;\r\n\r\n-les états financiers constitués du bilan, du compte de résultats, du tableau des flux ;\r\n\r\n-de trésorerie, de l'état annexé et de la balance des comptes des valeurs inactives.",
+   "chunk_id": "DOC-779f10015602-C0258",
+   "text_hash": "8e7a92d99c3597d695eb0ddc0accf54c3158f240"
+  },
+  {
+   "article": "Article 259",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières, valeurs et titres est une comptabilité d'inventaire permanent ayant pour objet la description des existants, des biens mobiliers et immobiliers, des stocks et des valeurs inactives autres que les deniers et archives administratives appartenant à l'entité publique concernée.\r\n\r\nElle permet de réceptionner, d'enregistrer, de suivre et de contrôler, en quantité et en qualité, les différents corps ayant une propriété physique et matérielle.",
+   "chunk_id": "DOC-779f10015602-C0259",
+   "text_hash": "657ecb0e28287bf13a9d4026dd47a9a8addb7e7f"
+  },
+  {
+   "article": "Article 260",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières, valeurs et titres est une comptabilité auxiliaire tenue en partie simple ou en partie double. Elle décrit l'existant et les mouvements d'entrée et de sortie concernant :\r\n\r\n-les immobilisations incorporelles et corporelles ;\r\n\r\n-les stocks de marchandises et fournitures ;\r\n\r\n-les titres nominatifs, au porteur ou à ordre, et les valeurs diverses appartenant ou confiées à la collectivité locale ainsi que les objets qui lui sont remis en dépôt ;\r\n\r\n-les formules, titres, tickets et vignettes destinés à l'émission ou à la vente.\r\n\r\nDes inventaires et comptes d'emploi sont établis à date fixe et à l'occasion des contrôles effectués par les organes habilités.",
+   "chunk_id": "DOC-779f10015602-C0260",
+   "text_hash": "e61a0104aaa923336262ec14b4791074cc502153"
+  },
+  {
+   "article": "Article 261",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "Les biens corporels et incorporels acquis avant la date d'effet du présent décret sont inventoriés, immatriculés, valorisés et enregistrés dans les livres suivant les modalités, méthodes et techniques définies par les textes en vigueur.\r\n\r\nLes nouvelles acquisitions sont enregistrées au fur et à mesure des certifications délivrées par les ordonnateurs et des imputations données par les comptables aux comptes appropriés.\r\n\r\nDes rapprochements contradictoires périodiques sont effectués entre les données de la comptabilité matières et celles de la comptabilité générale de l'entité publique concernée.",
+   "chunk_id": "DOC-779f10015602-C0261",
+   "text_hash": "ffc9c828ab95f50da53ff9d6dcce9b767e251597"
+  },
+  {
+   "article": "Article 262",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 3 : De la comptabilité des matières, valeurs et titres",
+   "text": "La comptabilité des matières des établissements publics et des administrations jouissant de l'autonomie de gestion est tenue par des agents habilités par les ordonnateurs.\r\n\r\nCes derniers sont responsables des mouvements qu'ils ordonnent sur les éléments du patrimoine.\r\n\r\nL'organisation et le système comptables applicables à la comptabilité matière sont définis par les textes en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0262",
+   "text_hash": "defdc6141b8d57f699211dc8747545cdafd44de0"
+  },
+  {
+   "article": "Article 263",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 4 : De la comptabilité analytique des coûts",
+   "text": "La comptabilité d'analyse des coûts a pour objet de faire apparaître les éléments de coûts des actions engagées dans le cadre de la mise en œuvre des programmes de politiques publiques.\r\n\r\nLa comptabilité analytique est autonome. Elle s’appuie sur les données de la comptabilité générale.",
+   "chunk_id": "DOC-779f10015602-C0263",
+   "text_hash": "371487852863c5c2210dccd1fa4a3d2173aad97d"
+  },
+  {
+   "article": "Article 264",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 4 : De la comptabilité analytique des coûts",
+   "text": "La comptabilité analytique permet de justifier les crédits indispensables à la conduite des actions et de mettre en évidence les éléments nécessaires à la mesure de la performance au sein des programmes.\r\n\r\nElle est également destinée à fournir des éléments de comparaison dans l’espace et dans le temps et éventuellement entre différentes structures administratives.\r\n\r\nLes règles relatives à la tenue de la comptabilité analytique sont fixées par les textes en vigueur.\r\n\r\nLe cadre comptable de l'établissement public et de l'administration jouissant de l'autonomie de gestion s'inspire du plan comptable de l'Etat.",
+   "chunk_id": "DOC-779f10015602-C0264",
+   "text_hash": "77e72210212c38d730fa516c5991a929a286a179"
+  },
+  {
+   "article": "Article 265",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre IV: De la comptabilité des établissements publics et des administrations jouissant de l'autonomie de gestion > Section 4 : De la comptabilité analytique des coûts",
+   "text": "Le compte administratif, à l'appui du compte de gestion sur chiffres, est soumis à l'approbation de l'organe délibérant dans les conditions fixées par la réglementation en vigueur.\r\n\r\nLes comptes approuvés sont transmis à la Cour des Comptes pour jugement et certification.",
+   "chunk_id": "DOC-779f10015602-C0265",
+   "text_hash": "fbb6b1a0f9d777283210a86313ecd3827dc06550"
+  },
+  {
+   "article": "Article 266",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Sans préjudice des pouvoirs du Parlement, les opérations relatives à l'exécution des budgets des établissements publics et administrations jouissant de l'autonomie de gestion sont soumises à un double contrôle administratif et juridictionnel.",
+   "chunk_id": "DOC-779f10015602-C0266",
+   "text_hash": "6625eb9b47c48f40f1046ff1105bb1fcf2480739"
+  },
+  {
+   "article": "Article 267",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Le contrôle administratif comprend :\r\n\r\n-le contrôle interne qui regroupe l'ensemble des procédures et méthodes permettant au responsable d'un service de s'assurer du bon fonctionnement de celui-ci et notamment de la bonne maîtrise des risques ;\r\n\r\n-le contrôle hiérarchique de l'administration sur ses agents qui, le cas échéant, peut s'exercer dans un cadre disciplinaire ;\r\n\r\n-le contrôle exercé par les inspections et corps de contrôle, y compris celui de l'inspection des finances qui peut s'exercer sur les services budgétaires et financiers de l'ensemble des établissements publics ;\r\n\r\n-le contrôle budgétaire et comptable tel que défini par les lois et règlements en vigueur.",
+   "chunk_id": "DOC-779f10015602-C0267",
+   "text_hash": "0f5743feb9d71a6740f982e480c1df9029603f3b"
+  },
+  {
+   "article": "Article 268",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Le contrôle juridictionnel des opérations budgétaires et comptables des établissements publics et administrations jouissant de l’autonomie de gestion est assuré par le juge des comptes dans les conditions fixées par les textes en vigueur.\r\n\r\nIl est juge de l'opportunité de la publication de ses avis, décisions et rapports.",
+   "chunk_id": "DOC-779f10015602-C0268",
+   "text_hash": "096546f77b7ee9d19a6dbcb12754a56400559e78"
+  },
+  {
+   "article": "Article 269",
+   "context": "Titre VI : Des dispositions spécifiques applicables aux collectivités locales > Chapitre V : Des contrôles",
+   "text": "Le contrôle juridictionnel porte notamment sur :\r\n\r\n-l'exécution des budgets des établissements publics et administrations jouissant de l'autonomie de gestion ;\r\n\r\n-la régularité, la sincérité et la fidélité du compte général des entités citées ci-dessus ;\r\n\r\n-la légalité financière et la conformité budgétaire de toutes les opérations de dépenses et de recettes des entités citées ci-dessus ;\r\n\r\n-l'économie, l'efficacité et l'efficience de l'emploi des fonds publics au regard des objectifs fixés, des moyens utilisés et des résultats obtenus ainsi que la pertinence et la fiabilité des méthodes, indicateurs et données permettant de mesurer la performance des politiques des établissements publics et administrations jouissant de l'autonomie de gestion ;\r\n\r\n-toute question budgétaire, comptable et financière.",
+   "chunk_id": "DOC-779f10015602-C0269",
+   "text_hash": "7f927fbc22b2f1ee42cbc529fa9eab6bbfd03698"
+  },
+  {
+   "article": "Article 270",
+   "context": "Titre VIII : Des dispositions applicables aux institutions constitutionnelles",
+   "text": "L'élaboration, l'adoption et l'exécution des budgets des institutions constitutionnelles sont déterminées par les cadres juridiques de ces institutions.\r\n\r\nIl en est de même du contrôle de l'exécution de ces budgets.",
+   "chunk_id": "DOC-779f10015602-C0270",
+   "text_hash": "690e8eb9ee31512d0259a3a781d5a390069a6355"
+  },
+  {
+   "article": "Article 271",
+   "context": "Titre IX : Des dispositions diverses et finales",
+   "text": "Des textes réglementaires déterminent, en tant que de besoin, les dispositions de toute nature nécessaires à l'application du présent décret.",
+   "chunk_id": "DOC-779f10015602-C0271",
+   "text_hash": "ba3d8afea34a470f18a1e1914e4cf4ca53619188"
+  },
+  {
+   "article": "Article 272",
+   "context": "Titre IX : Des dispositions diverses et finales",
+   "text": "Le présent décret, qui abroge toutes dispositions antérieures contraires, sera enregistré, publié selon la procédure d'urgence et communiqué partout où besoin sera.\r\n\r\n\r\n\r\nFait à Libreville, le 08 février 2016\r\n\r\n\r\n\r\nPar le Président de la République,\r\n\r\nChef de l'Etat\r\n\r\nAli BONGO ONDIMBA\r\n\r\n\r\n\r\nLe Premier Ministre, Chef du Gouvernement\r\n\r\nPr. Daniel ONA ONDO\r\n\r\n\r\n\r\nLe Ministre du Budget et des Comptes Publics\r\n\r\nChristian MAGNAGNA\r\n\r\n\r\n\r\nLe Ministre du Développement Durable, de l’Economie, de la Promotion des Investissements et de la Prospective\r\n\r\nRégis IMMONGAULT",
+   "chunk_id": "DOC-779f10015602-C0272",
+   "text_hash": "d84d5360b1457c4307fc47533deda9a79288900b"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+  "species_id": "SPECIES-000095",
+  "scientific_name": "Circus aeruginosus",
+  "normalized_name": "circus_aeruginosus",
+  "category": "birds",
+  "taxonomy": {
+    "class": "Aves",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Western Marsh-harrier"
+    ],
+    "fr": [
+      "Busard des Roseaux"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000243",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 25,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.009837+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000244",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Corps, plumes, oiseaux vivants, squelettes, peaux, œufs,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 25,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Corps, plumes, oiseaux vivants, squelettes, peaux, œufs,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.009849+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000245",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 25,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.009855+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.010637+00:00",
+  "updated_at": "2026-10-14T10:10:29.010641+00:00"
+}

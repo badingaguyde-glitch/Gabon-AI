@@ -1,0 +1,81 @@
+{
+  "species_id": "SPECIES-000005",
+  "scientific_name": "Hyemoschus aquaticus",
+  "normalized_name": "hyemoschus_aquaticus",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Tragulidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-000334",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 6991,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 8011 6991  C02 C02 _ FSC5_C02   FSC5-2019-10-C02 Animal 2019-11-23 2019-11-23 20:13:14 11230533.JPG MAMMALIA ARTIODACTYLA TRAGULIDAE ",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:22.847797+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-000436",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 13921,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 14941 13921  C04 C04 _ FSC5_C04   FSC5-2019-10-C04 Animal 2020-01-05 2020-01-05 21:48:04 01050121.JPG MAMMALIA ARTIODACTYLA TRAGULIDA",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:22.889656+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:23.022101+00:00",
+  "updated_at": "2026-10-14T10:10:23.022120+00:00"
+}

@@ -1,0 +1,108 @@
+{
+  "species_id": "SPECIES-000056",
+  "scientific_name": "Balaenoptera borealis",
+  "normalized_name": "balaenoptera_borealis",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Sei Whale"
+    ],
+    "fr": [
+      "Baleinoptère de Rudolphi"
+    ]
+  },
+  "iucn_status": "EN",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000102",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe I",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 19,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe I",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.493306+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000103",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Fanons, corps, os, animaux vivants, viande, huile, morceaux de",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 19,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Fanons, corps, os, animaux vivants, viande, huile, morceaux de",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.493319+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000104",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "EN",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 19,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: EN",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.493325+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:28.494231+00:00",
+  "updated_at": "2026-10-14T10:10:28.494255+00:00"
+}

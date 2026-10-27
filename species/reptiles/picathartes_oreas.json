@@ -1,0 +1,111 @@
+{
+  "species_id": "SPECIES-000147",
+  "scientific_name": "Picathartes oreas",
+  "normalized_name": "picathartes_oreas",
+  "category": "reptiles",
+  "taxonomy": {
+    "class": "Reptilia",
+    "order": "Passeriformes",
+    "family": "Picathartidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Grey-necked rockfowl",
+      "Red-headed Rockfowl",
+      "Red-headed picathartes"
+    ],
+    "fr": [
+      "Picatharte du Cameroun",
+      "Picatharte à Tête Rouge"
+    ]
+  },
+  "iucn_status": "VU",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000399",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe I",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 32,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe I",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.556761+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000400",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Intégralement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 32,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Intégralement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.556771+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000401",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "VU",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 32,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: VU",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.556777+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.557407+00:00",
+  "updated_at": "2026-10-14T10:10:29.557411+00:00"
+}

@@ -1,0 +1,242 @@
+{
+ "doc_id": "DOC-6c53aecf795d",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "environnement"
+ ],
+ "classification_confidence": 0.867,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Traits_scaled_data.csv"
+ ],
+ "sha256": "6c53aecf795dc9f658472f124f5f121070677ba3b179693cd3da0b23e11f767f",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:31.021073+00:00",
+ "dataset_summary": {
+  "columns": [
+   "species_name",
+   "genus",
+   "reproductive_mode",
+   "animal_height_m",
+   "mass_g",
+   "svl_mm",
+   "mouth_width_mm",
+   "toe_disc_mm",
+   "tibia_mm",
+   "mass_svl",
+   "mass_mouth",
+   "mass_toe",
+   "mass_tibia",
+   "svl_mouth",
+   "svl_toe",
+   "svl_tibia",
+   "mouth_toe",
+   "mouth_tibia",
+   "toe_tibia"
+  ],
+  "rows_analyzed": 119,
+  "numeric_stats": {
+   "animal_height_m": {
+    "min": 0.0,
+    "max": 3.4689,
+    "mean": 1.0694,
+    "n": 119
+   },
+   "mass_g": {
+    "min": -0.6123,
+    "max": 5.4463,
+    "mean": 0.0,
+    "n": 119
+   },
+   "svl_mm": {
+    "min": -1.3918,
+    "max": 3.5147,
+    "mean": 0.0,
+    "n": 119
+   },
+   "mouth_width_mm": {
+    "min": -1.2259,
+    "max": 3.05,
+    "mean": -0.0,
+    "n": 119
+   },
+   "toe_disc_mm": {
+    "min": -1.3536,
+    "max": 3.8597,
+    "mean": -0.0,
+    "n": 119
+   },
+   "tibia_mm": {
+    "min": -1.2881,
+    "max": 2.7457,
+    "mean": -0.0,
+    "n": 119
+   },
+   "mass_svl": {
+    "min": -0.8503,
+    "max": 4.4292,
+    "mean": 0.0,
+    "n": 119
+   },
+   "mass_mouth": {
+    "min": -0.8932,
+    "max": 4.6315,
+    "mean": 0.0,
+    "n": 119
+   },
+   "mass_toe": {
+    "min": -0.6166,
+    "max": 5.8486,
+    "mean": 0.0,
+    "n": 119
+   },
+   "mass_tibia": {
+    "min": -0.8643,
+    "max": 5.2175,
+    "mean": -0.0,
+    "n": 119
+   },
+   "svl_mouth": {
+    "min": -1.8263,
+    "max": 3.2687,
+    "mean": -0.0,
+    "n": 119
+   },
+   "svl_toe": {
+    "min": -1.3482,
+    "max": 3.4554,
+    "mean": -0.0,
+    "n": 119
+   },
+   "svl_tibia": {
+    "min": -3.1613,
+    "max": 2.394,
+    "mean": 0.0,
+    "n": 119
+   },
+   "mouth_toe": {
+    "min": -1.24,
+    "max": 4.8539,
+    "mean": -0.0,
+    "n": 119
+   },
+   "mouth_tibia": {
+    "min": -2.7326,
+    "max": 3.5837,
+    "mean": 0.0,
+    "n": 119
+   },
+   "toe_tibia": {
+    "min": -2.0576,
+    "max": 2.4633,
+    "mean": 0.0,
+    "n": 119
+   }
+  },
+  "categorical_top_values": {
+   "species_name": [
+    [
+     "Arthroleptis sylvaticus",
+     22
+    ],
+    [
+     "Leptopelis aubryioides",
+     20
+    ],
+    [
+     "Hyperolius ocellatus",
+     8
+    ],
+    [
+     "Hyperolius platyceps",
+     6
+    ],
+    [
+     "Phrynobatrachus africanus",
+     5
+    ],
+    [
+     "Hyperolius pardalis",
+     4
+    ],
+    [
+     "Leptopelis brevirostris",
+     4
+    ],
+    [
+     "Leptopelis ocellatus",
+     4
+    ]
+   ],
+   "genus": [
+    [
+     "Leptopelis",
+     38
+    ],
+    [
+     "Arthroleptis",
+     27
+    ],
+    [
+     "Hyperolius",
+     22
+    ],
+    [
+     "Nectophryne",
+     8
+    ],
+    [
+     "Phrynobatrachus",
+     5
+    ],
+    [
+     "Afrixalus",
+     3
+    ],
+    [
+     "Amnirana",
+     3
+    ],
+    [
+     "Astylosternus",
+     3
+    ]
+   ],
+   "reproductive_mode": [
+    [
+     "TEAQ",
+     36
+    ],
+    [
+     "DD",
+     31
+    ],
+    [
+     "ARAQ",
+     29
+    ],
+    [
+     "AQAQ",
+     14
+    ],
+    [
+     "PHAQ",
+     9
+    ]
+   ]
+  },
+  "readme": "# Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of temperature and humidity range are included which are the maximum - the minimum values per day."
+ },
+ "kind": "dataset",
+ "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Traits_scaled_data.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Data from: Vertical niche usage and trait associations in Gabonese amphibians — Traits_scaled_data.csv (Gabon).\nDescription : # Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of\nColonnes (19) : species_name, genus, reproductive_mode, animal_height_m, mass_g, svl_mm, mouth_width_mm, toe_disc_mm, tibia_mm, mass_svl, mass_mouth, mass_toe, mass_tibia, svl_mouth, svl_toe, svl_tibia, mouth_toe, mouth_tibia, toe_tibia.\nNombre de lignes analysées : 119.\n- animal_height_m : min 0.0, max 3.4689, moyenne 1.0694 (n=119).\n- mass_g : min -0.6123, max 5.4463, moyenne 0.0 (n=119).\n- svl_mm : min -1.3918, max 3.5147, moyenne 0.0 (n=119).\n- mouth_width_mm : min -1.2259, max 3.05, moyenne -0.0 (n=119).\n- toe_disc_mm : min -1.3536, max 3.8597, moyenne -0.0 (n=119).\n- tibia_mm : min -1.2881, max 2.7457, moyenne -0.0 (n=119).\n- mass_svl : min -0.8503, max 4.4292, moyenne 0.0 (n=119).\n- mass_mouth : min -0.8932, max 4.6315, moyenne 0.0 (n=119).\n- mass_toe : min -0.6166, max 5.8486, moyenne 0.0 (n=119).\n- mass_tibia : min -0.8643, max 5.2175, moyenne -0.0 (n=119).\n- svl_mouth : min -1.8263, max 3.2687, moyenne -0.0 (n=119).\n- svl_toe : min -1.3482, max 3.4554, moyenne -0.0 (n=119).\n- svl_tibia : min -3.1613, max 2.394, moyenne 0.0 (n=119).\n- mouth_toe : min -1.24, max 4.8539, moyenne -0.0 (n=119).\n- mouth_tibia : min -2.7326, max 3.5837, moyenne 0.0 (n=119).\n- species_name : valeurs principales Arthroleptis sylvaticus (22), Leptopelis aubryioides (20), Hyperolius ocellatus (8), Hyperolius platyceps (6), Phrynobatrachus africanus (5), Hyperolius pardalis (4).\n- genus : valeurs principales Leptopelis (38), Arthroleptis (27), Hyperolius (22), Nectophryne (8), Phrynobatrachus (5), Afrixalus (3).\n- reproductive_mode : valeurs principales TEAQ (36), DD (31), ARAQ (29), AQAQ (14), PHAQ (9).",
+   "chunk_id": "DOC-6c53aecf795d-C0001",
+   "text_hash": "261b12a85179c760ceabc1de1de0af225065d443"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "doc_id": "DOC-d6c949c9431c",
+ "country": "Gabon",
+ "category": "histoire",
+ "subcategory": null,
+ "secondary_categories": [
+  "gouvernance_politique"
+ ],
+ "classification_confidence": 0.801,
+ "language": "fr",
+ "source_files": [
+  "Liste_des_présidents_de_la_République_gabonaise.pdf"
+ ],
+ "sha256": "d6c949c9431c500fee80c9c295e917941ca2b7e27c36ec5950a52803c66067db",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:14:45.591175+00:00",
+ "kind": "text",
+ "title": "Liste des présidents de la République gabonaise — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Liste des présidents de la République gabonaise\nCet article dresse la liste des présidents de la République gabonaise depuis son indépendance de la France, en 1960.\n\nCinq personnes ont exercé la fonction depuis l'élection du premier titulaire Léon Mba en 1961. L'actuel titulaire est Brice\nOligui Nguema depuis le 30 août 2023, à la suite de la prise du pouvoir des forces armées par le coup d'État de 2023.\nNo\nPortrait\nTitulaire\n(Naissancemort)\nÉlection\nMandat\nParti\npolitique\nDébut\nFin\nDurée\n1\nLéon Mba\n(1902-1967)\n1961\n12 février 1961\n19 mars 1967\n6 ans,\n9 mois\net\n15 jours\nBDG\n1967\n19 mars 1967\n27 novembre 1967\n(mort en fonction)\n2\nOmar\nBongo\n(1935-2009)\n—\n27 novembre 1967\n25 février 1973\n41 ans,\n6 mois\net\n12 jours\nPDG\n1973\n25 février 1973\n30 décembre 1979\n1979\n30 décembre 1979\n9 novembre 1986\n1986\n9 novembre 1986\n9 décembre 1993\n1993\n9 décembre 1993\n6 décembre 1998\n1998\n6 décembre 1998\n19 janvier 2006\n2005\n19 janvier 2006\n8 juin 2009\n(mort en fonction)\n-\nRose\nRogombé\n(1942-2015)\nintérim\n10 juin 2009\n16 octobre 2009\n4 mois\net\n6 jours\nPDG\n3\nAli\nBongo\n(né en\n1959)\n2009\n16 octobre 2009\n26 septembre 2016\n13 ans,\n10 mois\net\n14 jours\nPDG\n2016\n26 septembre 2016\n30 août 2023\n(Coup d'État)\nListe des présidents\na\nb",
+   "chunk_id": "DOC-d6c949c9431c-C0001",
+   "text_hash": "4f305d56d6bd44533e468c8a68d70ace6481178e"
+  },
+  {
+   "section": "",
+   "text": "4\nBrice\nOligui\nNguema\n(né en\n1975)\nCoup\nd'État\n30 août 2023\n3 mai 2025\n3 ans,\n1 mois\net\n10 jours\nMilitaire/CTRI\n2025\n3 mai 2025\nen cours\nUDB\nRang\nNom\nEn jours\nEn années\nN°\nDates\nCommentaire\n1\nOmar Bongo\n15 164 jours\n41 ans, 6 mois et\n6 jours\n2\n19672009\nMeurt en fonction (causes naturelles).\n2\nAli Bongo\n5 066 jours\n13 ans, 10 mois et\n14 jours\n4\n20092023\nRenversé par un coup d'État.\n3\nLéon Mba\n2 479 jours\n6 ans, 9 mois et\n15 jours\n1\n19611967\nMeurt en fonction (causes naturelles).\n4\nBrice Clotaire Oligui\nNguema\n1 132 jours\n3 ans, 1 mois et\n6 jours\n5\ndepuis\n2023\nPrésident de la Transition, puis\nprésident de la République.\n5\nRose Rogombé\n128 jours\n4 mois et 6 jours\n3\n20092009\nPrésidente par intérim.\na. Le Bloc démocratique gabonais (BDG) est renommé en Parti démocratique gabonais à partir de 1968.\nb. Le vice-président Didjob Divungi Di Ndinge exerce de facto la présidence du 6 mai au 10 juin 2009 du fait\nde la maladie d'Omar Bongo.\nc. Brice Oligui Nguema exerce la fonction de chef d'État en tant que président du Comité pour la transition et\nla restauration des institutions à partir du 30 août 2023. Il prend la fonction de président de la Transition de\nla République gabonaise le 4 septembre 2023.\nc\nFrise chronologique\nClassement par durée de mandat\nNotes et références\nNotes\nRéférences",
+   "chunk_id": "DOC-d6c949c9431c-C0002",
+   "text_hash": "e9db38f6b9870dda4271dbc65dbb00004264d51b"
+  },
+  {
+   "section": "",
+   "text": "Politique au Gabon\nListe des épouses des présidents du Gabon\nPremier ministre du Gabon\nVice-président de la République gabonaise\nRulers — Gabon (http://www.rulers.org/rulg1.html#gabon)\nWorld Statesmen — Gabon (https://www.worldstatesmen.org/Gabon.html)\nLes anciens présidents (https://presidence.ga/les-anciens-presidents/) sur le site de la présidence\ngabonaise\nCe document provient de « https://fr.wikipedia.org/w/index.php?\ntitle=Liste_des_présidents_de_la_République_gabonaise&oldid=234837471 ».\nVoir aussi\nSur les autres projets Wikimedia :\nListe des présidents de la République\ngabonaise (https://commons.wikimedia.or\ng/wiki/Category:Presidents_of_Gabon?us\nelang=fr), sur Wikimedia Commons\nArticles connexes\nLiens externes",
+   "chunk_id": "DOC-d6c949c9431c-C0003",
+   "text_hash": "bad7076569f9fa7c40358c72ec27d7c787cbfd4e"
+  }
+ ]
+}

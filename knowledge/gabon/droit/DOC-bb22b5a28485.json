@@ -1,0 +1,945 @@
+{
+ "doc_id": "DOC-bb22b5a28485",
+ "country": "Gabon",
+ "category": "droit",
+ "subcategory": "constitution",
+ "secondary_categories": [
+  "gouvernance_politique",
+  "histoire",
+  "administration"
+ ],
+ "classification_confidence": 0.549,
+ "language": "fr",
+ "source_files": [
+  "Droit\\Constitution_Gabonaise\\Constitution_du_Gabon[1].pdf.crdownload"
+ ],
+ "sha256": "bb22b5a2848558b4a83965f01bd8be88b3a4f511256bdfcaa0d59c6cdb07b0fe",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:11:14.145662+00:00",
+ "kind": "legal_text",
+ "title": "Constitution de la République Gabonaise",
+ "chunks": [
+  {
+   "article": "Préambule / Dispositions introductives",
+   "context": "",
+   "text": "Constitution du Gabon\n\ndu 26 mars 1991, modifiée par les lois du 18 mars 1994, du 29 septembre 1995\ndu 22 avril 1997 et du 11 octobre 2000\n\nPréambule\n\nLe peuple gabonais, conscient de sa responsabilité devant l'histoire, animé de la volonté\nd'assurer son indépendance et son unité nationales, d'organiser la vie commune d'après les\nprincipes de la souveraineté nationale, de la démocratie pluraliste, de la justice sociale et de la\nlégalité républicaine.\nAffirme solennellement son attachement aux droits de l'homme et aux libertés\nfondamentales tels qu'ils résultent de la Déclaration des droits de l'homme et du citoyen de\n1789, consacrés par la Déclaration universelle des droits de l'homme de 1948, par la Charte\nafricaine des droits de l'homme et des peuples de 1981 et par la Charte nationale des libertés\nde 1990 ;\nProclame solennellement son attachement à ses valeurs sociales profondes et traditionnelles,\nà son patrimoine culturel, matériel et spirituel, au respect des libertés, des droits et des devoirs\ndu citoyen.\nEn vertu de ces principes et de celui de la souveraineté des peuples, il adopte la présente\nConstitution.\n\nDroits et principes fondamentaux",
+   "chunk_id": "DOC-bb22b5a28485-C0001",
+   "text_hash": "cf926fb9cf2ec3ac8c10364686a76758f634e00e"
+  },
+  {
+   "article": "Article premier",
+   "context": "",
+   "text": "La République gabonaise reconnaît et garantit les droits\ninviolables et imprescriptibles de l'homme, qui lient obligatoirement les pouvoirs publics.\nChaque citoyen a droit au libre développement de sa personnalité dans le respect des droits\nd'autrui et de l'ordre public. Nul ne peut être humilié, maltraité ou torturé, même lorsqu'il est\nen état d'arrestation ou d'emprisonnement.\n- La liberté de conscience, de pensée, d'opinion, d'expression, de communication, la libre\npratique de la religion sont garanties à tous, sous réserve du respect de l'ordre public.\n- La liberté d'aller et venir à l'intérieur du territoire de la République gabonaise, d'en sortir et\nd'y revenir est garantie à tous les citoyens gabonais sous réserve du respect de l'ordre public.\n- Les droits de la défense, dans le cadre d'un procès, sont garantis à tous ; la détention\npréventive ne doit pas excéder le temps prévu par la loi.\n- Le secret de la correspondance, des communications postales, télégraphiques,\ntéléphoniques et télématiques est inviolable. Il ne peut être ordonné de restriction à cette\ninviolabilité qu'en application de la loi, pour des raisons d'ordre public et de sécurité de l'Etat.\n- Les limites de l'usage de l'informatique pour sauvegarder l'homme, l'intimité personnelle et\nfamiliale des personnes et le plein exercice de leurs droits sont fixées par la loi.\n- Chaque citoyen a le devoir de travailler et le droit d'obtenir un emploi. Nul ne peut être\nlésé dans son travail en raison de ses origines, de son sexe, de sa race, de ses opinions.\n- L'Etat, selon les possibilités, garantit à tous, notamment à l'enfant, à la mère, aux\nhandicapés, aux vieux travailleurs et aux personnes âgées, la protection de la santé, la sécurité\nsociale, un environnement personnel préservé, le repos et les loisirs.\n- Tout citoyen gabonais séjournant ou résidant à l'étranger bénéficie de la protection et de\nl'assistance de l'Etat, dans les conditions fixées par les lois nationales ou les accords\ninternationaux.\nsite droitsdelhommr-france.org\n1\n\n- Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété. Nul ne peut être\nprivé de sa propriété, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige, et\nsous la condition d'une juste et préalable indemnisation ; toutefois, les expropriations\nimmobilières engagées pour cause d'utilité publique, pour insuffisance ou absence de mise en\nvaleur, et visant les propriétés immatriculées, sont régies par la loi.\n- Tout gabonais a le droit de fixer librement son domicile ou sa résidence en un lieu\nquelconque du territoire national et d'y exercer toutes les activités, sous réserve du respect de\nl'ordre public et de la loi.\n- Le domicile est inviolable. Il ne peut être ordonné de perquisition que par le juge ou par\nles autorités désignées par la loi. Les perquisitions ne peuvent être exécutées que dans les\nformes prescrites par celle-ci. Les mesures portant atteinte à l'inviolabilité du domicile ou la\nrestreignant ne peuvent être prises que pour parer aux dangers collectifs ou protéger l'ordre\npublic de menaces imminentes, notamment pour lutter contre les risques d'épidémies ou pour\nprotéger des personnes en danger.\n- Le droit de former des associations, des partis ou des formations politiques, des syndicats,\ndes sociétés, des établissements d'intérêt social ainsi que des communautés religieuses est\ngaranti à tous dans les conditions fixées par la loi ; les communautés religieuses règlent et\nadministrent leurs affaires d'une manière indépendante, sous réserve de respecter les principes\nde la souveraineté nationale, l'ordre public et de préserver l'intégrité morale et mentale de\nl'individu.\nLes associations, partis ou formations politiques, syndicats, sociétés, établissements d'intérêt\nsocial ainsi que les communautés religieuses dont les activités sont contraires aux lois ou à la\nbonne entente des groupes ou ensembles ethniques, peuvent être interdits selon les termes de\nla loi.\nTout acte de discrimination raciale, ethnique ou religieuse, de même que toute propagande\nrégionaliste pouvant porter atteinte à la sécurité intérieure ou extérieure de l'Etat ou à\nl'intégrité de la République sont punis par la loi.\n- La famille est la cellule de base naturelle de la société, le mariage en est le support\nlégitime. Ils sont placés sous la protection particulière de l'Etat.\n- L'Etat a le devoir d'organiser un recensement général de la population tous les dix ans.\n- Les soins donnés aux enfants et leur éducation constituent, pour les parents, un droit\nnaturel et un devoir qu'ils exercent sous la surveillance et avec l'aide de l'Etat et des\ncollectivités publiques. Les parents ont le droit, dans le cadre de l'obligation scolaire, de\ndécider de l'éducation morale et religieuse de leurs enfants. Les enfants ont vis-à-vis de l'Etat,\nles mêmes droits en ce qui concerne aussi bien l'assistance que leur développement physique,\nintellectuel et moral.\n- La protection de la jeunesse contre l'exploitation et contre l'abandon moral, intellectuel et\nphysique est une obligation pour l'Etat et les collectivités publiques.\n- L'Etat garantit l'accès légal de l'enfant et de l'adulte à l'instruction, à la formation\nprofessionnelle et à la culture.\n- L'Etat a le devoir d'organiser l'enseignement public sur le principe de la neutralité\nreligieuse et, selon les possibilités, sur la base de la gratuité.\nLa collation des grades demeure la prérogative de l'Etat ; toutefois, la liberté de\nl'enseignement est garantie à tous. Toute personne peut ouvrir un établissement préscolaire,\nprimaire, secondaire, supérieur ou une université, dans les conditions fixées par la loi.\nLa loi fixe les conditions de participation de l'Etat et des collectivités publiques aux charges\nfinancières des établissements privés d'enseignement reconnus d'utilité publique. Dans les\nétablissements publics d'enseignement, l'instruction religieuse peut être dispensée aux élèves à\nla demande des parents, dans les conditions déterm",
+   "chunk_id": "DOC-bb22b5a28485-C0002",
+   "text_hash": "8fcd460a6acca486f8490a9dcc005a829bb1308d"
+  },
+  {
+   "article": "Article 2",
+   "context": "",
+   "text": "Le Gabon est une République indivisible, laïque, démocratique et sociale. Il\naffirme la séparation de l'Etat et des religions et reconnaît toutes les croyances, sous réserve\ndu respect de l'ordre public.\nLa République gabonaise assure l'égalité de tous les citoyens devant la loi, sans distinction\nd'origine, de race, de sexe, d'opinion ou de religion.\nL'emblème national est le drapeau tricolore, vert, jaune, bleu, à trois bandes horizontales,\nd'égale dimension.\nL'hymne national est La Concorde.\nLa devise de la République est : Union - Travail - Justice.\nLe sceau de la République est une maternité allaitant.\nSon principe est : \"Gouvernement du peuple, par le peuple et pour le peuple\".\nLa République gabonaise adopte le français comme langue officielle de travail. En outre,\nelle oeuvre pour la protection et la promotion des langues nationales.\nLa capitale de la République est Libreville. Elle ne peut être transférée qu'en vertu d'une loi\nréférendaire.\nLa fête nationale est célébrée le 17 août.",
+   "chunk_id": "DOC-bb22b5a28485-C0003",
+   "text_hash": "df46d91c48d8b0823decf5f54b4d06ac1e36788e"
+  },
+  {
+   "article": "Article 3",
+   "context": "",
+   "text": "La souveraineté nationale appartient au peuple qui l'exerce directement, par\nle référendum ou par l'élection, selon le principe de la démocratie pluraliste, et indirectement\npar les institutions constitutionnelles.\nAucune section du peuple, aucun groupe ni aucun individu ne peut s'attribuer l'exercice de\nla souveraineté nationale.",
+   "chunk_id": "DOC-bb22b5a28485-C0004",
+   "text_hash": "1256a23578d2528d15ff776bb402828b8a2a251b"
+  },
+  {
+   "article": "Article 4",
+   "context": "",
+   "text": "Le suffrage est universel, égal et secret. Il peut être direct ou indirect, dans\nles conditions prévues par la Constitution ou par la loi.\nsite droitsdelhommr-france.org\n3\n\nSont électeurs, dans les conditions prévues par la loi, tous les gabonais des deux sexes, âgés\nde dix-huit ans révolus, jouissant de leurs droits civils et politiques.\nSont éligibles, dans les conditions prévues par la Constitution et par la loi, tous les Gabonais\ndes deux sexes, jouissant de leurs droits civils et politiques.",
+   "chunk_id": "DOC-bb22b5a28485-C0005",
+   "text_hash": "09d5b8deb25465b90898adacd4c501ad56363041"
+  },
+  {
+   "article": "Article 5",
+   "context": "",
+   "text": "La République gabonaise est organisée selon les principes de la souveraineté\nnationale, de la séparation des pouvoirs exécutif, législatif et judiciaire et celui de l'Etat de\ndroit.",
+   "chunk_id": "DOC-bb22b5a28485-C0006",
+   "text_hash": "be534395cbdbacc90b9c0200050c1d75fe773d5a"
+  },
+  {
+   "article": "Article 6",
+   "context": "",
+   "text": "Les partis et les groupements politiques concourent à l'expression du\nsuffrage. Ils se forment et exercent leur activité librement, dans le cadre fixé par la loi, selon\nles principes du multipartisme. Ils doivent respecter la Constitution et les lois de la\nRépublique.",
+   "chunk_id": "DOC-bb22b5a28485-C0007",
+   "text_hash": "f70301df8490c36904bc4fc3bc09bd0b4647b191"
+  },
+  {
+   "article": "Article 7",
+   "context": "",
+   "text": "Tout acte portant atteinte à la forme républicaine, à l'unicité, à la laïcité de\nl'Etat, à la souveraineté et à l'indépendance, constitue un crime de haute trahison puni par la\nloi.\n\nDeuxième partie\nPouvoir Exécutif\n\nI- DU PRESIDENT DE LA REPUBLIQUE",
+   "chunk_id": "DOC-bb22b5a28485-C0008",
+   "text_hash": "fcf52fc989d0548729b7f6f1dade3eaf1a0cccf5"
+  },
+  {
+   "article": "Article 8",
+   "context": "",
+   "text": "Le Président de la République est le chef de l'Etat; il veille au respect de la\nConstitution; il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi\nque la continuité de l'Etat.\nIl est le garant de l'indépendance nationale, de l'intégrité du territoire, du respect des accords\net des traités.\nIl détermine, en concertation avec le gouvernement, la politique de la Nation.\nIl est le détenteur suprême du pouvoir exécutif qu'il partage avec le Premier Ministre.",
+   "chunk_id": "DOC-bb22b5a28485-C0009",
+   "text_hash": "63a92457b7ff3d927f6fcd817e00cda597bae5bf"
+  },
+  {
+   "article": "Article 9",
+   "context": "",
+   "text": "Le Président de la République est élu pour cinq ans au suffrage universel\ndirect. Il est rééligible une fois.\nLe Président de la République est élu à la majorité absolue des suffrages exprimés. Si celleci n'est pas obtenue au premier tour, il est procédé à un second tour, le deuxième dimanche\nsuivant la proclamation des résultats par la Cour constitutionnelle.\nSeuls peuvent se présenter au second tour les deux candidats ayant recueilli le plus grand\nnombre de suffrages au premier tour.\nAu second tour, l'élection est acquise à la majorité absolue des suffrages exprimés.",
+   "chunk_id": "DOC-bb22b5a28485-C0010",
+   "text_hash": "fa399d22626cf7581b45a9372b350f248e4a86b1"
+  },
+  {
+   "article": "Article 10",
+   "context": "",
+   "text": "Si, avant le premier tour, un des candidats décède ou se trouve empêché, la\nCour constitutionnelle prononce le report de l'élection.\nEn cas de décès ou d'empêchement de l'un des deux candidats les plus favorisés au premier\ntour avant les retraits éventuels, la Cour Constitutionnelle déclare qu'il doit être procédé de\nnouveau à l'ensemble des opérations électorales ; il en est de même en cas de décès ou\nd'empêchement de l'un des deux candidats restés en compétition au second tour.\nLa Cour constitutionnelle peut proroger les délais prévus conformément à l'article 11 ciaprès, sans que le scrutin puisse avoir lieu plus de trente-cinq jours après la date de la décision\nde la Cour constitutionnelle. Si l'application des dispositions du présent alinéa a pour effet de\nsite droitsdelhommr-france.org\n4\n\nreporter l'élection à une date postérieure à l'expiration du mandat du Président en exercice,\ncelui-ci demeure en fonction jusqu'à l'élection de son successeur.\nSont éligibles à la présidence de la République tous les gabonais des deux sexes jouissant de\nleurs droits civils et politiques, âgés de quarante ans au moins et de soixante-dix ans au plus.\nToute personne ayant acquis la nationalité gabonaise ne peut se présenter comme candidat à la\nprésidence de la République. Seule sa descendance ayant demeuré sans discontinuité au\nGabon le peut à partir de la quatrième génération.\nLes modalités d'application du présent article sont fixées par une loi organique.",
+   "chunk_id": "DOC-bb22b5a28485-C0011",
+   "text_hash": "dd79d5a8c26b0bcb70072947df31ec44a5410048"
+  },
+  {
+   "article": "Article 11",
+   "context": "",
+   "text": "Le mandat du Président de la République débute le jour de sa prestation de\nserment et prend fin à l'expiration de la cinquième année suivant son élection.\nL'élection du Président de la République a lieu un mois au moins et deux mois au plus avant\nl'expiration du mandat du Président en exercice.\nCelui-ci ne peut écourter son mandat de quelque manière que ce soit pour en solliciter un\nautre.\nSi le Président de la République en exercice se porte candidat, l'Assemblée nationale ne peut\nêtre dissoute. Il ne peut, en outre, à partir de l'annonce officielle de sa candidature jusqu'à\nl'élection, exercer son pouvoir de légiférer par ordonnance. En cas de nécessité, l'Assemblée\nnationale est convoquée en session extraordinaire.",
+   "chunk_id": "DOC-bb22b5a28485-C0012",
+   "text_hash": "f554351e0720fc3080df6eb3e3805ae27713e213"
+  },
+  {
+   "article": "Article 11",
+   "context": "",
+   "text": "a - La prestation de serment marque le début du mandat présidentiel. Elle ne\npeut avoir lieu avant la décision de la Cour constitutionnelle relative au contentieux électoral\ndont elle serait saisie. La décision de la Cour constitutionnelle intervient dans un délai\nmaximum d'un mois à compter du quinzième jour qui suit la proclamation des résultats de\nl'élection.\nS'il n'y a pas contentieux, le Président de la République élu ou réélu prête serment à\nl'expiration du mandat du Président en exercice.\nS'il y a contentieux, le Président de la République en exercice demeure en fonction jusqu'à\nla décision de la Cour constitutionnelle.\nEn cas de décès ou d'empêchement définitif du Président de la République en exercice non\nréélu intervenant avant l'expiration du mandat de celui-ci, le Président élu prête\nimmédiatement serment s'il n'y a pas contentieux. En cas de contentieux, l'intérim est assuré\nconformément aux dispositions de l'article 13 ci-dessous.\nLe décès ou l'empêchement définitif du Président élu ou réélu, intervenant dans la période\nqui sépare la proclamation des résultats de l'expiration du mandat du Président en exercice ou\nde la décision de la Cour constitutionnelle en cas de contentieux, entraîne la reprise de\nl'ensemble des opérations électorales dans les conditions et délais prévus à l'article 10 cidessus. Dans ce cas, une fois la vacance constatée, les fonctions du Président de la République\nsont assurées conformément aux dispositions de l'article 13 ci-dessous.\nPendant la période qui sépare la proclamation des résultats de l'élection présidentielle du\ndébut d'un nouveau mandat présidentiel, l'Assemblée nationale ne peut être dissoute, ni la\nrévision de la Constitution entamée ou achevée.",
+   "chunk_id": "DOC-bb22b5a28485-C0013",
+   "text_hash": "43faae36e2bcfe59793a9adea144f067923f732f"
+  },
+  {
+   "article": "Article 12",
+   "context": "",
+   "text": "Lors de son entrée en fonction, le Président de la République prête\nsolennellement le serment ci-dessous, en présence du Parlement, de la Cour constitutionnelle,\nla main gauche posée sur la Constitution, la main droite levée devant le drapeau national :\nJe jure de consacrer toutes mes forces au bien du peuple gabonais en vue d'assurer son bienêtre et de le préserver de tout dommage, de respecter et de défendre la Constitution et l'Etat de\ndroit, de remplir consciencieusement les devoirs de ma charge et d'être juste envers tous.\n\nsite droitsdelhommr-france.org\n5",
+   "chunk_id": "DOC-bb22b5a28485-C0014",
+   "text_hash": "d96a707bc0df414d12678dd6c624d8b9652accbc"
+  },
+  {
+   "article": "Article 13",
+   "context": "",
+   "text": "En cas de vacance de la présidence de la République, pour quelque cause\nque ce soit, ou d'empêchement définitif de son titulaire constatés par la Cour constitutionnelle\nsaisie par le gouvernement et statuant à la majorité absolue de ses membres, ou à défaut, par\nles bureaux des deux chambres du Parlement statuant ensemble à la majorité de ses membres,\nles fonctions du Président de la République, à l'exception de celles prévues aux articles 18, 19\net 116, alinéa 1er, sont provisoirement exercées par le Président de l'Assemblée nationale ou,\nen cas d'empêchement de celui-ci dûment constaté par la Cour constitutionnelle saisie dans les\nmêmes conditions que ci-dessus, par le Président du Sénat ou, si ce dernier à son tour est\nempêché, par le premier vice-Président de l'Assemblée nationale.\nL'autorité qui assure l'intérim du Président de la République, dans les conditions du présent\narticle, ne peut se porter candidat à l'élection présidentielle.\nEn cas de vacance ou lorsque l'empêchement est déclaré définitif par la Cour\nconstitutionnelle, le scrutin pour l'élection du nouveau Président a lieu, sauf cas de force\nmajeure constatée par la Cour constitutionnelle, trente jours au moins et quarante-cinq jours\nau plus après l'ouverture de la vacance ou de la déclaration du caractère définitif de\nl'empêchement.",
+   "chunk_id": "DOC-bb22b5a28485-C0015",
+   "text_hash": "17181d243241dd654e89e8c9d5c511bf91971b40"
+  },
+  {
+   "article": "Article 14",
+   "context": "",
+   "text": "Les fonctions de Président de la République sont incompatibles avec\nl'exercice de toute autre fonction publique et l'activité privée à caractère lucratif.",
+   "chunk_id": "DOC-bb22b5a28485-C0016",
+   "text_hash": "590f7d6392fdd36b8c7bc9e467fd74611ad3d2dc"
+  },
+  {
+   "article": "Article 15",
+   "context": "",
+   "text": "Le Président de la République nomme le Premier Ministre.\nIl met fin à ses fonctions de sa propre initiative ou sur la présentation par le Premier\nMinistre de la démission du gouvernement, ou à la suite d'un vote de défiance ou de l'adoption\nd'une motion de censure par l'Assemblée nationale.\nSur proposition du Premier Ministre, il nomme les autres membres du gouvernement et met\nfin à leurs fonctions.",
+   "chunk_id": "DOC-bb22b5a28485-C0017",
+   "text_hash": "7a98721bc7edafebf1d7cf80481217456fe046e3"
+  },
+  {
+   "article": "Article 16",
+   "context": "",
+   "text": "Le Président de la République convoque et préside le conseil des Ministres\net en arrête l'ordre du jour. Il y est suppléé, le cas échéant, par le Premier Ministre sur une\nhabilitation expresse et pour un ordre du jour déterminé.",
+   "chunk_id": "DOC-bb22b5a28485-C0018",
+   "text_hash": "1a43762fb6f6edd969b9cfc9684e5ba4b0443922"
+  },
+  {
+   "article": "Article 17",
+   "context": "",
+   "text": "Le Président de la République promulgue les lois définitivement adoptées\ndans les vingt-cinq jours qui suivent leur transmission au gouvernement. Ce délai peut être\nréduit à dix jours en cas d'urgence déclarée par l'Assemblée nationale ou le gouvernement.\nLe Président de la République peut, pendant le délai de promulgation, demander au\nParlement une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle\ndélibération ne peut être refusée. Le texte ainsi soumis à une seconde délibération doit être\nadopté à la majorité des deux tiers de ses membres, soit sous sa forme initiale, soit après\nmodification. Le Président de la République le promulgue dans les délais fixés ci-dessus.\nA défaut de promulgation de la loi par le Président de la République dans les conditions et\ndélais ci-dessus, il doit déférer le texte à la Cour constitutionnelle.\nEn cas de rejet du recours par la Cour constitutionnelle, le Président de la République\npromulgue la loi dans les conditions et délais prévus ci-dessus.",
+   "chunk_id": "DOC-bb22b5a28485-C0019",
+   "text_hash": "6761ad772f856cb45549b4acf829df672df5c5e1"
+  },
+  {
+   "article": "Article 18",
+   "context": "",
+   "text": "Le Président de la République, sur sa propre initiative, ou sur proposition\ndu gouvernement, ou sur proposition de l'Assemblée nationale prise à la majorité absolue,\npeut, pendant la durée des sessions, soumettre au référendum tout projet de loi portant\napplication des principes contenus dans le préambule ou le titre préliminaire de la\nConstitution en touchant directement ou indirectement au fonctionnement des institutions.\nsite droitsdelhommr-france.org\n6\n\nLorsque le référendum a conclu à l'adoption du projet, le Président de la République le\npromulgue conformément à l'article 17 ci-dessus.",
+   "chunk_id": "DOC-bb22b5a28485-C0020",
+   "text_hash": "65c97b170673b8ecf3dfbafd665f46886e0b4503"
+  },
+  {
+   "article": "Article 19",
+   "context": "",
+   "text": "Le Président de la République peut, après consultation du Premier Ministre\net des Présidents des chambres du Parlement, prononcer la dissolution de l'Assemblée\nnationale.\nToutefois, le recours à cette prérogative, limitée à deux fois au cours d'un même mandat\nprésidentiel, ne peut intervenir consécutivement dans les douze mois qui suivent la première\ndissolution.\nLes élections générales ont lieu trente jours au moins et quarante-cinq jours au plus après la\npublication du décret portant dissolution.\nL'Assemblée nationale se réunit de plein droit le deuxième mardi qui suit son élection. Si\ncette réunion a lieu en dehors des périodes prévues pour les sessions ordinaires, une session\nest ouverte de plein droit pour une durée de quinze jours.\nSi, à l'issue de la seconde dissolution, une majorité ne lui est pas favorable, le Président de\nla République peut présenter sa démission.\nLe Président de l'Assemblée nationale saisit la Cour constitutionnelle en vue de\nl'organisation de nouvelles élections présidentielles.\nLe corps électoral est convoqué dans le délai de trente jours au moins et quarante-cinq jours\nau plus après la démission du Président de la République, conformément à l'article 13.",
+   "chunk_id": "DOC-bb22b5a28485-C0021",
+   "text_hash": "15648620809790ee552fa0381c458b4c7a52bd0c"
+  },
+  {
+   "article": "Article 20",
+   "context": "",
+   "text": "Le Président de la république nomme, en Conseil des Ministres, aux\nemplois supérieurs, civils et militaires de l'Etat, en particulier les ambassadeurs et les envoyés\nextraordinaires ainsi que les officiers supérieurs et généraux.\nUne loi organique définit le mode d'accession à ces emplois.",
+   "chunk_id": "DOC-bb22b5a28485-C0022",
+   "text_hash": "01cbb16c2942cadf7d1e371448c42a4307b1951d"
+  },
+  {
+   "article": "Article 21",
+   "context": "",
+   "text": "Le Président de la République accrédite les ambassadeurs et les envoyés\nextraordinaires auprès des puissances étrangères et des organisations internationales. Les\nambassadeurs et les envoyés extraordinaires étrangers sont accrédités auprès de lui.",
+   "chunk_id": "DOC-bb22b5a28485-C0023",
+   "text_hash": "148426f5380b81fc8f8f5858a15e1718f3ea974c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0058"
+  },
+  {
+   "article": "Article 22",
+   "context": "",
+   "text": "Le Président de la République est le chef suprême des forces armées et de\nsécurité. Il préside les conseils et comités supérieurs de la défense nationale.\nIl y est suppléé, le cas échéant, par le Premier Ministre sur une habilitation expresse et pour\nun ordre du jour déterminé.",
+   "chunk_id": "DOC-bb22b5a28485-C0024",
+   "text_hash": "70e0d5165e8da99d35fb11d789f2cb85a06a20c1"
+  },
+  {
+   "article": "Article 23",
+   "context": "",
+   "text": "Le Président de la République a le droit de grâce.",
+   "chunk_id": "DOC-bb22b5a28485-C0025",
+   "text_hash": "5bac38f1dfcb29bf8bc96c54966728e13f115a9f",
+   "duplicate_of": "DOC-8e28d53d40ca-C0059"
+  },
+  {
+   "article": "Article 24",
+   "context": "",
+   "text": "Le Président de la République communique avec l'Assemblée nationale par\ndes messages qu'il fait lire par le Président de cette institution. A sa demande, il peut être\nentendu par le Parlement. Ces communications ne donnent lieu à aucun débat.\nHors session, l'Assemblée nationale est réunie spécialement à cet effet.",
+   "chunk_id": "DOC-bb22b5a28485-C0026",
+   "text_hash": "4271095ae18bc69721c65877d5137b0867195305"
+  },
+  {
+   "article": "Article 25",
+   "context": "",
+   "text": "Le Président de la République peut, lorsque les circonstances l'exigent,\naprès délibération du Conseil des Ministres et consultation du bureau de l'Assemblée\nnationale, proclamer par décret l'état d'urgence ou l'état du siège, qui lui confèrent des\npouvoirs spéciaux, dans les conditions déterminées par la loi.",
+   "chunk_id": "DOC-bb22b5a28485-C0027",
+   "text_hash": "9c4043705be5fe889d2b9f8d3317f6e35c4cdf8b"
+  },
+  {
+   "article": "Article 26",
+   "context": "",
+   "text": "Lorsque les institutions de la République, l'indépendance ou les intérêts\nsupérieurs de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements\ninternationaux sont menacés d'une manière grave et immédiate et que le fonctionnement\nsite droitsdelhommr-france.org\n7\n\nrégulier des pouvoirs publics constitutionnels est interrompu, le Président de la République\nprend par ordonnance, pendant les intersessions, dans les moindres délais, les mesures exigées\npar les circonstances et après consultation officielle du Premier Ministre, du Président de\nl'Assemblée nationale ainsi que de la Cour constitutionnelle.\nIl en informe la Nation par un message.\nPendant les sessions, ces mesures relèvent du domaine de la loi.\nL'Assemblée nationale ne peut être dissoute, ni la révision de la Constitution entamée ou\nachevée.",
+   "chunk_id": "DOC-bb22b5a28485-C0028",
+   "text_hash": "aedae99d203568ca97eba8d1b530f90f0177ed79"
+  },
+  {
+   "article": "Article 27",
+   "context": "",
+   "text": "Les actes du Président de la République autres que ceux visés aux articles\n15, alinéa premier, 17 alinéas premier, deuxième et troisième, 18, 19, 23, 24, 78, 79, 98 et 116,\ndoivent être contresignés par le Premier Ministre et les Ministres chargés de leur exécution.\n\nII - DU GOUVERNEMENT",
+   "chunk_id": "DOC-bb22b5a28485-C0029",
+   "text_hash": "62fdb3d493251ea23b2d7f1f85bd22b5b25488f6"
+  },
+  {
+   "article": "Article 28",
+   "context": "",
+   "text": "Le gouvernement conduit la politique de la Nation, sous l'autorité du\nPrésident de la République et en concertation avec lui.\nIl dispose, à cet effet, de l'administration et des forces de défense et de sécurité.\nLe gouvernement est responsable devant le Président de la République et l'Assemblée\nnationale, dans les conditions et les procédures prévues par la présente Constitution.",
+   "chunk_id": "DOC-bb22b5a28485-C0030",
+   "text_hash": "48bea06ada36e19c894ed99e01951b983f246b34"
+  },
+  {
+   "article": "Article 28",
+   "context": "",
+   "text": "a - Après sa nomination et délibération du conseil des Ministres, le Premier\nMinistre présente devant l'Assemblée nationale son programme de politique générale qui\ndonne lieu à un débat, suivi d'un vote de confiance.",
+   "chunk_id": "DOC-bb22b5a28485-C0031",
+   "text_hash": "7e560facfb3f27430d29a3f1c67fc602d630d11c"
+  },
+  {
+   "article": "Article 29",
+   "context": "",
+   "text": "Le Premier Ministre dirige l'action du gouvernement. Il assure l'exécution\ndes lois. Sous réserve des dispositions de l'article 20 susmentionné, il exerce le pouvoir\nréglementaire et nomme aux emplois civils et militaires de l'Etat. Il supplée le Président de la\nRépublique dans les cas précités. Il peut déléguer certains de ses pouvoirs aux autres membres\ndu gouvernement.\nL'intérim du Premier Ministre est assuré par un membre du gouvernement désigné par un\ndécret du Président de la République selon l'ordre de nomination du décret fixant la\ncomposition du gouvernement.\nLe Ministre assurant l'intérim du Premier Ministre est investi, à titre temporaire, de la\nplénitude des pouvoirs du Premier Ministre.\nLes actes du Premier Ministre sont contresignés par les membres du gouvernement chargés\nde leur exécution.",
+   "chunk_id": "DOC-bb22b5a28485-C0032",
+   "text_hash": "f51429659a3baa3bbd13d8b93d52c4ae772eb698"
+  },
+  {
+   "article": "Article 29",
+   "context": "",
+   "text": "a - Le Premier Ministre peut, lorsque les circonstances l'exigent, après\ndélibération du conseil des Ministres et information des Présidents des chambres du\nParlement, proclamer par arrêté l'état de mise en garde, dans les conditions déterminées par la\nloi.\nLa proclamation de l'état d'alerte, par arrêté du Premier Ministre, a lieu après délibération du\nconseil des Ministres et consultation du bureau de l'Assemblée nationale.\nLa prorogation de l'état de mise en garde ou de l'état d'alerte au-delà de vingt et un jours est\nautorisée par l'Assemblée nationale statuant à la majorité absolue de ses membres.",
+   "chunk_id": "DOC-bb22b5a28485-C0033",
+   "text_hash": "3b17ed48870c56b706e3601ff030a3bc031b5c6f"
+  },
+  {
+   "article": "Article 30",
+   "context": "",
+   "text": "Les projets de loi, d'ordonnances et de décrets réglementaires sont délibérés,\nen Conseil des Ministres, après avis de la Cour administrative.\n\nsite droitsdelhommr-france.org\n8",
+   "chunk_id": "DOC-bb22b5a28485-C0034",
+   "text_hash": "44e542f6d536f264e6a1094fa417f09a54e8101e"
+  },
+  {
+   "article": "Article 31",
+   "context": "",
+   "text": "Le gouvernement se compose du Premier Ministre, des Ministres d'Etat,\ndes Ministres et des secrétaires d'Etat.\nLe Premier Ministre est le chef du gouvernement.\nLes membres du gouvernement sont choisis au sein du parlement et en dehors de celui-ci.\nIls doivent être âgés de trente ans au moins et jouir de leurs droits civils et politiques.\nUn membre du gouvernement est éligible à un mandat national et à un mandat local.",
+   "chunk_id": "DOC-bb22b5a28485-C0035",
+   "text_hash": "10c2da8a9ef5270eb009d24d4d7439ffa5cf2837"
+  },
+  {
+   "article": "Article 32",
+   "context": "",
+   "text": "Les fonctions de membre du gouvernement sont incompatibles avec\nl'exercice d'un mandat parlementaire.\nUne loi organique fixe les traitements et avantages accordés aux membres du gouvernement\net énumère les autres fonctions publiques et activités privées dont l'exercice est incompatible\navec leurs fonctions.",
+   "chunk_id": "DOC-bb22b5a28485-C0036",
+   "text_hash": "e6669062b18e2a21f51314ecd25e9b653ec15803"
+  },
+  {
+   "article": "Article 33",
+   "context": "",
+   "text": "Les membres du gouvernement sont politiquement solidaires. Ils sont\npénalement responsables des crimes et délits commis dans l'exercice de leurs fonctions.",
+   "chunk_id": "DOC-bb22b5a28485-C0037",
+   "text_hash": "cb3d9d4729c6660d44d13e56e4bf49c5ced9f4bb"
+  },
+  {
+   "article": "Article 34",
+   "context": "",
+   "text": "Les fonctions du gouvernement cessent à l'issue de la prestations de\nserment du Président de la République, et à l'issue de la proclamation des résultats des\nélections législatives par la Cour constitutionnelle.\nEn cas de démission, le gouvernement assure l'expédition des affaires courantes jusqu'à la\nconstitution d'un nouveau gouvernement.\n\nTroisième partie\nPouvoir législatif",
+   "chunk_id": "DOC-bb22b5a28485-C0038",
+   "text_hash": "2cd26f62ab23aad7841bedac3bd5b48f760de162"
+  },
+  {
+   "article": "Article 35",
+   "context": "",
+   "text": "Le pouvoir législatif est représenté par un Parlement composé de deux\nchambres : l'Assemblée nationale et le Sénat.\nLes membres de l'Assemblée nationale portent le titre de député. Ils sont élus pour une\ndurée de cinq ans au suffrage universel direct.\nLes membres du Sénat portent le titre de sénateur. Ils sont élus pour une durée de six ans au\nsuffrage universel indirect. Ils doivent être âgés de quarante ans au moins. Le Sénat assure la\nreprésentation des collectivités locales.\nLes chambres du Parlement se renouvellent intégralement au terme de leur mandat.\nIl ne peut être procédé à aucun découpage des circonscriptions électorales dans l'année\nprécédant l'échéance normale du renouvellement de chacune des chambres.",
+   "chunk_id": "DOC-bb22b5a28485-C0039",
+   "text_hash": "4ba2f2a29ce6cc6ed99a019d25f305bc68e7b3fe"
+  },
+  {
+   "article": "Article 36",
+   "context": "",
+   "text": "Le Parlement vote la loi, consent l'impôt et contrôle l'action du pouvoir\nexécutif dans les conditions prévues par la présente Constitution.",
+   "chunk_id": "DOC-bb22b5a28485-C0040",
+   "text_hash": "4aee4467a133627cf38f51345e2ae1290bcb11a7"
+  },
+  {
+   "article": "Article 37",
+   "context": "",
+   "text": "Une loi organique fixe, pour chacune des chambres, le nombre des\nparlementaires, leur indemnité, les modalités et les conditions de leur élection ainsi que le\nrégime des inéligibilités et des incompatibilités.\nElle fixe également les conditions dans lesquelles sont élues les personnes appelées à\nassurer, en cas de vacance du siège, le remplacement de la chambre concernée, ainsi que le\nrégime des inéligibilités et des incompatibilités.",
+   "chunk_id": "DOC-bb22b5a28485-C0041",
+   "text_hash": "082196de988c20236d95ee197e03dce37327ae82"
+  },
+  {
+   "article": "Article 38",
+   "context": "",
+   "text": "Aucun membre du Parlement ne peut être poursuivi, recherché, arrêté,\ndétenu ou jugé à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.\nsite droitsdelhommr-france.org\n9\n\nTout membre du Parlement ne peut, pendant la durée des sessions, être poursuivi, recherché\nou arrêté en matière criminelle, correctionnelle ou de simple police qu'avec l'autorisation du\nbureau de la chambre intéressée sauf en cas de flagrant délit ou de condamnation définitive.\nLa détention ou la poursuite d'un membre du Parlement est suspendue jusqu'à la fin de son\nmandat, sauf en cas de levée de l'immunité parlementaire.",
+   "chunk_id": "DOC-bb22b5a28485-C0042",
+   "text_hash": "a20854713c91286e8805f68e2c8e2139308d0b74"
+  },
+  {
+   "article": "Article 39",
+   "context": "",
+   "text": "Tout mandat impératif est nul. Le droit de vote des membres du Parlement\nest personnel.\nLe règlement de chaque chambre autorise exceptionnellement la délégation de vote. Nul ne\npeut recevoir délégation de plus d'un mandat.",
+   "chunk_id": "DOC-bb22b5a28485-C0043",
+   "text_hash": "bcd5178255e066b365ad0f1565444d63473123cc"
+  },
+  {
+   "article": "Article 40",
+   "context": "",
+   "text": "Chaque membre du Parlement se réunit de plein droit le premier jour\nouvrable suivant le quinzième jour après son élection. Son ordre du jour comprend alors\nexclusivement l'élection de son Président et de son bureau.\nLes Présidents et les autres membres des bureaux de l'Assemblée nationale et du Sénat sont\nélus par leurs pairs, pour une durée respectivement de trente et de trente-six mois\nrenouvelable, au scrutin secret, conformément aux dispositions du règlement de la chambre\nconcernée.\nA tout moment, après leur entrée en fonction, la chambre concernée peut relever le\nPrésident et les autres membres du bureau de leur mandat à la suite d'un vote de défiance, à la\nmajorité absolue.",
+   "chunk_id": "DOC-bb22b5a28485-C0044",
+   "text_hash": "0be7a1c61e07aa615f54f3ae68ca7391b33e7e5a"
+  },
+  {
+   "article": "Article 41",
+   "context": "",
+   "text": "Le Parlement se réunit de plein droit au cours de deux sessions ordinaires\npar an.\nLa première session s'ouvre le troisième mardi de mars et prend fin, au plus tard, la\nquatrième vendredi de juin. La seconde session s'ouvre le premier mardi d'octobre et prend fin,\nau plus tard, le troisième vendredi de décembre.\nL'ouverture de la session est reportée au lendemain si ce jour est férié ou, le cas échéant le\npremier jour ouvrable qui suit.",
+   "chunk_id": "DOC-bb22b5a28485-C0045",
+   "text_hash": "088dc9fffafaf18280dc88989ec283729e5656c2"
+  },
+  {
+   "article": "Article 42",
+   "context": "",
+   "text": "Le Parlement se réunit de plein droit pendant la durée de l'état de siège et\ndans le cas prévu à l'article 326 ci-dessus.",
+   "chunk_id": "DOC-bb22b5a28485-C0046",
+   "text_hash": "39cf523ea21ec267f949c177f4321d0dc6000c6e"
+  },
+  {
+   "article": "Article 43",
+   "context": "",
+   "text": "Les chambres du Parlement se réunissent en session extraordinaire, sur\nconvocation de leur Président, pour un ordre du jour déterminé, à la demande, soit du\nPrésident de la République sur proposition du Premier Ministre, soit de la majorité absolue de\nleurs membres.\nLes sessions extraordinaires sont ouvertes et closes par décret du Président de la République.\nElles ne peuvent excéder une durée de quinze jours.",
+   "chunk_id": "DOC-bb22b5a28485-C0047",
+   "text_hash": "982dd3731d7d1f14dae0ac22e3a86c84a3d00866"
+  },
+  {
+   "article": "Article 44",
+   "context": "",
+   "text": "Les séances du Parlement sont publiques. Un compte-rendu intégral des\ndébats est publié au Journal des débats.\nChacune des deux chambres peut, sous le contrôle de son bureau, faire diffuser par les\nmédias d'Etat une retransmission des débats, dans le respect du pluralisme et conformément\naux dispositions de son règlement.\nChacune des deux chambres peut accueillir le Président de la République ou un chef d'Etat\nou de gouvernement étranger.\nChaque chambre du Parlement peut siéger à huis clos, à la demande, soit du Président de la\nrépublique, soit du Premier Ministre ou d'un cinquième de ses membres.\n\nsite droitsdelhommr-france.org\n10",
+   "chunk_id": "DOC-bb22b5a28485-C0048",
+   "text_hash": "be764b9cccac5e9a41c19375517fe8830f28b78a"
+  },
+  {
+   "article": "Article 45",
+   "context": "",
+   "text": "Chaque chambre du Parlement vote son règlement qui ne peut entrer en\nvigueur qu'après avoir été reconnu conforme à la Constitution par la Cour constitutionnelle.\nToute modification ultérieure est également soumise à cette dernière.",
+   "chunk_id": "DOC-bb22b5a28485-C0049",
+   "text_hash": "e5149a8b8d64d778674679cf41efb6425e1e1938"
+  },
+  {
+   "article": "Article 46",
+   "context": "",
+   "text": "Le Parlement jouit de l'autonomie financière.\n\nQuatrième partie\nRelations entre les pouvoirs législatif et exécutif",
+   "chunk_id": "DOC-bb22b5a28485-C0050",
+   "text_hash": "75fb77283d8f5282456bb931820df5c495a5b3fc"
+  },
+  {
+   "article": "Article 47",
+   "context": "",
+   "text": "En dehors des cas expressément prévus par la Constitution, la loi fixe les\nrègles concernant :\n- l'exercice des droits fondamentaux et devoirs des citoyens ;\n- les sujétions imposées aux gabonais et aux étrangers en leur personne et en leur biens, en\nvue de l'utilité publique et de la défense nationale notamment ;\n- l'organisation de l'état civil ;\n- la communication audiovisuelle, cinématographique et écrite ;\n- les conditions de l'usage de l'informatique afin que soient sauvegardés l'honneur, l'intimité\npersonnelle et familiale des citoyens ainsi que le plein exercice de leurs droits ;\n- le régime électoral de l'Assemblée nationale et des assemblées locales\n- l'organisation judiciaire, la création de nouveaux ordres de juridiction et le statut des\nmagistrats ;\n- l'organisation des offices ministériels et publics, les professions d'officiers ministériels ;\n- la détermination des crimes et délits ainsi que les peines qui leur sont applicables, la\nprocédure pénale, le régime pénitentiaire et l'amnistie ;\n- l'état de mise en garde, l'état d'urgence, l'état d'alerte et l'état de siège ;\n- le régime des associations, des partis, des formations politiques et des syndicats ;\n- l'assiette, le taux et les modalités de recouvrement des impositions de toute nature, le\nrégime d'émission de la monnaie ;\n- le statut général de la fonction publique et les statuts particuliers ;\n- les nationalisations d'entreprises et les transferts de propriété d'entreprise du secteur public\nau secteur privé ;\n- la création ou la suppression des établissements et services publics autonomes;\n- l'organisation générale administrative et financière ;\n- la création, le fonctionnement et la libre gestion des collectivités territoriales, leurs\ncompétences, leurs ressources et leurs assiettes d'impôts ;\n- les conditions de participation de l'Etat au capital de toutes sociétés et de contrôle par\ncelui-ci de la gestion de ces sociétés ;\n- le régime domanial, foncier, forestier, minier et de l'habitat ;\n- la protection du patrimoine artistique, culturel et archéologique ;\n- la protection de la nature et de l'environnement ;\n- le régime de la propriété, des droits réels et des obligations civiles et commerciales ;\n- les emprunts et engagements financiers de l'Etat ;\n- les programmes d'action économique et sociale ;\n- les conditions dans lesquelles sont présentées et votées les lois de finances et réglés les\ncomptes de la Nation ;\n- les lois de finances déterminant les ressources et les charges de l'Etat dans les conditions\nprévues par une loi organique ;\n- les lois de programme fixant les objectifs de l'Etat en matière économique, sociale,\nculturelle et de défense nationale ;\nLa loi détermine, en outre, les principes fondamentaux :\nsite droitsdelhommr-france.org\n11\n\n- de l'enseignement ;\n- de la santé ;\n- du droit du travail ;\n- du droit syndical, y compris les conditions d'exercice du droit de grève ;\n- de la mutualité et de l'épargne ;\n- de l'organisation générale de la défense nationale et de la sécurité publique.\nLes dispositions du présent article pourront être précisées ou complétées par une loi\norganique.",
+   "chunk_id": "DOC-bb22b5a28485-C0051",
+   "text_hash": "8c9657b0a86d31bbd6d738ec1247cda351f4882c"
+  },
+  {
+   "article": "Article 48",
+   "context": "",
+   "text": "Toutes les ressources et charges de l'Etat doivent, pour chaque exercice\nfinancier, être évaluées et inscrites dans le projet de loi de finances annuelle déposé par le\ngouvernement à l'Assemblée nationale à l'ouverture de la seconde session ordinaire et au plus\ntard le trente octobre.\nSi, au terme de la session budgétaire, le Parlement se sépare sans avoir voté le budget en\néquilibre, le gouvernement est autorisé à reconduire par ordonnance le budget précédent.\nCette ordonnance peut néanmoins prévoir, en cas de nécessité, toute réduction de dépenses ou\naugmentation de recettes. A la demande du Premier Ministre, le Parlement est convoqué dans\nles quinze jours en session extraordinaire pour une nouvelle délibération. Si le Parlement n'a\npas voté le budget en équilibre à la fin de cette session extraordinaire pour une nouvelle\ndélibération. Si le Parlement n'a pas voté le budget en équilibre à la fin de cette session\nextraordinaire, le budget est établi définitivement par ordonnance prise en Conseil des\nMinistres et signée par le Président de la République. être créées, s'il s'agit d'impôts directs et\ndes contributions ou taxes assimilables, sont mises en recouvrement à compter du premier\njanvier.\nLa Cour des comptes assiste le Parlement et le gouvernement dans le contrôle de l'exécution\nde la loi des finances. Le projet de loi de règlement, établi par le gouvernement accompagné\nde la déclaration générale de conformité et du rapport général de la Cour des comptes, doit\nêtre déposé au Parlement au plus tard au début de la première session ordinaire de la\ndeuxième année qui suit l'exercice d'exécution du budget concerné.",
+   "chunk_id": "DOC-bb22b5a28485-C0052",
+   "text_hash": "e464f5617ba797a737c86aadf82401d30e142355"
+  },
+  {
+   "article": "Article 49",
+   "context": "",
+   "text": "La déclaration de guerre par le Président de la République est autorisée par\nl'Assemblée nationale à la majorité des deux tiers de ses membres.",
+   "chunk_id": "DOC-bb22b5a28485-C0053",
+   "text_hash": "9e15532cde567a14cfd465ebc06d17834dd2c115"
+  },
+  {
+   "article": "Article 50",
+   "context": "",
+   "text": "La prorogation de l'état d'urgence ou de l'état de siège au-delà de quinze\njours est autorisée par l'Assemblée nationale statuant à la majorité absolue de ses membres.",
+   "chunk_id": "DOC-bb22b5a28485-C0054",
+   "text_hash": "8bca65bf0a75e39edddb6322cce19c5a82db7bcb"
+  },
+  {
+   "article": "Article 51",
+   "context": "",
+   "text": "Les matières autres que celles qui sont du domaine de la loi ont un\ncaractère réglementaire. Elles font l'objet de décrets du Président de la République.\nCes matières peuvent, pour l'application de ces décrets, faire l'objet d'arrêtés pris par le\nPremier Ministre ou, sur délégation du Premier Ministre, par les Ministres responsables ou par\nles autres autorités administratives habilitées à le faire.",
+   "chunk_id": "DOC-bb22b5a28485-C0055",
+   "text_hash": "09103981efc7d8dfe3dcbcc7057ab7ff7797c10a"
+  },
+  {
+   "article": "Article 52",
+   "context": "",
+   "text": "Le gouvernement peut, en cas d'urgence, pour l'exécution de son\nprogramme, demander au Parlement, l'autorisation de faire prendre par ordonnances, pendant\nl'intersession parlementaire, les mesures qui sont normalement du domaine de la loi.\nLes ordonnances sont prises en conseil des Ministres, après avis de la Chambre\nadministrative et signées par le Président de la République. Elles entrent en vigueur dès leur\npublication.\nElles doivent être ratifiées par le Parlement au cours de sa prochaine session.\nLe Parlement a la possibilité de modifier les ordonnances par voie d'amendements.\nsite droitsdelhommr-france.org\n12\n\nEn l'absence d'une loi de ratification, les ordonnances sont frappées de caducité.\nLes ordonnances peuvent être modifiées par une autre ordonnance ou par une loi.",
+   "chunk_id": "DOC-bb22b5a28485-C0056",
+   "text_hash": "41ac3d3bcf399ad9c9134d1f99bb960cbe0b4b87"
+  },
+  {
+   "article": "Article 53",
+   "context": "",
+   "text": "L'initiative des lois appartient concurremment au gouvernement et au\nParlement.",
+   "chunk_id": "DOC-bb22b5a28485-C0057",
+   "text_hash": "128e150fd4298c9b85214237724c74f62ba4756f"
+  },
+  {
+   "article": "Article 54",
+   "context": "",
+   "text": "Les projets de loi sont délibérés en Conseil des Ministres, après avis de la\nCour administrative et déposés sur le bureau de l'une des deux chambres du parlement.\nAu nom du Premier Ministre, un membre du gouvernement est chargé, le cas échéant, d'en\nd'exposer les motifs et de soutenir la discussion devant les chambres du Parlement.\nLe projet ou la proposition d'un loi organique n'est soumis à la délibération et au vote du\nParlement qu'à l'expiration d'un délai de quinze jours après son dépôt.\nLes projets de loi de finances et les projets de révision de la Constitution sont déposés en\npremier lieu à l'Assemblée nationale. Les projets de loi afférents aux collectivités locales sont\nprésentés en premier lieu devant le Sénat.\nToute proposition de loi transmise au gouvernement par le Parlement et qui n'a pas fait\nl'objet d'un examen dans un délai de soixante jours est d'office mise en délibération au sein du\nParlement.",
+   "chunk_id": "DOC-bb22b5a28485-C0058",
+   "text_hash": "8da85ddb9d01cb1d3b56f018e8707b355337bf52"
+  },
+  {
+   "article": "Article 55",
+   "context": "",
+   "text": "Les membres du Parlement ont le droit d'amendement. Les propositions de\nloi et les amendements d'origine parlementaire sont irrecevables lorsque leur adoption aurait\npour conséquence soit une diminution des recettes publiques, soit la création ou l'aggravation\nd'une charge publique sans dégagement des recettes correspondantes.\nLes amendements ne doivent pas être dépourvus de tout lien avec le texte auquel ils se\nrapportent.\nSi le gouvernement le demande, la chambre saisie se prononce par un vote unique sur tout\nou partie du texte en discussion et en ne retenant que les seuls amendements proposés ou\nacceptés par le gouvernement.",
+   "chunk_id": "DOC-bb22b5a28485-C0059",
+   "text_hash": "3cf5e8237b5ec97c4b03d1147bc87936162b831a",
+   "duplicate_of": "DOC-8e28d53d40ca-C0104"
+  },
+  {
+   "article": "Article 56",
+   "context": "",
+   "text": "S'il apparaît, au cours de la procédure législative, qu'un texte ou un\namendement n'est pas du domaine de la loi, au sens de l'article 47 susvisé, ou dépasse les\nlimites de l'habilitation législative accordée au gouvernement en vertu de l'article 52, le\nPremier Ministre peut soulever l'irrecevabilité, ainsi que le Président de la chambre intéressée,\nà la demande du cinquième de ses membres.\nEn cas de désaccord, la Cour constitutionnelle est saisie. Celle-ci statue dans le délai de huit\njours.",
+   "chunk_id": "DOC-bb22b5a28485-C0060",
+   "text_hash": "34d57d60bfc8e989c0dbe642554883be92d46a05"
+  },
+  {
+   "article": "Article 57",
+   "context": "",
+   "text": "L'ordre du jour du Parlement comporte la discussion des projets de loi\ndéposés par le gouvernement et des propositions de loi acceptées par lui.\nLe gouvernement est informé de l'ordre du jour des travaux des chambres et de leurs\ncommissions.\nLe Premier Ministre et les autres membres du gouvernement disposent du droit d'accès et de\nparole aux chambres du Parlement et à leurs commissions. Ils sont entendus à leur demande\nou à celle des instances parlementaires.",
+   "chunk_id": "DOC-bb22b5a28485-C0061",
+   "text_hash": "82703c389ba20336a3cb9577f9c62c7458d0f472"
+  },
+  {
+   "article": "Article 58",
+   "context": "",
+   "text": "L'urgence du vote d'une loi peut être demandée soit par le gouvernement, soit par les membres\ndu Parlement, à la majorité absolue.\nS'agissant de l'urgence sur les lois organiques, le délai de quinze jours est ramené à huit jours.\n\nsite droitsdelhommr-france.org\n13",
+   "chunk_id": "DOC-bb22b5a28485-C0062",
+   "text_hash": "12a13419997fc73a000e9be78051053fcbe60105"
+  },
+  {
+   "article": "Article 58",
+   "context": "",
+   "text": "a - Tout projet ou proposition de loi est examiné successivement dans les\ndeux chambres du Parlement en vue de l'adoption d'un texte identique.\nLorsque, par suite d'un désaccord entre les deux chambres, un projet ou une proposition de\nloi n'a pu être adopté après une seule lecture par chacune des chambres, le Premier Ministre a\nla faculté de provoquer la réunion d'une commission mixte des deux chambres, chargée de\nproposer un texte sur les dispositions demeurant en discussion.\nSi la Commission mixte ne parvient pas à l'adoption d'un texte commun, le gouvernement\nsaisit l'Assemblée nationale qui statue définitivement.\nSi la Commission mixte adopte un texte commun, ce dernier ne devient celui du Parlement\nque s'il est adopté séparément par chacune des chambres.\nLa procédure relative au budget est identique à celle de la loi ordinaire, sous réserve des\ndispositions particulières visées à l'article 48 ci-dessus.",
+   "chunk_id": "DOC-bb22b5a28485-C0063",
+   "text_hash": "1c3ef5bdd0e9206f66526cb6a78016bf838f8e10"
+  },
+  {
+   "article": "Article 59",
+   "context": "",
+   "text": "Les projets et propositions de loi sont envoyés, pour examen, dans les\ncommissions compétentes de chaque chambre du Parlement avant délibération en séance\nplénière.\nAprès l'ouverture des débats publics, aucun amendement ne peut être examiné s'il n'a été\npréalablement soumis à la commission compétente.",
+   "chunk_id": "DOC-bb22b5a28485-C0064",
+   "text_hash": "d255c58e77e2b185ad724085c72d705aa482dbf7",
+   "duplicate_of": "DOC-8e28d53d40ca-C0108"
+  },
+  {
+   "article": "Article 60",
+   "context": "",
+   "text": "Les lois organiques prévues par la présente Constitution sont délibérées et\nvotées selon la procédure législative normale.\nLes lois organiques, avant leur promulgation, sont déférées à la Cour constitutionnelle par le\nPremier Ministre.",
+   "chunk_id": "DOC-bb22b5a28485-C0065",
+   "text_hash": "06db9cd1aeea3677f52ce37583ab8fbcde3c8536"
+  },
+  {
+   "article": "Article 61",
+   "context": "",
+   "text": "Les moyens de contrôle du législatif sur l'exécutif sont les suivants : les\ninterpellations, les questions écrites et orales, les commissions d'enquête et de contrôle, la\nmotion de censure exercée par l'Assemblée nationale dans les conditions prévues à l'article 63\nde la présente Constitution.\nUne séance par semaine est réservée aux questions des parlementaires et aux réponses des\nmembres du gouvernement. Les questions d'actualité peuvent faire l'objet d'interpellations du\ngouvernement, même pendant les sessions extraordinaires du Parlement.\nL'exécutif est tenu de fournir au Parlement tous les éléments d'information qui lui sont\ndemandés sur sa gestion et ses activités.",
+   "chunk_id": "DOC-bb22b5a28485-C0066",
+   "text_hash": "d1d04af84c86c4ac3dd3dac664ee2a73f75341f9"
+  },
+  {
+   "article": "Article 62",
+   "context": "",
+   "text": "Une loi organique détermine les conditions dans lesquelles la question\nécrite peut être transformée en une question orale avec débats, et les conditions d'organisation\net de fonctionnement des commissions d'enquête et de contrôle.\nUne séance par semaine est consacrée à l'examen des questions orales relatives à l'actualité.",
+   "chunk_id": "DOC-bb22b5a28485-C0067",
+   "text_hash": "2452097a5f82a94aa35e4a89191f83ee07361609"
+  },
+  {
+   "article": "Article 63",
+   "context": "",
+   "text": "Le Premier Ministre, après délibération du Conseil des Ministres, engage la\nresponsabilité du gouvernement devant l'Assemblée nationale en posant la question de\nconfiance, soit sur une déclaration de politique générale, soit sur le vote d'un texte de loi.\nLe débat sur la question de confiance ne peut intervenir que trois jours francs après qu'elle\nait été posée. La confiance ne peut être refusée qu'à la majorité absolue des membres\ncomposant l'Assemblée nationale.",
+   "chunk_id": "DOC-bb22b5a28485-C0068",
+   "text_hash": "1710ac4e71d3bd301ceedd4760ba98f7969842c5"
+  },
+  {
+   "article": "Article 64",
+   "context": "",
+   "text": "L'Assemblée nationale met en cause la responsabilité du gouvernement par\nle vote d'une motion de censure. Une telle motion n'est recevable que si elle est signée par au\nmoins un quart des membres de l'Assemblée nationale.\nsite droitsdelhommr-france.org\n14\n\nLe vote de la motion de censure ne peut avoir lieu que trois jours francs après son dépôt. La\nmotion de censure ne peut être adoptée qu'à la majorité absolue des membres de l'Assemblée\nnationale.\nEn cas de rejet de la motion de censure, ses signataires ne peuvent en proposer une nouvelle\nau cours de la même session, sauf dans le cas prévu à l'article 65 ci-dessous.",
+   "chunk_id": "DOC-bb22b5a28485-C0069",
+   "text_hash": "cbb14f4507e9b5c026224c1558fe0c1825487f03"
+  },
+  {
+   "article": "Article 65",
+   "context": "",
+   "text": "Lorsque l'Assemblée nationale adopte une motion de censure ou refuse sa\nconfiance au Premier Ministre, celui-ci doit remettre immédiatement sa démission au\nPrésident de la République.\nLa démission du Premier Ministre est alors nommé dans les conditions prévues à l'article 15.",
+   "chunk_id": "DOC-bb22b5a28485-C0070",
+   "text_hash": "bae92f2330f0460302db3009e69d4105a0ca8c20"
+  },
+  {
+   "article": "Article 66",
+   "context": "",
+   "text": "La clôture des sessions ordinaires ou extraordinaires est de droit retardée\npour permettre, le cas échéant, l'application des dispositions des articles 25, 26 et 50 ci-dessus.\n\nCinquième partie\nPouvoir judiciaire\n\nI - DE L'AUTORITE JUDICIAIRE",
+   "chunk_id": "DOC-bb22b5a28485-C0071",
+   "text_hash": "022c92643164480a11ba0160d2b3eb06ccb7d741"
+  },
+  {
+   "article": "Article 67",
+   "context": "",
+   "text": "La justice est rendue au nom du peuple gabonais par la Cour\nconstitutionnelle, la Cour judiciaire, la Cour administrative, la Cour des comptes, les cours\nd'appel, les tribunaux, la Haute cour de justice et les autres juridictions d'exception.",
+   "chunk_id": "DOC-bb22b5a28485-C0072",
+   "text_hash": "4db5bb1102e055820374870d3bce2d8960e2a2f1"
+  },
+  {
+   "article": "Article 68",
+   "context": "",
+   "text": "La justice est une autorité indépendante du pouvoir législatif et du pouvoir\nexécutif.\nLes juges ne sont soumis dans l'exercice de leur fonction qu'à l'autorité de la loi.",
+   "chunk_id": "DOC-bb22b5a28485-C0073",
+   "text_hash": "ea45f6767796259e053a9b41f64c3397436485ab"
+  },
+  {
+   "article": "Article 69",
+   "context": "",
+   "text": "Le Président de la République est le garant de l'indépendance du pouvoir\njudiciaire, dans le respect des dispositions de la présente Constitution, notamment dans son",
+   "chunk_id": "DOC-bb22b5a28485-C0074",
+   "text_hash": "3b698ec5f20fd14b04426a1ce21ff2da797c4532"
+  },
+  {
+   "article": "Article 36",
+   "context": "",
+   "text": "Il est assisté du Conseil supérieur de la Magistrature et des présidents des Cours\njudiciaires, administratives et des comptes.",
+   "chunk_id": "DOC-bb22b5a28485-C0075",
+   "text_hash": "ed47e322d7b02a63d18ea9e3396a06762da33373"
+  },
+  {
+   "article": "Article 70",
+   "context": "",
+   "text": "Le Conseil supérieur de la magistrature veille à la bonne administration de\nla justice et statue de ce fait sur les nominations, les affectations, les avancements et la\ndiscipline des magistrats.",
+   "chunk_id": "DOC-bb22b5a28485-C0076",
+   "text_hash": "4117f34df5b29b7eba768b0286958733b2df579f"
+  },
+  {
+   "article": "Article 71",
+   "context": "",
+   "text": "Le Conseil supérieur de la magistrature est présidé par le Président de la\nRépublique assisté du Ministre chargé de la justice, vice-président.\nLe pouvoir législatif est représenté au sein du Conseil supérieur de la magistrature par trois\ndéputés et deux sénateurs choisis par le Président de chaque chambre du Parlement dans des\ngroupes parlementaires différents, et ayant voix consultative.\nLe Ministre chargé des Finances assiste au Conseil supérieur de la magistrature avec voix\nconsultative.",
+   "chunk_id": "DOC-bb22b5a28485-C0077",
+   "text_hash": "80175dc9acc7ed15c12ba49cbc0e951deb5744a7"
+  },
+  {
+   "article": "Article 72",
+   "context": "",
+   "text": "La composition, l'organisation et le fonctionnement du Conseil supérieur de\nla magistrature sont fixés par une loi organique.\n\nsite droitsdelhommr-france.org\n15\n\nII - DE LA COUR JUDICIAIRE",
+   "chunk_id": "DOC-bb22b5a28485-C0078",
+   "text_hash": "575891a8f54cd8e5e9cbb39ad4fee5ec43b829a9"
+  },
+  {
+   "article": "Article 73",
+   "context": "",
+   "text": "La Cour judiciaire est la plus haute juridiction en matière civile,\ncommerciale, sociale et pénale. Elle est divisée en chambres civile, commerciale, sociale et\npénale.\nChaque chambre délibère séparément selon son chef de compétence.\nLa Cour judiciaire peut siéger toute chambre réunie dans les conditions prévues par la loi.\nLes arrêts sont revêtus de l'autorité absolue de la chose jugée.",
+   "chunk_id": "DOC-bb22b5a28485-C0079",
+   "text_hash": "211d4e32a74f1fa8bde651bd74d2e057b63897b6"
+  },
+  {
+   "article": "Article 73",
+   "context": "",
+   "text": "a - Une loi organique fixe l'organisation, la composition, la compétence et le\nfonctionnement de la Cour judiciaire ainsi que des cours d'appels et des tribunaux de première\ninstance compétents en matière civile, commerciale, sociale et pénale.\n\nIII - DE LA COUR ADMINISTRATIVE",
+   "chunk_id": "DOC-bb22b5a28485-C0080",
+   "text_hash": "0f18f57f934721a0336fcfbd2fce95f0946bf56e"
+  },
+  {
+   "article": "Article 74",
+   "context": "",
+   "text": "La Cour administrative est la plus haute juridiction de l'Etat en matière\nadministrative.",
+   "chunk_id": "DOC-bb22b5a28485-C0081",
+   "text_hash": "e49c8c1442ebb3becda160decedfdadb2bad1340"
+  },
+  {
+   "article": "Article 75",
+   "context": "",
+   "text": "Outre ses compétences juridictionnelles, la Cour administrative est\nconsultée dans les conditions fixées par la loi organique visée à l'article 75b ci-dessous, et\nd'autres lois.",
+   "chunk_id": "DOC-bb22b5a28485-C0082",
+   "text_hash": "ffeb2f71c2aad9f1430e25a7e8ec02fd0dad06cb"
+  },
+  {
+   "article": "Article 75",
+   "context": "",
+   "text": "a - Les arrêts de la Cour administrative sont revêtus de l'autorité absolue de la\nchose jugée.",
+   "chunk_id": "DOC-bb22b5a28485-C0083",
+   "text_hash": "fa746aef6780fb8e5fc930e7fd1f2a9c89fcc415"
+  },
+  {
+   "article": "Article 75",
+   "context": "",
+   "text": "b - Une loi organique fixe l'organisation, la composition, la compétence et le\nfonctionnement de la Cour administrative.\n\nIV - DE LA COUR DES COMPTES",
+   "chunk_id": "DOC-bb22b5a28485-C0084",
+   "text_hash": "41ae948635a8f0882e183c9b3d3c13bd6ff52299"
+  },
+  {
+   "article": "Article 76",
+   "context": "",
+   "text": "La Cour des comptes est chargée du contrôle des finances publiques. A cet\neffet :\n- elle assure le contrôle de l'exécution des lois de finances et en informe le Parlement et le\nGouvernement ;\n- elle vérifie la régularité des recettes et des dépenses décrites dans les comptabilités\npubliques et s'assure, à partir de ces dernières, du bon emploi des crédits, fonds et valeurs\ngérés par les services de l'Etat ou par les autres personnes morales de droit public ;\n- Elle assure la vérification des comptes et de la gestion des entreprises publiques et\norganismes à participations financières publiques ;\n- elle juge les comptes des comptables publics ;\n- Elle déclare et apure les gestions de fait ;\n- elle sanctionne les fautes de gestion commises à l'égard de l'Etat, des collectivités locales\net des organismes soumis à son contrôle.",
+   "chunk_id": "DOC-bb22b5a28485-C0085",
+   "text_hash": "974c3e01603a2e2128760e78158706baa15b01e0"
+  },
+  {
+   "article": "Article 77",
+   "context": "",
+   "text": "Une loi organique fixe l'organisation, la composition, les autres\ncompétences et le fonctionnement de la cour des comptes ainsi que les règles de procédure\nsuivie devant elle.\n\nsite droitsdelhommr-france.org\n16\n\nV - DE LA HAUTE COUR DE JUSTICE\nET DES AUTRES JURIDICTIONS D'EXCEPTION",
+   "chunk_id": "DOC-bb22b5a28485-C0086",
+   "text_hash": "fba97454d1660da5480bf249a6418eb5fccacece"
+  },
+  {
+   "article": "Article 78",
+   "context": "",
+   "text": "La Haute cour de justice est une juridiction d'exception non permanente.\nElle juge le Président de la République en cas de violation du serment ou de haute trahison.\nLe Président de la République est mis en accusation par la Parlement, statuant à la majorité\ndes deux tiers d ses membres au scrutin public.\nPendant l'intersession, le décret de convocation du Parlement sera exceptionnellement pris par\nle Premier Ministre.\nLes présidents et vice-présidents de corps constitués, les membres du gouvernement et les\nmembres de la cour constitutionnelle sont pénalement responsables devant la haute cour de\njustice des actes accomplis dans l'exercice de leurs fonctions et qualifiés de crimes ou délits\nau moment où ils ont été commis, ainsi que leurs complices et coauteurs en cas d'atteinte à la\nsûreté de l'Etat.\nDans ce cas, la haute cour de justice est saisie, soit par le Président de la République, soit\npar les Présidents des chambres du Parlement, soit par le Procureur général près de la cour\njudiciaire agissant d'office ou sur saisine de toutes personnes intéressées.",
+   "chunk_id": "DOC-bb22b5a28485-C0087",
+   "text_hash": "6f1501a2f792c96e58e24a4e3a8cebf0ecde5c63"
+  },
+  {
+   "article": "Article 79",
+   "context": "",
+   "text": "La haute cour de justice est liée, à l'exception du jugement du Président de\nla République, par la définition des crimes et délits ainsi que par la détermination des peines\ntelles qu'elles résultent des lois pénales en vigueur au moment où les faits ont été commis.",
+   "chunk_id": "DOC-bb22b5a28485-C0088",
+   "text_hash": "2a727e07ada863a8b9ff076bc7f56d596834bd53"
+  },
+  {
+   "article": "Article 80",
+   "context": "",
+   "text": "La haute cour de justice est composée de treize membres dont sept\nmagistrats professionnels désignés par le conseil supérieur de la magistrature et six membres\nélus par le Parlement en son sein, au prorata des effectifs des groupes parlementaires.\nLe Président et le Vice-président de la haute cour de justice sont élus parmi les magistrats\nvisés à l'alinéa premier par l'ensemble des membres de cette institution.",
+   "chunk_id": "DOC-bb22b5a28485-C0089",
+   "text_hash": "0c645638ba4a457f7bb151097cc03c258520ac69"
+  },
+  {
+   "article": "Article 81",
+   "context": "",
+   "text": "Les règles de fonctionnement de la haute cour de justice, la procédure\napplicable devant elle et la définition des crimes reprochés au Président de la République sont\nfixés par une loi organique.\n\nDES AUTRES JURIDICTIONS D'EXCEPTION",
+   "chunk_id": "DOC-bb22b5a28485-C0090",
+   "text_hash": "237272ff502720b333591279e6402e859f0c55f9"
+  },
+  {
+   "article": "Article 82",
+   "context": "",
+   "text": "Les autres juridictions d'exception sont également des instances non\npermanentes, créées par la loi.\n\nSixième partie\nCour constitutionnelle",
+   "chunk_id": "DOC-bb22b5a28485-C0091",
+   "text_hash": "fc3de05273251c7ad994f8a819883dcf4349ab5e"
+  },
+  {
+   "article": "Article 83",
+   "context": "",
+   "text": "La cour constitutionnelle est la plus haute juridiction de l'Etat en matière\nconstitutionnelle. Elle juge de la constitutionnalité des lois et elle garantit les droits\nfondamentaux de la personne humaine et les libertés publiques. Elle est l'organe régulateur du\nfonctionnement des institutions et de l'activité des pouvoirs publics.",
+   "chunk_id": "DOC-bb22b5a28485-C0092",
+   "text_hash": "e676d4460f640c5275b1917aac896483865b46e5"
+  },
+  {
+   "article": "Article 84",
+   "context": "",
+   "text": "La cour constitutionnelle statue obligatoirement sur :\n- la constitutionnalité des lois organiques et des lois avant leur promulgation, des actes\nréglementaires sensés porter atteinte aux droits fondamentaux de la personne humaine et aux\nlibertés publiques;\nsite droitsdelhommr-france.org\n17\n\n- les règlements intérieurs de l'Assemblée Nationale, du conseil national de la\ncommunication et du conseil économique et social, avant leur mise en application, quant à\nleur conformité à la constitution;\n- Les conflits d'attribution entre les institutions de l'Etat ;\n- La régularité de toutes les élections politiques et des opérations de référendum dont elle\nproclame les résultats.\nLa cour constitutionnelle est saisie, en cas de contestation sur la validité d'une élection, par\ntout électeur, tous candidat, tout parti politique ou le délégué du gouvernement, dans les\nconditions prévues par une loi organique.",
+   "chunk_id": "DOC-bb22b5a28485-C0093",
+   "text_hash": "0e58cba140f0ac6cb2aaec13039e1b585ddbdd29"
+  },
+  {
+   "article": "Article 85",
+   "context": "",
+   "text": "Les lois organiques sont soumises par le Premier Ministre à la cour\nconstitutionnelle avant leur promulgation.\nLes autres catégories de lois ainsi que les actes réglementaires peuvent être déférés à la cour\nconstitutionnelle, soit par le Président de la République, soit par le Premier Ministre, soit par\nles Présidents des chambres du Parlement ou un dixième des membres de chaque chambre,\nsoit par les Présidents des cours judiciaire, administrative et des comptes, soit par tous\ncitoyens ou toute personne morale lésée par la loi ou l'acte querellé.\nLa cour constitutionnelle statue, selon une procédure contradictoire, dont les modalités sont\nfixées par la loi organique, dans le délai d'un mois. Toutefois, à la demande du gouvernement\net en cas d'urgence, ce délai est ramené à huit jours. Le recours suspend le délai de\npromulgation de la loi ou l'application de l'acte.\nUne disposition déclarée inconstitutionnelle ne peut être promulguée ou appliquée.",
+   "chunk_id": "DOC-bb22b5a28485-C0094",
+   "text_hash": "4b113c8b3e927ffb2d5ff472b521e7f0e3d62558"
+  },
+  {
+   "article": "Article 86",
+   "context": "",
+   "text": "Tout justiciable peut, à l'occasion d'un procès devant un tribunal ordinaire,\nsoulever une exception d'inconstitutionnalité à l'encontre d'une loi ou d'un acte qui\nméconnaîtrait ses droits fondamentaux.\nLe juge du siège apprécie le bien-fondé de ladite exception et, dans l'affirmative, saisie la\ncour constitutionnelle par voie d'exception préjudicielle.\nLa cour constitutionnelle statue dans le délai d'un mois. Si elle déclare la loi incriminée\ncontraire à la Constitution, cette loi cesse de produire ses effets à compter de la décision.\nLe Parlement examine, au cours de la prochaine session, dans le cadre d'une procédure de\nrenvoi les conséquences découlant de la décision de non-conformité à la Constitution rendue\npar la cour.",
+   "chunk_id": "DOC-bb22b5a28485-C0095",
+   "text_hash": "4bfefca1ae8edfe1de87e9236fa6aea85e5bf000"
+  },
+  {
+   "article": "Article 87",
+   "context": "",
+   "text": "Les engagements internationaux prévus aux articles 113 à 115 ci-après,\ndoivent être différés avant leurs ratifications, à la cour constitutionnelle, soit par le Président\nde la République, soit par le Premier Ministre, soit par le président de l'Assemblée nationale\nou par un dixième des députés.\nLa cour constitutionnelle vérifie, dans un délai d'un mois, si ses engagements comportent\nune clause contraire à la Constitution. Toutefois, à la demande du gouvernement, s'il y a\nurgence, ce délai est ramené à huit jours.",
+   "chunk_id": "DOC-bb22b5a28485-C0096",
+   "text_hash": "51913cd2a56fb13e82c306ccfc950eaa3b6dc36a"
+  },
+  {
+   "article": "Article 88",
+   "context": "",
+   "text": "En dehors des autres compétences prévues par la loi et la Constitution, la\ncour constitutionnelle dispose du pouvoir d'interpréter la Constitution, à la demande du\nPrésident de la République, soit par le Premier Ministre, soit par le président de l'Assemblée\nnationale ou par un dixième des députés.",
+   "chunk_id": "DOC-bb22b5a28485-C0097",
+   "text_hash": "330bfd768b0e9ba11254e976e0e3295929899151"
+  },
+  {
+   "article": "Article 89",
+   "context": "",
+   "text": "La Cour constitutionnelle comprend neuf (9) membres qui portent le titre\nde Conseillers.\nLa durée du mandat des conseillers est de cinq (5) ans renouvelable une seule fois.\nsite droitsdelhommr-france.org\n18\n\nLes neuf (9) membres de la Cour constitutionnelle sont désignés comme suit :\n- trois nommés par le Président de la République dont deux juristes parmi lesquels un\nmagistrat ;\n- trois nommés par le Président de l'Assemblée nationale dont deux juristes parmi lesquels\nun magistrat ;\n- trois nommés par le Président du Sénat dont deux juristes parmi lesquels un magistrat.\nLe magistrat obligatoirement nommé par chacune des autorités visées à l'alinéa précédent\nest choisi sur une liste d'aptitude établie par les trois cours judiciaire, administrative et des\ncomptes et les magistrats de l'administration centrale de la justice, de grade équivalent.\nLes Conseillers sont choisis à titre principal parmi les professeurs de droit, les avocats et les\nmagistrats ayant au moins quarante ans d'âge et quinze ans d'expérience professionnelle, ainsi\nque les personnalités qualifiées ayant honoré le service de l'Etat et âgées d'au moins quarante\nans.\nLe Président de la Cour constitutionnelle est élu par ses pairs.\nEn cas d'empêchement temporaire, son intérim est assuré par le Conseiller le plus âgé.\nEn cas de décès ou de démission d'un membre, le nouveau membre nommé par l'autorité de\nnomination concernée achève le mandat commencé.\nLes anciens Présidents de la République sont membres d'honneur de la Cour\nconstitutionnelle avec voix consultative.",
+   "chunk_id": "DOC-bb22b5a28485-C0098",
+   "text_hash": "64878cd05907225eb1179ba59d63df8320cb3305"
+  },
+  {
+   "article": "Article 90",
+   "context": "",
+   "text": "Les fonctions de membre de la Cour constitutionnelle sont incompatibles\navec toute autre fonction publique et avec toute activité professionnelle privée, sous réserve\ndes exceptions prévues par la loi organique.\nLes membres de la Cour constitutionnelle prêtent serment au cours d'une cérémonie\nsolennelle présidée par le Président de la République, devant le Parlement et les trois Cours\njudiciaire, administrative et des comptes réunis.\nIls prêtent le serment suivant, la main gauche posée sur la Constitution et la main droite\nlevée devant le drapeau national :\n\"Je jure de remplir consciencieusement les devoirs de ma charge, dans le strict respect de\nses obligations de neutralité et de réserve, et de me conduire en digne et loyal magistrat.\"",
+   "chunk_id": "DOC-bb22b5a28485-C0099",
+   "text_hash": "02e7aa895de5c9714f03cb708b24ed250cd051d3"
+  },
+  {
+   "article": "Article 91",
+   "context": "",
+   "text": "La Cour constitutionnelle adresse chaque année un rapport d'activité au\nPrésident de la République et aux présidents des chambres du Parlement. Elle peut, à cette\noccasion, appeler l'attention des pouvoirs publics sur la portée de ses décisions en matière\nlégislative et réglementaire.",
+   "chunk_id": "DOC-bb22b5a28485-C0100",
+   "text_hash": "8fc411a01ac1737d32c8d3a8ae86bc86e459b1b0"
+  },
+  {
+   "article": "Article 92",
+   "context": "",
+   "text": "Les décisions de la Cour constitutionnelle ne sont susceptibles d'aucun\nrecours. Elles s'imposent aux pouvoirs publics, à toutes les autorités administratives et\njuridictionnelles et à toutes les personnes physiques et morales.",
+   "chunk_id": "DOC-bb22b5a28485-C0101",
+   "text_hash": "16189273cc06dc0147acd649dfaaba80ad28e115",
+   "duplicate_of": "DOC-8e28d53d40ca-C0123"
+  },
+  {
+   "article": "Article 93",
+   "context": "",
+   "text": "Les règles d'organisation et de fonctionnement de la Cour constitutionnelle,\nainsi que la procédure suivie devant elle, sont déterminées par une loi organique.\n\nSeptième partie\nConseil national de la communication",
+   "chunk_id": "DOC-bb22b5a28485-C0102",
+   "text_hash": "f76a28a8e707c71cc9b365197bbff381e075e378"
+  },
+  {
+   "article": "Article 94",
+   "context": "",
+   "text": "La communication audiovisuelle et écrite est libre en République gabonaise,\nsous réserve du respect de l'ordre public, de la liberté et de la dignité des citoyens.\n\nsite droitsdelhommr-france.org\n19",
+   "chunk_id": "DOC-bb22b5a28485-C0103",
+   "text_hash": "e8f34c3b10953f980b2c6023ef4eeb3a02aaa7ad"
+  },
+  {
+   "article": "Article 95",
+   "context": "",
+   "text": "Il est institué à cet effet un Conseil national de la communication, chargé de\nveiller :\n- au respect de l'expression de la démocratie et de la liberté de la presse sur toute l'étendue\ndu territoire ;\n- à l'accès des citoyens à une communication libre ;\n- au traitement équitable de tous les partis et associations politiques ;\n- au respect des règles concernant les conditions de production, de programmation et de\ndiffusion des émissions relatives aux campagnes électorales ;\n- au contrôle des programmes et de la réglementation en vigueur, en matière de\ncommunication, ainsi que des règles d'exploitation ;\n- au respect des statuts des professionnels de la communication ;\n- à l'harmonisation des programmes entre les chaînes publiques de radio et de télévision ;\n- à la politique de production des œuvres audiovisuelles et cinématographiques ;\n- à la promotion et au développement des techniques de communication et de la formation\ndu personnel ;\n- au respect des quotas des programmes gabonais diffusés sur les chaînes de radio et de\ntélévision publiques et privées ;\n- au contrôle du contenu et des modalités de programmation des émissions de publicité\ndiffusées par les chaînes de radio et de télévision publiques et privées ;\n- au contrôle des cahiers des charges des entreprises publiques et privées ;\n- à la protection de l'enfance et de l'adolescence dans la programmation des émissions\ndiffusées par les entreprises publiques et privées de la communication audiovisuelle ;\n- à la défense et à l'illustration de la culture gabonaise.",
+   "chunk_id": "DOC-bb22b5a28485-C0104",
+   "text_hash": "78148e43afa96ed64b877fdccf3e7cbf302d2be3"
+  },
+  {
+   "article": "Article 96",
+   "context": "",
+   "text": "En cas de violation de la loi par les parties intéressées, le Conseil national\nde la communication peut leur adresser des observations publiques et faire appliquer les\nsanctions appropriées.",
+   "chunk_id": "DOC-bb22b5a28485-C0105",
+   "text_hash": "9f5280c37295cb402a999ad8738dd1f8d9027bc8"
+  },
+  {
+   "article": "Article 97",
+   "context": "",
+   "text": "Tout conflit opposant le Conseil national de la communication à un autre\norganisme public sera tranché, à la diligence de l'une des parties, par la Cour constitutionnelle.",
+   "chunk_id": "DOC-bb22b5a28485-C0106",
+   "text_hash": "00849f99e98797e5c3dc00b7462530a0cd3def2d"
+  },
+  {
+   "article": "Article 98",
+   "context": "",
+   "text": "Le Conseil national de la communication comprend neuf membres désignés\ncomme suit :\n- trois par le Président de la République, dont un spécialiste de la communication ;\n- trois par le Parlement, dont un spécialiste de la communication, à raison de deux par le\nPrésident de l'Assemblée nationale et d'un par le Président du Sénat ;\n- et trois élus par les professionnels de la communication audiovisuelle et de la presse écrite.",
+   "chunk_id": "DOC-bb22b5a28485-C0107",
+   "text_hash": "b83271badb9c4d3a4c4921f533ea5691e2dc3202"
+  },
+  {
+   "article": "Article 99",
+   "context": "",
+   "text": "Les membres du Conseil national de la Communication doivent avoir des\ncompétences en matière de communication, d'administration publique, de sciences, de droit,\nde culture et d'arts, avoir une expérience professionnelle d'au moins quinze ans et d'être âgés\nd'au moins quarante ans.",
+   "chunk_id": "DOC-bb22b5a28485-C0108",
+   "text_hash": "80b89b088f0e78c958248eee561c7b024c53045c"
+  },
+  {
+   "article": "Article 100",
+   "context": "",
+   "text": "La durée du mandat des membres du Conseil national de la\nCommunication est de cinq ans, renouvelable une fois.\nEn cas de décès ou de démission d'un membre, le nouveau membre nommé par l'autorité de\nnomination concernée achève le mandat commencé.",
+   "chunk_id": "DOC-bb22b5a28485-C0109",
+   "text_hash": "e911ed61ee1e1045cd927476e689908c58bd793a"
+  },
+  {
+   "article": "Article 101",
+   "context": "",
+   "text": "Le Président du Conseil national de la communication est élu par ses pairs.\nEn cas de vacance temporaire, le membre le plus âgé assure l'intérim.\nsite droitsdelhommr-france.org\n20",
+   "chunk_id": "DOC-bb22b5a28485-C0110",
+   "text_hash": "06e3515c1654b2db1b9c37de7a7d089a405e02cb"
+  },
+  {
+   "article": "Article 102",
+   "context": "",
+   "text": "Une loi organique fixe l'organisation et le fonctionnement du Conseil\nnational de la communication, ainsi que le régime des incompatibilités.\n\nHuitième partie\nConseil économique et social",
+   "chunk_id": "DOC-bb22b5a28485-C0111",
+   "text_hash": "1d1469563e92514f9b687b8fcf70a02c00fbe81c"
+  },
+  {
+   "article": "Article 103",
+   "context": "",
+   "text": "Le Conseil économique et social, sous réserve des dispositions des articles\n8 alinéa 3, 28 alinéa premier et 53 ci-dessus, a compétence sur tous les aspects de\ndéveloppement économique, social et culturel :\n- l'orientation générale de l'économie du pays ;\n- la politique financière et budgétaire ;\n- la politique des matières premières ;\n- la politique sociale et culturelle ;\n- la politique de l'environnement.",
+   "chunk_id": "DOC-bb22b5a28485-C0112",
+   "text_hash": "18cc4c4ff443ce8eaff6ee5e23b9282fc70f2769"
+  },
+  {
+   "article": "Article 104",
+   "context": "",
+   "text": "Le Conseil économique et social participe à toute commission d'intérêt\nnational à caractère économique et social.\nIl collecte et rédige, avec la participation des différentes entités qui le composent, à\nl'attention du Président de la République, du gouvernement et du Parlement, le recueil annuel\ndes attentes, des besoins et des problèmes de la société civile avec des orientations et des\npropositions.",
+   "chunk_id": "DOC-bb22b5a28485-C0113",
+   "text_hash": "7ac498b8888a74b81a54f15e8aa5aeab916df28a"
+  },
+  {
+   "article": "Article 105",
+   "context": "",
+   "text": "Le Conseil économique et social est chargé de donner son avis sur les\nquestions à caractère économique, social ou culturel portées à son examen par le Président de\nla République, le gouvernement, le Parlement ou tout autre institution publique.\nIl est obligatoirement consulté sur tout projet de plan ou tout projet de programme à\ncaractère économique, social ou culturel, ainsi que sur toutes dispositions législatives à\ncaractère fiscal, économique, social ou culturel. Il peut être, au préalable, associé à leur\nélaboration.\nLe Conseil économique et social est saisi, au nom du gouvernement, par le Premier Ministre\ndes demandes d'avis ou d'études.",
+   "chunk_id": "DOC-bb22b5a28485-C0114",
+   "text_hash": "f8de2a626e9f2c4f73f7ed7dbe0cfce26da67a2b"
+  },
+  {
+   "article": "Article 106",
+   "context": "",
+   "text": "Le Conseil économique et social peut également procéder à l'analyse de\ntout problème de développement économique et social. Il soumet ses conclusions au Président\nde la République, au gouvernement et à l'Assemblée Nationale.",
+   "chunk_id": "DOC-bb22b5a28485-C0115",
+   "text_hash": "1f3775f0c47d41c76371940c71e683f0b1fbe82e"
+  },
+  {
+   "article": "Article 107",
+   "context": "",
+   "text": "Le Conseil économique et social peut désigner l'un de ses membres, à la\ndemande du Président de la République, du gouvernement ou de l'Assemblée nationale, pour\nexposer devant ces organes l'avis du Conseil sur les projets ou propositions qui lui ont été\nsoumis.\nLe gouvernement et le Parlement ont l'obligation, quand ils sont saisis, de donner une suite\naux avis et rapports formulés par le Conseil économique et social dans un délai maximum de\ntrois mois pour le gouvernement et avant la fin de la session en cours pour le Parlement.\nLe Conseil économique et social reçoit une ampliation des lis, ordonnances et décrets, dès\nleur promulgation. Il suit l'exécution des décisions du gouvernement relatives à l'organisation\néconomique et sociale.",
+   "chunk_id": "DOC-bb22b5a28485-C0116",
+   "text_hash": "cd78bcbec08c67a8c6690f55c3cb8fee7933f194"
+  },
+  {
+   "article": "Article 108",
+   "context": "",
+   "text": "Sont membres du Conseil économique et social :\nsite droitsdelhommr-france.org\n21\n\n- les représentants des syndicats, des associations ou groupements socioprofessionnels, élus\npar leurs associations ou groupements d'origine ;\n- les cadres supérieurs de l'Etat dans le domaine économique et social ;\n- les représentants des collectivités locales désignés par leurs pairs ;\nLa durée du mandat des membres du Conseil économique et social est de quatre ans\nrenouvelable.\nEn cas de décès ou de démission d'un membre, le nouveau membre représentant le secteur\nconcerné achève le mandat commencé.",
+   "chunk_id": "DOC-bb22b5a28485-C0117",
+   "text_hash": "50a24355d3bb73ad41d4dcb1d2ee3cfa5d58caef"
+  },
+  {
+   "article": "Article 109",
+   "context": "",
+   "text": "Le Conseil économique et social se réunit chaque année de plein droit en\ndeux session ordinaires de quinze jours chacune. La première session s'ouvre le troisième\nmardi de février et la seconde, le premier mardi de septembre.\nL'ouverture de chaque session est reportée au lendemain si le jour prévu est non ouvrable.\nLes séances du Conseil économique et social sont publiques.",
+   "chunk_id": "DOC-bb22b5a28485-C0118",
+   "text_hash": "969f8b3cae70789993ac7a7b961a47fe219b8100"
+  },
+  {
+   "article": "Article 110",
+   "context": "",
+   "text": "Le Président et le vice-président du Conseil économique et social sont élus\nau sein du Conseil par leurs pairs lors de la séance d'ouverture de la première session pour un\nmandat de quatre ans renouvelable.\nAucun membre du Conseil économique et social ne peut être poursuivi, recherché ou jugé\npour des opinions émises par lui lors des séances du Conseil.",
+   "chunk_id": "DOC-bb22b5a28485-C0119",
+   "text_hash": "d0252c57bf1ebf69b2194923febef4c6a435e54b"
+  },
+  {
+   "article": "Article 111",
+   "context": "",
+   "text": "L'organisation interne, les règles de fonctionnement et de désignation des\nmembres du Conseil économique et social sont fixées par une loi organique.\n\nNeuvième partie\nCollectivités locales",
+   "chunk_id": "DOC-bb22b5a28485-C0120",
+   "text_hash": "a06090e0e966e5de5cb14e5199bf4563d2622fce"
+  },
+  {
+   "article": "Article 112",
+   "context": "",
+   "text": "Les collectivités locales de la République sont créées par la loi. Elles ne\npeuvent être modifiées ou supprimées qu'après avis des conseils intéressés et dans les\nconditions fixées par la loi.\nElles s'administrent librement par des conseils élus dans les conditions prévues par la loi,\nnotamment en ce qui concerne leurs compétences et leurs ressources.",
+   "chunk_id": "DOC-bb22b5a28485-C0121",
+   "text_hash": "f01244b605a799f7f57d9159a6d8053869c72bd2"
+  },
+  {
+   "article": "Article 112",
+   "context": "",
+   "text": "a - Des consultations locales, portant sur des problèmes spécifiques ne\nrelevant pas du domaine de la loi, peuvent être organisées à l'initiative soit des conseils élus,\nsoit des citoyens intéressés, dans les conditions fixées par la loi.",
+   "chunk_id": "DOC-bb22b5a28485-C0122",
+   "text_hash": "1233e7c684c4fd174a71be8b7d79ca22f2665c1a"
+  },
+  {
+   "article": "Article 112",
+   "context": "",
+   "text": "b - Les conflits de compétence, entre les collectivités locales d'une part, ou\nentre une collectivité locale et l'Etat d'autre part, sont portés devant les juridictions\nadministratives, à la diligence des autorités responsables ou du représentant de l'Etat.\nLe représentant de l'Etat veille au respect des intérêts nationaux.\nUne loi organique précise les modalités d'application du présent titre.\n\nDixième partie\nTraités et accords internationaux",
+   "chunk_id": "DOC-bb22b5a28485-C0123",
+   "text_hash": "986d93175a7690c2d965fd4859721b190c485776"
+  },
+  {
+   "article": "Article 113",
+   "context": "",
+   "text": "Le Président de la République négocie les traités et les accords\ninternationaux et les ratifie après le vote d'une loi d'autorisation par le Parlement et la\nvérification de leur constitutionnalité par la Cour constitutionnelle.\nsite droitsdelhommr-france.org\n22\n\nLe Président de la République et les présidents des chambres du Parlement sont informés de\ntoute négociation tendant à la conclusion d'un accord international non soumis à ratification.",
+   "chunk_id": "DOC-bb22b5a28485-C0124",
+   "text_hash": "574f4d5697faad7a1e3d53c3498f27e144cb7718"
+  },
+  {
+   "article": "Article 114",
+   "context": "",
+   "text": "Les traités de paix, les traités de commerce, les traités relatifs à\nl'organisation internationale, les traités qui engagent les finances de l'Etat, ceux qui modifient\nles dispositions de nature législative, ceux qui sont relatifs à l'état des personnes ne peuvent\nêtre approuvés et ratifiés qu'en vertu d'une loi.\nAucun amendement n'est recevable à cette occasion. Les traités ne prennent effet qu'après\navoir été régulièrement ratifiés et publiés.\nNulle cession, nul échange, nulle adjonction de territoire n'est valable sans consultation\npréalable du peuple gabonais par voie de référendum.\n\nOnzième partie\nAccords de coopération et d’association",
+   "chunk_id": "DOC-bb22b5a28485-C0125",
+   "text_hash": "b63fccfb62700bfad161f7f03bb24a8676e02761"
+  },
+  {
+   "article": "Article 115",
+   "context": "",
+   "text": "La République gabonaise conclut souverainement les accords de\ncoopération ou d'association avec d'autres Etats. Elle accepte de créer avec eux des\norganismes internationaux de gestion commune, de coordination et de libre coopération.\n\nDouzième partie\nRévisions",
+   "chunk_id": "DOC-bb22b5a28485-C0126",
+   "text_hash": "66f29eba394da3a4675368c5f00b9899fa902ec5"
+  },
+  {
+   "article": "Article 116",
+   "context": "",
+   "text": "L'initiative de la révision appartient concurremment au Président de la\nRépublique, le Conseil des Ministres entendu et aux membres du Parlement.\nToute proposition de révision doit être déposée au bureau de l'Assemblée nationale par au\nmoins un tiers des députés.\nTout projet ou toute proposition de révision est soumis, pour avis, à la Cour\nconstitutionnelle.\nLa révision est acquise soit par voie de référendum, soit par voie parlementaire.\nL'examen de tout projet ou de toute proposition de révision de la Constitution par voie\nparlementaire exige la réunion d'au moins deux tiers des membres du Parlement.\nEn ce cas, une majorité qualifiée des deux tiers des suffrages est requise.\nLa révision de la Constitution ne peut être entamée ou achevée, en cas d'intérim de la\nprésidence de la République, de recours aux pouvoirs de crise de l'article 26 ci-dessus, ou\nd'atteinte à l'intégrité du territoire, ainsi que pendant la période qui sépare la proclamation des\nrésultats de l'élection présidentielle du début d'un nouveau mandat présidentiel.",
+   "chunk_id": "DOC-bb22b5a28485-C0127",
+   "text_hash": "18fad28f6c64aee7289b7b71d362d348389f041b"
+  },
+  {
+   "article": "Article 117",
+   "context": "",
+   "text": "La forme républicaine de l'Etat, ainsi que le caractère pluraliste de la\ndémocratie, sont intangibles et ne peuvent faire l'objet d'aucune révision.",
+   "chunk_id": "DOC-bb22b5a28485-C0128",
+   "text_hash": "196f87d853614b3ffe94808c59c6bd37f8569256"
+  },
+  {
+   "article": "Article 118",
+   "context": "",
+   "text": "Le Sénat sera mis en place au terme normal du mandat en cours de\nl'Assemblée Nationale.\nEn vue de la mise en place du Sénat et du renouvellement de l'Assemblée Nationale visés à\nl'alinéa précédent, le découpage des circonscriptions électorales sera effectué.\nLa Cour suprême et chacune de ses chambres restent en place et gardent leurs compétences\njusqu'à la mise en place des cours judiciaire, administrative et des comptes, dans un délai de\nsix mois à compter de la promulgation de la présente loi.\nLe renouvellement de la Cour constitutionnelle, du Conseil national de la communication et\ndu Conseil économique et social interviendra au terme normal de leur mandat en cours au\nmoment de la promulgation de la présente loi.\nsite droitsdelhommr-france.org\n23\n\nsite droitsdelhommr-france.org\n24",
+   "chunk_id": "DOC-bb22b5a28485-C0129",
+   "text_hash": "13f50ea2e43aebbbdc40424f105d54ca505931e2"
+  },
+  {
+   "article": "Article 119",
+   "context": "",
+   "text": "La présente Constitution adoptée par l'Assemblée nationale abroge celle\ndu 28 mai 1990.",
+   "chunk_id": "DOC-bb22b5a28485-C0130",
+   "text_hash": "06fb3d973d9de76c1e1cd0452369e6b1ea075666"
+  },
+  {
+   "article": "Article 120",
+   "context": "",
+   "text": "La présente Constitution sera publiée au Journal officiel et exécutée\ncomme loi de la République.",
+   "chunk_id": "DOC-bb22b5a28485-C0131",
+   "text_hash": "f516a8630b6d1db758ce99f8efa0ea7ac3db89ec"
+  }
+ ]
+}

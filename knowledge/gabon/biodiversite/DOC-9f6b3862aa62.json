@@ -1,0 +1,620 @@
+{
+ "doc_id": "DOC-9f6b3862aa62",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.99,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\FSC  grands mammifères — Gabon_2023.csv"
+ ],
+ "sha256": "9f6b3862aa62049b045af65d61af713fec23f34d1253a8e914e7c1ab223f52db",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:21.051193+00:00",
+ "dataset_summary": {
+  "columns": [
+   "Country",
+   "Site",
+   "Type of Site",
+   "Cluster",
+   "ID",
+   "New ID",
+   "Project Name",
+   "Camera Trap old Name",
+   "Camera trap new name",
+   "_",
+   "Unique_CT_Name",
+   "Notes1",
+   "Notes2",
+   "Sampling Event",
+   "Photo Type",
+   "Photo Date New",
+   "Photo Date Old",
+   "Photo time",
+   "Raw Name",
+   "Class",
+   "Order",
+   "Family",
+   "Genus",
+   "Species",
+   "Number of Animals",
+   "Person Identifying the Photo",
+   "Camera Serial Number",
+   "Camera Start Date New",
+   "Camera Start Date Old",
+   "Camera End Date New",
+   "Camera End Date Old",
+   "Effort (days) Old",
+   "Effort (days) New",
+   "Person setting up the Camera",
+   "Person picking up the Camera",
+   "Camera Manufacturer",
+   "Camera Model",
+   "Sequence Info",
+   "Moon Phase",
+   "Temperature",
+   "Flash",
+   "Organization Name",
+   "Comments"
+  ],
+  "rows_analyzed": 25000,
+  "numeric_stats": {
+   "Cluster": {
+    "min": 5.0,
+    "max": 5.0,
+    "mean": 5.0,
+    "n": 25000
+   },
+   "ID": {
+    "min": 1000.0,
+    "max": 25984.0,
+    "mean": 13511.7704,
+    "n": 25000
+   },
+   "New ID": {
+    "min": 1.0,
+    "max": 25000.0,
+    "mean": 12500.5,
+    "n": 25000
+   },
+   "Number of Animals": {
+    "min": 1.0,
+    "max": 5.0,
+    "mean": 1.1644,
+    "n": 11092
+   },
+   "Camera Serial Number": {
+    "min": 119876.0,
+    "max": 119876.0,
+    "mean": 119876.0,
+    "n": 25000
+   },
+   "Effort (days) Old": {
+    "min": 10.0,
+    "max": 76.0,
+    "mean": 67.9964,
+    "n": 25000
+   },
+   "Effort (days) New": {
+    "min": 10.0,
+    "max": 76.0,
+    "mean": 67.9964,
+    "n": 25000
+   }
+  },
+  "categorical_top_values": {
+   "Country": [
+    [
+     "Gabon",
+     25000
+    ]
+   ],
+   "Site": [
+    [
+     "FSC5",
+     25000
+    ]
+   ],
+   "Type of Site": [
+    [
+     "FSC",
+     25000
+    ]
+   ],
+   "Camera Trap old Name": [
+    [
+     "C01",
+     6459
+    ],
+    [
+     "C04",
+     5721
+    ],
+    [
+     "C05",
+     2817
+    ],
+    [
+     "C02",
+     2433
+    ],
+    [
+     "C09",
+     2313
+    ],
+    [
+     "C10",
+     1571
+    ],
+    [
+     "C06",
+     1197
+    ],
+    [
+     "C07",
+     1083
+    ]
+   ],
+   "Camera trap new name": [
+    [
+     "C01",
+     6459
+    ],
+    [
+     "C04",
+     5721
+    ],
+    [
+     "C05",
+     2817
+    ],
+    [
+     "C02",
+     2433
+    ],
+    [
+     "C09",
+     2313
+    ],
+    [
+     "C10",
+     1571
+    ],
+    [
+     "C06",
+     1197
+    ],
+    [
+     "C07",
+     1083
+    ]
+   ],
+   "_": [
+    [
+     "_",
+     25000
+    ]
+   ],
+   "Unique_CT_Name": [
+    [
+     "FSC5_C01",
+     6459
+    ],
+    [
+     "FSC5_C04",
+     5721
+    ],
+    [
+     "FSC5_C05",
+     2817
+    ],
+    [
+     "FSC5_C02",
+     2433
+    ],
+    [
+     "FSC5_C09",
+     2313
+    ],
+    [
+     "FSC5_C10",
+     1571
+    ],
+    [
+     "FSC5_C06",
+     1197
+    ],
+    [
+     "FSC5_C07",
+     1083
+    ]
+   ],
+   "Sampling Event": [
+    [
+     "FSC5-2019-10-C01",
+     6459
+    ],
+    [
+     "FSC5-2019-10-C04",
+     5721
+    ],
+    [
+     "FSC5-2019-10-C05",
+     2817
+    ],
+    [
+     "FSC5-2019-10-C02",
+     2433
+    ],
+    [
+     "FSC5-2019-10-C09",
+     2313
+    ],
+    [
+     "FSC5-2019-10-C10",
+     1571
+    ],
+    [
+     "FSC5-2019-10-C06",
+     1197
+    ],
+    [
+     "FSC5-2019-10-C07",
+     1083
+    ]
+   ],
+   "Photo Type": [
+    [
+     "Animal",
+     11092
+    ],
+    [
+     "Blank",
+     11088
+    ],
+    [
+     "Misfired",
+     1470
+    ],
+    [
+     "Unidentifiable",
+     776
+    ],
+    [
+     "Setup/Pickup",
+     346
+    ],
+    [
+     "Unknown",
+     228
+    ]
+   ],
+   "Photo Date New": [
+    [
+     "2019-12-05",
+     2691
+    ],
+    [
+     "2019-11-24",
+     1089
+    ],
+    [
+     "2019-12-04",
+     663
+    ],
+    [
+     "2019-11-19",
+     639
+    ],
+    [
+     "2019-11-17",
+     556
+    ],
+    [
+     "2019-12-10",
+     552
+    ],
+    [
+     "2019-12-26",
+     456
+    ],
+    [
+     "2019-11-29",
+     449
+    ]
+   ],
+   "Photo Date Old": [
+    [
+     "2019-12-05",
+     2691
+    ],
+    [
+     "2019-11-24",
+     1089
+    ],
+    [
+     "2019-12-04",
+     663
+    ],
+    [
+     "2019-11-19",
+     639
+    ],
+    [
+     "2019-11-17",
+     556
+    ],
+    [
+     "2019-12-10",
+     552
+    ],
+    [
+     "2019-12-26",
+     456
+    ],
+    [
+     "2019-11-29",
+     449
+    ]
+   ],
+   "Class": [
+    [
+     "MAMMALIA",
+     10612
+    ],
+    [
+     "AVES",
+     480
+    ]
+   ],
+   "Order": [
+    [
+     "ARTIODACTYLA",
+     6841
+    ],
+    [
+     "PROBOSCIDEA",
+     1724
+    ],
+    [
+     "RODENTIA",
+     1557
+    ],
+    [
+     "PRIMATES",
+     415
+    ],
+    [
+     "GRUIFORMES",
+     288
+    ],
+    [
+     "AVES",
+     93
+    ],
+    [
+     "GALLIFORMES",
+     78
+    ],
+    [
+     "CARNIVORA",
+     75
+    ]
+   ],
+   "Family": [
+    [
+     "BOVIDAE",
+     6514
+    ],
+    [
+     "ELEPHANTIDAE",
+     1724
+    ],
+    [
+     "SCIURIDAE",
+     561
+    ],
+    [
+     "HYSTRICIDAE",
+     435
+    ],
+    [
+     "NESOMYIDAE",
+     357
+    ],
+    [
+     "RALLIDAE",
+     288
+    ],
+    [
+     "CERCOPITHECIDAE",
+     262
+    ],
+    [
+     "MURIDAE",
+     204
+    ]
+   ],
+   "Genus": [
+    [
+     "Cephalophus",
+     5971
+    ],
+    [
+     "Loxodonta",
+     1724
+    ],
+    [
+     "Philantomba",
+     543
+    ],
+    [
+     "Funisciurus",
+     534
+    ],
+    [
+     "Atherurus",
+     435
+    ],
+    [
+     "Cricetomys",
+     357
+    ],
+    [
+     "Himantornis",
+     288
+    ],
+    [
+     "Cercocebus",
+     256
+    ]
+   ],
+   "Species": [
+    [
+     "ogilbyi",
+     4110
+    ],
+    [
+     "cyclotis",
+     1724
+    ],
+    [
+     "unknown",
+     1386
+    ],
+    [
+     "dorsalis",
+     1071
+    ],
+    [
+     "monticola",
+     543
+    ],
+    [
+     "africanus",
+     435
+    ],
+    [
+     "emini",
+     357
+    ],
+    [
+     "haematopus",
+     288
+    ]
+   ],
+   "Camera Start Date New": [
+    [
+     "2019-11-06",
+     12300
+    ],
+    [
+     "2019-10-31",
+     8030
+    ],
+    [
+     "2019-11-05",
+     4089
+    ],
+    [
+     "2019-11-03",
+     581
+    ]
+   ],
+   "Camera Start Date Old": [
+    [
+     "2019-11-06",
+     12300
+    ],
+    [
+     "2019-10-31",
+     8030
+    ],
+    [
+     "2019-11-05",
+     4089
+    ],
+    [
+     "2019-11-03",
+     581
+    ]
+   ],
+   "Camera End Date New": [
+    [
+     "2020-01-14",
+     12168
+    ],
+    [
+     "2020-01-15",
+     7040
+    ],
+    [
+     "2020-01-13",
+     3006
+    ],
+    [
+     "2019-12-06",
+     1571
+    ],
+    [
+     "2020-01-01",
+     1083
+    ],
+    [
+     "2019-11-16",
+     132
+    ]
+   ],
+   "Camera End Date Old": [
+    [
+     "2020-01-14",
+     12168
+    ],
+    [
+     "2020-01-15",
+     7040
+    ],
+    [
+     "2020-01-13",
+     3006
+    ],
+    [
+     "2019-12-06",
+     1571
+    ],
+    [
+     "2020-01-01",
+     1083
+    ],
+    [
+     "2019-11-16",
+     132
+    ]
+   ],
+   "Camera Manufacturer": [
+    [
+     "Bushnell",
+     25000
+    ]
+   ],
+   "Camera Model": [
+    [
+     "Trophy Cam HD",
+     25000
+    ]
+   ]
+  },
+  "readme": ""
+ },
+ "kind": "dataset",
+ "title": "FSC grands mammifères — Gabon 2023",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : FSC grands mammifères — Gabon 2023 (Gabon).\nColonnes (43) : Country, Site, Type of Site, Cluster, ID, New ID, Project Name, Camera Trap old Name, Camera trap new name, _, Unique_CT_Name, Notes1, Notes2, Sampling Event, Photo Type, Photo Date New, Photo Date Old, Photo time, Raw Name, Class, Order, Family, Genus, Species, Number of Animals, Person Identifying the Photo, Camera Serial Number, Camera Start Date New, Camera Start Date Old, Camera End Date New, Camera End Date Old, Effort (days) Old, Effort (days) New, Person setting up the Camera, Person picking up the Camera, Camera Manufacturer, Camera Model, Sequence Info, Moon Phase, Temperature.\nNombre de lignes analysées : 25000.\n- Cluster : min 5.0, max 5.0, moyenne 5.0 (n=25000).\n- ID : min 1000.0, max 25984.0, moyenne 13511.7704 (n=25000).\n- New ID : min 1.0, max 25000.0, moyenne 12500.5 (n=25000).\n- Number of Animals : min 1.0, max 5.0, moyenne 1.1644 (n=11092).\n- Camera Serial Number : min 119876.0, max 119876.0, moyenne 119876.0 (n=25000).\n- Effort (days) Old : min 10.0, max 76.0, moyenne 67.9964 (n=25000).\n- Effort (days) New : min 10.0, max 76.0, moyenne 67.9964 (n=25000).\n- Country : valeurs principales Gabon (25000).\n- Site : valeurs principales FSC5 (25000).\n- Type of Site : valeurs principales FSC (25000).\n- Camera Trap old Name : valeurs principales C01 (6459), C04 (5721), C05 (2817), C02 (2433), C09 (2313), C10 (1571).\n- Camera trap new name : valeurs principales C01 (6459), C04 (5721), C05 (2817), C02 (2433), C09 (2313), C10 (1571).\n- _ : valeurs principales _ (25000).\n- Unique_CT_Name : valeurs principales FSC5_C01 (6459), FSC5_C04 (5721), FSC5_C05 (2817), FSC5_C02 (2433), FSC5_C09 (2313), FSC5_C10 (1571).\n- Sampling Event : valeurs principales FSC5-2019-10-C01 (6459), FSC5-2019-10-C04 (5721), FSC5-2019-10-C05 (2817), FSC5-2019-10-C02 (2433), FSC5-2019-10-C09 (2313), FSC5-2019-10-C10 (1571).\n- Photo Type : valeurs principales Animal (11092), Blank (11088), Misfired (1470), Unidentifiable (776), Setup/Pickup (346), Unknown (228).\n- Photo Date New : valeurs principales 2019-12-05 (2691), 2019-11-24 (1089), 2019-12-04 (663), 2019-11-19 (639), 2019-11-17 (556), 2019-12-10 (552).",
+   "chunk_id": "DOC-9f6b3862aa62-C0001",
+   "text_hash": "e03a29e02a7443aba08008b2733d0af64c6710cb"
+  }
+ ]
+}

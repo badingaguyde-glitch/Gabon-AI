@@ -1,0 +1,160 @@
+{
+  "species_id": "SPECIES-000011",
+  "scientific_name": "Cephalophus dorsalis",
+  "normalized_name": "cephalophus_dorsalis",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000190",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.846873+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000191",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Animaux vivants, corps, os, sculptures, cornes, peaux, crânes,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Animaux vivants, corps, os, sculptures, cornes, peaux, crânes,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.846912+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000192",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.846923+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [
+    {
+      "observation_id": "OBS-001212",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 202,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 1201 202  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2019-11-07 2019-11-07 18:52:29 11070202.JPG MAMMALIA ARTIODACTYLA BOVIDAE Ceph",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:23.933132+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-001395",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 5965,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 6964 5965  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2020-01-04 2020-01-04 16:10:27 01040970.JPG MAMMALIA ARTIODACTYLA BOVIDAE Cep",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:23.961600+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013",
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:24.069731+00:00",
+  "updated_at": "2026-10-14T10:10:28.851502+00:00"
+}

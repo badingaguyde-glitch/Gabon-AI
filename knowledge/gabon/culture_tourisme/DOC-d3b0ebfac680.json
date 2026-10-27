@@ -1,0 +1,35 @@
+{
+ "doc_id": "DOC-d3b0ebfac680",
+ "country": "Gabon",
+ "category": "culture_tourisme",
+ "subcategory": null,
+ "secondary_categories": [
+  "histoire",
+  "infrastructures_transport",
+  "demographie"
+ ],
+ "classification_confidence": 0.496,
+ "language": "fr",
+ "source_files": [
+  "Apindjis.pdf"
+ ],
+ "sha256": "d3b0ebfac680bc3ad943e7c470dc6ca1d044fc71124bd93347f689787345ec10",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:21.496158+00:00",
+ "kind": "text",
+ "title": "Apindjis — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Apindjis\nPopulations importantes par région\nGabon\n7 100\nAutres\nLangues\napindji\nReligions\nbwiti\nEthnies\nliées\nOkandé\nApindjis\nLes Apindjis (ou Apingi, Apinzi, Apindje, Pinji)\nsont un peuple d'Afrique centrale établi au Gabon.\nIls font partie du groupe Okande-Tsogho .\nSelon André Raponda-Walker, les Apindjis seraient\noriginaires de la Ngounié et ils se seraient installés\nsur la rive droite de la ville de Mouila et la rivière\nWaka au début du xxe siècle. Pendant la période\ncoloniale, leurs équipes de pagayeurs transportèrent\nmissionnaires et fonctionnaires jusqu'à Mouila. Il ne\nreste aujourd'hui que quelques villages apindjis. Beaucoup de jeunes ont émigré vers les villes où ils se\nsont dispersés.\nIls parlent une langue bantoue, l'apindji.\n1. Direction générale des statistiques du Gabon (http://www.stat-gabon.org/index.php?option=c\nom_content&view=article&id=51&Itemid=57), 2012\n(en) David E. Gardinier, Historical dictionary of Gabon, Scarecrow Press, Metuchen,\nLondres, 1994, 466 p. (ISBN 0810827689)\n(fr) André Raponda-Walker, Notes d'histoire du Gabon (avec une introduction, des cartes\net des notes de Marcel Soret), Impr. Charité, Montpellier, 1960, 158 p.\n(fr) André Raponda-Walker et Roger Sillans, Contes gabonais, Éditions Présence\nafricaine, 1967, 384 p. (avec des contes Apindji)\n1\nHistoire\nLangue\nNotes et références\nVoir aussi\nBibliographie",
+   "chunk_id": "DOC-d3b0ebfac680-C0001",
+   "text_hash": "42207cfc3ae9c3a8b896881298153d30ee2029ba"
+  },
+  {
+   "section": "",
+   "text": "(fr) Stanislaw Swiderski, « Le Bwiti, société d'initiation chez les Apindji au Gabon »,\nAnthropos (St. Augustin), 1965, vol. 60, p. 541-576\nDémographie du Gabon\nListe des groupes ethniques d'Afrique\n(en) My Apingi Kingdom (https://archive.org/details/myapingikingdom00duch) (ouvrage de\nPaul Belloni Du Chaillu (1870), numérisé)\n(fr) « Les Achira et les Apingi, tribus de l'Afrique équatoriale, d'après Paul Du Chaillu, par\nM. l'abbé Dinomé » (https://gallica.bnf.fr/ark:/12148/bpt6k699403) (in Nouvelles annales\ndes voyages, de la géographie et de l'histoire ou Recueil des relations originales inédites,\n1862, tome 3, p. 165-173)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Apindjis&oldid=232330697 ».\nArticles connexes\nLiens externes",
+   "chunk_id": "DOC-d3b0ebfac680-C0002",
+   "text_hash": "8e22023f00b527269969a49bb70fbfe1cef9188c"
+  }
+ ]
+}

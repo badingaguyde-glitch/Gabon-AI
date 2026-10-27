@@ -1,0 +1,27 @@
+{
+ "doc_id": "DOC-e66a8f8c882d",
+ "country": "France",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "histoire"
+ ],
+ "classification_confidence": 0.685,
+ "language": "fr",
+ "source_files": [
+  "Centre_international_de_recherches_médicales_de_Franceville.pdf"
+ ],
+ "sha256": "e66a8f8c882d7cbf22fa67d58d8142b798c6c173d93d2d0d47fe691260543da9",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:14:06.790906+00:00",
+ "kind": "text",
+ "title": "Centre international de recherches médicales de Franceville — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Centre international de recherches\nmédicales de Franceville\nCadre\nPays\nGabon\nCoordonnées\n1° 38′ 12″ S, 13° 35′ 22″ E\nOrganisation\nSite web\ncirmf.org (http://cirmf.org/)\nCentre international de recherches médicales\nde Franceville\nLe\nCentre\ninternational\nde\nrecherches\nmédicales de Franceville (CIRMF) est un centre\nde recherche situé au Gabon .\nCette association à but non lucratif reconnue\nd’utilité publique a été créée en 1974 sur une\ninitiative d'Omar Bongo, Président du Gabon, et\nde Pierre Guillaumat, PDG d’Elf Aquitaine .\nPour les 30 ans du CIRMF (3).\nLa production scientifique du CIRMF a toujours\nété remarquable par son originalité et les\nthématiques choisies.\n1. Centre international de recherches\nmédicales de Franceville (CIRMF) (https://\nuia.org/s/or/en/1100053205)\n2. Centre international de recherches\nmédicales de Franceville (https://www.auf.\norg/les_membres/nos-membres/centre-int\nernational-de-recherches-medicales-de-fra\nnceville/)\n3. Vidal P, Mouyabi N, Gonzalez JP. Destiny ot the Gabonese international center of medical research.\nMed Sante Trop. 2019 May 1;29(2):142-150. English. doi: 10.1684/mst.2019.0906. PMID 31379338.\nhttps://pubmed.ncbi.nlm.nih.gov/31379338/\nCe document provient de « https://fr.wikipedia.org/w/index.php?\ntitle=Centre_international_de_recherches_médicales_de_Franceville&oldid=210704674 ».\n1\n2\nRéférences",
+   "chunk_id": "DOC-e66a8f8c882d-C0001",
+   "text_hash": "ad1a51ed87cf1afb542e4eb6ad929b61c54b09e9"
+  }
+ ]
+}

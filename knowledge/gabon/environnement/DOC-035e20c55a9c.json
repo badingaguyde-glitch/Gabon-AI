@@ -1,0 +1,20 @@
+{
+ "doc_id": "DOC-035e20c55a9c",
+ "country": "Gabon",
+ "category": "environnement",
+ "subcategory": null,
+ "secondary_categories": [
+  "droit"
+ ],
+ "classification_confidence": 0.738,
+ "language": "en",
+ "source_files": [
+  "Droit\\Codes\\code-de-l'environnement.pdf"
+ ],
+ "sha256": "035e20c55a9cd61eedd746e025214a17ad0eff96f3092da0470062de027fb9d7",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:10:39.587750+00:00",
+ "kind": "text",
+ "title": "Gabon - Loi n°2014-07 du 1er aout 2014 relative a la protection de l'environnement (www.droit-afrique.com)",
+ "chunks": []
+}

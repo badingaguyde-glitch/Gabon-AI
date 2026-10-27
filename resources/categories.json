@@ -1,0 +1,27 @@
+{
+  "_comment": "Maps taxonomic class names / group names (any language) to output category folders. Unknown classes create a new category dynamically (slug of the class name), so this file is only a list of preferred labels.",
+  "categories": {
+    "mammals": ["mammalia", "mammal", "mammals", "mammifere", "mammiferes", "mamifero", "mamiferos", "saugetiere", "saugetier"],
+    "birds": ["aves", "bird", "birds", "oiseau", "oiseaux", "ave", "pajaros", "vogel", "vogel"],
+    "reptiles": ["reptilia", "reptile", "reptiles", "reptil", "reptiles", "squamata", "testudines", "crocodylia", "sauropsida"],
+    "amphibians": ["amphibia", "amphibian", "amphibians", "amphibien", "amphibiens", "anfibio", "anfibios", "anura", "caudata", "gymnophiona"],
+    "fish": ["actinopterygii", "chondrichthyes", "sarcopterygii", "elasmobranchii", "pisces", "osteichthyes", "fish", "fishes", "poisson", "poissons", "pez", "peces", "fische"],
+    "insects": ["insecta", "insect", "insects", "insecte", "insectes", "insecto", "insectos", "hexapoda"],
+    "arachnids": ["arachnida", "arachnid", "arachnids", "arachnide", "arachnides", "aracnido", "aracnidos", "araneae", "scorpiones"],
+    "molluscs": ["mollusca", "mollusc", "molluscs", "mollusk", "mollusks", "mollusque", "mollusques", "gastropoda", "bivalvia", "cephalopoda"],
+    "crustaceans": ["crustacea", "crustacean", "crustaceans", "crustace", "crustaces", "malacostraca", "decapoda"],
+    "corals": ["anthozoa", "coral", "corals", "corail", "coraux", "hydrozoa", "scyphozoa"],
+    "invertebrates": ["invertebrata", "invertebrate", "invertebrates", "invertébré", "invertébrés"],
+    "myriapods": ["myriapoda", "chilopoda", "diplopoda", "myriapod", "myriapods", "myriapode", "myriapodes"],
+    "plants": ["plantae", "plant", "plants", "plante", "plantes", "magnoliopsida", "liliopsida"]
+  },
+  "kingdom_defaults": {
+    "mammals": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Mammalia"},
+    "birds": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Aves"},
+    "reptiles": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Reptilia"},
+    "amphibians": {"kingdom": "Animalia", "phylum": "Chordata", "class": "Amphibia"},
+    "insects": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Insecta"},
+    "arachnids": {"kingdom": "Animalia", "phylum": "Arthropoda", "class": "Arachnida"}
+  },
+  "unclassified": "unclassified"
+}

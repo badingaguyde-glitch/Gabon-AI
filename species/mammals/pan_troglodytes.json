@@ -1,0 +1,195 @@
+{
+  "species_id": "SPECIES-000006",
+  "scientific_name": "Pan troglodytes",
+  "normalized_name": "pan_troglodytes",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Hominidae"
+  },
+  "synonyms": [
+    "Pan troglodytes troglodytes",
+    "Simia troglodytes"
+  ],
+  "common_names": {
+    "en": [
+      "Central chimpanzee",
+      "Chimpanzee",
+      "Common chimpanzee"
+    ],
+    "fr": [
+      "Chimpanzé",
+      "Chimpanzé commun"
+    ]
+  },
+  "iucn_status": "EN",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000079",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe I",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe I",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.383794+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000080",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Intégralement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Intégralement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.383843+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000081",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Animaux vivants, poils, peaux, crânes, spécimens, trophées,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Animaux vivants, poils, peaux, crânes, spécimens, trophées,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.383858+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000082",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "EN",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: EN",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.383868+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [
+    {
+      "observation_id": "OBS-000496",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 15022,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 16042 15022  C05 C05 _ FSC5_C05   FSC5-2019-10-C05 Animal 2019-11-18 2019-11-18 15:10:52 11180277.JPG MAMMALIA PRIMATES HOMINIDAE Pan",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:23.127708+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-000562",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 19834,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 20848 19834  C07 C07 _ FSC5_C07   FSC5-2019-10-C07 Animal 2020-01-01 2020-01-01 08:21:50 01010076.JPG MAMMALIA PRIMATES HOMINIDAE Pan",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:23.151708+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013",
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:23.183494+00:00",
+  "updated_at": "2026-10-14T10:10:28.391008+00:00"
+}

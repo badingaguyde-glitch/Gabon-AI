@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000200",
+  "scientific_name": "Leptopelis ocellatus",
+  "normalized_name": "leptopelis_ocellatus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Arthroleptidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009777",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 73,
+        "extracted_text_snippet": "Table row: Gabon 28/10/2022 G38 G0284 Arthroleptidae Leptopelis ocellatus NA NA NA NA NA 0.47",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.832140+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009940",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 97,
+        "extracted_text_snippet": "Table row: Leptopelis ocellatus Leptopelis TEAQ 0.26236426446749106 0.10552457353332965 0.7343326246072053 0.5522284515675908 0.7791144869730656 0.51610493505481",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:32.257253+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.832515+00:00",
+  "updated_at": "2026-10-14T10:10:32.258187+00:00"
+}

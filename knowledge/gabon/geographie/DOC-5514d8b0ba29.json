@@ -1,0 +1,35 @@
+{
+ "doc_id": "DOC-5514d8b0ba29",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "histoire",
+  "culture_tourisme",
+  "administration"
+ ],
+ "classification_confidence": 0.515,
+ "language": "fr",
+ "source_files": [
+  "Centre_international_des_civilisations_bantu.pdf"
+ ],
+ "sha256": "5514d8b0ba297a94d78b1fe0d19d48cd56f068c8476ded3b54655b04df583ed6",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:14:06.702339+00:00",
+ "kind": "text",
+ "title": "Centre international des civilisations bantu — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Centre international des civilisations\nbantu\nHistoire\nFondation\n8 janvier 1983\nCadre\nType\nCentre culturel\nCoordonnées\n0° 26′ 16″ N, 9° 25′ 09″ E\nOrganisation\nSite web\nwww.cicibabantu.org (https://w\nww.cicibabantu.org/)\nCentre international des civilisations bantu\nLe\nCentre\ninternational\ndes\ncivilisations\nbantoues (CICIBA), créé le 8 janvier 1983, est\nbasé à Libreville au Gabon . Les onze États\nmembres fondateurs sont l'Angola, le Cameroun,\nla Centrafrique, les Comores, la république du\nCongo, la république démocratique du Congo, le\nGabon, la Guinée équatoriale, le Rwanda, Sao\nTomé-et-Principe et la Zambie.\nLa construction du siège de Libreville a coûté\nenviron 10 milliards de francs CFA (15,2 millions\nd'euros). Une collecte de documents — anciens\nmanuscrits, bandes sonores, etc. — a été réalisée .\nEn\n2016,\nl'association\nEspoir\nGabon,\nen\ncoopération avec l'association des squatteurs du\nCICIBA, essaye d'attirer l'attention du public sur la\npossible réhabilitation des ruines du chantier\nabandonné du siège du CICIBA, en organisant le\n1\n2\nSpectacles",
+   "chunk_id": "DOC-5514d8b0ba29-C0001",
+   "text_hash": "6dbbc5a97e596a015c2ce4dfedbefb5784344ad6"
+  },
+  {
+   "section": "",
+   "text": "tournoi des neuf provinces, qui s'inscrit comme le premier concours de danses traditionnelles africaines\nau Gabon\n.\n1. Mukala Kadima-Nzudji et Bethwell A. Ogot, Élaboration d'un programme pour le Centre\ninternational de civilisation bantu, Paris, UNESCO, 1983\n2. Le Centre international des civilisations bantoues, un mirage africain (http://www.leparisien.f\nr/flash-actualite-culture/le-centre-international-des-civilisations-bantoues-un-mirage-africain03-09-2014-4107231.php)\n3. Isabelle, « Le tournoi des 9 provinces : une initiative d'Espoir Gabon (https://originvl.com/201\n6/09/03/tournoi-des-9provinces/) », 3 septembre 2016 (consulté le 8 septembre 2017).\n4. Espoir Gabon, « Résumé du tournoi des 9 provinces - Espoir Gabon - culture 7 mag (https://\nwww.youtube.com/watch?v=5R1Hma2Fg5g) », 21 septembre 2016 (consulté le\n8 septembre 2017).\nSite officiel (http://www.cicibabantu.org/)\nBernard Nageotte, « Le Ciciba redéfinit ses missions (http://www.rfi.fr/actufr/articles/067/ar\nticle_37299.asp) », sur rfi.fr, 6 juillet 2005\nCe document provient de « https://fr.wikipedia.org/w/index.php?\ntitle=Centre_international_des_civilisations_bantu&oldid=211418259 ».\n3, 4\nNotes et références\nVoir aussi\nLiens externes",
+   "chunk_id": "DOC-5514d8b0ba29-C0002",
+   "text_hash": "a8593c026f2756895774881cd2332a2335643643"
+  }
+ ]
+}

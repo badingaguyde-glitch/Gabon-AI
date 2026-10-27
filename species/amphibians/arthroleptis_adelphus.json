@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000195",
+  "scientific_name": "Arthroleptis adelphus",
+  "normalized_name": "arthroleptis_adelphus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Arthroleptidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009755",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 2,
+        "extracted_text_snippet": "Table row: Gabon 03/10/2022 G03 G0018 Arthroleptidae Arthroleptis adelphus 3.1 31 10.8 1.1 15.1 0",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.753300+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009852",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 9,
+        "extracted_text_snippet": "Table row: Arthroleptis adelphus Arthroleptis DD 0 -0.0858995766262165 -0.0016492591232053961 0.044203179325027056 -0.524222079733315 -0.12930357699367107 0.1651",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:31.443077+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.753861+00:00",
+  "updated_at": "2026-10-14T10:10:31.490445+00:00"
+}

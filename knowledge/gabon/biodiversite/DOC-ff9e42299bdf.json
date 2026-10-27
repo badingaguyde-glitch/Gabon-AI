@@ -1,0 +1,41 @@
+{
+ "doc_id": "DOC-ff9e42299bdf",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "social",
+  "environnement",
+  "administration"
+ ],
+ "classification_confidence": 0.525,
+ "language": "fr",
+ "source_files": [
+  "Aucoumea.pdf"
+ ],
+ "sha256": "ff9e42299bdf085ed378d16d120fdd1e9cd36803a94034f02500c87874f0ee2f",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:28.140222+00:00",
+ "kind": "text",
+ "title": "Aucoumea — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Aucoumea\nAucoumea klaineana\nClassification\nRègne\nPlantae\nDivision\nMagnoliophyta\nClasse\nMagnoliopsida\nOrdre\nSapindales\nFamille\nBurseraceae\nGenre\nAucoumea\nRoxb. ex Colebr., 1807\nClassification phylogénétique\nOrdre\nSapindales\nFamille\nBurseraceae\nAucoumea\nLe genre Aucoumea, parfois appelé Okoumé ou\nAnguma , est composé d’une seule espèce d'arbres\nde la famille des Burséracées originaires d'Afrique\néquatoriale.\nSon nom initial était Bosswellia Klaineana du nom\ndu Père Théophile Klaine, spiritain et botaniste qui\nen a découvert l'intérêt vers 1894-1896.\nCet arbre est un des symboles des armoiries du\nGabon.\nSelon [réf. nécessaire] :\nAucoumea klaineana Pierre.\nSelon NCBI (2 août 2010) :\nAucoumea klaineana\nLe bois de l'okoumé est utilisé en menuiserie\n(notamment pour la réalisation d'escaliers) , en\nébénisterie et dans la fabrication du contreplaqué.\nC. Born, Diversité génétique et\ndynamique des forêts d’Afrique centrale:\nune étude multi-échelle de la structure de\nla diversité génétique d’un arbre pionnier,\nAucoumea klaineana (dissertation\ndoctorale), Montpellier 2, 2007\n(présentation en ligne (http://www.theses.fr/2007\nMON20252))\n(en) J. Gauchette, « Essais de\nprolongation du pouvoir germinatif des\n1\n2\nUnique espèce\n3\nUtilisation du bois\nBibliographie Statut de conservation UICN\nVU A1cd : Vulnérable\ngraines d'Okoumé », dans Conf. Forest. de Pointe-Noire, 1958\nH. Mathouet, S.",
+   "chunk_id": "DOC-ff9e42299bdf-C0001",
+   "text_hash": "f6848ce7001b9354be51c4e241e8dce474a113d1"
+  },
+  {
+   "section": "",
+   "text": "Aboughe Angone, L. Mengome, C. Eyele Mve Mba, ML Rondi,\nA. Souza et M. Lamidi, « Étude\nethnobotanique des plantes utilisées en\nmédecine traditionnelle pour des\naffections respiratoires au Gabon », La\nscience en liberté, vol. 6, no 140905,‎ 9 septembre 2014 (ISSN 2111-4706 (https://portal.issn.org/r\nesource/ISSN/2111-4706), lire en ligne (https://www.researchgate.net/publication/305827841_Etude_Ethnob\notanique_des_Plantes_Utilisees_en_Medecine_Traditionnelle_pour_des_Affections_Respiratoires_au_Gab\non))\n(en) N. L. E. Obiang, A. Ngomanda, L. J. White, K. J. Jeffery, É. Chézeaux et N. Picard,\n« Disentangling the effect of size and competition: a growth model for Aucoumea\nklaineana », Annals of forest science, vol. 70, no 3,‎ 2013, p. 241-249 (lire en ligne (https://hal.a\nrchives-ouvertes.fr/hal-01201471/document))\n1. Okume est le nom donné à cet arbre par les Mpongwe, bantous du groupe nord-ouest, en\nmyènè. 2. Anguma est le nom utilisé en fang (Mathouet 2014). 3. NCBI, consulté le 2 août 2010.",
+   "chunk_id": "DOC-ff9e42299bdf-C0002",
+   "text_hash": "b3350ebfb52b730705d86fe0830afed2ec16bdb3"
+  },
+  {
+   "section": "",
+   "text": "(en) NCBI : Aucoumea (https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mod\ne=Info&id=373076) (taxons inclus (http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwta\nx.cgi?lin=s&p=has_linkout&id=373076))\n(en) UICN : espèce Aucoumea klaineana (https://www.iucnredlist.org/details/33051/0)\n(consulté le 14 octobre 2015)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Aucoumea&oldid=210140535 ». Notes et références\nLiens externes",
+   "chunk_id": "DOC-ff9e42299bdf-C0003",
+   "text_hash": "b825de1bfa7777b2516a94df0398ac9c2bd0ad8b"
+  }
+ ]
+}

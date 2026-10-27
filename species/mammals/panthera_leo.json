@@ -1,0 +1,108 @@
+{
+  "species_id": "SPECIES-000076",
+  "scientific_name": "Panthera leo",
+  "normalized_name": "panthera_leo",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Lion"
+    ],
+    "fr": [
+      "Lion"
+    ]
+  },
+  "iucn_status": "VU",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000165",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 21,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.775958+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000166",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Peaux, animaux vivants, os, dents, griffes, pattes, poils, queues",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 21,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Peaux, animaux vivants, os, dents, griffes, pattes, poils, queues",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.775968+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000167",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "VU",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 21,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: VU",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.775973+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:28.776662+00:00",
+  "updated_at": "2026-10-14T10:10:28.776666+00:00"
+}

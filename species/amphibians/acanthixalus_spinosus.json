@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000188",
+  "scientific_name": "Acanthixalus spinosus",
+  "normalized_name": "acanthixalus_spinosus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Hyperoliidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009712",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 23,
+        "extracted_text_snippet": "Table row: Gabon 11/10/2022 G14 G0111 Hyperoliidae Acanthixalus spinosus 3 34 12 2.9 17.2 2.7",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.661236+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009844",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 1,
+        "extracted_text_snippet": "Table row: Acanthixalus spinosus Acanthixalus PHAQ 1.308332819650179 -0.10504199164217114 0.24367803545359815 0.29821581544630893 1.6085104839680346 0.1787323037",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:31.118011+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.661903+00:00",
+  "updated_at": "2026-10-14T10:10:31.119407+00:00"
+}

@@ -1,0 +1,216 @@
+# Gabon Biodiversity Pipeline - Validation Report
+
+**Generated at**: `2026-10-14 10:14:59 UTC`
+
+## 📊 Summary Statistics
+
+| Metric | Count |
+|---|---|
+| New Resources Processed | 105 |
+| Already Known Resources (Skipped) | 2 |
+| Total Species in Database | 242 |
+| New Species Created | 242 |
+| Existing Species Enriched | 45 |
+| New Scientific Facts | 658 |
+| Duplicate / Confirmed Facts | 1 |
+| Field Observations Recorded | 97 |
+| Potential Conflicts Flagged | 65 |
+| Files Requiring Human Review | 0 |
+
+## ⚠️ Conflicts Requiring Human Review (65)
+
+- **[CONFLICT-0001]** Species `SPECIES-000034` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000015)
+- **[CONFLICT-0002]** Species `SPECIES-000034` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0003]** Species `SPECIES-000034` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0004]** Species `SPECIES-000035` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000015)
+- **[CONFLICT-0005]** Species `SPECIES-000035` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0006]** Species `SPECIES-000035` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0007]** Species `SPECIES-000036` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000015)
+- **[CONFLICT-0008]** Species `SPECIES-000036` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0009]** Species `SPECIES-000036` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0010]** Species `SPECIES-000037` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000015)
+- **[CONFLICT-0011]** Species `SPECIES-000037` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0012]** Species `SPECIES-000037` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0013]** Species `SPECIES-000183` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0014]** Species `SPECIES-000183` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0015]** Species `SPECIES-000184` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0016]** Species `SPECIES-000184` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0017]** Species `SPECIES-000185` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000015)
+- **[CONFLICT-0018]** Species `SPECIES-000185` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000015)
+  - Value: `VU` (Sources: SRC-000015)
+- **[CONFLICT-0019]** Species `SPECIES-000028` - Field `conservation.iucn_status`
+  - Value: `NT` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0020]** Species `SPECIES-000028` - Field `conservation.iucn_status`
+  - Value: `NT` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0021]** Species `SPECIES-000216` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0022]** Species `SPECIES-000216` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0023]** Species `SPECIES-000217` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0024]** Species `SPECIES-000217` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0025]** Species `SPECIES-000218` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0026]** Species `SPECIES-000218` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0027]** Species `SPECIES-000219` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0028]** Species `SPECIES-000219` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0029]** Species `SPECIES-000220` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0030]** Species `SPECIES-000220` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0031]** Species `SPECIES-000221` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0032]** Species `SPECIES-000221` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0033]** Species `SPECIES-000222` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0034]** Species `SPECIES-000222` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0035]** Species `SPECIES-000223` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0036]** Species `SPECIES-000223` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0037]** Species `SPECIES-000224` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0038]** Species `SPECIES-000224` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0039]** Species `SPECIES-000225` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0040]** Species `SPECIES-000225` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0041]** Species `SPECIES-000226` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0042]** Species `SPECIES-000226` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0043]** Species `SPECIES-000227` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0044]** Species `SPECIES-000227` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0045]** Species `SPECIES-000228` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0046]** Species `SPECIES-000228` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0047]** Species `SPECIES-000081` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0048]** Species `SPECIES-000081` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0049]** Species `SPECIES-000081` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0050]** Species `SPECIES-000081` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0051]** Species `SPECIES-000081` - Field `conservation.iucn_status`
+  - Value: `LC` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0052]** Species `SPECIES-000234` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0053]** Species `SPECIES-000234` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0054]** Species `SPECIES-000079` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0055]** Species `SPECIES-000079` - Field `conservation.iucn_status`
+  - Value: `VU` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0056]** Species `SPECIES-000079` - Field `conservation.iucn_status`
+  - Value: `VU` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0057]** Species `SPECIES-000079` - Field `conservation.iucn_status`
+  - Value: `VU` (Sources: SRC-000015)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0058]** Species `SPECIES-000079` - Field `conservation.iucn_status`
+  - Value: `VU` (Sources: SRC-000015)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0059]** Species `SPECIES-000238` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000189)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0060]** Species `SPECIES-000239` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000189)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0061]** Species `SPECIES-000240` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000189)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0062]** Species `SPECIES-000154` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000015, SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)
+- **[CONFLICT-0063]** Species `SPECIES-000241` - Field `conservation.iucn_status`
+  - Value: `CR` (Sources: SRC-000189)
+  - Value: `EN` (Sources: SRC-000189)
+- **[CONFLICT-0064]** Species `SPECIES-000242` - Field `morphology.length`
+  - Value: `{'min': 106.0, 'max': 106.0, 'unit': 'cm', 'original': '106\xa0cm'}` (Sources: SRC-000189)
+  - Value: `{'min': 103.0, 'max': 103.0, 'unit': 'cm', 'original': '103\xa0cm'}` (Sources: SRC-000189)
+- **[CONFLICT-0065]** Species `SPECIES-000242` - Field `conservation.iucn_status`
+  - Value: `EN` (Sources: SRC-000189)
+  - Value: `CR` (Sources: SRC-000189)

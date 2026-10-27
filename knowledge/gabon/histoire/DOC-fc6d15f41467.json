@@ -1,0 +1,37 @@
+{
+ "doc_id": "DOC-fc6d15f41467",
+ "country": "Gabon",
+ "category": "histoire",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.892,
+ "language": "fr",
+ "source_files": [
+  "Histoire\\La_Concorde.pdf"
+ ],
+ "sha256": "fc6d15f41467df35bb96728fee56688eb7283c35d03999de39c6f95e04bbac8a",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:11:21.876760+00:00",
+ "kind": "text",
+ "title": "La Concorde — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "La Concorde (fr)\nArmoiries du Gabon.\nHymne national de\nGabon\nParoles\nGeorges Aleka\nDamas\nMusique\nGeorges Aleka\nDamas\nAdopté en\n1960\nFichier audio\nLa Concorde\nDes difficultés à utiliser ces médias ?\nLa Concorde\nLa Concorde est l'hymne national du Gabon depuis 1960.\nIl a été écrit et composé par Georges Aleka Damas .\n0:00\n0:00\n1\nParoles\nTexte officiel en français",
+   "chunk_id": "DOC-fc6d15f41467-C0001",
+   "text_hash": "9ed0430c698b04de8419e988af0c117fba339459"
+  },
+  {
+   "section": "",
+   "text": "Fichier audio\nexterne\nVersion en midi (htt\np://www.laurasmidihe\naven.com/00-MIDI/2/0\n00000010115/)\nRefrain :\nUni dans la Concorde et la fraternité\nÉveille toi Gabon, une aurore se lève,\nEncourage l'ardeur qui vibre et nous soulève !\nC'est enfin notre essor vers la félicité.\nC'est enfin notre essor vers la félicité.\nÉblouissant et fier, le jour sublime monte\nPourchassant à jamais l'injustice et la honte.\nQu'il monte, monte encore et calme nos alarmes,\nQu'il prône la vertu et repousse les armes.\nRefrain\nOui que le temps heureux rêvé par nos ancêtres\nArrive enfin chez nous, réjouisse les êtres,\nEt chasse les sorciers, ces perfides trompeurs.\nQui sèment le poison et répandent la peur.\nRefrain\nAfin qu'aux yeux du monde et des nations amies\nLe Gabon immortel reste digne d'envie,\nOublions nos querelles, ensemble bâtissons\nL'édifice nouveau auquel tous nous rêvons.\nRefrain\nDes bords de l'Océan au cœur de la forêt,\nDemeurons vigilants, sans faiblesse et sans haine !\nAutour de ce drapeau, qui vers l'honneur nous mène,\nSaluons la Patrie et chantons sans arrêt\nRefrain\nSur les autres projets Wikimedia :\nLa Concorde, sur Wikisource\n1\nParoles en isangu",
+   "chunk_id": "DOC-fc6d15f41467-C0002",
+   "text_hash": "477296a63eab08123692b6aee7b0ceccd618d5fa"
+  },
+  {
+   "section": "",
+   "text": "Refrain :\nBootsu, budughe, ghu ghyèèndze, ne bumvile\nRambughe Ngabu, magyéélu me metsaange,\nSighe piindzu I ghwène tsukume, ne utélighe batu !\nDine re Dimakulu dyéétu.\nGhu bufumu ne bumuumbe.\nYalele ne Nyému, wisi wumeghi\nWupundzi di mubu, ighughume ne tsonyi\nWughi wukoondi ughi, wurumbimisi bekyère béétu,\nWusangimisi menyi, wukungighi bilwaani.\nRefrain\n1. « Symboles nationaux (https://presidence.ga/symboles-nationaux/) », sur Présidence de la\nRépublique Gabonaise\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=La_Concorde&oldid=239036034 ».\nNotes et références",
+   "chunk_id": "DOC-fc6d15f41467-C0003",
+   "text_hash": "8f6d55e6be4ee789df879e48c7aa63b2f25e6ab4"
+  }
+ ]
+}

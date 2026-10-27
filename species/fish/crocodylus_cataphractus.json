@@ -1,0 +1,133 @@
+{
+  "species_id": "SPECIES-000156",
+  "scientific_name": "Crocodylus cataphractus",
+  "normalized_name": "crocodylus_cataphractus",
+  "category": "fish",
+  "taxonomy": {
+    "class": "Elasmobranchii",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "Long-snouted Crocodile"
+    ],
+    "fr": [
+      "Faux-Gavial d'Afrique"
+    ]
+  },
+  "iucn_status": "DD",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000430",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe I",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 34,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe I",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.652770+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000431",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Intégralement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 34,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Intégralement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.652782+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000432",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Produits en cuir, corps, sculptures, pattes, animaux vivants,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 34,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Produits en cuir, corps, sculptures, pattes, animaux vivants,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.652788+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000433",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "DD",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 34,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: DD",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.652792+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.653470+00:00",
+  "updated_at": "2026-10-14T10:10:29.653474+00:00"
+}

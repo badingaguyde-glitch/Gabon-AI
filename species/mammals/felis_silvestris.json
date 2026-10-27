@@ -1,0 +1,83 @@
+{
+  "species_id": "SPECIES-000230",
+  "scientific_name": "Felis silvestris",
+  "normalized_name": "felis_silvestris",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "diet": {
+      "type": {
+        "fact_id": "FACT-001004",
+        "category": "diet",
+        "predicate": "type",
+        "value": [
+          "carnivore"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "Conservation",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "The Carnivores of West Africa",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.070236+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "conservation": {
+      "iucn_status": {
+        "fact_id": "FACT-001006",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "EN",
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "Conservation",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Endangered Wildlife Trust, Johannesbourg",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.070708+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000189"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:14:06.071335+00:00",
+  "updated_at": "2026-10-14T10:14:06.071338+00:00"
+}

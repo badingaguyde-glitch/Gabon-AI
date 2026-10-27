@@ -1,0 +1,40 @@
+{
+ "doc_id": "DOC-4df184c89d1a",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "environnement",
+  "geographie"
+ ],
+ "classification_confidence": 0.549,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\README.md"
+ ],
+ "sha256": "4df184c89d1ae267fb7ab8fb3183e411654be789e104e953bcb61e891dcd380f",
+ "format": "markdown",
+ "processed_at": "2026-10-14T10:10:30.986187+00:00",
+ "kind": "text",
+ "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians",
+ "chunks": [
+  {
+   "section": "",
+   "text": "# Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**",
+   "chunk_id": "DOC-4df184c89d1a-C0001",
+   "text_hash": "ce59bf823d7addc74226ba4ec679596d9e1d8a87"
+  },
+  {
+   "section": "",
+   "text": "This contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.",
+   "chunk_id": "DOC-4df184c89d1a-C0002",
+   "text_hash": "b99eeadd39390728d54f3334e2a22d119024c05c"
+  },
+  {
+   "section": "",
+   "text": "Temperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of temperature and humidity range are included which are the maximum - the minimum values per day.",
+   "chunk_id": "DOC-4df184c89d1a-C0003",
+   "text_hash": "7b4e67ae56a76ea3b607ab59f72a466239a7dd76"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000189",
+  "scientific_name": "Arthroleptis sylvaticus",
+  "normalized_name": "arthroleptis_sylvaticus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Arthroleptidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009713",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 22,
+        "extracted_text_snippet": "Table row: Gabon 11/10/2022 G13 G0101 Arthroleptidae Arthroleptis sylvaticus 0.8 20 6 0.5 10 0",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.672286+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009856",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 13,
+        "extracted_text_snippet": "Table row: Arthroleptis sylvaticus Arthroleptis DD 0 -0.526175121993173 -0.9011826725714851 -0.9718473651601013 -1.2351329343004318 -0.8773907159589611 -0.604433",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:31.606129+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.672934+00:00",
+  "updated_at": "2026-10-14T10:10:31.608185+00:00"
+}

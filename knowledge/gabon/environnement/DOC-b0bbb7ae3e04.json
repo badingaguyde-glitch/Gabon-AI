@@ -1,0 +1,319 @@
+{
+ "doc_id": "DOC-b0bbb7ae3e04",
+ "country": "Gabon",
+ "category": "environnement",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.99,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Diversité_et_structure_des_forêts_du_gabon_2019\\plots-2019-census.csv"
+ ],
+ "sha256": "b0bbb7ae3e04ef7c0ddb5e88bfce9ebef66ddca16906ae7be30f02c22b4d2c99",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:32.758199+00:00",
+ "dataset_summary": {
+  "columns": [
+   "plot",
+   "date",
+   "botanist",
+   "subplot",
+   "spp",
+   "spp2",
+   "dbh",
+   "height",
+   "tag.no",
+   "code",
+   "dbh.height",
+   "main.stem",
+   "plot.type",
+   "plot.type2"
+  ],
+  "rows_analyzed": 11010,
+  "numeric_stats": {
+   "dbh": {
+    "min": 0.0,
+    "max": 164.9,
+    "mean": 6.919,
+    "n": 8619
+   },
+   "height": {
+    "min": 1.0,
+    "max": 85.0,
+    "mean": 26.8525,
+    "n": 2326
+   },
+   "dbh.height": {
+    "min": 1.1,
+    "max": 4.25,
+    "mean": 1.8546,
+    "n": 157
+   },
+   "main.stem": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.9247,
+    "n": 10950
+   }
+  },
+  "categorical_top_values": {
+   "plot": [
+    [
+     "C50",
+     207
+    ],
+    [
+     "T22",
+     198
+    ],
+    [
+     "T15",
+     196
+    ],
+    [
+     "204",
+     194
+    ],
+    [
+     "T5",
+     190
+    ],
+    [
+     "63",
+     188
+    ],
+    [
+     "59",
+     187
+    ],
+    [
+     "98",
+     187
+    ]
+   ],
+   "date": [
+    [
+     "11/17/19",
+     498
+    ],
+    [
+     "11/15/19",
+     447
+    ],
+    [
+     "6/26/19",
+     381
+    ],
+    [
+     "2/26/19",
+     335
+    ],
+    [
+     "11/28/18",
+     312
+    ],
+    [
+     "11/11/19",
+     295
+    ],
+    [
+     "11/8/19",
+     292
+    ],
+    [
+     "5/21/19",
+     284
+    ]
+   ],
+   "botanist": [
+    [
+     "prince",
+     8084
+    ],
+    [
+     "raoul",
+     2926
+    ]
+   ],
+   "subplot": [
+    [
+     "B",
+     3971
+    ],
+    [
+     "D",
+     3875
+    ],
+    [
+     "A",
+     406
+    ],
+    [
+     "C",
+     375
+    ],
+    [
+     "S4",
+     291
+    ],
+    [
+     "S1",
+     288
+    ],
+    [
+     "S3",
+     272
+    ],
+    [
+     "S2",
+     264
+    ]
+   ],
+   "spp": [
+    [
+     "L",
+     1041
+    ],
+    [
+     "DICHGL",
+     1004
+    ],
+    [
+     "SCAPS1",
+     774
+    ],
+    [
+     "SCAPBL",
+     489
+    ],
+    [
+     "SANTTR",
+     326
+    ],
+    [
+     "DIOSFR",
+     311
+    ],
+    [
+     "THOMCO",
+     276
+    ],
+    [
+     "DIALAN",
+     254
+    ]
+   ],
+   "spp2": [
+    [
+     "SCAPBL",
+     1259
+    ],
+    [
+     "L",
+     1041
+    ],
+    [
+     "DICHGL",
+     1004
+    ],
+    [
+     "SANTTR",
+     326
+    ],
+    [
+     "DIOSFR",
+     311
+    ],
+    [
+     "THOMCO",
+     276
+    ],
+    [
+     "DIALAN",
+     255
+    ],
+    [
+     "PHYLDI",
+     214
+    ]
+   ],
+   "code": [
+    [
+     "L",
+     1316
+    ],
+    [
+     "M",
+     1299
+    ],
+    [
+     "I",
+     130
+    ],
+    [
+     "P",
+     112
+    ],
+    [
+     "X",
+     79
+    ],
+    [
+     "L;M",
+     19
+    ],
+    [
+     "W/ L",
+     19
+    ],
+    [
+     "WITH LIANA",
+     16
+    ]
+   ],
+   "plot.type": [
+    [
+     "before",
+     2997
+    ],
+    [
+     "10years",
+     2926
+    ],
+    [
+     "control",
+     2685
+    ],
+    [
+     "1year",
+     2402
+    ]
+   ],
+   "plot.type2": [
+    [
+     "control",
+     5682
+    ],
+    [
+     "10years",
+     2926
+    ],
+    [
+     "1year",
+     2402
+    ]
+   ]
+  },
+  "readme": "# Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census)\n---\n\n## Abstract/Summary\nTropical forests are under threat of increasing pressure from income-generating land uses. Selective logging is a compromise that allows use of the land while leaving much of the forest canopy intact across a landscape. However, the ecological impacts of selective logging are unclear, with evidence of positive, negative, and negligible effects on forest structure and diversity. We examined the impact of selective logging on the structure and diversity of evergreen tropical forest in the Monts de Cristal region, a chain of mid-elevation hills in northwestern Gabon. For three size classes (seedling, sapling, and adult) of woody plant species, we tested whether forest structure (canopy openness, stem density, basal area, and relative liana abundances) and diversity were altered in forests that had been logged one year and ten years prior, compared to unlogged forest. In general, we found no large impact of selective logging treatment on the structure and diversity of adult woody plant communities, but the seedling and sapling communities were affected. Compared to unlogged forest, one- year post-logging forest had greater variation in canopy openness and lower sapling stem density. Ten-year post- logging forest had higher seedling and sapling species evenness, higher sapling species diversity, and higher relative abundance of sapling-sized lianas compared to unlogged forest. Our results show that key differences between intact and selectively logged forests persist in the understory at least a decade after logging. Overall, these results contribute an additional data point in the literature on selective logging, specifically representing the impacts of very low impact selective logging in Central African forests. Our study highlights the value of exploring selective logging impacts at multiple time periods of recovery, and makes an important contribution to the knowledge Central African managed forests.\n\n## Description of the data and file structure\n\n### Description:\nA. \"plots-2019-census.csv' contains the vegetation plot information from the 80 vegetation plots: the plot number, date the plot was censused, which botanist performed plant ID in the plot, the subplot, species codes, diameter at breast height (DBH) in centimeters for sapling and adult trees, height in centimeters for seedlings, dbh height (if irregular), species\nnotes, information on main stem (for trees with multiple stems), and plot type\n- plot = plot number\n- date = data plot was censused\n- botanist = name of botanist that ID'd plants\n- subplot = which subplot trees are in w/in plot\n- spp = original species code ID\n- spp2 = species code ID after herbarium identification/checking names in TNRS\n- dbh = diameter at breast height in cm for trees\n- height = height in cm for seedlings\n- tag.no = tag number for each indiviual\n- code = codes for different situations in field; L = liana, M = multi-stem, B = buttress roots, I = irregular measurement point, P or J = bent, with L or w/ L = DBH measured with liana around tree, X = broken\n- dbh.height = height of dbh if moved up/down because measurement point was not possible at 1.3m from ground for any reason (see code for reason)\n- main.stem = the largest stem of an individual\n- plot.type = logging treatment plot is located in (controls separate)\n- plot.type2 = logging treatment plot is located in (controls combined)\n\nB. \"habitat-2019-census.csv' contains the habitat information about the 80 vegetation plots: elevation, slope, plot type (i.e., which treatment each plot was in), and light measurements\n- plot = plot number\n- ele.max = maximum elevation in meters, from 9 measurements per plot\n- ele.min = minimum elevation in meters, from 9 measurements per plot\n- slope = ele.max-ele.min in meters\n- plot.type = logging treatment plot is located in (controls separate)\n- plot.type2 = logging treatment plot is located in (controls combined)\n- light.mean = mean light levels per plot, from 9 densiometer readings per plot\n- light.sd = standard deviation of light levels per plot, from 9 densiometer readings per plot\n- elev.mean = mean evlevation per plot, from 9 measurements per plot\n- elev.sd = standard deviation of light levels per plot, from 9 measurements per plot\n\n### Data collection methods:\nTo assess the impact of selective logging on forest structure and diversity, we established a total of 80 vegetation plots between September 2018 and October 2019 (Fig. 1C). Each plot was 400 m2 in area (20 × 20 m). In order to capture the heterogeneous impact that selective logging can have on the forest, we randomly located 20 plots within each of three logging treatment areas: recently logged forest that had been logged approximately one year prior, older logged forest that had been logged ten years prior, and two unlogged forest areas. We measured two separate unlogged areas in order to try and capture some of the natural spatial variation in these forests. For all analyses, we considered the two unlogged areas as a single control treatment. We generated random point sampling schemes based on boundaries of yearly logging blocks using the sp package (Pebesma and Bivand, 2005, Bivand et al., 2013).\nTo sample the adult tree community, all free-standing woody stems ≥10 cm DBH were tagged, measured, and identified. For species that were difficult to identify in the field, we collected vouchers and depos- ited them at the National Herbarium (L’Herbier National du Gabon) who provided determinations for as many species as possible. We also tagged and measured climbing lianas ≥10 cm DBH following Gerwing et al. (2006), though we could not identify many individuals due to the limitations of collecting voucher specimens for lianas where leaves can only be found at the top of the canopy. To sample j"
+ },
+ "kind": "dataset",
+ "title": "Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census) — plots-2019-census.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census) — plots-2019-census.csv (Gabon).\nDescription : # Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census)\n---\n\n## Abstract/Summary\nTropical forests are under threat of increasing pressure from income-generating land uses. Selective logging is a compromise that allows use of the land while leaving much of the forest canopy intact across a landscape. However, the ecological impacts of selective logging are unclear, with evidence of positive, negative, and negligible effects on forest structure and diversity. We examined the impact of selective logging on the structure and diversity of evergreen tropical forest in the Monts de Cristal region, a chain of mid-elevation hills in northwestern Gabon. For three size classes (seedling, sapling, and adult) of woody plant species, we tested whether forest structure (canopy openness, stem density, basal area, and relative liana abundances) and diversity were altered in forests that had been logged one year and ten years prior, compared to unlogged forest. In general, we found no large impact of selective logging treatment on the structure and diversity of adult woody plant communities, but the seedling and sapling communities were affected. Compared to unlogged forest, one- year post-logging forest had greater variation in canopy openness and lower sapling stem density. Ten-year post- logging forest had higher seedling and sapling species evenness, higher sapling species diversity, and higher relative abundance of sapling-sized lianas compared to unlogged forest. Our results show that key differences between intact and selectively logged forests persist in the understory at least a decade after logging. Overall, these results contribute an additional data point in the literature on selective logging, specifically representing the impacts of very low impact selective logging in Central African forests. Our study highlights the value of exploring selective logging impacts at multiple time periods of recovery, and makes an important contribution to the knowledge Central African managed forests.\n\n## Description of the data and file structure\n\n### Description:\nA. \"plots-2019-census.csv' contains the vegetation plot information from the 80 vegetation plots: the plot number, date the plot was censused, which botanist performed plant ID in the plot, the subplot, species codes, diameter at breast height (DBH) in centimeters for sapling and adul\nColonnes (14) : plot, date, botanist, subplot, spp, spp2, dbh, height, tag.no, code, dbh.height, main.stem, plot.type, plot.type2.\nNombre de lignes analysées : 11010.\n- dbh : min 0.0, max 164.9, moyenne 6.919 (n=8619).\n- height : min 1.0, max 85.0, moyenne 26.8525 (n=2326).\n- dbh.height : min 1.1, max 4.25, moyenne 1.8546 (n=157).\n- main.stem : min 0.0, max 1.0, moyenne 0.9247 (n=10950).\n- plot : valeurs principales C50 (207), T22 (198), T15 (196), 204 (194), T5 (190), 63 (188).\n- date : valeurs principales 11/17/19 (498), 11/15/19 (447), 6/26/19 (381), 2/26/19 (335), 11/28/18 (312), 11/11/19 (295).\n- botanist : valeurs principales prince (8084), raoul (2926).\n- subplot : valeurs principales B (3971), D (3875), A (406), C (375), S4 (291), S1 (288).\n- spp : valeurs principales L (1041), DICHGL (1004), SCAPS1 (774), SCAPBL (489), SANTTR (326), DIOSFR (311).\n- spp2 : valeurs principales SCAPBL (1259), L (1041), DICHGL (1004), SANTTR (326), DIOSFR (311), THOMCO (276).\n- code : valeurs principales L (1316), M (1299), I (130), P (112), X (79), L;M (19).\n- plot.type : valeurs principales before (2997), 10years (2926), control (2685), 1year (2402).\n- plot.type2 : valeurs principales control (5682), 10years (2926), 1year (2402).",
+   "chunk_id": "DOC-b0bbb7ae3e04-C0001",
+   "text_hash": "05f6754803830a4fdbcef4effa7963254f95b53d"
+  }
+ ]
+}

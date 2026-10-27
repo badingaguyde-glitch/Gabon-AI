@@ -1,0 +1,9 @@
+source_name,url,type,language,document_count,access_date,license,notes
+ministere_environnement_gabon,https://environnement.gouv.ga,PDF/HTML,fr,42,2026-10-10,Kamuya açık / Décrets et Arrêtés officiels,"Textes législatifs (Code forêt, environnement, parcs)"
+banque_mondiale_gabon,https://data.worldbank.org/country/gabon,CSV,en/fr,3,2026-10-12,CC-BY 4.0,"Indicateurs macro-économiques, santé, climat (1960-2024)"
+dgs_gabon_enquetes,https://stat-gabon.org/edsg,TXT/PDF,fr,1,2026-10-12,Kamuya açık / Gouvernement Gabon,Enquête Démographique et de Santé (EDSG-III 2019-2021)
+iucn_redlist_central_africa,https://apiv3.iucnredlist.org,PDF/JSON,en/fr,28,2026-10-13,Research Non-commercial,"Statuts de conservation faune du Gabon (Gorilla, Loxodonta)"
+fsc_grands_mammiferes_gabon,https://data.mendeley.com/datasets/gabon-fsc,CSV,fr,1,2026-10-13,CC-BY 4.0,Recensements de terrain et bioacoustique forestière 2023
+biocon_soundscapes_gabon,https://zenodo.org/record/biocon-soundscapes,CSV,en,1,2026-10-13,Creative Commons CC-BY,Données acoustiques et monitoring de la canopée gabonaise
+archives_nationales_histoire_gabon,https://fr.wikipedia.org/wiki/Histoire_du_Gabon,HTML/MD,fr,25,2026-10-14,CC BY-SA 4.0,"Chronologie politique, traités précoloniaux et république"
+journal_officiel_republique_gabonaise,https://journal-officiel.ga,PDF,fr,4,2026-10-14,Domaine public,Constitution et lois organiques de la transition

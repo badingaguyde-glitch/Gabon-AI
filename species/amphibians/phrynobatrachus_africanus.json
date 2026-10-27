@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000205",
+  "scientific_name": "Phrynobatrachus africanus",
+  "normalized_name": "phrynobatrachus_africanus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Phrynobatrachidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009820",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 34,
+        "extracted_text_snippet": "Table row: Gabon 17/10/2022 G25 G0172 Phrynobatrachidae Phrynobatrachus africanus 4.1 32.5 9.2 1 17 0.1",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.897125+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009955",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 112,
+        "extracted_text_snippet": "Table row: Phrynobatrachus africanus Phrynobatrachus AQAQ 0 -0.36346459435755857 -0.44323838936145166 -0.379151214210443 -0.6427072221611678 -0.18797707808898798",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:32.408512+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.897682+00:00",
+  "updated_at": "2026-10-14T10:10:32.409789+00:00"
+}

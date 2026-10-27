@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000002",
+  "scientific_name": "Protoxerus stangeri",
+  "normalized_name": "protoxerus_stangeri",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Rodentia",
+    "family": "Sciuridae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-000289",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 145,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 1144 145  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2019-11-04 2019-11-04 11:33:38 11040145.JPG MAMMALIA RODENTIA SCIURIDAE Protox",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:22.346955+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:22.479191+00:00",
+  "updated_at": "2026-10-14T10:10:22.479210+00:00"
+}

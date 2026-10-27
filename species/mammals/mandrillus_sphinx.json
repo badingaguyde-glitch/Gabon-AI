@@ -1,0 +1,135 @@
+{
+  "species_id": "SPECIES-000048",
+  "scientific_name": "Mandrillus sphinx",
+  "normalized_name": "mandrillus_sphinx",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Primates",
+    "family": "Cercopithecidae"
+  },
+  "synonyms": [
+    "Papio sphinx"
+  ],
+  "common_names": {
+    "en": [
+      "Mandrill"
+    ],
+    "fr": [
+      "Mandrill"
+    ]
+  },
+  "iucn_status": "VU",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000068",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe I",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe I",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.272116+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000069",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Intégralement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Intégralement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.272133+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000070",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Animaux vivants, poils, corps, squelettes, crânes",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Animaux vivants, poils, corps, squelettes, crânes",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.272151+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000071",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "VU",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 17,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: VU",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.272158+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:28.273500+00:00",
+  "updated_at": "2026-10-14T10:10:28.273522+00:00"
+}

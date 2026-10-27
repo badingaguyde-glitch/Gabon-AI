@@ -1,0 +1,284 @@
+{
+  "species_id": "SPECIES-000223",
+  "scientific_name": "Ixodes pilosus",
+  "normalized_name": "ixodes_pilosus",
+  "category": "arachnids",
+  "taxonomy": {
+    "class": "Arachnida",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "morphology": {
+      "length": {
+        "fact_id": "FACT-000794",
+        "category": "morphology",
+        "predicate": "length",
+        "value": {
+          "min": 106.0,
+          "max": 106.0,
+          "unit": "cm",
+          "original": "106 cm"
+        },
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Les mâles peuvent atteindre une longueur de 106 cm sans la",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.770374+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "weight": {
+        "fact_id": "FACT-000795",
+        "category": "morphology",
+        "predicate": "weight",
+        "value": {
+          "min": 20.0,
+          "max": 20.0,
+          "unit": "kg",
+          "original": "20 kg"
+        },
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "queue pour un poids maximal de 20 kg",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.770421+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "habitat": {
+      "type": {
+        "fact_id": "FACT-000797",
+        "category": "habitat",
+        "predicate": "type",
+        "value": "savanna",
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "sèches de la savane",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.771061+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "diet": {
+      "type": {
+        "fact_id": "FACT-000799",
+        "category": "diet",
+        "predicate": "type",
+        "value": [
+          "carnivore"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "carnivores",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.771748+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "food_items": {
+        "fact_id": "FACT-000800",
+        "category": "diet",
+        "predicate": "food_items",
+        "value": [
+          "herbe"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Comme la plupart des félins, le caracal peut ingérer de l'herbe mais il mange aussi du raisin",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.771820+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "population": {
+      "estimate": {
+        "fact_id": "FACT-000801",
+        "category": "population",
+        "predicate": "estimate",
+        "value": 800,
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "La ration journalière de viande nécessaire à un caracal est estimée à 800 g",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.771909+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {
+          "year": null,
+          "location": null
+        }
+      }
+    },
+    "conservation": {
+      "iucn_status": {
+        "fact_id": "FACT-000802",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "EN",
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "considéré comme rare et en danger  : il est listé comme «  quasi menacé  » sur la liste rouge en",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:05.772169+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000189"
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0035",
+      "species_id": "SPECIES-000223",
+      "field": "morphology.length",
+      "values": [
+        {
+          "value": {
+            "min": 106.0,
+            "max": 106.0,
+            "unit": "cm",
+            "original": "106 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": {
+            "min": 103.0,
+            "max": 103.0,
+            "unit": "cm",
+            "original": "103 cm"
+          },
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.794216+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0036",
+      "species_id": "SPECIES-000223",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:05.802359+00:00"
+    }
+  ],
+  "version": 1,
+  "created_at": "2026-10-14T10:14:05.790075+00:00",
+  "updated_at": "2026-10-14T10:14:05.790079+00:00"
+}

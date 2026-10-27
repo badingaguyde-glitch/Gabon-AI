@@ -1,0 +1,134 @@
+{
+  "species_id": "SPECIES-000184",
+  "scientific_name": "Phataginus tricuspis",
+  "normalized_name": "phataginus_tricuspis",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Pholidota",
+    "family": "Manidae"
+  },
+  "synonyms": [
+    "Manis tricuspis"
+  ],
+  "common_names": {
+    "en": [
+      "Tree pangolin",
+      "White-bellied pangolin"
+    ],
+    "fr": [
+      "Pangolin commun",
+      "Pangolin à écailles tricuspides"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "iucn_status": {
+        "fact_id": "FACT-000541",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "CR",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Ce guide met en avant les espèces les plus menacées en utilisant un code de couleur pour marquer les espèces qui sont en danger critique",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:30.084534+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "habitat": {
+      "type": {
+        "fact_id": "FACT-000544",
+        "category": "habitat",
+        "predicate": "type",
+        "value": "savanna",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Nom français: Bateleur des Savanes",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:30.091670+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0015",
+      "species_id": "SPECIES-000184",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.120190+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0016",
+      "species_id": "SPECIES-000184",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:30.121538+00:00"
+    }
+  ],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:30.096543+00:00",
+  "updated_at": "2026-10-14T10:10:30.096548+00:00"
+}

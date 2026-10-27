@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Large raw datasets & dumps (> 50MB) - Stored in institutional archives
+data/Données-scientifiques/BioCon_GabonSoundscapes_maindata.csv
+data/Données-scientifiques/FSC  grands mammifères - Gabon_2023.csv
+data/Données-scientifiques/Gabon_species.pdf
+*.parquet
+*.tar.gz
+*.zip
+*.7z
+
+# OS generated files
+.DS_Store
+Thumbs.db

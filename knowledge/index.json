@@ -1,0 +1,1444 @@
+{
+ "DOC-d34928f8e00e": {
+  "country": "Gabon",
+  "category": "general",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Metadata Country API GAB DS2 en csv v2 433708",
+  "source_files": [
+   "Metadata_Country_API_GAB_DS2_en_csv_v2_433708.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\general\\DOC-d34928f8e00e.json",
+  "updated_at": "2026-10-14T10:10:18.160475+00:00"
+ },
+ "DOC-6ac40dd2d127": {
+  "country": "Gabon",
+  "category": "sante",
+  "subcategory": null,
+  "kind": "survey_metadata",
+  "title": "Troisième Enquête Démographique et de Santé 2019-2021",
+  "source_files": [
+   "Troisième Enquête Démographique et de Santé 2019-2021.txt"
+  ],
+  "n_chunks": 14,
+  "unique_chunks": 14,
+  "path": "gabon\\sante\\DOC-6ac40dd2d127.json",
+  "updated_at": "2026-10-14T10:10:18.299231+00:00"
+ },
+ "DOC-a4e1bd5141f5": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data for: Impacts of logging, hunting, and conservation on vocalizing biodiversity in Gabon — BioCon_GabonSoundscapes_maindata.csv",
+  "source_files": [
+   "Données-scientifiques\\BioCon_GabonSoundscapes_maindata.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\biodiversite\\DOC-a4e1bd5141f5.json",
+  "updated_at": "2026-10-14T10:10:20.009642+00:00"
+ },
+ "DOC-96596e2765cf": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Data for: Impacts of logging, hunting, and conservation on vocalizing biodiversity in Gabon",
+  "source_files": [
+   "Données-scientifiques\\BioCon_GabonSoundscapes_maindata_README.md"
+  ],
+  "n_chunks": 7,
+  "unique_chunks": 7,
+  "path": "gabon\\biodiversite\\DOC-96596e2765cf.json",
+  "updated_at": "2026-10-14T10:10:20.074822+00:00"
+ },
+ "DOC-9f6b3862aa62": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "FSC grands mammifères — Gabon 2023",
+  "source_files": [
+   "Données-scientifiques\\FSC  grands mammifères — Gabon_2023.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\biodiversite\\DOC-9f6b3862aa62.json",
+  "updated_at": "2026-10-14T10:10:22.111417+00:00"
+ },
+ "DOC-adb124d64095": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Guide d'identification des espèces de faune gabonaise inscrites à la convention CITES (2012)",
+  "source_files": [
+   "Données-scientifiques\\Gabon_species.pdf"
+  ],
+  "n_chunks": 192,
+  "unique_chunks": 192,
+  "path": "gabon\\biodiversite\\DOC-adb124d64095.json",
+  "updated_at": "2026-10-14T10:10:27.941295+00:00"
+ },
+ "DOC-df882591f8c6": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Climate_data.csv",
+  "source_files": [
+   "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Climate_data.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\environnement\\DOC-df882591f8c6.json",
+  "updated_at": "2026-10-14T10:10:30.495970+00:00"
+ },
+ "DOC-d1c771bb6d38": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Individual_capture_data.csv",
+  "source_files": [
+   "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Individual_capture_data.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\biodiversite\\DOC-d1c771bb6d38.json",
+  "updated_at": "2026-10-14T10:10:30.599601+00:00"
+ },
+ "DOC-4df184c89d1a": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians",
+  "source_files": [
+   "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\README.md"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\biodiversite\\DOC-4df184c89d1a.json",
+  "updated_at": "2026-10-14T10:10:30.991968+00:00"
+ },
+ "DOC-6c53aecf795d": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Traits_scaled_data.csv",
+  "source_files": [
+   "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Traits_scaled_data.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\biodiversite\\DOC-6c53aecf795d.json",
+  "updated_at": "2026-10-14T10:10:31.029398+00:00"
+ },
+ "DOC-eceb4e691997": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Tree_survey_data.csv",
+  "source_files": [
+   "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Tree_survey_data.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\geographie\\DOC-eceb4e691997.json",
+  "updated_at": "2026-10-14T10:10:32.580044+00:00"
+ },
+ "DOC-d9e7c1d769e6": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census) — habitat-2019-census.csv",
+  "source_files": [
+   "Données-scientifiques\\Diversité_et_structure_des_forêts_du_gabon_2019\\habitat-2019-census.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\environnement\\DOC-d9e7c1d769e6.json",
+  "updated_at": "2026-10-14T10:10:32.623108+00:00"
+ },
+ "DOC-b0bbb7ae3e04": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census) — plots-2019-census.csv",
+  "source_files": [
+   "Données-scientifiques\\Diversité_et_structure_des_forêts_du_gabon_2019\\plots-2019-census.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\environnement\\DOC-b0bbb7ae3e04.json",
+  "updated_at": "2026-10-14T10:10:32.995868+00:00"
+ },
+ "DOC-423f49ebc02c": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Title of Dataset: A decade of diversity and forest structure: Post-logging patterns across life stages in an Afrotropical forest (Monts de Cristal selective logging 2019 vegetation census)",
+  "source_files": [
+   "Données-scientifiques\\Diversité_et_structure_des_forêts_du_gabon_2019\\README.md"
+  ],
+  "n_chunks": 7,
+  "unique_chunks": 7,
+  "path": "gabon\\environnement\\DOC-423f49ebc02c.json",
+  "updated_at": "2026-10-14T10:10:33.038817+00:00"
+ },
+ "DOC-54de89b95153": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest — plot_info.csv",
+  "source_files": [
+   "Données-scientifiques\\Dynamique des semis et exploitation forestière\\plot_info.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\environnement\\DOC-54de89b95153.json",
+  "updated_at": "2026-10-14T10:10:33.101038+00:00"
+ },
+ "DOC-7a961b51534f": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest",
+  "source_files": [
+   "Données-scientifiques\\Dynamique des semis et exploitation forestière\\README.md"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\environnement\\DOC-7a961b51534f.json",
+  "updated_at": "2026-10-14T10:10:33.127901+00:00"
+ },
+ "DOC-f326c1cd7d59": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "dataset",
+  "title": "Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest — recensus_2022.csv",
+  "source_files": [
+   "Données-scientifiques\\Dynamique des semis et exploitation forestière\\recensus_2022.csv"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "gabon\\environnement\\DOC-f326c1cd7d59.json",
+  "updated_at": "2026-10-14T10:10:33.307354+00:00"
+ },
+ "DOC-b5e86b65977f": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "code_de_l_aviation_civile",
+  "kind": "legal_text",
+  "title": "Loi n°026/2025 du 18 juillet 2025 modifiant et complétant certaines dispositions de la loi",
+  "source_files": [
+   "Droit\\Codes\\code-de-l'aviation-civile-modification.pdf"
+  ],
+  "n_chunks": 47,
+  "unique_chunks": 47,
+  "path": "gabon\\droit\\DOC-b5e86b65977f.json",
+  "updated_at": "2026-10-14T10:10:37.521753+00:00"
+ },
+ "DOC-06ddc4ef68de": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Loi n°023/2016 du 29 décembre 2016 portant Code de l’Aviation Civile……………………………..………...1",
+  "source_files": [
+   "Droit\\Codes\\code-de-l'aviation-civile.pdf"
+  ],
+  "n_chunks": 306,
+  "unique_chunks": 299,
+  "path": "gabon\\droit\\DOC-06ddc4ef68de.json",
+  "updated_at": "2026-10-14T10:10:39.478030+00:00"
+ },
+ "DOC-035e20c55a9c": {
+  "country": "Gabon",
+  "category": "environnement",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Gabon - Loi n°2014-07 du 1er aout 2014 relative a la protection de l'environnement (www.droit-afrique.com)",
+  "source_files": [
+   "Droit\\Codes\\code-de-l'environnement.pdf"
+  ],
+  "n_chunks": 0,
+  "unique_chunks": 0,
+  "path": "gabon\\environnement\\DOC-035e20c55a9c.json",
+  "updated_at": "2026-10-14T10:10:39.590672+00:00"
+ },
+ "DOC-893a934e8c02": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Code de lenfant",
+  "source_files": [
+   "Droit\\Codes\\code-de-lenfant.pdf"
+  ],
+  "n_chunks": 297,
+  "unique_chunks": 296,
+  "path": "gabon\\droit\\DOC-893a934e8c02.json",
+  "updated_at": "2026-10-14T10:10:40.243834+00:00"
+ },
+ "DOC-7ef39343af96": {
+  "country": "Gabon",
+  "category": "social",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Gabon - Loi n°2016-28 du 6 fevrier 2017 portant code de protection sociale en Republique Gabonaise (www.droit-afrique.com)",
+  "source_files": [
+   "Droit\\Codes\\Code-de-protections-sociale_2017.pdf"
+  ],
+  "n_chunks": 62,
+  "unique_chunks": 62,
+  "path": "gabon\\social\\DOC-7ef39343af96.json",
+  "updated_at": "2026-10-14T10:10:41.198838+00:00"
+ },
+ "DOC-a3b495e6d58a": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Loi n° 002/2019",
+  "source_files": [
+   "Droit\\Codes\\code-des-hydrocarbures.pdf"
+  ],
+  "n_chunks": 300,
+  "unique_chunks": 299,
+  "path": "gabon\\droit\\DOC-a3b495e6d58a.json",
+  "updated_at": "2026-10-14T10:10:48.288062+00:00"
+ },
+ "DOC-1efdc2468181": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Loi n°037/2018 du 11 juin 2019 portant réglementation",
+  "source_files": [
+   "Droit\\Codes\\code-minier.pdf"
+  ],
+  "n_chunks": 300,
+  "unique_chunks": 298,
+  "path": "gabon\\droit\\DOC-1efdc2468181.json",
+  "updated_at": "2026-10-14T10:10:56.839969+00:00"
+ },
+ "DOC-3f5bc357c090": {
+  "country": "Gabon",
+  "category": "social",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Gabon - Loi n°022/2021 du 19 novembre 2021 portant Code du Travail en Republique Gabonaise",
+  "source_files": [
+   "Droit\\Codes\\Code-travail-2021-travail.pdf"
+  ],
+  "n_chunks": 209,
+  "unique_chunks": 209,
+  "path": "gabon\\social\\DOC-3f5bc357c090.json",
+  "updated_at": "2026-10-14T10:10:58.633976+00:00"
+ },
+ "DOC-df1b50b77628": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Code civil Gabon",
+  "source_files": [
+   "Droit\\Codes\\code_civil_Gabon.pdf.crdownload"
+  ],
+  "n_chunks": 900,
+  "unique_chunks": 900,
+  "path": "gabon\\droit\\DOC-df1b50b77628.json",
+  "updated_at": "2026-10-14T10:11:00.767928+00:00"
+ },
+ "DOC-779f10015602": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "loi n°07/94 du 16 septembre 1994 portant organisation de la justice, ensemble les textes modificatifs subséquents ;",
+  "source_files": [
+   "Droit\\Codes\\Décret N° 0094PRMBCP du 08022016 portant Règlement Général sur la Comptabilité Publique.txt"
+  ],
+  "n_chunks": 272,
+  "unique_chunks": 272,
+  "path": "gabon\\droit\\DOC-779f10015602.json",
+  "updated_at": "2026-10-14T10:11:00.963092+00:00"
+ },
+ "DOC-2b2cd26aa88f": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "loi n°042/2018 portant Code",
+  "source_files": [
+   "Droit\\Codes\\Gabon-code-de-procedure-penale-du-5-juillet-2019.pdf"
+  ],
+  "n_chunks": 1648,
+  "unique_chunks": 1647,
+  "path": "gabon\\droit\\DOC-2b2cd26aa88f.json",
+  "updated_at": "2026-10-14T10:11:06.833458+00:00"
+ },
+ "DOC-25968f485410": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "code_penal",
+  "kind": "legal_text",
+  "title": "Loi n°006/2020 du 30 juin 2020 portant modification de",
+  "source_files": [
+   "Droit\\Codes\\Loi-n°-006-2020-du-30-juin-2020-portant-code-penal-de-la-Republique-Gabonaise.pdf"
+  ],
+  "n_chunks": 683,
+  "unique_chunks": 388,
+  "path": "gabon\\droit\\DOC-25968f485410.json",
+  "updated_at": "2026-10-14T10:11:10.151570+00:00"
+ },
+ "DOC-8e28d53d40ca": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Constitution de la République Gabonaise (2025)",
+  "source_files": [
+   "Droit\\Constitution_Gabonaise\\constitution_de_gabon_2025.pdf"
+  ],
+  "n_chunks": 174,
+  "unique_chunks": 172,
+  "path": "gabon\\droit\\DOC-8e28d53d40ca.json",
+  "updated_at": "2026-10-14T10:11:11.018355+00:00"
+ },
+ "DOC-bb22b5a28485": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Constitution de la République Gabonaise",
+  "source_files": [
+   "Droit\\Constitution_Gabonaise\\Constitution_du_Gabon[1].pdf.crdownload"
+  ],
+  "n_chunks": 131,
+  "unique_chunks": 126,
+  "path": "gabon\\droit\\DOC-bb22b5a28485.json",
+  "updated_at": "2026-10-14T10:11:14.189171+00:00"
+ },
+ "DOC-7bab6f727358": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "constitution",
+  "kind": "legal_text",
+  "title": "Constitution de la République Gabonaise (2024)",
+  "source_files": [
+   "Droit\\Constitution_Gabonaise\\Projet-de-Constitution_2024_2eme-Republique_VF.pdf"
+  ],
+  "n_chunks": 174,
+  "unique_chunks": 63,
+  "path": "gabon\\droit\\DOC-7bab6f727358.json",
+  "updated_at": "2026-10-14T10:11:14.945223+00:00"
+ },
+ "DOC-1e378d7e3873": {
+  "country": "Gabon",
+  "category": "droit",
+  "subcategory": "code_du_travail",
+  "kind": "legal_text",
+  "title": "Loi N° 5/86 du 17/06/1986 fixant le régime d 'admission et de séjour des étrangers en République gabonaise.",
+  "source_files": [
+   "Droit\\Lois\\Loi N° 586 du 17061986.txt"
+  ],
+  "n_chunks": 63,
+  "unique_chunks": 63,
+  "path": "gabon\\droit\\DOC-1e378d7e3873.json",
+  "updated_at": "2026-10-14T10:11:15.023704+00:00"
+ },
+ "DOC-86964b1d6e17": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Histoire du Gabon — Wikipédia",
+  "source_files": [
+   "Histoire\\Histoire_du_Gabon.pdf"
+  ],
+  "n_chunks": 26,
+  "unique_chunks": 26,
+  "path": "gabon\\histoire\\DOC-86964b1d6e17.json",
+  "updated_at": "2026-10-14T10:11:19.628996+00:00"
+ },
+ "DOC-1f0dfadb4fa3": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "La dynamique Fang dans la «mise en valeur» du Gabon pendant la période coloniale (1850-1960)",
+  "source_files": [
+   "Histoire\\La dynamique Fang dans la « mise en valeur » du Gabon pendant la période coloniale (1850-1960).pdf"
+  ],
+  "n_chunks": 36,
+  "unique_chunks": 36,
+  "path": "gabon\\histoire\\DOC-1f0dfadb4fa3.json",
+  "updated_at": "2026-10-14T10:11:21.644629+00:00"
+ },
+ "DOC-fc6d15f41467": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "La Concorde — Wikipédia",
+  "source_files": [
+   "Histoire\\La_Concorde.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\histoire\\DOC-fc6d15f41467.json",
+  "updated_at": "2026-10-14T10:11:21.927677+00:00"
+ },
+ "DOC-f67589dd2c3a": {
+  "country": "Gabon",
+  "category": "economie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Le Gabon précolonial : étude sociale et économique.",
+  "source_files": [
+   "Histoire\\Le Gabon précolonial  étude sociale et économique.pdf"
+  ],
+  "n_chunks": 21,
+  "unique_chunks": 21,
+  "path": "gabon\\economie\\DOC-f67589dd2c3a.json",
+  "updated_at": "2026-10-14T10:11:23.644636+00:00"
+ },
+ "DOC-eda3f37e3b56": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Portail:Gabon — Wikipédia",
+  "source_files": [
+   "Histoire\\Portail_Gabon.pdf"
+  ],
+  "n_chunks": 8,
+  "unique_chunks": 8,
+  "path": "gabon\\histoire\\DOC-eda3f37e3b56.json",
+  "updated_at": "2026-10-14T10:11:24.517234+00:00"
+ },
+ "DOC-2f2fa09c757c": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Proto histoire du groupe beti bulu fang essai de synthèse provisoire",
+  "source_files": [
+   "Histoire\\Proto-histoire du groupe beti-bulu-fang  essai de synthèse provisoire.pdf"
+  ],
+  "n_chunks": 99,
+  "unique_chunks": 99,
+  "path": "gabon\\histoire\\DOC-2f2fa09c757c.json",
+  "updated_at": "2026-10-14T10:11:26.729392+00:00"
+ },
+ "DOC-65a59bcc6a44": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Traditions orales et archives au Gabon : contribution à l'ethno-histoire",
+  "source_files": [
+   "Histoire\\Traditions orales.pdf"
+  ],
+  "n_chunks": 239,
+  "unique_chunks": 239,
+  "path": "gabon\\histoire\\DOC-65a59bcc6a44.json",
+  "updated_at": "2026-10-14T10:11:30.223758+00:00"
+ },
+ "DOC-c50704a1dcb5": {
+  "country": "Gabon",
+  "category": "infrastructures_transport",
+  "subcategory": null,
+  "kind": "text",
+  "title": ".ga — Wikipédia",
+  "source_files": [
+   ".ga.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\infrastructures_transport\\DOC-c50704a1dcb5.json",
+  "updated_at": "2026-10-14T10:11:30.457100+00:00"
+ },
+ "DOC-17a663d75467": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "6e bataillon d'infanterie de marine — Wikipédia",
+  "source_files": [
+   "6e_bataillon_d'infanterie_de_marine.pdf"
+  ],
+  "n_chunks": 16,
+  "unique_chunks": 16,
+  "path": "gabon\\histoire\\DOC-17a663d75467.json",
+  "updated_at": "2026-10-14T10:11:34.335141+00:00"
+ },
+ "DOC-00bfabea9182": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Adouma (peuple) — Wikipédia",
+  "source_files": [
+   "Adouma_(peuple).pdf"
+  ],
+  "n_chunks": 7,
+  "unique_chunks": 7,
+  "path": "gabon\\culture_tourisme\\DOC-00bfabea9182.json",
+  "updated_at": "2026-10-14T10:11:35.281894+00:00"
+ },
+ "DOC-a22444e53e0c": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Adyumba (peuple) — Wikipédia",
+  "source_files": [
+   "Adyumba_(peuple).pdf"
+  ],
+  "n_chunks": 4,
+  "unique_chunks": 4,
+  "path": "gabon\\culture_tourisme\\DOC-a22444e53e0c.json",
+  "updated_at": "2026-10-14T10:11:36.069987+00:00"
+ },
+ "DOC-bf44ce1f0c1c": {
+  "country": "France",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Affaire Elf — Wikipédia",
+  "source_files": [
+   "Affaire_Elf.pdf"
+  ],
+  "n_chunks": 28,
+  "unique_chunks": 28,
+  "path": "france\\histoire\\DOC-bf44ce1f0c1c.json",
+  "updated_at": "2026-10-14T10:11:40.393368+00:00"
+ },
+ "DOC-1c99b88d484c": {
+  "country": "Gabon",
+  "category": "infrastructures_transport",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Africa Radio — Wikipédia",
+  "source_files": [
+   "Africa_Radio.pdf"
+  ],
+  "n_chunks": 10,
+  "unique_chunks": 10,
+  "path": "gabon\\infrastructures_transport\\DOC-1c99b88d484c.json",
+  "updated_at": "2026-10-14T10:11:42.346430+00:00"
+ },
+ "DOC-f8d795a3080b": {
+  "country": "France",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Afrique-Équatoriale française — Wikipédia",
+  "source_files": [
+   "Afrique-Équatoriale_française.pdf"
+  ],
+  "n_chunks": 16,
+  "unique_chunks": 16,
+  "path": "france\\histoire\\DOC-f8d795a3080b.json",
+  "updated_at": "2026-10-14T10:11:44.791661+00:00"
+ },
+ "DOC-a4e2e256f532": {
+  "country": "Cameroun",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Afrique — Wikipédia",
+  "source_files": [
+   "Afrique.pdf"
+  ],
+  "n_chunks": 341,
+  "unique_chunks": 341,
+  "path": "cameroun\\histoire\\DOC-a4e2e256f532.json",
+  "updated_at": "2026-10-14T10:12:49.927697+00:00"
+ },
+ "DOC-dab238ee9829": {
+  "country": "Cameroun",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Afrique centrale — Wikipédia",
+  "source_files": [
+   "Afrique_centrale.pdf"
+  ],
+  "n_chunks": 13,
+  "unique_chunks": 13,
+  "path": "cameroun\\histoire\\DOC-dab238ee9829.json",
+  "updated_at": "2026-10-14T10:12:52.064286+00:00"
+ },
+ "DOC-4ae26f31d86f": {
+  "country": "Cameroun",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Afrique subsaharienne — Wikipédia",
+  "source_files": [
+   "Afrique_subsaharienne.pdf"
+  ],
+  "n_chunks": 122,
+  "unique_chunks": 122,
+  "path": "cameroun\\histoire\\DOC-4ae26f31d86f.json",
+  "updated_at": "2026-10-14T10:12:58.662294+00:00"
+ },
+ "DOC-a0bd16733e02": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Air Gabon — Wikipédia",
+  "source_files": [
+   "Air_Gabon.pdf"
+  ],
+  "n_chunks": 7,
+  "unique_chunks": 7,
+  "path": "gabon\\histoire\\DOC-a0bd16733e02.json",
+  "updated_at": "2026-10-14T10:12:59.733540+00:00"
+ },
+ "DOC-c3a49a4a17e3": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Akanigui — Wikipédia",
+  "source_files": [
+   "Akanigui.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\culture_tourisme\\DOC-c3a49a4a17e3.json",
+  "updated_at": "2026-10-14T10:13:00.279320+00:00"
+ },
+ "DOC-4accb0dd0e1f": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Ungom — Wikipédia",
+  "source_files": [
+   "Akélé.pdf"
+  ],
+  "n_chunks": 22,
+  "unique_chunks": 22,
+  "path": "gabon\\histoire\\DOC-4accb0dd0e1f.json",
+  "updated_at": "2026-10-14T10:13:02.883556+00:00"
+ },
+ "DOC-fdbe1bff1bc1": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Alain-Claude Bilie-By-Nze — Wikipédia",
+  "source_files": [
+   "Alain_Claude_Bilie_By_Nze.pdf"
+  ],
+  "n_chunks": 14,
+  "unique_chunks": 14,
+  "path": "gabon\\histoire\\DOC-fdbe1bff1bc1.json",
+  "updated_at": "2026-10-14T10:13:04.789128+00:00"
+ },
+ "DOC-e5d9d026db9f": {
+  "country": "Gabon",
+  "category": "infrastructures_transport",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Alain Moussi — Wikipédia",
+  "source_files": [
+   "Alain_Moussi.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\infrastructures_transport\\DOC-e5d9d026db9f.json",
+  "updated_at": "2026-10-14T10:13:05.237351+00:00"
+ },
+ "DOC-5375deb3cc71": {
+  "country": "Gabon",
+  "category": "social",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Alexandre Barro Chambrier — Wikipédia",
+  "source_files": [
+   "Alexandre_Barro_Chambrier.pdf"
+  ],
+  "n_chunks": 23,
+  "unique_chunks": 23,
+  "path": "gabon\\social\\DOC-5375deb3cc71.json",
+  "updated_at": "2026-10-14T10:13:08.944489+00:00"
+ },
+ "DOC-50b83562a701": {
+  "country": "Gabon",
+  "category": "social",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Alice Endamne — Wikipédia",
+  "source_files": [
+   "Alice_Endamne.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\social\\DOC-50b83562a701.json",
+  "updated_at": "2026-10-14T10:13:09.319992+00:00"
+ },
+ "DOC-73586d63641e": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Ali Bongo — Wikipédia",
+  "source_files": [
+   "Ali_Bongo.pdf"
+  ],
+  "n_chunks": 41,
+  "unique_chunks": 41,
+  "path": "gabon\\histoire\\DOC-73586d63641e.json",
+  "updated_at": "2026-10-14T10:13:14.751783+00:00"
+ },
+ "DOC-b75174ad7912": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Amédée Pacôme Nkoulou — Wikipédia",
+  "source_files": [
+   "Amédée_Pacôme_Nkoulou.pdf"
+  ],
+  "n_chunks": 6,
+  "unique_chunks": 6,
+  "path": "gabon\\culture_tourisme\\DOC-b75174ad7912.json",
+  "updated_at": "2026-10-14T10:13:15.362134+00:00"
+ },
+ "DOC-52a7ab391c4b": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "André Mba Obame — Wikipédia",
+  "source_files": [
+   "André_Mba_Obame.pdf"
+  ],
+  "n_chunks": 14,
+  "unique_chunks": 14,
+  "path": "gabon\\histoire\\DOC-52a7ab391c4b.json",
+  "updated_at": "2026-10-14T10:13:17.057718+00:00"
+ },
+ "DOC-a8860b525b0c": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "André Raponda-Walker — Wikipédia",
+  "source_files": [
+   "André_Raponda-Walker.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\culture_tourisme\\DOC-a8860b525b0c.json",
+  "updated_at": "2026-10-14T10:13:17.237725+00:00"
+ },
+ "DOC-3de5c5cfb288": {
+  "country": "Gabon",
+  "category": "social",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Angèle Rawiri — Wikipédia",
+  "source_files": [
+   "Angèle_Rawiri.pdf"
+  ],
+  "n_chunks": 7,
+  "unique_chunks": 7,
+  "path": "gabon\\social\\DOC-3de5c5cfb288.json",
+  "updated_at": "2026-10-14T10:13:18.385034+00:00"
+ },
+ "DOC-c78f4037a11a": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Annie-Flore Batchiellilys — Wikipédia",
+  "source_files": [
+   "Annie-Flore_Batchiellilys.pdf"
+  ],
+  "n_chunks": 6,
+  "unique_chunks": 6,
+  "path": "gabon\\culture_tourisme\\DOC-c78f4037a11a.json",
+  "updated_at": "2026-10-14T10:13:19.229194+00:00"
+ },
+ "DOC-ff9d5a7aeef7": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Anthony Obame — Wikipédia",
+  "source_files": [
+   "Anthony_Obame.pdf"
+  ],
+  "n_chunks": 7,
+  "unique_chunks": 7,
+  "path": "gabon\\histoire\\DOC-ff9d5a7aeef7.json",
+  "updated_at": "2026-10-14T10:13:21.079374+00:00"
+ },
+ "DOC-d3b0ebfac680": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Apindjis — Wikipédia",
+  "source_files": [
+   "Apindjis.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\culture_tourisme\\DOC-d3b0ebfac680.json",
+  "updated_at": "2026-10-14T10:13:21.499450+00:00"
+ },
+ "DOC-b722fcab60e8": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Archidiocèse de Libreville — Wikipédia",
+  "source_files": [
+   "Archidiocèse_de_Libreville.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\geographie\\DOC-b722fcab60e8.json",
+  "updated_at": "2026-10-14T10:13:21.904806+00:00"
+ },
+ "DOC-64b79f8a9390": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Armoiries du Gabon — Wikipédia",
+  "source_files": [
+   "Armoiries_du_Gabon.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\histoire\\DOC-64b79f8a9390.json",
+  "updated_at": "2026-10-14T10:13:22.041798+00:00"
+ },
+ "DOC-ab63b622effc": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Assemblée nationale (Gabon) — Wikipédia",
+  "source_files": [
+   "Assemblée_nationale_(Gabon).pdf"
+  ],
+  "n_chunks": 5,
+  "unique_chunks": 5,
+  "path": "gabon\\histoire\\DOC-ab63b622effc.json",
+  "updated_at": "2026-10-14T10:13:22.959685+00:00"
+ },
+ "DOC-29597728da54": {
+  "country": "France",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Assemblée parlementaire de la francophonie — Wikipédia",
+  "source_files": [
+   "Assemblée_parlementaire_de_la_francophonie.pdf"
+  ],
+  "n_chunks": 23,
+  "unique_chunks": 23,
+  "path": "france\\culture_tourisme\\DOC-29597728da54.json",
+  "updated_at": "2026-10-14T10:13:26.353715+00:00"
+ },
+ "DOC-f4cc8501e3d4": {
+  "country": "France",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Association internationale des maires francophones — Wikipédia",
+  "source_files": [
+   "Association_internationale_des_maires_francophones.pdf"
+  ],
+  "n_chunks": 11,
+  "unique_chunks": 11,
+  "path": "france\\histoire\\DOC-f4cc8501e3d4.json",
+  "updated_at": "2026-10-14T10:13:27.928479+00:00"
+ },
+ "DOC-ff9e42299bdf": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Aucoumea — Wikipédia",
+  "source_files": [
+   "Aucoumea.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\biodiversite\\DOC-ff9e42299bdf.json",
+  "updated_at": "2026-10-14T10:13:28.143676+00:00"
+ },
+ "DOC-f148e9857799": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Awandjis — Wikipédia",
+  "source_files": [
+   "Awandjis.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\culture_tourisme\\DOC-f148e9857799.json",
+  "updated_at": "2026-10-14T10:13:28.629278+00:00"
+ },
+ "DOC-f4d9fedea089": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Aéroport de Franceville — Wikipédia",
+  "source_files": [
+   "Aéroport_de_Franceville.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\geographie\\DOC-f4d9fedea089.json",
+  "updated_at": "2026-10-14T10:13:28.833746+00:00"
+ },
+ "DOC-e433b793f7be": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Aéroport international de Port-Gentil — Wikipédia",
+  "source_files": [
+   "Aéroport_international_de_Port-Gentil.pdf"
+  ],
+  "n_chunks": 4,
+  "unique_chunks": 4,
+  "path": "gabon\\geographie\\DOC-e433b793f7be.json",
+  "updated_at": "2026-10-14T10:13:29.381051+00:00"
+ },
+ "DOC-915d9286d33f": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Aéroport international Léon-Mba — Wikipédia",
+  "source_files": [
+   "Aéroport_international_Léon-Mba.pdf"
+  ],
+  "n_chunks": 5,
+  "unique_chunks": 5,
+  "path": "gabon\\geographie\\DOC-915d9286d33f.json",
+  "updated_at": "2026-10-14T10:13:30.378945+00:00"
+ },
+ "DOC-f1e2429cc10e": {
+  "country": "Cameroun",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Baka (langue oubanguienne) — Wikipédia",
+  "source_files": [
+   "Baka_(langue_oubanguienne).pdf"
+  ],
+  "n_chunks": 5,
+  "unique_chunks": 5,
+  "path": "cameroun\\culture_tourisme\\DOC-f1e2429cc10e.json",
+  "updated_at": "2026-10-14T10:13:31.385546+00:00"
+ },
+ "DOC-23877fda017c": {
+  "country": "Cameroun",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Baka (peuple du Cameroun et du Gabon) — Wikipédia",
+  "source_files": [
+   "Baka_(peuple_du_Cameroun_et_du_Gabon).pdf"
+  ],
+  "n_chunks": 11,
+  "unique_chunks": 11,
+  "path": "cameroun\\culture_tourisme\\DOC-23877fda017c.json",
+  "updated_at": "2026-10-14T10:13:33.155134+00:00"
+ },
+ "DOC-aab09821cf45": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Balumbus — Wikipédia",
+  "source_files": [
+   "Balumbus.pdf"
+  ],
+  "n_chunks": 6,
+  "unique_chunks": 6,
+  "path": "gabon\\culture_tourisme\\DOC-aab09821cf45.json",
+  "updated_at": "2026-10-14T10:13:34.632409+00:00"
+ },
+ "DOC-2231a7908ec1": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Benga (peuple) — Wikipédia",
+  "source_files": [
+   "Benga_(peuple).pdf"
+  ],
+  "n_chunks": 6,
+  "unique_chunks": 6,
+  "path": "gabon\\culture_tourisme\\DOC-2231a7908ec1.json",
+  "updated_at": "2026-10-14T10:13:35.333863+00:00"
+ },
+ "DOC-26fad12f1166": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Bessora — Wikipédia",
+  "source_files": [
+   "Bessora.pdf"
+  ],
+  "n_chunks": 9,
+  "unique_chunks": 9,
+  "path": "gabon\\culture_tourisme\\DOC-26fad12f1166.json",
+  "updated_at": "2026-10-14T10:13:36.308210+00:00"
+ },
+ "DOC-0037c7aeea32": {
+  "country": "France",
+  "category": "droit",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Bien mal acquis — Wikipédia",
+  "source_files": [
+   "Bien_mal_acquis.pdf"
+  ],
+  "n_chunks": 21,
+  "unique_chunks": 21,
+  "path": "france\\droit\\DOC-0037c7aeea32.json",
+  "updated_at": "2026-10-14T10:13:40.125579+00:00"
+ },
+ "DOC-59336be57aa5": {
+  "country": "France",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Bob Denard — Wikipédia",
+  "source_files": [
+   "Bob_Denard.pdf"
+  ],
+  "n_chunks": 22,
+  "unique_chunks": 22,
+  "path": "france\\histoire\\DOC-59336be57aa5.json",
+  "updated_at": "2026-10-14T10:13:43.262166+00:00"
+ },
+ "DOC-d1efb9ec2284": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Booué — Wikipédia",
+  "source_files": [
+   "Booué.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\geographie\\DOC-d1efb9ec2284.json",
+  "updated_at": "2026-10-14T10:13:43.393788+00:00"
+ },
+ "DOC-64f30faf764d": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Brice Clotaire Oligui Nguema — Wikipédia",
+  "source_files": [
+   "Brice_Clotaire_Oligui_Nguema.pdf"
+  ],
+  "n_chunks": 18,
+  "unique_chunks": 18,
+  "path": "gabon\\histoire\\DOC-64f30faf764d.json",
+  "updated_at": "2026-10-14T10:13:45.978045+00:00"
+ },
+ "DOC-b40542ecd09f": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Brice Clotaire Oligui Nguema — Wikipédia",
+  "source_files": [
+   "Brice_Oligui_Nguema.pdf"
+  ],
+  "n_chunks": 18,
+  "unique_chunks": 0,
+  "path": "gabon\\histoire\\DOC-b40542ecd09f.json",
+  "updated_at": "2026-10-14T10:13:48.667557+00:00"
+ },
+ "DOC-971bf7e6bb4a": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Bwiti — Wikipédia",
+  "source_files": [
+   "Bwiti.pdf"
+  ],
+  "n_chunks": 9,
+  "unique_chunks": 9,
+  "path": "gabon\\culture_tourisme\\DOC-971bf7e6bb4a.json",
+  "updated_at": "2026-10-14T10:13:49.771544+00:00"
+ },
+ "DOC-0a974c692a38": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Byeri — Wikipédia",
+  "source_files": [
+   "Byeri.pdf"
+  ],
+  "n_chunks": 11,
+  "unique_chunks": 11,
+  "path": "gabon\\culture_tourisme\\DOC-0a974c692a38.json",
+  "updated_at": "2026-10-14T10:13:50.683314+00:00"
+ },
+ "DOC-cdf8c6b03aec": {
+  "country": "Gabon",
+  "category": "economie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Bélinga — Wikipédia",
+  "source_files": [
+   "Bélinga.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\economie\\DOC-cdf8c6b03aec.json",
+  "updated_at": "2026-10-14T10:13:50.818687+00:00"
+ },
+ "DOC-195d8624e482": {
+  "country": "Gabon",
+  "category": "culture_tourisme",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Cacao (série télévisée) — Wikipédia",
+  "source_files": [
+   "Cacao_(série_télévisée).pdf"
+  ],
+  "n_chunks": 12,
+  "unique_chunks": 12,
+  "path": "gabon\\culture_tourisme\\DOC-195d8624e482.json",
+  "updated_at": "2026-10-14T10:13:51.897561+00:00"
+ },
+ "DOC-ec8bdc633e6e": {
+  "country": "Cameroun",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Cameroun — Wikipédia",
+  "source_files": [
+   "Cameroun.pdf"
+  ],
+  "n_chunks": 59,
+  "unique_chunks": 59,
+  "path": "cameroun\\histoire\\DOC-ec8bdc633e6e.json",
+  "updated_at": "2026-10-14T10:14:01.590302+00:00"
+ },
+ "DOC-b85db403705a": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Campagne du Gabon — Wikipédia",
+  "source_files": [
+   "Campagne_du_Gabon.pdf"
+  ],
+  "n_chunks": 5,
+  "unique_chunks": 5,
+  "path": "gabon\\histoire\\DOC-b85db403705a.json",
+  "updated_at": "2026-10-14T10:14:02.329807+00:00"
+ },
+ "DOC-64903fe52029": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Cap Lopez — Wikipédia",
+  "source_files": [
+   "Cap_Lopez.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\geographie\\DOC-64903fe52029.json",
+  "updated_at": "2026-10-14T10:14:02.715248+00:00"
+ },
+ "DOC-7a3f4b1a292b": {
+  "country": "Cameroun",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Caracal — Wikipédia",
+  "source_files": [
+   "Caracal.pdf"
+  ],
+  "n_chunks": 62,
+  "unique_chunks": 62,
+  "path": "cameroun\\biodiversite\\DOC-7a3f4b1a292b.json",
+  "updated_at": "2026-10-14T10:14:05.348453+00:00"
+ },
+ "DOC-5514d8b0ba29": {
+  "country": "Gabon",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Centre international des civilisations bantu — Wikipédia",
+  "source_files": [
+   "Centre_international_des_civilisations_bantu.pdf"
+  ],
+  "n_chunks": 2,
+  "unique_chunks": 2,
+  "path": "gabon\\geographie\\DOC-5514d8b0ba29.json",
+  "updated_at": "2026-10-14T10:14:06.706301+00:00"
+ },
+ "DOC-e66a8f8c882d": {
+  "country": "France",
+  "category": "geographie",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Centre international de recherches médicales de Franceville — Wikipédia",
+  "source_files": [
+   "Centre_international_de_recherches_médicales_de_Franceville.pdf"
+  ],
+  "n_chunks": 1,
+  "unique_chunks": 1,
+  "path": "france\\geographie\\DOC-e66a8f8c882d.json",
+  "updated_at": "2026-10-14T10:14:06.797961+00:00"
+ },
+ "DOC-915f2c52b874": {
+  "country": "Gabon",
+  "category": "biodiversite",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Cercopithèque à queue de soleil — Wikipédia",
+  "source_files": [
+   "Cercopithèque_à_queue_de_soleil.pdf"
+  ],
+  "n_chunks": 6,
+  "unique_chunks": 6,
+  "path": "gabon\\biodiversite\\DOC-915f2c52b874.json",
+  "updated_at": "2026-10-14T10:14:07.334626+00:00"
+ },
+ "DOC-31577c1a1156": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Coup d'État de 2023 au Gabon — Wikipédia",
+  "source_files": [
+   "Coup_d'État_de_2023_au_Gabon.pdf"
+  ],
+  "n_chunks": 31,
+  "unique_chunks": 31,
+  "path": "gabon\\histoire\\DOC-31577c1a1156.json",
+  "updated_at": "2026-10-14T10:14:11.595122+00:00"
+ },
+ "DOC-03864c7fa4ef": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Gabon — Wikipédia",
+  "source_files": [
+   "Gabon.pdf"
+  ],
+  "n_chunks": 94,
+  "unique_chunks": 94,
+  "path": "gabon\\histoire\\DOC-03864c7fa4ef.json",
+  "updated_at": "2026-10-14T10:14:39.789256+00:00"
+ },
+ "DOC-e171212aff15": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Histoire du Gabon — Wikipédia",
+  "source_files": [
+   "Histoire_du_Gabon.pdf"
+  ],
+  "n_chunks": 26,
+  "unique_chunks": 0,
+  "path": "gabon\\histoire\\DOC-e171212aff15.json",
+  "updated_at": "2026-10-14T10:14:44.967261+00:00"
+ },
+ "DOC-d6c949c9431c": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Liste des présidents de la République gabonaise — Wikipédia",
+  "source_files": [
+   "Liste_des_présidents_de_la_République_gabonaise.pdf"
+  ],
+  "n_chunks": 3,
+  "unique_chunks": 3,
+  "path": "gabon\\histoire\\DOC-d6c949c9431c.json",
+  "updated_at": "2026-10-14T10:14:45.595269+00:00"
+ },
+ "DOC-d61e3f0acbf7": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Léon Mba — Wikipédia",
+  "source_files": [
+   "Léon_Mba.pdf"
+  ],
+  "n_chunks": 32,
+  "unique_chunks": 32,
+  "path": "gabon\\histoire\\DOC-d61e3f0acbf7.json",
+  "updated_at": "2026-10-14T10:14:50.173065+00:00"
+ },
+ "DOC-39d3aead2b37": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Omar Bongo — Wikipédia",
+  "source_files": [
+   "Omar_Bongo.pdf"
+  ],
+  "n_chunks": 38,
+  "unique_chunks": 38,
+  "path": "gabon\\histoire\\DOC-39d3aead2b37.json",
+  "updated_at": "2026-10-14T10:14:55.780546+00:00"
+ },
+ "DOC-662a81778646": {
+  "country": "Gabon",
+  "category": "histoire",
+  "subcategory": null,
+  "kind": "text",
+  "title": "Politique au Gabon — Wikipédia",
+  "source_files": [
+   "Politique_au_Gabon.pdf"
+  ],
+  "n_chunks": 11,
+  "unique_chunks": 11,
+  "path": "gabon\\histoire\\DOC-662a81778646.json",
+  "updated_at": "2026-10-14T10:14:57.581407+00:00"
+ }
+}

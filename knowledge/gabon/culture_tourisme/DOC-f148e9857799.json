@@ -1,0 +1,41 @@
+{
+ "doc_id": "DOC-f148e9857799",
+ "country": "Gabon",
+ "category": "culture_tourisme",
+ "subcategory": null,
+ "secondary_categories": [
+  "demographie",
+  "geographie",
+  "infrastructures_transport"
+ ],
+ "classification_confidence": 0.456,
+ "language": "fr",
+ "source_files": [
+  "Awandjis.pdf"
+ ],
+ "sha256": "f148e9857799a05ce6bbff2e0e5a7dd8d5019f83bc058fbdf9e5665e947c8ea6",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:28.624755+00:00",
+ "kind": "text",
+ "title": "Awandjis — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Awandjis\nPopulations importantes par région\nGabon\n14 000\nAutres\nLangues\nwandji\nAwandjis\nLes Awandjis (ou Bawandji ou Wandji) sont un\ngroupe ethnique gabonais habitant les provinces de\nl'Ogooué-Lolo et du Haut Ogooué. Les Awandji\nsont souvent intégrés dans le groupe ethnique des\nNzébis. Lastourville et Moanda sont des villes à\nmajorité Bawandji. L'organisation sociale wandji s'articule au tour du clan (oubáánda), et chaque individu est rattaché à\nquatre de ces clans (bikaghas). Les membres de chaque clan se rattachent à une ancêtre mythique par une\nfiliation supposée. Le groupe se caractérise par une devise qui glorifie l'ancêtre et relate certains de ses\nhaut-faits, et par une plante alimentaire qui lui est associée. Dans certains cas, le clan est lié à un animal,\nsur lequel porte un interdit alimentaire pour les membres du dit clan. La généalogie mythique qui fonde l'existence de ces groupes de parenté divise très tôt les\nclans en sous-clans, ndzô. La généalogie historique est constituée du lignage minimum (oukota), qui regroupe les\ndescendants sur quatre générations en ligne matrilinéaire d'un ancêtre féminin.",
+   "chunk_id": "DOC-f148e9857799-C0001",
+   "text_hash": "5bc76c346c39f767344d36af33e1829f3c47bd0f"
+  },
+  {
+   "section": "",
+   "text": "Ce\nlignage a une profondeur généalogique constante et se segmente à chaque génération : il\nne se définit donc que par rapport à un individu ou à un niveau généalogique, alors que\nclans et sous-clans restent fixés indépendamment de la position généalogique d'Ego par\nrapport à l'ancêtre fondateur. Les clans sont toujours nommés selon l'ordre des naissances mythiques :\n- Millagha, Mouyo, Rambou, Muanda,\n- Litembe, Boungoundrou, Gnagni. (Chez les nzèbi : Mouanda, Maghamba, Chiéyi, Baghuli, Bassanga,\nMitchimba, Mboundou). 1\nSociété Culturellement et linguistiquement, ils sont assez proches des Adoumas qui vivent en aval du fleuve. Ils\navaient pour habitude de troquer le produit de leur chasse contre le poisson de leurs voisins . 1. « Le Gabon démographique (http://www.bdpgabon.org/dcforum/socioculture/60.shtml) »\n2. (en) James Stuart Olson, « Awandji », in The Peoples of Africa: An Ethnohistorical\nDictionary, Greenwood Publishing Group, 1996, p. 45 (ISBN 9780313279188)\n(en) David E. Gardinier, Historical dictionary of Gabon, Metuchen, N.J - Londres,\nScarecrow Press, 1981, 120 p. (ISBN 0810814358)\nJérôme-J. Adam, Fables, proverbes et devinettes du Haut-Ogooué : Kuya, Kanini, Nyani,\nMbama, Tege, Wandji, Duma, Nzebi, Wumbvu, Mbanwe, Camay, Kota, Bar Le Duc,\nImprimerie Saint-Paul, 1977, 370 p. — Édition multilingue avec traduction française en\nregard\nA.",
+   "chunk_id": "DOC-f148e9857799-C0002",
+   "text_hash": "ae170dee09d2e85f5c6af35061cea7bf007abdf0"
+  },
+  {
+   "section": "",
+   "text": "Akalaguelo, « Esquisse d'histoire ethnique du Gabon », Présence Africaine, Paris,\nno 132,‎ 1984, p. 3-32\nHubert Deschamps, « Wandji », dans Traditions orales et archives au Gabon. Contribution\nà l'ethno-histoire, Paris, Berger-Levrault, 1962 (lire en ligne (http://horizon.documentation.ird.fr/exldoc/pleins_textes/divers11-03/12584.pdf)), p. 56-58\nDémographie du Gabon\nListe des groupes ethniques d'Afrique\nlinguistique\nliste de langues\nlangues par famille\nlangues nigéro-congolaises\nlangues atlantico-congolaises\nlangues voltaïco-congolaises\nlangues bénoué-congolaises\nlangues bantoïdes\nlangues bantoïdes méridionales\nlangues bantoues\nlangues par zone géographique\nlangues en Afrique\nlangues au Gabon\n2\nNotes et références\nVoir aussi\nBibliographie\nArticles connexes\n\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Awandjis&oldid=237590913 ».",
+   "chunk_id": "DOC-f148e9857799-C0003",
+   "text_hash": "7a24eea379046c7acb52bb94c22cf6005b3021ad"
+  }
+ ]
+}

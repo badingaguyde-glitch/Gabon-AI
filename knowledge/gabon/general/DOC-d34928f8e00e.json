@@ -1,0 +1,64 @@
+{
+ "doc_id": "DOC-d34928f8e00e",
+ "country": "Gabon",
+ "category": "general",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.3,
+ "language": "en",
+ "source_files": [
+  "Metadata_Country_API_GAB_DS2_en_csv_v2_433708.csv"
+ ],
+ "sha256": "d34928f8e00e74a289753d8aaedb8f4c34149b218350d9048d7edc629b85435e",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:18.152659+00:00",
+ "dataset_summary": {
+  "columns": [
+   "Country Code",
+   "Region",
+   "IncomeGroup",
+   "TableName",
+   "SpecialNotes",
+   ""
+  ],
+  "rows_analyzed": 1,
+  "numeric_stats": {},
+  "categorical_top_values": {
+   "Country Code": [
+    [
+     "GAB",
+     1
+    ]
+   ],
+   "Region": [
+    [
+     "Sub-Saharan Africa",
+     1
+    ]
+   ],
+   "IncomeGroup": [
+    [
+     "Upper middle income",
+     1
+    ]
+   ],
+   "TableName": [
+    [
+     "Gabon",
+     1
+    ]
+   ]
+  },
+  "readme": ""
+ },
+ "kind": "dataset",
+ "title": "Metadata Country API GAB DS2 en csv v2 433708",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Metadata Country API GAB DS2 en csv v2 433708 (Gabon).\nColonnes (6) : Country Code, Region, IncomeGroup, TableName, SpecialNotes, .\nNombre de lignes analysées : 1.\n- Country Code : valeurs principales GAB (1).\n- Region : valeurs principales Sub-Saharan Africa (1).\n- IncomeGroup : valeurs principales Upper middle income (1).\n- TableName : valeurs principales Gabon (1).",
+   "chunk_id": "DOC-d34928f8e00e-C0001",
+   "text_hash": "855affb8d38f9bbff5450521053242fd73b88574"
+  }
+ ]
+}

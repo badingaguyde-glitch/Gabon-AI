@@ -1,0 +1,34 @@
+{
+ "doc_id": "DOC-c3a49a4a17e3",
+ "country": "Gabon",
+ "category": "culture_tourisme",
+ "subcategory": null,
+ "secondary_categories": [
+  "geographie",
+  "demographie"
+ ],
+ "classification_confidence": 0.639,
+ "language": "fr",
+ "source_files": [
+  "Akanigui.pdf"
+ ],
+ "sha256": "c3a49a4a17e37f72f3830d63728b1a0044f0c5e7d1c3f3a439be5a139b55bf95",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:00.230912+00:00",
+ "kind": "text",
+ "title": "Akanigui — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "bakanigui\nPopulations importantes par région\nGabon\n6 000 ? (1990)\nAutres\nLangues\nkaningi\nReligions\nreligion traditionnelle\nEthnies\nliées\nNdumu\nAkanigui\nLes Akanigui (ou Kanigui ou Bakanigui) sont un\npeuple du Gabon qui vit dans le Haut-Ogooué au\nnord-ouest de Franceville et à l'est de l'Ogooué.\nIls parlent une langue bantoue, le kaningi ou akaniki\nconsidéré comme un sous-groupe linguistique\nNdumu (peuple) dont le nombre de locuteurs était\nestimé à 6 000 en 1990 .\nDémographie du Gabon\nListe des groupes ethniques d'Afrique\nlinguistique\nliste de langues\nlangues par famille\nlangues nigéro-congolaises\nlangues atlantico-congolaises\nlangues voltaïco-congolaises\nlangues bénoué-congolaises\nlangues bantoïdes\nlangues bantoïdes méridionales\nlangues bantoues\nlangues par zone géographique\nlangues en Afrique\nlangues au Gabon\nDavid E. Gardinier, Historical dictionary of Gabon, Scarecrow Press, Metuchen, N.J ;\nLondres, 1981, p. 120 (ISBN 978-0-8108-1435-6)\n(fr) Hubert Deschamps, « Kanigui » (http://horizon.documentation.ird.fr/exl-doc/pleins_tex\ntes/divers11-03/12584.pdf), in Traditions orales et archives au Gabon. Contribution à\n1\nVoir aussi\nArticles connexes\nBibliographie\nLiens externes",
+   "chunk_id": "DOC-c3a49a4a17e3-C0001",
+   "text_hash": "d374e2851f94fbfeeca400ef90b4b7b24a10d58a"
+  },
+  {
+   "section": "",
+   "text": "l'ethno-histoire, Berger-Levrault, Paris, 1962, p. 61\n1. « Kaningi. A language of Gabon » (Ethnologue) ethnologue.com (http://www.ethnologue.co\nm/show_language.asp?code=kzo)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Akanigui&oldid=237590500 ».\nNotes",
+   "chunk_id": "DOC-c3a49a4a17e3-C0002",
+   "text_hash": "9685faa67b25aa49aab404f58cf351027e056ab9"
+  }
+ ]
+}

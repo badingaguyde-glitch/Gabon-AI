@@ -1,0 +1,41 @@
+{
+ "doc_id": "DOC-a8860b525b0c",
+ "country": "Gabon",
+ "category": "culture_tourisme",
+ "subcategory": null,
+ "secondary_categories": [
+  "histoire",
+  "geographie",
+  "social"
+ ],
+ "classification_confidence": 0.504,
+ "language": "fr",
+ "source_files": [
+  "André_Raponda-Walker.pdf"
+ ],
+ "sha256": "a8860b525b0cf8a50f08f6fba40daadf5f12a74e0f02650385fa7ffc3a7b9570",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:17.232762+00:00",
+ "kind": "text",
+ "title": "André Raponda-Walker — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "André Raponda-Walker\nBiographie\nNaissance\n19 juillet 1871\nLibreville\nDécès\n11 décembre 1968 (à 97 ans)\nLibreville\nNationalité\ngabonaise\nActivités\nPrêtre catholique (à partir de\n1899), missionnaire,\ncollectionneur de plantes,\ncollectionneur scientifique,\ncollecteur de textes\ntraditionnels, écrivain, prêtre\ncatholique\nPère\nRobert Bruce Napoleon\nWalker (en)\nAutres informations\nMembre de\nAcadémie des sciences\nd'outre-mer\nDistinction\nPrix Georges-Bruel (1962)\nAndré Raponda-Walker\nAndré Raponda-Walker (1871-1968) fut un\nprêtre, un écrivain et un scientifique autodidacte\ngabonais\nqui\nrassembla\nde\nnombreuses\ninformations sur la culture et la vie des peuples du\nGabon au cours de sa longue existence. Fils\nde\nRobert-Bruce\nWalker\n(1832-1910),\nexplorateur britannique de l'Ogooué en 1867, et\nd'une princesse Mpongwè, de la lignée du roi\nLouis Ré-Dowé, il naquit à Libreville où il fit ses\nétudes chez les Pères du Saint-Esprit. En 1899, il\nfut le premier Gabonais à être ordonné prêtre. En\ntant que missionnaire, il sillonna l'intérieur du\npays, étudiant de nombreux dialectes, la faune, la\nflore et les coutumes des régions qu'il traversa. Il\névangélisa les Mitsogos et étudia leur langue. Après avoir pris sa retraite, il rassembla les\nmultiples informations qu'il avait recueillies en\nvue de leur publication.",
+   "chunk_id": "DOC-a8860b525b0c-C0001",
+   "text_hash": "c38e0bcd347e1f070b294d59c1f77095f9faadcd"
+  },
+  {
+   "section": "",
+   "text": "Sa rencontre avec\nl'ethnonaturaliste Roger Sillans en 1950 fut le\npoint de départ d'une collaboration fructueuse. Jusqu'à sa mort, il enrichit les connaissances sur le\nGabon. Autodidacte\nbrillant\naux\nsavoirs\npluridisciplinaires, il est membre de l'Académie\ndes Sciences d’Outre-Mer en France et s’intéresse\naussi bien à l’Histoire, à l’anthropologie, à la\nbotanique, qu’à la linguistique. André Raponda\nWalker est aussi un polyglotte accompli. A son\nactif, le français, la langue officielle. Mais aussi le\nBiographie\n1",
+   "chunk_id": "DOC-a8860b525b0c-C0002",
+   "text_hash": "7d70037f99bfa316a4a95f1f2784ff1fda1c5d83"
+  },
+  {
+   "section": "",
+   "text": "Mpongwe sa langue maternelle, l’anglais et bon nombre d’autres langues gabonaises : Fang, Eschira,\nTsogo, Benga, Kele …\nDictionnaire mpongwè-français, suivi d'éléments de grammaire, Metz, 1934.\nEssai de grammaire tsogo, Brazzaville, 1937.\nNotes d'Histoire du Gabon, 1960.\nDictionnaire français-mpongwè, 1961.\nLes Plantes utiles du Gabon (avec Roger Sillans), Paris, Le Chevalier, 1961, 614 p. (Coll.\nEncyclopédie biologique, 56).\n- Prix Georges-Bruel 1962 de l'Académie des sciences d’outre-mer.\nRites et croyances des peuples du Gabon (avec Roger Sillans), 1962.\nContes gabonais, 1967.\nDictionnaire étymologique des noms propres gabonais, Les Classiques africains, 1993.\n(ISBN 2-85049-574-3)\n1. Membre de la Royal Anthropological Institute of Great Britain and Ireland\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=André_Raponda-Walker&oldid=238123323 ».\nŒuvres d'André Raponda-Walker\nNotes et références",
+   "chunk_id": "DOC-a8860b525b0c-C0003",
+   "text_hash": "f44332ee3c7cbd38fffd139fa244b9e9b5120f29"
+  }
+ ]
+}

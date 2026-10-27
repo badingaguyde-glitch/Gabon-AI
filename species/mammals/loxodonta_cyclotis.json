@@ -1,0 +1,89 @@
+{
+  "species_id": "SPECIES-000023",
+  "scientific_name": "Loxodonta cyclotis",
+  "normalized_name": "loxodonta_cyclotis",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Proboscidea",
+    "family": "Elephantidae"
+  },
+  "synonyms": [
+    "Loxodonta africana cyclotis"
+  ],
+  "common_names": {
+    "en": [
+      "African forest elephant",
+      "Forest elephant"
+    ],
+    "fr": [
+      "Éléphant de forêt",
+      "Éléphant de forêt d'Afrique"
+    ]
+  },
+  "iucn_status": "CR",
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-007137",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 5314,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 6313 5314  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2019-12-18 2019-12-18 16:18:01 12180319.JPG MAMMALIA PROBOSCIDEA ELEPHANTIDAE",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:25.909992+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-008795",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 22549,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 23563 22549  C09 C09 _ FSC5_C09   FSC5-2019-10-C09 Animal 2020-01-04 2020-01-04 17:39:17 01040016.JPG MAMMALIA PROBOSCIDEA ELEPHANTID",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:26.035644+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:26.051096+00:00",
+  "updated_at": "2026-10-14T10:10:26.051104+00:00"
+}

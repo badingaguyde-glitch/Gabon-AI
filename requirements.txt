@@ -1,0 +1,17 @@
+# Core (all optional: the pipeline degrades gracefully when a library is missing)
+PyYAML>=6.0            # YAML parsing
+charset-normalizer>=3  # encoding detection
+beautifulsoup4>=4.12   # HTML parsing
+lxml>=4.9              # faster HTML/XML
+pymupdf>=1.23          # PDF text + tables (preferred)
+pypdf>=4.0             # PDF fallback
+python-docx>=1.0       # DOCX
+pandas>=2.0            # DTA / SAS / SPSS / Parquet / XLS helpers
+
+# Optional extras (install to unlock more formats)
+# xlrd>=2.0            # legacy .xls
+# pyarrow>=14          # .parquet / .feather
+# pyreadstat>=1.2      # .sav
+# py7zr>=0.20          # .7z archives
+# langdetect>=1.0.9    # better language detection
+# h5py / netCDF4       # HDF5 / NetCDF metadata

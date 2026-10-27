@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000211",
+  "scientific_name": "Amnirana lepus",
+  "normalized_name": "amnirana_lepus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Ranidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009841",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 76,
+        "extracted_text_snippet": "Table row: Gabon 29/10/2022 G39 G0292 Ranidae Amnirana lepus 0.6 24.5 7 0.8 12.2 0.25",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.961505+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009851",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 8,
+        "extracted_text_snippet": "Table row: Amnirana lepus Amnirana AQAQ 0.22314355131420976 -0.5644599520250821 -0.5331917307062798 -0.7601701683923663 -0.8796775070168733 -0.5546864599347184 -",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:31.356691+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.961790+00:00",
+  "updated_at": "2026-10-14T10:10:31.358386+00:00"
+}

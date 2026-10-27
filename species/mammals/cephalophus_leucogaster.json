@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000018",
+  "scientific_name": "Cephalophus leucogaster",
+  "normalized_name": "cephalophus_leucogaster",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-006996",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 19738,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 20752 19738  C07 C07 _ FSC5_C07   FSC5-2019-10-C07 Animal 2019-12-30 2019-12-30 20:45:06 12300979.JPG MAMMALIA ARTIODACTYLA BOVIDAE C",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:25.146897+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:25.178116+00:00",
+  "updated_at": "2026-10-14T10:10:25.178136+00:00"
+}

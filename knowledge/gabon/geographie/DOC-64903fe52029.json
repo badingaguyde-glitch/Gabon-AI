@@ -1,0 +1,41 @@
+{
+ "doc_id": "DOC-64903fe52029",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "economie",
+  "infrastructures_transport",
+  "histoire"
+ ],
+ "classification_confidence": 0.509,
+ "language": "fr",
+ "source_files": [
+  "Cap_Lopez.pdf"
+ ],
+ "sha256": "64903fe52029db2789771f8618efaec873da35318b7b89803e765aaae5c85d95",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:14:02.708299+00:00",
+ "kind": "text",
+ "title": "Cap Lopez — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Cap Lopez\nLe cap Lopez et Port-Gentil vus de\nl'espace. Localisation\nPays\nGabon\nProvince\nOgooué-Maritime\nCoordonnées 0° 37′ 46″ sud,\n8° 42′ 28″ est\nOcéan\nAtlantique - Golfe de\nGuinée\nGéographie\nAltitude\n3 à 6 m\nCap Lopez\nLe cap Lopez (originellement Lopo Gonçalves) est situé\nà la pointe de l'île Mandji, dans le delta du fleuve Ogooué\nau Gabon. Il s'avance dans l'océan Atlantique et c'est le\npoint le plus occidental de la côte gabonaise et la limite\nméridionale du golfe du Biafra, voire du golfe de Guinée\nselon certaines interprétations. Découvert par le marin portugais Lopo Gonçalves qui lui\ndonne son nom vers 1480, c'est un lieu de commerce des\nesclaves aux xviiie et xixe siècles. En 1862 le traité\ndu(dit) cap Lopez, signé entre la France et des\nreprésentants de la population locale, permet de céder à la\npremière une souveraineté sur ce promontoire. Le cap est\naujourd'hui situé dans la province gabonaise de l'OgoouéMaritime, la ville de Port-Gentil se trouvant à quelques\nkilomètres de là.",
+   "chunk_id": "DOC-64903fe52029-C0001",
+   "text_hash": "d29237d961cc2ff25307c4fb4fdaf8b672cbf69d"
+  },
+  {
+   "section": "",
+   "text": "Sur sa pointe se trouve un phare construit en 1911 en\nacier riveté avec un sommet en cuivre, éteint depuis de\nnombreuses années et menaçant de s'effondrer à la fois\nsous l'action dévastatrice de la rouille mais également\nsous celle de l'érosion littorale, en dépit de son socle de\nbéton et d'un brise-lame dont la protection contre les\nvagues expliquent pourquoi le phare, construit à l'origine\nassez loin de la côte, est toujours debout malgré le\ndrastique recul côtier. Il demeure utile comme point de\nrepère pour la navigation à l'entrée d'un port pétrolier\nvoisin. Un terminal pétrolier se trouve à l'est de la pointe et\n17 km de Port-Gentil. C'est de là qu'est exportée la quasitotalité du pétrole du Gabon. Le port est aménagé en 1957 et 1958 sous colonisation\nfrançaise, progressivement agrandi par la suite pour\naccueillir des pétroliers eux-mêmes en croissance : par\n1\nGéolocalisation sur la carte : Gabon\nExploitation du pétrole exemple le Ronsard a en 1957 un tonnage de 17 000 (tonnes) et le Front Champion atteint 311 189 tonnes\nen 2000 (les exportations de pétrole du Gabon s'élevent à 17 millions de tonnes en 1998, puis baissent\npour atteindre 12,5 millions en 2003). À Port-Gentil une raffinerie de pétrole de la \"Société gabonaise de raffinage (SOGARA)\" est mise en\nservice en 1967, approvisionnée par un oléoduc qui transporte le pétrole depuis le cap Lopez.",
+   "chunk_id": "DOC-64903fe52029-C0002",
+   "text_hash": "4111b94d23949fe71c73bb519298a93a1f20810b"
+  },
+  {
+   "section": "",
+   "text": "En 1976 est\nmise en service à côté d'elle une seconde raffinerie, pour la \"Compagnie Gabonaise de Raffinage\n(Coger)\", destinée à la fabrication de produits pour l’exportation . 1. Nicaise Rabenkogo, « Vulnérabilité de l'île Mandji face aux menaces naturelles (http://www.u\nm5a.ac.ma/CRASTE/images/actes/Gabon/Expert_Dr_Nicais/Rabenkogo_Atelier%20ISESC\nO_Libreville%20juin%202011.pdf) » [PDF], Mohammed V University, Agdal-Rabat,\n23 juin 2011 (consulté le 2 décembre 2013), p. 6. 2. (en) « Intertanko's standard tanker - Front Champion (http://www.frontline.bm/perl/Q88.pl?ve\nssel=Front%20Champion) », sur frontline.bm. 3. (en) « Oil Refining in Gabon - Overview (http://www.mbendi.com/indy/oilg/ogrf/af/ga/p0005.ht\nm) » (consulté le 2 décembre 2013). « 80 ans d’épopée pétrolière au Gabon (http://www.total-gabon.com/index.php/lentreprise/\nhistorique/lepopee-petroliere) », sur total-gabon.com ; Historique du terminal pétrolier du cap Lopez (http://www.total-gabon.com/explo/histo_ter\nminal.htm). Notices d'autorité : VIAF (https://viaf.org/viaf/24144647638192917632) ·\nBnF (https://catalogue.bnf.fr/ark:/12148/cb12118983r)\n(données (https://data.bnf.fr/ark:/12148/cb12118983r)) ·\nIdRef (https://www.idref.fr/029597722)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Cap_Lopez&oldid=238844628 ».\n\n2\n3\nNotes et références\nLiens externes\nSur les autres projets Wikimedia :\nCap Lopez (https://commons.wikimedia.o\nrg/wiki/Category:Cap_Lopez?uselang=fr),\nsur Wikimedia Commons",
+   "chunk_id": "DOC-64903fe52029-C0003",
+   "text_hash": "8db08e118721bb7d2afa888da76b31cd38347f20"
+  }
+ ]
+}

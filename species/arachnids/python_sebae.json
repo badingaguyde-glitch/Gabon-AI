@@ -1,0 +1,134 @@
+{
+  "species_id": "SPECIES-000170",
+  "scientific_name": "Python sebae",
+  "normalized_name": "python_sebae",
+  "category": "arachnids",
+  "taxonomy": {
+    "class": "Arachnida",
+    "order": "Squamata",
+    "family": "Pythonidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [
+      "African Rock Python",
+      "African rock python"
+    ],
+    "fr": [
+      "Python de Seba"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000477",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 36,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.804980+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000478",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Partiellement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 36,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Partiellement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.804992+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000479",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Produits en cuir, corps, sculptures, animaux vivants, peaux, os,",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 36,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Produits en cuir, corps, sculptures, animaux vivants, peaux, os,",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.804999+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000480",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "Espèce non-évaluée",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 36,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: Espèce non-évaluée",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.805005+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:29.805748+00:00",
+  "updated_at": "2026-10-14T10:10:29.805752+00:00"
+}

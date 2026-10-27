@@ -1,0 +1,185 @@
+{
+  "species_id": "SPECIES-000009",
+  "scientific_name": "Cephalophus silvicultor",
+  "normalized_name": "cephalophus_silvicultor",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Artiodactyla",
+    "family": "Bovidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000197",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.865839+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000198",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Partiellement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Partiellement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.865866+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000199",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Animaux vivants, peaux, crânes, cornes, spécimens, trophées",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Animaux vivants, peaux, crânes, cornes, spécimens, trophées",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.865875+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000200",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 23,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.865880+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [
+    {
+      "observation_id": "OBS-000857",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 9131,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 10151 9131  C04 C04 _ FSC5_C04   FSC5-2019-10-C04 Animal 2019-11-11 2019-11-11 03:45:51 11110133.JPG MAMMALIA ARTIODACTYLA BOVIDAE Ce",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:23.656740+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-000931",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 14251,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 15271 14251  C04 C04 _ FSC5_C04   FSC5-2019-10-C04 Animal 2020-01-09 2020-01-09 03:13:50 01090451.JPG MAMMALIA ARTIODACTYLA BOVIDAE C",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:23.694524+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013",
+    "SRC-000015"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:23.768749+00:00",
+  "updated_at": "2026-10-14T10:10:28.869932+00:00"
+}

@@ -1,0 +1,40 @@
+{
+ "doc_id": "DOC-50b83562a701",
+ "country": "Gabon",
+ "category": "social",
+ "subcategory": null,
+ "secondary_categories": [
+  "education",
+  "culture_tourisme"
+ ],
+ "classification_confidence": 0.533,
+ "language": "fr",
+ "source_files": [
+  "Alice_Endamne.pdf"
+ ],
+ "sha256": "50b83562a701a93bb108b31b19bcf8770ba789f9cbfa64c1f297257ccb1e6c8e",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:09.316642+00:00",
+ "kind": "text",
+ "title": "Alice Endamne — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Alice Endamne\nBiographie\nNaissance\n1974\nParis, France\nNom de\nnaissance\nAlice Endamne\nSurnom\nA. Nyin\nNationalité\nfrançaise\nDomiciles\nFrance, Gabon, États-Unis\nActivité\nRomancière\nAutres informations\nGenre artistique\nRoman et roman jeunesse\nAlice Endamne\nAlice Endamne, née en 1974 en France, est une\nécrivaine franco-gabonaise, auteure de livres pour\nenfants et traductrice. Alice Endamne nait en 1974 en banlieue\nparisienne de parents gabonais . Elle grandit entre\nles villes de Paris, Libreville et Perpignan. Elle se\nlance dans l'écriture dès l'âge de 10 ans. Un de ses\npoèmes est publié dans le journal de son école\nprimaire alors qu'elle est en classe de CM2 . Elle\nfait une partie de ses études secondaires au Lycée\nde Perpignan. Elle fait ses études universitaires à\nl'Université Paris XI où elle obtient une Maîtrise\nd'Anglais et un DEA en Connaissances des\nSociétés Anglophones . Elle s'installe aux États-Unis à la fin des années\n1990 et travaille pendant une dizaine d'années en\ntant que rédactrice en chef de la revue littéraire The Black Arts Quartely publiée par Stanford University . Elle crée une entreprise de correction et relecture de manuscrits et se lance plus tard dans la traduction . C’est demain qu'on s'fait la malle. Editions Jets d’encre, Saint-Maur-des Fossés, 2008,\n178 page (ISBN 978-2-35485-032-6)\nGarçons et filles.",
+   "chunk_id": "DOC-50b83562a701-C0001",
+   "text_hash": "86dfcc204a979387508c5ad61ab4b3edb5bd40a0"
+  },
+  {
+   "section": "",
+   "text": "Editions Jets d’encre, Saint-Maur-des Fossés 2010\n(ISBN 978-2-35485-158-3) . Mal acquise (A. Nyin) CreateSpace Publishing, Cleveland 2015, 250 pages\n(ISBN 978-1512240191)\nVolatilisée. Editions Jets d’encre, Saint-Maur-des Fossés 2022, 248 page\n(ISBN 9782355236679) ,\nBiographie\n1\n2\n3\n4\n5\nŒuvres\nRomans Ma plume me démange! Ou comment je suis devenue une maman écrivain. Amazon\nKindle, 2014 (ISBN 978-0-9892983-2-2) . Elle est comme ça, Eyala Mba. CreateSpace Publishing, Cleveland. Clever Ashley and Her Friend Erik, One Child Publishing, 2014\n1. Ekang, « Alice Endamne, Ecrivaine Gabonaise (https://savoirfairekang.com/alice-endamne-e\ncrivaine-gabonaise/) », sur Savoir-Faire Ekang, 19 mai 2024 (consulté le 1 avril 2025)\n2. Chuchana Ndongo, « Alice Endamne, Ecrivaine et auteure de \"C'est demain qu'on s'fait la\nmalle\" (https://aflit.arts.uwa.edu.au/AMINAendamne08.html) », sur aflit.arts.uwa.edu.au,\nAMINA, août 2008 (consulté le 31 mars 2025)\n3. The University of Western Australia/French, « Alice Endamne (https://aflit.arts.uwa.edu.au/E\nndamneAlice.html) », sur aflit.arts.uwa.edu.au, 11 mai 2008 (consulté le 1 avril 2025)\n4. « Grioo.com : Alice Endamne, « C’est demain qu’on s’fait la malle » (https://www.grioo.com/a\nr,alice_endamne_c_est_demain_qu_on_s_fait_la_malle_,15226.html) », sur www.grioo.com,\n25 septembre 2008. (consulté le 31 mars 2025)\n5.",
+   "chunk_id": "DOC-50b83562a701-C0002",
+   "text_hash": "8eca45293e57a81cd721f0f59db5dde86167259f"
+  },
+  {
+   "section": "",
+   "text": "Edna Merey, « Alice Endamne, De l'écriture à la traduction, un pas en avant (https://aflit.arts. uwa.edu.au/AMINAendamne15.html) », sur aflit.arts.uwa.edu.au, AMINA, juillet 2015\n(consulté le 1 avril 2025)\nNotices d'autorité : VIAF (https://viaf.org/viaf/286840752) ·\nISNI (https://isni.org/isni/0000000432793535) ·\nBnF (https://catalogue.bnf.fr/ark:/12148/cb15697415k)\n(données (https://data.bnf.fr/ark:/12148/cb15697415k)) ·\nIdRef (https://www.idref.fr/14085603X) ·\nLCCN (https://id.loc.gov/authorities/no2009011872)\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Alice_Endamne&oldid=240126199 ». Livres pour enfants\nNotes et références\ner\ner\ner\nLiens externes",
+   "chunk_id": "DOC-50b83562a701-C0003",
+   "text_hash": "ad4d15f670f9d161e828e72a2edde05bce5e127d"
+  }
+ ]
+}

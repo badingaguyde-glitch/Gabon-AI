@@ -1,0 +1,5081 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-14T10:14:57.596807+00:00",
+  "total_species": 242,
+  "species": [
+    {
+      "species_id": "SPECIES-000001",
+      "scientific_name": "Himantornis haematopus",
+      "normalized_name": "himantornis_haematopus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Gruiformes",
+        "family": "Rallidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:22.187216+00:00"
+    },
+    {
+      "species_id": "SPECIES-000002",
+      "scientific_name": "Protoxerus stangeri",
+      "normalized_name": "protoxerus_stangeri",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Sciuridae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:22.341154+00:00"
+    },
+    {
+      "species_id": "SPECIES-000003",
+      "scientific_name": "Civettictis civetta",
+      "normalized_name": "civettictis_civetta",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Viverridae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:22.509159+00:00"
+    },
+    {
+      "species_id": "SPECIES-000004",
+      "scientific_name": "Nandinia binotata",
+      "normalized_name": "nandinia_binotata",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Nandiniidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:22.670015+00:00"
+    },
+    {
+      "species_id": "SPECIES-000005",
+      "scientific_name": "Hyemoschus aquaticus",
+      "normalized_name": "hyemoschus_aquaticus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Tragulidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:22.806637+00:00"
+    },
+    {
+      "species_id": "SPECIES-000006",
+      "scientific_name": "Pan troglodytes",
+      "normalized_name": "pan_troglodytes",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Hominidae"
+      },
+      "synonyms": [
+        "Pan troglodytes troglodytes",
+        "Simia troglodytes"
+      ],
+      "common_names": {
+        "en": [
+          "Central chimpanzee",
+          "Chimpanzee",
+          "Common chimpanzee"
+        ],
+        "fr": [
+          "Chimpanzé",
+          "Chimpanzé commun"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:23.039896+00:00"
+    },
+    {
+      "species_id": "SPECIES-000007",
+      "scientific_name": "Xenogale naso",
+      "normalized_name": "xenogale_naso",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Herpestidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:23.198338+00:00"
+    },
+    {
+      "species_id": "SPECIES-000008",
+      "scientific_name": "Cercocebus torquatus",
+      "normalized_name": "cercocebus_torquatus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:23.373073+00:00"
+    },
+    {
+      "species_id": "SPECIES-000009",
+      "scientific_name": "Cephalophus silvicultor",
+      "normalized_name": "cephalophus_silvicultor",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:23.580037+00:00"
+    },
+    {
+      "species_id": "SPECIES-000010",
+      "scientific_name": "Potamochoerus porcus",
+      "normalized_name": "potamochoerus_porcus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Suidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red river hog"
+        ],
+        "fr": [
+          "Potamochère roux"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:23.781311+00:00"
+    },
+    {
+      "species_id": "SPECIES-000011",
+      "scientific_name": "Cephalophus dorsalis",
+      "normalized_name": "cephalophus_dorsalis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:23.925490+00:00"
+    },
+    {
+      "species_id": "SPECIES-000012",
+      "scientific_name": "Turtur brehmeri",
+      "normalized_name": "turtur_brehmeri",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Columbiformes",
+        "family": "Columbidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:24.084535+00:00"
+    },
+    {
+      "species_id": "SPECIES-000013",
+      "scientific_name": "Genetta servalina",
+      "normalized_name": "genetta_servalina",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Viverridae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:24.234745+00:00"
+    },
+    {
+      "species_id": "SPECIES-000014",
+      "scientific_name": "Funisciurus isabella",
+      "normalized_name": "funisciurus_isabella",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Sciuridae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:24.386941+00:00"
+    },
+    {
+      "species_id": "SPECIES-000015",
+      "scientific_name": "Cephalophus ogilbyi",
+      "normalized_name": "cephalophus_ogilbyi",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Ogilby's duiker"
+        ],
+        "fr": [
+          "Céphalophe d'Ogilby"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:24.524765+00:00"
+    },
+    {
+      "species_id": "SPECIES-000016",
+      "scientific_name": "Philantomba monticola",
+      "normalized_name": "philantomba_monticola",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+      },
+      "synonyms": [
+        "Cephalophus monticola"
+      ],
+      "common_names": {
+        "en": [
+          "Blue duiker"
+        ],
+        "fr": [
+          "Céphalophe bleu"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:24.723733+00:00"
+    },
+    {
+      "species_id": "SPECIES-000017",
+      "scientific_name": "Francolinus lathami",
+      "normalized_name": "francolinus_lathami",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Galliformes",
+        "family": "Phasianidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:24.878318+00:00"
+    },
+    {
+      "species_id": "SPECIES-000018",
+      "scientific_name": "Cephalophus leucogaster",
+      "normalized_name": "cephalophus_leucogaster",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:25.021326+00:00"
+    },
+    {
+      "species_id": "SPECIES-000019",
+      "scientific_name": "Caracal aurata",
+      "normalized_name": "caracal_aurata",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:25.193969+00:00"
+    },
+    {
+      "species_id": "SPECIES-000020",
+      "scientific_name": "Agelastes niger",
+      "normalized_name": "agelastes_niger",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Galliformes",
+        "family": "Numididae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:25.374155+00:00"
+    },
+    {
+      "species_id": "SPECIES-000021",
+      "scientific_name": "Gorilla gorilla",
+      "normalized_name": "gorilla_gorilla",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Hominidae"
+      },
+      "synonyms": [
+        "Gorilla gorilla gorilla",
+        "Troglodytes gorilla"
+      ],
+      "common_names": {
+        "en": [
+          "Western gorilla",
+          "Western lowland gorilla"
+        ],
+        "fr": [
+          "Gorille",
+          "Gorille de l'Ouest",
+          "Gorille des plaines de l'Ouest"
+        ]
+      },
+      "iucn_status": "CR",
+      "created_at": "2026-10-14T10:10:25.533453+00:00"
+    },
+    {
+      "species_id": "SPECIES-000022",
+      "scientific_name": "Guttera plumifera",
+      "normalized_name": "guttera_plumifera",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Galliformes",
+        "family": "Numididae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:25.695277+00:00"
+    },
+    {
+      "species_id": "SPECIES-000023",
+      "scientific_name": "Loxodonta cyclotis",
+      "normalized_name": "loxodonta_cyclotis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae"
+      },
+      "synonyms": [
+        "Loxodonta africana cyclotis"
+      ],
+      "common_names": {
+        "en": [
+          "African forest elephant",
+          "Forest elephant"
+        ],
+        "fr": [
+          "Éléphant de forêt",
+          "Éléphant de forêt d'Afrique"
+        ]
+      },
+      "iucn_status": "CR",
+      "created_at": "2026-10-14T10:10:25.868365+00:00"
+    },
+    {
+      "species_id": "SPECIES-000024",
+      "scientific_name": "Atherurus africanus",
+      "normalized_name": "atherurus_africanus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Hystricidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:26.064830+00:00"
+    },
+    {
+      "species_id": "SPECIES-000025",
+      "scientific_name": "Bdeogale nigripes",
+      "normalized_name": "bdeogale_nigripes",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Herpestidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:26.217130+00:00"
+    },
+    {
+      "species_id": "SPECIES-000026",
+      "scientific_name": "Cercopithecus nictitans",
+      "normalized_name": "cercopithecus_nictitans",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:26.367728+00:00"
+    },
+    {
+      "species_id": "SPECIES-000027",
+      "scientific_name": "Cricetomys emini",
+      "normalized_name": "cricetomys_emini",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Nesomyidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:26.505377+00:00"
+    },
+    {
+      "species_id": "SPECIES-000028",
+      "scientific_name": "Panthera pardus",
+      "normalized_name": "panthera_pardus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae"
+      },
+      "synonyms": [
+        "Felis pardus"
+      ],
+      "common_names": {
+        "en": [
+          "Leopard"
+        ],
+        "fr": [
+          "Léopard",
+          "Panthère"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:26.675450+00:00"
+    },
+    {
+      "species_id": "SPECIES-000029",
+      "scientific_name": "Cephalophus callipygus",
+      "normalized_name": "cephalophus_callipygus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:26.815510+00:00"
+    },
+    {
+      "species_id": "SPECIES-000030",
+      "scientific_name": "Atilax paludinosus",
+      "normalized_name": "atilax_paludinosus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Herpestidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:27.063180+00:00"
+    },
+    {
+      "species_id": "SPECIES-000031",
+      "scientific_name": "Arctocebus aureus",
+      "normalized_name": "arctocebus_aureus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Golden Angwantibo"
+        ],
+        "fr": [
+          "Potto doré"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.024868+00:00"
+    },
+    {
+      "species_id": "SPECIES-000032",
+      "scientific_name": "Perodicticus potto",
+      "normalized_name": "perodicticus_potto",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Potto"
+        ],
+        "fr": [
+          "Potto"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.042831+00:00"
+    },
+    {
+      "species_id": "SPECIES-000033",
+      "scientific_name": "Euoticus elegantulus",
+      "normalized_name": "euoticus_elegantulus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Southern Needle-clawed Galago"
+        ],
+        "fr": [
+          "Galago élégant"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.055853+00:00"
+    },
+    {
+      "species_id": "SPECIES-000034",
+      "scientific_name": "Galago alleni",
+      "normalized_name": "galago_alleni",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [
+        "Sciurocheirus alleni"
+      ],
+      "common_names": {
+        "en": [
+          "Allen's Bushbaby"
+        ],
+        "fr": [
+          "Galago d'Allen"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.067622+00:00"
+    },
+    {
+      "species_id": "SPECIES-000035",
+      "scientific_name": "Galago demidoff",
+      "normalized_name": "galago_demidoff",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [
+        "Galagoides demidovii"
+      ],
+      "common_names": {
+        "en": [
+          "Demidoff's Dwarf Galago"
+        ],
+        "fr": [
+          "Galago de Demidoff"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.077529+00:00"
+    },
+    {
+      "species_id": "SPECIES-000036",
+      "scientific_name": "Galago gabonensis",
+      "normalized_name": "galago_gabonensis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [
+        "Sciurocheirus gabonensis"
+      ],
+      "common_names": {
+        "en": [
+          "s Galago"
+        ],
+        "fr": [
+          "Galago d'Allen du Gabon"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.090894+00:00"
+    },
+    {
+      "species_id": "SPECIES-000037",
+      "scientific_name": "Galago thomasi",
+      "normalized_name": "galago_thomasi",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [
+        "Galagoides thomasi"
+      ],
+      "common_names": {
+        "en": [
+          "Thomas's Dwarf Galago"
+        ],
+        "fr": [
+          "Galago de Thomas"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.105118+00:00"
+    },
+    {
+      "species_id": "SPECIES-000038",
+      "scientific_name": "Cercocebus agilis",
+      "normalized_name": "cercocebus_agilis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Agile Mangabey"
+        ],
+        "fr": [
+          "Cercocèbe agile"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.124320+00:00"
+    },
+    {
+      "species_id": "SPECIES-000039",
+      "scientific_name": "Cercocebus cephus",
+      "normalized_name": "cercocebus_cephus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Moustached Monkey"
+        ],
+        "fr": [
+          "Guenon à moustaches"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.137076+00:00"
+    },
+    {
+      "species_id": "SPECIES-000040",
+      "scientific_name": "Cercopithecus neglectus",
+      "normalized_name": "cercopithecus_neglectus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "s Monkey"
+        ],
+        "fr": [
+          "Cercopithèque de Brazza"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.149094+00:00"
+    },
+    {
+      "species_id": "SPECIES-000041",
+      "scientific_name": "Cercopithecus pogonias",
+      "normalized_name": "cercopithecus_pogonias",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Crowned Guenon"
+        ],
+        "fr": [
+          "Guenon Couronnée"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.169250+00:00"
+    },
+    {
+      "species_id": "SPECIES-000042",
+      "scientific_name": "Cercopithecus solatus",
+      "normalized_name": "cercopithecus_solatus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae"
+      },
+      "synonyms": [
+        "Allochrocebus solatus"
+      ],
+      "common_names": {
+        "en": [
+          "Sun-tailed Monkey",
+          "Sun-tailed monkey"
+        ],
+        "fr": [
+          "Cercopithèque à queue de soleil"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.180504+00:00"
+    },
+    {
+      "species_id": "SPECIES-000043",
+      "scientific_name": "Chlorocebus cynosuros",
+      "normalized_name": "chlorocebus_cynosuros",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Malbrouck Monkey"
+        ],
+        "fr": [
+          "Malbrouck"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.199967+00:00"
+    },
+    {
+      "species_id": "SPECIES-000044",
+      "scientific_name": "Colobus guereza",
+      "normalized_name": "colobus_guereza",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Eastern Black-and-white Colobus"
+        ],
+        "fr": [
+          "Colobe à Epaules Blanches"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.221012+00:00"
+    },
+    {
+      "species_id": "SPECIES-000045",
+      "scientific_name": "Colobus satanas",
+      "normalized_name": "colobus_satanas",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black Colobus",
+          "Black colobus"
+        ],
+        "fr": [
+          "Colobe Satan",
+          "Colobe noir"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.238694+00:00"
+    },
+    {
+      "species_id": "SPECIES-000046",
+      "scientific_name": "Lophocebus albigena",
+      "normalized_name": "lophocebus_albigena",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Grey-cheeked Mangabey"
+        ],
+        "fr": [
+          "Mangabey à Joues Blanches"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.249087+00:00"
+    },
+    {
+      "species_id": "SPECIES-000047",
+      "scientific_name": "Mandrillus leucophaeus",
+      "normalized_name": "mandrillus_leucophaeus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Drill"
+        ],
+        "fr": [
+          "Drill"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:28.258561+00:00"
+    },
+    {
+      "species_id": "SPECIES-000048",
+      "scientific_name": "Mandrillus sphinx",
+      "normalized_name": "mandrillus_sphinx",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae"
+      },
+      "synonyms": [
+        "Papio sphinx"
+      ],
+      "common_names": {
+        "en": [
+          "Mandrill"
+        ],
+        "fr": [
+          "Mandrill"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.272017+00:00"
+    },
+    {
+      "species_id": "SPECIES-000049",
+      "scientific_name": "Miopithecus ogouensis",
+      "normalized_name": "miopithecus_ogouensis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Northern Talapoin Monkey"
+        ],
+        "fr": [
+          "Talapoin"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.293590+00:00"
+    },
+    {
+      "species_id": "SPECIES-000050",
+      "scientific_name": "Manis gigantea",
+      "normalized_name": "manis_gigantea",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Giant Ground Pangolin"
+        ],
+        "fr": [
+          "Pangolin Géant"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:28.399607+00:00"
+    },
+    {
+      "species_id": "SPECIES-000051",
+      "scientific_name": "Manis tetradactyla",
+      "normalized_name": "manis_tetradactyla",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black-bellied Pangolin"
+        ],
+        "fr": [
+          "Pangolin à Longue Queue"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.427333+00:00"
+    },
+    {
+      "species_id": "SPECIES-000052",
+      "scientific_name": "Manis tricuspis",
+      "normalized_name": "manis_tricuspis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Three-cusped Pangolin"
+        ],
+        "fr": [
+          "Pangolin à Ecailles Tricuspides"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:28.444415+00:00"
+    },
+    {
+      "species_id": "SPECIES-000053",
+      "scientific_name": "Delphinus capensis",
+      "normalized_name": "delphinus_capensis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Long-beaked Common Dolphin"
+        ],
+        "fr": [
+          "Dauphin commun à long bec"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.458633+00:00"
+    },
+    {
+      "species_id": "SPECIES-000054",
+      "scientific_name": "Delphinus delphis",
+      "normalized_name": "delphinus_delphis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Short-beaked Common Dolphin"
+        ],
+        "fr": [
+          "Dauphin commun à bec court"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.471416+00:00"
+    },
+    {
+      "species_id": "SPECIES-000055",
+      "scientific_name": "Stenella longirostris",
+      "normalized_name": "stenella_longirostris",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Long-beaked Dolphin"
+        ],
+        "fr": [
+          "Dauphin longirostre"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.481902+00:00"
+    },
+    {
+      "species_id": "SPECIES-000056",
+      "scientific_name": "Balaenoptera borealis",
+      "normalized_name": "balaenoptera_borealis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Sei Whale"
+        ],
+        "fr": [
+          "Baleinoptère de Rudolphi"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:28.493251+00:00"
+    },
+    {
+      "species_id": "SPECIES-000057",
+      "scientific_name": "Balaenoptera edeni",
+      "normalized_name": "balaenoptera_edeni",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Bryde's Whale"
+        ],
+        "fr": [
+          "Rorqual de Bryde"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.505352+00:00"
+    },
+    {
+      "species_id": "SPECIES-000058",
+      "scientific_name": "Balaenoptera musculus",
+      "normalized_name": "balaenoptera_musculus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Blue Whale"
+        ],
+        "fr": [
+          "Baleine Bleue"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:28.514824+00:00"
+    },
+    {
+      "species_id": "SPECIES-000059",
+      "scientific_name": "Balaenoptera physalus",
+      "normalized_name": "balaenoptera_physalus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Fin Whale"
+        ],
+        "fr": [
+          "Rorqual commun"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:28.524112+00:00"
+    },
+    {
+      "species_id": "SPECIES-000060",
+      "scientific_name": "Megaptera novaeangliae",
+      "normalized_name": "megaptera_novaeangliae",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Balaenopteridae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Humpback Whale",
+          "Humpback whale"
+        ],
+        "fr": [
+          "Baleine à Bosse",
+          "Baleine à bosse"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.536077+00:00"
+    },
+    {
+      "species_id": "SPECIES-000061",
+      "scientific_name": "Physeter macrocephalus",
+      "normalized_name": "physeter_macrocephalus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Sperm Whale"
+        ],
+        "fr": [
+          "Grand Cachalot"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.546178+00:00"
+    },
+    {
+      "species_id": "SPECIES-000062",
+      "scientific_name": "Globicephala macrorhynchus",
+      "normalized_name": "globicephala_macrorhynchus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Short-finned Pilot Whale"
+        ],
+        "fr": [
+          "Baleine Pilote"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.556516+00:00"
+    },
+    {
+      "species_id": "SPECIES-000063",
+      "scientific_name": "Grampus griseus",
+      "normalized_name": "grampus_griseus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Risso's Dolphin"
+        ],
+        "fr": [
+          "Dauphin de Risso"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.568959+00:00"
+    },
+    {
+      "species_id": "SPECIES-000064",
+      "scientific_name": "Orcinus orca",
+      "normalized_name": "orcinus_orca",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Killer Whale"
+        ],
+        "fr": [
+          "Orque Epaulard"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.581532+00:00"
+    },
+    {
+      "species_id": "SPECIES-000065",
+      "scientific_name": "Peponocephala electra",
+      "normalized_name": "peponocephala_electra",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Melon-headed Whale"
+        ],
+        "fr": [
+          "Dauphin d'Electre"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.593828+00:00"
+    },
+    {
+      "species_id": "SPECIES-000066",
+      "scientific_name": "Pseudorca crassidens",
+      "normalized_name": "pseudorca_crassidens",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "False Killer Whale"
+        ],
+        "fr": [
+          "Fausse Orque"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.612148+00:00"
+    },
+    {
+      "species_id": "SPECIES-000067",
+      "scientific_name": "Sousa teuszii",
+      "normalized_name": "sousa_teuszii",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Atlantic Humpbacked Dolphin"
+        ],
+        "fr": [
+          "Dauphin à Bosse de L'Atlantique"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.625953+00:00"
+    },
+    {
+      "species_id": "SPECIES-000068",
+      "scientific_name": "Stenella attenuata",
+      "normalized_name": "stenella_attenuata",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Pantropical Spotted Dolphin"
+        ],
+        "fr": [
+          "Dauphin Tacheté Pantropical"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.641741+00:00"
+    },
+    {
+      "species_id": "SPECIES-000069",
+      "scientific_name": "Stenella frontalis",
+      "normalized_name": "stenella_frontalis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Atlantic Spotted Dolphin"
+        ],
+        "fr": [
+          "Dauphin tacheté de l'Atlantique"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:28.658251+00:00"
+    },
+    {
+      "species_id": "SPECIES-000070",
+      "scientific_name": "Steno bredanensis",
+      "normalized_name": "steno_bredanensis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Rough-toothed Dolphin"
+        ],
+        "fr": [
+          "Dauphin Sténo"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.672595+00:00"
+    },
+    {
+      "species_id": "SPECIES-000071",
+      "scientific_name": "Tursiops truncatus",
+      "normalized_name": "tursiops_truncatus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Common Bottlenose Dolphin"
+        ],
+        "fr": [
+          "Grand dauphin"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.687943+00:00"
+    },
+    {
+      "species_id": "SPECIES-000072",
+      "scientific_name": "Aonyx capensis",
+      "normalized_name": "aonyx_capensis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Clawless Otter"
+        ],
+        "fr": [
+          "Loutre à Joues Blanches"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.706973+00:00"
+    },
+    {
+      "species_id": "SPECIES-000073",
+      "scientific_name": "Hydrictis maculicollis",
+      "normalized_name": "hydrictis_maculicollis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Speckle-throated Otter"
+        ],
+        "fr": [
+          "Loutre à Cou Tacheté"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.725986+00:00"
+    },
+    {
+      "species_id": "SPECIES-000074",
+      "scientific_name": "Caracal caracal",
+      "normalized_name": "caracal_caracal",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Caracal"
+        ],
+        "fr": [
+          "Lynx du Désert"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.755343+00:00"
+    },
+    {
+      "species_id": "SPECIES-000075",
+      "scientific_name": "Leptailurus serval",
+      "normalized_name": "leptailurus_serval",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Serval"
+        ],
+        "fr": [
+          "Chat Tigre"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.767326+00:00"
+    },
+    {
+      "species_id": "SPECIES-000076",
+      "scientific_name": "Panthera leo",
+      "normalized_name": "panthera_leo",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Lion"
+        ],
+        "fr": [
+          "Lion"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.775914+00:00"
+    },
+    {
+      "species_id": "SPECIES-000077",
+      "scientific_name": "Profelis aurata",
+      "normalized_name": "profelis_aurata",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Golden Cat"
+        ],
+        "fr": [
+          "Chat Doré"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:28.797595+00:00"
+    },
+    {
+      "species_id": "SPECIES-000078",
+      "scientific_name": "Arctocephalus pusillus",
+      "normalized_name": "arctocephalus_pusillus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Afro-Australian Fur Seal"
+        ],
+        "fr": [
+          "Arctocéphale d'Afrique du Sud"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.805342+00:00"
+    },
+    {
+      "species_id": "SPECIES-000079",
+      "scientific_name": "Loxodonta africana",
+      "normalized_name": "loxodonta_africana",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Elephant",
+          "African bush elephant",
+          "African savanna elephant"
+        ],
+        "fr": [
+          "Eléphant d’Afrique",
+          "Éléphant d'Afrique",
+          "Éléphant de savane"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.815058+00:00"
+    },
+    {
+      "species_id": "SPECIES-000080",
+      "scientific_name": "Trichechus senegalensis",
+      "normalized_name": "trichechus_senegalensis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Sirenia",
+        "family": "Trichechidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Manatee",
+          "African manatee",
+          "West African manatee"
+        ],
+        "fr": [
+          "Lamantin d'Afrique"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:28.825625+00:00"
+    },
+    {
+      "species_id": "SPECIES-000081",
+      "scientific_name": "Hippopotamus amphibius",
+      "normalized_name": "hippopotamus_amphibius",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Hippopotamidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Common Hippopotamus",
+          "Common hippopotamus",
+          "Hippopotamus"
+        ],
+        "fr": [
+          "Hippopotame"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.837240+00:00"
+    },
+    {
+      "species_id": "SPECIES-000082",
+      "scientific_name": "Spheniscus demersus",
+      "normalized_name": "spheniscus_demersus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Penguin"
+        ],
+        "fr": [
+          "Manchot du Cap"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:28.882094+00:00"
+    },
+    {
+      "species_id": "SPECIES-000083",
+      "scientific_name": "Phoeniconaias minor",
+      "normalized_name": "phoeniconaias_minor",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Lesser Flamingo"
+        ],
+        "fr": [
+          "Petit Flamant"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:28.891219+00:00"
+    },
+    {
+      "species_id": "SPECIES-000084",
+      "scientific_name": "Sarkidiornis melanotos",
+      "normalized_name": "sarkidiornis_melanotos",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Comb Duck"
+        ],
+        "fr": [
+          "Canard à Bosse"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.902601+00:00"
+    },
+    {
+      "species_id": "SPECIES-000085",
+      "scientific_name": "Pandion haliaetus",
+      "normalized_name": "pandion_haliaetus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Osprey"
+        ],
+        "fr": [
+          "Balbuzard Pêcheur"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.912833+00:00"
+    },
+    {
+      "species_id": "SPECIES-000086",
+      "scientific_name": "Accipiter castanilius",
+      "normalized_name": "accipiter_castanilius",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Chestnut-flanked Sparrowhawk"
+        ],
+        "fr": [
+          "Autour à Flancs Roux"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.921283+00:00"
+    },
+    {
+      "species_id": "SPECIES-000087",
+      "scientific_name": "Accipiter erythropus",
+      "normalized_name": "accipiter_erythropus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-thighed Sparrowhawk"
+        ],
+        "fr": [
+          "Épervier de Hartlaub"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.930499+00:00"
+    },
+    {
+      "species_id": "SPECIES-000088",
+      "scientific_name": "Accipiter melanoleucus",
+      "normalized_name": "accipiter_melanoleucus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Great Sparrowhawk"
+        ],
+        "fr": [
+          "Épervier Pie"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.939162+00:00"
+    },
+    {
+      "species_id": "SPECIES-000089",
+      "scientific_name": "Accipiter toussenelii",
+      "normalized_name": "accipiter_toussenelii",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-chested Hawk"
+        ],
+        "fr": [
+          "Autour de Toussenel"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.949595+00:00"
+    },
+    {
+      "species_id": "SPECIES-000090",
+      "scientific_name": "Aquila rapax",
+      "normalized_name": "aquila_rapax",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Tawny Eagle"
+        ],
+        "fr": [
+          "Aigle Ravisseur"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.957930+00:00"
+    },
+    {
+      "species_id": "SPECIES-000091",
+      "scientific_name": "Aviceda cuculoides",
+      "normalized_name": "aviceda_cuculoides",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Baza"
+        ],
+        "fr": [
+          "Baza coucou"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.969376+00:00"
+    },
+    {
+      "species_id": "SPECIES-000092",
+      "scientific_name": "Buteo auguralis",
+      "normalized_name": "buteo_auguralis",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-tailed Buzzard"
+        ],
+        "fr": [
+          "Buse à Queue Rousse"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.981896+00:00"
+    },
+    {
+      "species_id": "SPECIES-000093",
+      "scientific_name": "Buteo buteo",
+      "normalized_name": "buteo_buteo",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Common Buzzard"
+        ],
+        "fr": [
+          "Buse Variable"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:28.990545+00:00"
+    },
+    {
+      "species_id": "SPECIES-000094",
+      "scientific_name": "Circaetus pectoralis",
+      "normalized_name": "circaetus_pectoralis",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black-breasted Snake-Eagle"
+        ],
+        "fr": [
+          "Circaète à poitrine noire"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.000547+00:00"
+    },
+    {
+      "species_id": "SPECIES-000095",
+      "scientific_name": "Circus aeruginosus",
+      "normalized_name": "circus_aeruginosus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Western Marsh-harrier"
+        ],
+        "fr": [
+          "Busard des Roseaux"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.009765+00:00"
+    },
+    {
+      "species_id": "SPECIES-000096",
+      "scientific_name": "Dryotriorchis spectabilis",
+      "normalized_name": "dryotriorchis_spectabilis",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Congo Serpent-Eagle"
+        ],
+        "fr": [
+          "Serpentaire du Congo"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.021850+00:00"
+    },
+    {
+      "species_id": "SPECIES-000097",
+      "scientific_name": "Elanus caeruleus",
+      "normalized_name": "elanus_caeruleus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black-winged Kite"
+        ],
+        "fr": [
+          "Elanion Blanc"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.032828+00:00"
+    },
+    {
+      "species_id": "SPECIES-000098",
+      "scientific_name": "Gypohierax angolensis",
+      "normalized_name": "gypohierax_angolensis",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Palm-nut Vulture"
+        ],
+        "fr": [
+          "Palmiste Africain"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.040262+00:00"
+    },
+    {
+      "species_id": "SPECIES-000099",
+      "scientific_name": "Haliaeetus vocifer",
+      "normalized_name": "haliaeetus_vocifer",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Fish-Eagle"
+        ],
+        "fr": [
+          "Aigle Pêcheur Africain"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.049800+00:00"
+    },
+    {
+      "species_id": "SPECIES-000100",
+      "scientific_name": "Hieraaetus ayresii",
+      "normalized_name": "hieraaetus_ayresii",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Ayres's Hawk-Eagle"
+        ],
+        "fr": [
+          "Aigle d'Ayres"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.058319+00:00"
+    },
+    {
+      "species_id": "SPECIES-000101",
+      "scientific_name": "Kaupifalco monogrammicus",
+      "normalized_name": "kaupifalco_monogrammicus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Lizard Buzzard"
+        ],
+        "fr": [
+          "Autour Unibande"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.069125+00:00"
+    },
+    {
+      "species_id": "SPECIES-000102",
+      "scientific_name": "Lophaetus occipitalis",
+      "normalized_name": "lophaetus_occipitalis",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Long-crested Eagle"
+        ],
+        "fr": [
+          "Aigle Huppard"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.077720+00:00"
+    },
+    {
+      "species_id": "SPECIES-000103",
+      "scientific_name": "Macheiramphus alcinus",
+      "normalized_name": "macheiramphus_alcinus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Bat Hawk"
+        ],
+        "fr": [
+          "Milan des Chauves-Souris"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.090698+00:00"
+    },
+    {
+      "species_id": "SPECIES-000104",
+      "scientific_name": "Melierax metabates",
+      "normalized_name": "melierax_metabates",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Dark Chanting-Goshawk"
+        ],
+        "fr": [
+          "Autour Sombre"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.103591+00:00"
+    },
+    {
+      "species_id": "SPECIES-000105",
+      "scientific_name": "Micronisus gabar",
+      "normalized_name": "micronisus_gabar",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Gabar Goshawk"
+        ],
+        "fr": [
+          "Autour Gabar"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.115692+00:00"
+    },
+    {
+      "species_id": "SPECIES-000106",
+      "scientific_name": "Milvus migrans",
+      "normalized_name": "milvus_migrans",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black Kite"
+        ],
+        "fr": [
+          "Milan Noir"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.125070+00:00"
+    },
+    {
+      "species_id": "SPECIES-000107",
+      "scientific_name": "Pernis apivorus",
+      "normalized_name": "pernis_apivorus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "European Honey-buzzard"
+        ],
+        "fr": [
+          "Bondrée Apivore"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.137100+00:00"
+    },
+    {
+      "species_id": "SPECIES-000108",
+      "scientific_name": "Pernis ptilorhynchus",
+      "normalized_name": "pernis_ptilorhynchus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Oriental Honey-buzzard"
+        ],
+        "fr": [
+          "Bondrée orientale"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.149292+00:00"
+    },
+    {
+      "species_id": "SPECIES-000109",
+      "scientific_name": "Polyboroides typus",
+      "normalized_name": "polyboroides_typus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Harrier-Hawk"
+        ],
+        "fr": [
+          "Gymnogène d'Afrique"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.159481+00:00"
+    },
+    {
+      "species_id": "SPECIES-000110",
+      "scientific_name": "Spizaetus africanus",
+      "normalized_name": "spizaetus_africanus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Cassin's Hawk-Eagle"
+        ],
+        "fr": [
+          "Aigle de Cassin"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.172207+00:00"
+    },
+    {
+      "species_id": "SPECIES-000111",
+      "scientific_name": "Stephanoaetus coronatus",
+      "normalized_name": "stephanoaetus_coronatus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Accipitriformes",
+        "family": "Accipitridae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Crowned Hawk-Eagle",
+          "Crowned eagle"
+        ],
+        "fr": [
+          "Aigle Couronné",
+          "Aigle couronné"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.183515+00:00"
+    },
+    {
+      "species_id": "SPECIES-000112",
+      "scientific_name": "Terathopius ecaudatus",
+      "normalized_name": "terathopius_ecaudatus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Bateleur Eagle"
+        ],
+        "fr": [
+          "Bateleur des Savanes"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:29.193139+00:00"
+    },
+    {
+      "species_id": "SPECIES-000113",
+      "scientific_name": "Torgos tracheliotus",
+      "normalized_name": "torgos_tracheliotus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Lappet-faced Vulture"
+        ],
+        "fr": [
+          "Vautour Oricou"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.206554+00:00"
+    },
+    {
+      "species_id": "SPECIES-000114",
+      "scientific_name": "Urotriorchis macrourus",
+      "normalized_name": "urotriorchis_macrourus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Long-tailed Hawk"
+        ],
+        "fr": [
+          "Autour à Longue Queue"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.217732+00:00"
+    },
+    {
+      "species_id": "SPECIES-000115",
+      "scientific_name": "Falco ardosiaceus",
+      "normalized_name": "falco_ardosiaceus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Grey Kestrel"
+        ],
+        "fr": [
+          "Faucon Ardoisé"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.228860+00:00"
+    },
+    {
+      "species_id": "SPECIES-000116",
+      "scientific_name": "Falco biarmicus",
+      "normalized_name": "falco_biarmicus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Lanner Falcon"
+        ],
+        "fr": [
+          "Faucon Lanier"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.241261+00:00"
+    },
+    {
+      "species_id": "SPECIES-000117",
+      "scientific_name": "Falco cuvierii",
+      "normalized_name": "falco_cuvierii",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Hobby"
+        ],
+        "fr": [
+          "Faucon de Cuvier"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.254064+00:00"
+    },
+    {
+      "species_id": "SPECIES-000118",
+      "scientific_name": "Falco naumanni",
+      "normalized_name": "falco_naumanni",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Lesser Kestrel"
+        ],
+        "fr": [
+          "Faucon Crécerellette"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.264161+00:00"
+    },
+    {
+      "species_id": "SPECIES-000119",
+      "scientific_name": "Falco peregrinus",
+      "normalized_name": "falco_peregrinus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Peregrine Falcon"
+        ],
+        "fr": [
+          "Faucon Pèlerin"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.274251+00:00"
+    },
+    {
+      "species_id": "SPECIES-000120",
+      "scientific_name": "Falco subbuteo",
+      "normalized_name": "falco_subbuteo",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Eurasian Hobby"
+        ],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.285435+00:00"
+    },
+    {
+      "species_id": "SPECIES-000121",
+      "scientific_name": "Falco tinnunculus",
+      "normalized_name": "falco_tinnunculus",
+      "category": "birds",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Common Kestrel"
+        ],
+        "fr": [
+          "Faucon Crécerelle"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.293869+00:00"
+    },
+    {
+      "species_id": "SPECIES-000122",
+      "scientific_name": "Falco vespertinus",
+      "normalized_name": "falco_vespertinus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-footed Falcon"
+        ],
+        "fr": [
+          "Faucon Kobez"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:29.309657+00:00"
+    },
+    {
+      "species_id": "SPECIES-000123",
+      "scientific_name": "Balearica pavonina",
+      "normalized_name": "balearica_pavonina",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "West African Crowned Crane"
+        ],
+        "fr": [
+          "Grue Couronnée"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.321915+00:00"
+    },
+    {
+      "species_id": "SPECIES-000124",
+      "scientific_name": "Eupodotis senegalensis",
+      "normalized_name": "eupodotis_senegalensis",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "White-bellied Bustard"
+        ],
+        "fr": [
+          "Outarde du Sénégal"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.333756+00:00"
+    },
+    {
+      "species_id": "SPECIES-000125",
+      "scientific_name": "Lissotis melanogaster",
+      "normalized_name": "lissotis_melanogaster",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black-bellied Bustard"
+        ],
+        "fr": [
+          "Outarde à Ventre Noir"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.343012+00:00"
+    },
+    {
+      "species_id": "SPECIES-000126",
+      "scientific_name": "Neotis denhami",
+      "normalized_name": "neotis_denhami",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Stanley Bustard"
+        ],
+        "fr": [
+          "Outarde de Denham"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:29.354292+00:00"
+    },
+    {
+      "species_id": "SPECIES-000127",
+      "scientific_name": "Agapornis pullarius",
+      "normalized_name": "agapornis_pullarius",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-headed Lovebird"
+        ],
+        "fr": [
+          "Perruche à Tête Rouge"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.367831+00:00"
+    },
+    {
+      "species_id": "SPECIES-000128",
+      "scientific_name": "Agapornis swindernianus",
+      "normalized_name": "agapornis_swindernianus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Black-collared Lovebird"
+        ],
+        "fr": [
+          "Inséparable à collier noir"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.375342+00:00"
+    },
+    {
+      "species_id": "SPECIES-000129",
+      "scientific_name": "Poicephalus gulielmi",
+      "normalized_name": "poicephalus_gulielmi",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-fronted Parrot"
+        ],
+        "fr": [
+          "Perroquet Vert du Congo"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.386417+00:00"
+    },
+    {
+      "species_id": "SPECIES-000130",
+      "scientific_name": "Psittacus erithacus",
+      "normalized_name": "psittacus_erithacus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "Psittaciformes",
+        "family": "Psittacidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African grey parrot",
+          "Grey Parrot",
+          "Grey parrot"
+        ],
+        "fr": [
+          "Jaco",
+          "Perroquet Jaco ; Perroquet Gris",
+          "Perroquet gris",
+          "Perroquet jaco"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:29.396784+00:00"
+    },
+    {
+      "species_id": "SPECIES-000131",
+      "scientific_name": "Tauraco macrorhynchus",
+      "normalized_name": "tauraco_macrorhynchus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Yellow-billed Turaco"
+        ],
+        "fr": [
+          "Touraco à Gros Bec"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.408048+00:00"
+    },
+    {
+      "species_id": "SPECIES-000132",
+      "scientific_name": "Tauraco persa",
+      "normalized_name": "tauraco_persa",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Guinea Turaco"
+        ],
+        "fr": [
+          "Touraco Vert"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.418757+00:00"
+    },
+    {
+      "species_id": "SPECIES-000133",
+      "scientific_name": "Asio capensis",
+      "normalized_name": "asio_capensis",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Marsh Owl"
+        ],
+        "fr": [
+          "Hibou du Cap"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.425945+00:00"
+    },
+    {
+      "species_id": "SPECIES-000134",
+      "scientific_name": "Tyto alba",
+      "normalized_name": "tyto_alba",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Barn Owl"
+        ],
+        "fr": [
+          "Chouette effraie"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.437558+00:00"
+    },
+    {
+      "species_id": "SPECIES-000135",
+      "scientific_name": "Bubo africanus",
+      "normalized_name": "bubo_africanus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Spotted Eagle-owl"
+        ],
+        "fr": [
+          "Grand-duc africain"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.446694+00:00"
+    },
+    {
+      "species_id": "SPECIES-000136",
+      "scientific_name": "Bubo leucostictus",
+      "normalized_name": "bubo_leucostictus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Sooty Eagle-Owl"
+        ],
+        "fr": [
+          "Grand-Duc Tacheté"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.455780+00:00"
+    },
+    {
+      "species_id": "SPECIES-000137",
+      "scientific_name": "Bubo poensis",
+      "normalized_name": "bubo_poensis",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Fraser's Eagle-Owl"
+        ],
+        "fr": [
+          "Grand-Duc à Aigrettes"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.465928+00:00"
+    },
+    {
+      "species_id": "SPECIES-000138",
+      "scientific_name": "Bubo shelleyi",
+      "normalized_name": "bubo_shelleyi",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Shelley's Eagle-owl"
+        ],
+        "fr": [
+          "Grand-duc de Shelley"
+        ]
+      },
+      "iucn_status": "NT",
+      "created_at": "2026-10-14T10:10:29.473662+00:00"
+    },
+    {
+      "species_id": "SPECIES-000139",
+      "scientific_name": "Glaucidium sjostedti",
+      "normalized_name": "glaucidium_sjostedti",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Sjostedt's Owl"
+        ],
+        "fr": [
+          "Chevêchette à Queue Barrée"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.485017+00:00"
+    },
+    {
+      "species_id": "SPECIES-000140",
+      "scientific_name": "Glaucidium tephronotum",
+      "normalized_name": "glaucidium_tephronotum",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Red-chested Owlet"
+        ],
+        "fr": [
+          "Chevêchette à pieds jaunes"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.492109+00:00"
+    },
+    {
+      "species_id": "SPECIES-000141",
+      "scientific_name": "Jubula lettii",
+      "normalized_name": "jubula_lettii",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Maned Owl"
+        ],
+        "fr": [
+          "Duc à crinière"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:29.505149+00:00"
+    },
+    {
+      "species_id": "SPECIES-000142",
+      "scientific_name": "Otus icterorhynchus",
+      "normalized_name": "otus_icterorhynchus",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Sandy Scops-Owl"
+        ],
+        "fr": [
+          "Petit-duc à bec jaune"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.513609+00:00"
+    },
+    {
+      "species_id": "SPECIES-000143",
+      "scientific_name": "Ptilopsis granti",
+      "normalized_name": "ptilopsis_granti",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "White-faced Scops-Owl"
+        ],
+        "fr": [
+          "Petit-Duc à Face Blanche"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.520615+00:00"
+    },
+    {
+      "species_id": "SPECIES-000144",
+      "scientific_name": "Scotopelia bouvieri",
+      "normalized_name": "scotopelia_bouvieri",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Vermiculated Fishing-Owl"
+        ],
+        "fr": [
+          "Chouette-Pêcheuse de Bouvier"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.528392+00:00"
+    },
+    {
+      "species_id": "SPECIES-000145",
+      "scientific_name": "Scotopelia peli",
+      "normalized_name": "scotopelia_peli",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Pel's Fishing-Owl"
+        ],
+        "fr": [
+          "Chouette-Pêcheuse de Pel"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.538875+00:00"
+    },
+    {
+      "species_id": "SPECIES-000146",
+      "scientific_name": "Strix woodfordii",
+      "normalized_name": "strix_woodfordii",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Woodford's Owl"
+        ],
+        "fr": [
+          "Hulotte Africaine"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.549056+00:00"
+    },
+    {
+      "species_id": "SPECIES-000147",
+      "scientific_name": "Picathartes oreas",
+      "normalized_name": "picathartes_oreas",
+      "category": "reptiles",
+      "taxonomy": {
+        "class": "Reptilia",
+        "order": "Passeriformes",
+        "family": "Picathartidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Grey-necked rockfowl",
+          "Red-headed Rockfowl",
+          "Red-headed picathartes"
+        ],
+        "fr": [
+          "Picatharte du Cameroun",
+          "Picatharte à Tête Rouge"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.556683+00:00"
+    },
+    {
+      "species_id": "SPECIES-000148",
+      "scientific_name": "Kinixys erosa",
+      "normalized_name": "kinixys_erosa",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Serrated Hinge-backed Tortoise"
+        ],
+        "fr": [
+          "Tortue Articulée d'Afrique"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:29.567907+00:00"
+    },
+    {
+      "species_id": "SPECIES-000149",
+      "scientific_name": "Kinixys homeana",
+      "normalized_name": "kinixys_homeana",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Home's Hinge-backed Tortoise"
+        ],
+        "fr": [
+          "Kinixys de Home"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.576067+00:00"
+    },
+    {
+      "species_id": "SPECIES-000150",
+      "scientific_name": "Kinixys belliana",
+      "normalized_name": "kinixys_belliana",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Bell's Hinge-backed Tortoise"
+        ],
+        "fr": [
+          "Kinixys de Bell"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.589226+00:00"
+    },
+    {
+      "species_id": "SPECIES-000151",
+      "scientific_name": "Eretmochelys imbricata",
+      "normalized_name": "eretmochelys_imbricata",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Hawksbill Seaturtle"
+        ],
+        "fr": [
+          "Tortue Imbriquée"
+        ]
+      },
+      "iucn_status": "CR",
+      "created_at": "2026-10-14T10:10:29.599068+00:00"
+    },
+    {
+      "species_id": "SPECIES-000152",
+      "scientific_name": "Lepidochelys olivacea",
+      "normalized_name": "lepidochelys_olivacea",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "Testudines",
+        "family": "Cheloniidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Olive Ridley",
+          "Olive ridley sea turtle"
+        ],
+        "fr": [
+          "Tortue Olivâtre",
+          "Tortue olivâtre"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.608447+00:00"
+    },
+    {
+      "species_id": "SPECIES-000153",
+      "scientific_name": "Dermochelys coriacea",
+      "normalized_name": "dermochelys_coriacea",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "Testudines",
+        "family": "Dermochelyidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Leatherback Seaturtle",
+          "Leatherback sea turtle",
+          "Leatherback turtle"
+        ],
+        "fr": [
+          "Tortue Luth",
+          "Tortue luth"
+        ]
+      },
+      "iucn_status": "CR",
+      "created_at": "2026-10-14T10:10:29.621631+00:00"
+    },
+    {
+      "species_id": "SPECIES-000154",
+      "scientific_name": "Chelonia mydas",
+      "normalized_name": "chelonia_mydas",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Green Seaturtle"
+        ],
+        "fr": [
+          "Tortue Verte"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:29.633155+00:00"
+    },
+    {
+      "species_id": "SPECIES-000155",
+      "scientific_name": "Caretta caretta",
+      "normalized_name": "caretta_caretta",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Loggerhead Seaturtle"
+        ],
+        "fr": [
+          "Tortue Caouanne"
+        ]
+      },
+      "iucn_status": "EN",
+      "created_at": "2026-10-14T10:10:29.642639+00:00"
+    },
+    {
+      "species_id": "SPECIES-000156",
+      "scientific_name": "Crocodylus cataphractus",
+      "normalized_name": "crocodylus_cataphractus",
+      "category": "fish",
+      "taxonomy": {
+        "class": "Elasmobranchii",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Long-snouted Crocodile"
+        ],
+        "fr": [
+          "Faux-Gavial d'Afrique"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:29.652680+00:00"
+    },
+    {
+      "species_id": "SPECIES-000157",
+      "scientific_name": "Crocodylus niloticus",
+      "normalized_name": "crocodylus_niloticus",
+      "category": "fish",
+      "taxonomy": {
+        "class": "Elasmobranchii",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Nile Crocodile"
+        ],
+        "fr": [
+          "Crocodile du Nil"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.660223+00:00"
+    },
+    {
+      "species_id": "SPECIES-000158",
+      "scientific_name": "Osteolaemus tetraspis",
+      "normalized_name": "osteolaemus_tetraspis",
+      "category": "fish",
+      "taxonomy": {
+        "class": "Elasmobranchii",
+        "order": "Crocodylia",
+        "family": "Crocodylidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Dwarf crocodile",
+          "West African Dwarf Crocodile"
+        ],
+        "fr": [
+          "Crocodile Nain Africain",
+          "Crocodile nain"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.672520+00:00"
+    },
+    {
+      "species_id": "SPECIES-000159",
+      "scientific_name": "Chamaeleo africanus",
+      "normalized_name": "chamaeleo_africanus",
+      "category": "fish",
+      "taxonomy": {
+        "class": "Elasmobranchii",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Sahel Chameleon"
+        ],
+        "fr": [
+          "Caméléon Africain"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.686088+00:00"
+    },
+    {
+      "species_id": "SPECIES-000160",
+      "scientific_name": "Chamaeleo camerunensis",
+      "normalized_name": "chamaeleo_camerunensis",
+      "category": "fish",
+      "taxonomy": {
+        "class": "Elasmobranchii",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Cameroon Chameleon"
+        ],
+        "fr": [
+          "Caméléon du Cameroun"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.696136+00:00"
+    },
+    {
+      "species_id": "SPECIES-000161",
+      "scientific_name": "Chamaeleo chapini",
+      "normalized_name": "chamaeleo_chapini",
+      "category": "fish",
+      "taxonomy": {
+        "class": "Elasmobranchii",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Grey Chameleon"
+        ],
+        "fr": [
+          "Caméléon gris"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.704769+00:00"
+    },
+    {
+      "species_id": "SPECIES-000162",
+      "scientific_name": "Chamaeleo cristatus",
+      "normalized_name": "chamaeleo_cristatus",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Crested Chameleon"
+        ],
+        "fr": [
+          "Caméléon à Crête"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.714473+00:00"
+    },
+    {
+      "species_id": "SPECIES-000163",
+      "scientific_name": "Chamaeleo dilepis",
+      "normalized_name": "chamaeleo_dilepis",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Flap-necked Chameleon"
+        ],
+        "fr": [
+          "Caméléon de Leach"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.722792+00:00"
+    },
+    {
+      "species_id": "SPECIES-000164",
+      "scientific_name": "Chamaeleo gracilis",
+      "normalized_name": "chamaeleo_gracilis",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Spur-heeled Chameleon"
+        ],
+        "fr": [
+          "Caméléon Gracile"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.734300+00:00"
+    },
+    {
+      "species_id": "SPECIES-000165",
+      "scientific_name": "Chamaeleo oweni",
+      "normalized_name": "chamaeleo_oweni",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Owen's Three-horned Chameleon"
+        ],
+        "fr": [
+          "Caméléon d'Owen"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.743504+00:00"
+    },
+    {
+      "species_id": "SPECIES-000166",
+      "scientific_name": "Chamaeleo quilensis",
+      "normalized_name": "chamaeleo_quilensis",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Bocage's Chameleon"
+        ],
+        "fr": [
+          "Caméléon de Bocage"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.757746+00:00"
+    },
+    {
+      "species_id": "SPECIES-000167",
+      "scientific_name": "Varanus exanthematicus",
+      "normalized_name": "varanus_exanthematicus",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Northern Savanna Monitor"
+        ],
+        "fr": [
+          "Varan des Steppes"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.769776+00:00"
+    },
+    {
+      "species_id": "SPECIES-000168",
+      "scientific_name": "Varanus niloticus",
+      "normalized_name": "varanus_niloticus",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Nile Monitor"
+        ],
+        "fr": [
+          "Varan du Nil FR)"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.781075+00:00"
+    },
+    {
+      "species_id": "SPECIES-000169",
+      "scientific_name": "Varanus ornatus",
+      "normalized_name": "varanus_ornatus",
+      "category": "corals",
+      "taxonomy": {
+        "class": "Anthozoa",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Ornate Nile Monitor"
+        ],
+        "fr": [
+          "Varan Orné"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.790398+00:00"
+    },
+    {
+      "species_id": "SPECIES-000170",
+      "scientific_name": "Python sebae",
+      "normalized_name": "python_sebae",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "Squamata",
+        "family": "Pythonidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "African Rock Python",
+          "African rock python"
+        ],
+        "fr": [
+          "Python de Seba"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.804818+00:00"
+    },
+    {
+      "species_id": "SPECIES-000171",
+      "scientific_name": "Calabaria reinhardtii",
+      "normalized_name": "calabaria_reinhardtii",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Calabar Ground Python"
+        ],
+        "fr": [
+          "Calabaria de Reinhardt"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.818494+00:00"
+    },
+    {
+      "species_id": "SPECIES-000172",
+      "scientific_name": "Bufo superciliaris",
+      "normalized_name": "bufo_superciliaris",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Zaire Toad"
+        ],
+        "fr": [
+          "Crapaud du Cameroun"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.826911+00:00"
+    },
+    {
+      "species_id": "SPECIES-000173",
+      "scientific_name": "Rhincodon typus",
+      "normalized_name": "rhincodon_typus",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Whale Shark"
+        ],
+        "fr": [
+          "Requin Baleine"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.837946+00:00"
+    },
+    {
+      "species_id": "SPECIES-000174",
+      "scientific_name": "Carcharodon carcharias",
+      "normalized_name": "carcharodon_carcharias",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Great White Shark"
+        ],
+        "fr": [
+          "Grand Requin Blanc"
+        ]
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:10:29.847967+00:00"
+    },
+    {
+      "species_id": "SPECIES-000175",
+      "scientific_name": "Pristis pectinata",
+      "normalized_name": "pristis_pectinata",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Wide Sawfish"
+        ],
+        "fr": [
+          "Requin-scie"
+        ]
+      },
+      "iucn_status": "CR",
+      "created_at": "2026-10-14T10:10:29.857166+00:00"
+    },
+    {
+      "species_id": "SPECIES-000176",
+      "scientific_name": "Pristis pristis",
+      "normalized_name": "pristis_pristis",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Common sawfish"
+        ],
+        "fr": [
+          "Poisson-scie commun"
+        ]
+      },
+      "iucn_status": "CR",
+      "created_at": "2026-10-14T10:10:29.867715+00:00"
+    },
+    {
+      "species_id": "SPECIES-000177",
+      "scientific_name": "Pandinus dictator",
+      "normalized_name": "pandinus_dictator",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "No common name"
+        ],
+        "fr": [
+          "Scorpion Dictateur"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.879676+00:00"
+    },
+    {
+      "species_id": "SPECIES-000178",
+      "scientific_name": "Schizoculina africana",
+      "normalized_name": "schizoculina_africana",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "No common name"
+        ],
+        "fr": [
+          "Pas de nom commun"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:29.888481+00:00"
+    },
+    {
+      "species_id": "SPECIES-000179",
+      "scientific_name": "Schizoculina fissipara",
+      "normalized_name": "schizoculina_fissipara",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "No common name"
+        ],
+        "fr": [
+          "Pas de nom commun"
+        ]
+      },
+      "iucn_status": "DD",
+      "created_at": "2026-10-14T10:10:29.898233+00:00"
+    },
+    {
+      "species_id": "SPECIES-000180",
+      "scientific_name": "Anomocora marchadi",
+      "normalized_name": "anomocora_marchadi",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "No common name"
+        ],
+        "fr": [
+          "Pas de nom commun"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.907143+00:00"
+    },
+    {
+      "species_id": "SPECIES-000181",
+      "scientific_name": "Phyllangia americana",
+      "normalized_name": "phyllangia_americana",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "Hidden Cup Coral"
+        ],
+        "fr": [
+          "Phyllange américaine"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.919090+00:00"
+    },
+    {
+      "species_id": "SPECIES-000182",
+      "scientific_name": "Cyathea camerooniana",
+      "normalized_name": "cyathea_camerooniana",
+      "category": "plants",
+      "taxonomy": {
+        "class": "Liliopsida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [
+          "No common name"
+        ],
+        "fr": [
+          "Pas de nom commun"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:29.932106+00:00"
+    },
+    {
+      "species_id": "SPECIES-000183",
+      "scientific_name": "Smutsia gigantea",
+      "normalized_name": "smutsia_gigantea",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Pholidota",
+        "family": "Manidae"
+      },
+      "synonyms": [
+        "Manis gigantea"
+      ],
+      "common_names": {
+        "en": [
+          "Giant pangolin"
+        ],
+        "fr": [
+          "Pangolin géant"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:30.049089+00:00"
+    },
+    {
+      "species_id": "SPECIES-000184",
+      "scientific_name": "Phataginus tricuspis",
+      "normalized_name": "phataginus_tricuspis",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Pholidota",
+        "family": "Manidae"
+      },
+      "synonyms": [
+        "Manis tricuspis"
+      ],
+      "common_names": {
+        "en": [
+          "Tree pangolin",
+          "White-bellied pangolin"
+        ],
+        "fr": [
+          "Pangolin commun",
+          "Pangolin à écailles tricuspides"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:30.077818+00:00"
+    },
+    {
+      "species_id": "SPECIES-000185",
+      "scientific_name": "Mecistops cataphractus",
+      "normalized_name": "mecistops_cataphractus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "Crocodylia",
+        "family": "Crocodylidae"
+      },
+      "synonyms": [
+        "Crocodylus cataphractus"
+      ],
+      "common_names": {
+        "en": [
+          "West African slender-snouted crocodile"
+        ],
+        "fr": [
+          "Faux-gavial d'Afrique"
+        ]
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:10:30.133656+00:00"
+    },
+    {
+      "species_id": "SPECIES-000186",
+      "scientific_name": "Opisthothylax immaculatus",
+      "normalized_name": "opisthothylax_immaculatus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.618706+00:00"
+    },
+    {
+      "species_id": "SPECIES-000187",
+      "scientific_name": "Ptychadena aequiplicata",
+      "normalized_name": "ptychadena_aequiplicata",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Ptychadenidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.632685+00:00"
+    },
+    {
+      "species_id": "SPECIES-000188",
+      "scientific_name": "Acanthixalus spinosus",
+      "normalized_name": "acanthixalus_spinosus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.654533+00:00"
+    },
+    {
+      "species_id": "SPECIES-000189",
+      "scientific_name": "Arthroleptis sylvaticus",
+      "normalized_name": "arthroleptis_sylvaticus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.667284+00:00"
+    },
+    {
+      "species_id": "SPECIES-000190",
+      "scientific_name": "Alexteroon obstetricans",
+      "normalized_name": "alexteroon_obstetricans",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.677690+00:00"
+    },
+    {
+      "species_id": "SPECIES-000191",
+      "scientific_name": "Leptopelis boulengeri",
+      "normalized_name": "leptopelis_boulengeri",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.691601+00:00"
+    },
+    {
+      "species_id": "SPECIES-000192",
+      "scientific_name": "Arthroleptis carquejai",
+      "normalized_name": "arthroleptis_carquejai",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.704389+00:00"
+    },
+    {
+      "species_id": "SPECIES-000193",
+      "scientific_name": "Nectophryne afra",
+      "normalized_name": "nectophryne_afra",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Bufonidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.717257+00:00"
+    },
+    {
+      "species_id": "SPECIES-000194",
+      "scientific_name": "Leptopelis notatus",
+      "normalized_name": "leptopelis_notatus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.731233+00:00"
+    },
+    {
+      "species_id": "SPECIES-000195",
+      "scientific_name": "Arthroleptis adelphus",
+      "normalized_name": "arthroleptis_adelphus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.745661+00:00"
+    },
+    {
+      "species_id": "SPECIES-000196",
+      "scientific_name": "Arthroleptis taeniatus",
+      "normalized_name": "arthroleptis_taeniatus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.759342+00:00"
+    },
+    {
+      "species_id": "SPECIES-000197",
+      "scientific_name": "Astylosternus batesi",
+      "normalized_name": "astylosternus_batesi",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.775830+00:00"
+    },
+    {
+      "species_id": "SPECIES-000198",
+      "scientific_name": "Hyperolius ocellatus",
+      "normalized_name": "hyperolius_ocellatus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.788500+00:00"
+    },
+    {
+      "species_id": "SPECIES-000199",
+      "scientific_name": "Nectophryne batesii",
+      "normalized_name": "nectophryne_batesii",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Bufonidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.802031+00:00"
+    },
+    {
+      "species_id": "SPECIES-000200",
+      "scientific_name": "Leptopelis ocellatus",
+      "normalized_name": "leptopelis_ocellatus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.822026+00:00"
+    },
+    {
+      "species_id": "SPECIES-000201",
+      "scientific_name": "Hyperolius pardalis",
+      "normalized_name": "hyperolius_pardalis",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.839364+00:00"
+    },
+    {
+      "species_id": "SPECIES-000202",
+      "scientific_name": "Amnirana amnicola",
+      "normalized_name": "amnirana_amnicola",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Ranidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.855000+00:00"
+    },
+    {
+      "species_id": "SPECIES-000203",
+      "scientific_name": "Leptopelis aubryioides",
+      "normalized_name": "leptopelis_aubryioides",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.866018+00:00"
+    },
+    {
+      "species_id": "SPECIES-000204",
+      "scientific_name": "Leptopelis brevirostris",
+      "normalized_name": "leptopelis_brevirostris",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.875292+00:00"
+    },
+    {
+      "species_id": "SPECIES-000205",
+      "scientific_name": "Phrynobatrachus africanus",
+      "normalized_name": "phrynobatrachus_africanus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Phrynobatrachidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.887370+00:00"
+    },
+    {
+      "species_id": "SPECIES-000206",
+      "scientific_name": "Leptopelis calcaratus",
+      "normalized_name": "leptopelis_calcaratus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.905650+00:00"
+    },
+    {
+      "species_id": "SPECIES-000207",
+      "scientific_name": "Hyperolius platyceps",
+      "normalized_name": "hyperolius_platyceps",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.923767+00:00"
+    },
+    {
+      "species_id": "SPECIES-000208",
+      "scientific_name": "Hyperolius tuberculatus",
+      "normalized_name": "hyperolius_tuberculatus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.934257+00:00"
+    },
+    {
+      "species_id": "SPECIES-000209",
+      "scientific_name": "Cardioglossa elegans",
+      "normalized_name": "cardioglossa_elegans",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.941247+00:00"
+    },
+    {
+      "species_id": "SPECIES-000210",
+      "scientific_name": "Afrixalus laevis",
+      "normalized_name": "afrixalus_laevis",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Hyperoliidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.950203+00:00"
+    },
+    {
+      "species_id": "SPECIES-000211",
+      "scientific_name": "Amnirana lepus",
+      "normalized_name": "amnirana_lepus",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Ranidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.957112+00:00"
+    },
+    {
+      "species_id": "SPECIES-000212",
+      "scientific_name": "Leptopelis millsoni",
+      "normalized_name": "leptopelis_millsoni",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": "Arthroleptidae"
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:30.967259+00:00"
+    },
+    {
+      "species_id": "SPECIES-000213",
+      "scientific_name": "Hyperolius unknown",
+      "normalized_name": "hyperolius_unknown",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:31.958844+00:00"
+    },
+    {
+      "species_id": "SPECIES-000214",
+      "scientific_name": "Phlyctimantis leonardi",
+      "normalized_name": "phlyctimantis_leonardi",
+      "category": "amphibians",
+      "taxonomy": {
+        "class": "Amphibia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": null,
+      "created_at": "2026-10-14T10:10:32.420950+00:00"
+    },
+    {
+      "species_id": "SPECIES-000215",
+      "scientific_name": "Aucoumea klaineana",
+      "normalized_name": "aucoumea_klaineana",
+      "category": "plants",
+      "taxonomy": {
+        "class": "",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "VU",
+      "created_at": "2026-10-14T10:13:28.144860+00:00"
+    },
+    {
+      "species_id": "SPECIES-000216",
+      "scientific_name": "Lupulella mesomelas",
+      "normalized_name": "lupulella_mesomelas",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.408027+00:00"
+    },
+    {
+      "species_id": "SPECIES-000217",
+      "scientific_name": "Toxocara mystax",
+      "normalized_name": "toxocara_mystax",
+      "category": "unclassified",
+      "taxonomy": {
+        "class": "",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.464230+00:00"
+    },
+    {
+      "species_id": "SPECIES-000218",
+      "scientific_name": "Hyalomma asiaticum",
+      "normalized_name": "hyalomma_asiaticum",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.516127+00:00"
+    },
+    {
+      "species_id": "SPECIES-000219",
+      "scientific_name": "Amblyomma marmoreum",
+      "normalized_name": "amblyomma_marmoreum",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.571257+00:00"
+    },
+    {
+      "species_id": "SPECIES-000220",
+      "scientific_name": "Haemaphysalis colesbergensis",
+      "normalized_name": "haemaphysalis_colesbergensis",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.622030+00:00"
+    },
+    {
+      "species_id": "SPECIES-000221",
+      "scientific_name": "Haemaphysalis elliptica",
+      "normalized_name": "haemaphysalis_elliptica",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.668757+00:00"
+    },
+    {
+      "species_id": "SPECIES-000222",
+      "scientific_name": "Haemaphysalis zumpti",
+      "normalized_name": "haemaphysalis_zumpti",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.715595+00:00"
+    },
+    {
+      "species_id": "SPECIES-000223",
+      "scientific_name": "Ixodes pilosus",
+      "normalized_name": "ixodes_pilosus",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.760880+00:00"
+    },
+    {
+      "species_id": "SPECIES-000224",
+      "scientific_name": "Ixodes rubicundus",
+      "normalized_name": "ixodes_rubicundus",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.811172+00:00"
+    },
+    {
+      "species_id": "SPECIES-000225",
+      "scientific_name": "Rhipicentor bicornis",
+      "normalized_name": "rhipicentor_bicornis",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.865281+00:00"
+    },
+    {
+      "species_id": "SPECIES-000226",
+      "scientific_name": "Rhipicentor nuttalli",
+      "normalized_name": "rhipicentor_nuttalli",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.913520+00:00"
+    },
+    {
+      "species_id": "SPECIES-000227",
+      "scientific_name": "Rhipicephalus evertsi",
+      "normalized_name": "rhipicephalus_evertsi",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:05.960976+00:00"
+    },
+    {
+      "species_id": "SPECIES-000228",
+      "scientific_name": "Rhipicephalus gertrudae",
+      "normalized_name": "rhipicephalus_gertrudae",
+      "category": "arachnids",
+      "taxonomy": {
+        "class": "Arachnida",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.007875+00:00"
+    },
+    {
+      "species_id": "SPECIES-000229",
+      "scientific_name": "Aeromonas hydrophila",
+      "normalized_name": "aeromonas_hydrophila",
+      "category": "unclassified",
+      "taxonomy": {
+        "class": "",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.053954+00:00"
+    },
+    {
+      "species_id": "SPECIES-000230",
+      "scientific_name": "Felis silvestris",
+      "normalized_name": "felis_silvestris",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.068022+00:00"
+    },
+    {
+      "species_id": "SPECIES-000231",
+      "scientific_name": "Hyaena brunnea",
+      "normalized_name": "hyaena_brunnea",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.130950+00:00"
+    },
+    {
+      "species_id": "SPECIES-000232",
+      "scientific_name": "Hippopotamus amphibious",
+      "normalized_name": "hippopotamus_amphibious",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.145883+00:00"
+    },
+    {
+      "species_id": "SPECIES-000233",
+      "scientific_name": "Loxodanta africana",
+      "normalized_name": "loxodanta_africana",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.158952+00:00"
+    },
+    {
+      "species_id": "SPECIES-000234",
+      "scientific_name": "Equus quagga",
+      "normalized_name": "equus_quagga",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.173164+00:00"
+    },
+    {
+      "species_id": "SPECIES-000235",
+      "scientific_name": "Nanger dama",
+      "normalized_name": "nanger_dama",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.297403+00:00"
+    },
+    {
+      "species_id": "SPECIES-000236",
+      "scientific_name": "Redunca redunca",
+      "normalized_name": "redunca_redunca",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.314820+00:00"
+    },
+    {
+      "species_id": "SPECIES-000237",
+      "scientific_name": "Kobus vardonii",
+      "normalized_name": "kobus_vardonii",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.332127+00:00"
+    },
+    {
+      "species_id": "SPECIES-000238",
+      "scientific_name": "Felis chaus",
+      "normalized_name": "felis_chaus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.343317+00:00"
+    },
+    {
+      "species_id": "SPECIES-000239",
+      "scientific_name": "Canis aureus",
+      "normalized_name": "canis_aureus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.364349+00:00"
+    },
+    {
+      "species_id": "SPECIES-000240",
+      "scientific_name": "Gazella subgutturosa",
+      "normalized_name": "gazella_subgutturosa",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.380761+00:00"
+    },
+    {
+      "species_id": "SPECIES-000241",
+      "scientific_name": "Vulpes vulpes",
+      "normalized_name": "vulpes_vulpes",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.409947+00:00"
+    },
+    {
+      "species_id": "SPECIES-000242",
+      "scientific_name": "Capra aegagrus",
+      "normalized_name": "capra_aegagrus",
+      "category": "mammals",
+      "taxonomy": {
+        "class": "Mammalia",
+        "order": "",
+        "family": ""
+      },
+      "synonyms": [],
+      "common_names": {
+        "en": [],
+        "fr": []
+      },
+      "iucn_status": "LC",
+      "created_at": "2026-10-14T10:14:06.423367+00:00"
+    }
+  ]
+}

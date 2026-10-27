@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000022",
+  "scientific_name": "Guttera plumifera",
+  "normalized_name": "guttera_plumifera",
+  "category": "birds",
+  "taxonomy": {
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Numididae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-007125",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 11013,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 12033 11013  C04 C04 _ FSC5_C04   FSC5-2019-10-C04 Animal 2019-12-04 2019-12-04 08:17:23 12040022.JPG AVES GALLIFORMES NUMIDIDAE Gutt",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:25.785959+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:25.858893+00:00",
+  "updated_at": "2026-10-14T10:10:25.858911+00:00"
+}

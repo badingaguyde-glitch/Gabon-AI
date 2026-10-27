@@ -1,0 +1,103 @@
+{
+ "doc_id": "DOC-6ac40dd2d127",
+ "country": "Gabon",
+ "category": "sante",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.715,
+ "language": "fr",
+ "source_files": [
+  "Troisième Enquête Démographique et de Santé 2019-2021.txt"
+ ],
+ "sha256": "6ac40dd2d127cbac0426288bc5bba5d50fa86ebbb8461b741ef297e385a21864",
+ "format": "text",
+ "processed_at": "2026-10-14T10:10:18.290409+00:00",
+ "kind": "survey_metadata",
+ "title": "Troisième Enquête Démographique et de Santé 2019-2021",
+ "chunks": [
+  {
+   "section": "Titre de l'enquête",
+   "text": "Troisième Enquête Démographique et de Santé 2019-2021",
+   "chunk_id": "DOC-6ac40dd2d127-C0001",
+   "text_hash": "afbaa4cbe16dff610dc17bcaee8d5851bfca298d"
+  },
+  {
+   "section": "Organisme producteur",
+   "text": "Direction Générale de la Statistique (DGS), affiliation: Gouvernement de la République Gabonaise",
+   "chunk_id": "DOC-6ac40dd2d127-C0002",
+   "text_hash": "4e355e3c7090b2acd5558494588870b0f83e3efe"
+  },
+  {
+   "section": "Résumé",
+   "text": "La troisième Enquête Démographique et de Santé au Gabon en 2019–21 (EDSG-III 2019–21) fait suite à celle réalisée en 2000 et 2012. Elle vise un échantillon national d’environ 11 700 ménages, avec un nombre attendu de 10 160 femmes âgées de 15 à 49 ans enquêtées avec succès. Toutes les femmes âgées de 15–49 ans vivant de façon permanente dans les ménages sélectionnés, ou présentes la nuit précédant l’enquête étaient éligibles pour être enquêtées.",
+   "chunk_id": "DOC-6ac40dd2d127-C0003",
+   "text_hash": "3c3fa7e4032cde642bd5786bac0a5852074234c0"
+  },
+  {
+   "section": "Résumé",
+   "text": "L’objectif principal de l’EDSG-III 2019–21 est de fournir des estimations actualisées des indicateurs démographiques et de santé de base. En particulier, au cours de l’EDSG-III 2019–21, des données ont été collectées sur les niveaux de fécondité, les préférences en matière de fécondité, la connaissance et l’utilisation des méthodes de planification familiale, les pratiques d’allaitement, la mortalité des enfants, la santé infantile et maternelle, la possession et l’utilisation des moustiquaires, l’état nutritionnel et les pratiques alimentaires de la mère et de l’enfant, etc. Par ailleurs, l’EDSG-III 2019–21 comporte un volet biologique qui a consisté, d’une part à collecter, dans tous les ménages du sang auprès des enfants de 6 à 59 mois afin d’estimer le niveau de l’hémoglobine et la prévalence du paludisme dans cette population et, d’autre part , à collecter, dans un sous-échantillon de deux ménages sur trois, du sang auprès des femmes et des hommes de 15–64 ans afin d’estimer le niveau de l’hémoglobine, la prévalence du VIH et de l’hépatite B dans cette population. La mesure de la tension artérielle a également été effectuée auprès des femmes et des hommes de 15–64 ans pour mesurer la prévalence de l’hypertension.",
+   "chunk_id": "DOC-6ac40dd2d127-C0004",
+   "text_hash": "1ea4e6f66d809e15ebbda0de4553cc2557e33405"
+  },
+  {
+   "section": "Résumé",
+   "text": "À cause de la crise sanitaire mondiale causée par le coronavirus (COVID-19), le travail de collecte des données sur le terrain a été effectué en deux phases. La première qui s’est déroulée du 23 novembre 2019 au 27 mars 2020 a couvert 51 % du total des grappes de l’échantillon de l’enquête. La deuxième phase est intervenue à la suite de l’allègement des mesures restrictives de lutte contre la COVID-19 au Gabon et a couvert la période allant du 7 juin au 30 octobre 2021.\n\nLes données collectées au cours de l’EDSG-III 2019–21 ont pour objectif d’aider les responsables politiques et les gestionnaires de programmes à évaluer et à mettre en place les programmes et les stratégies pour améliorer l’état de santé de la population du pays.",
+   "chunk_id": "DOC-6ac40dd2d127-C0005",
+   "text_hash": "8a162e31b4efdf4af1fc20954e26ff432d607087"
+  },
+  {
+   "section": "Unité d'analyse",
+   "text": "- Ménage\n- Individuel\n- Enfants de 0-4 ans\n- Femme de 15 à 64 ans\n- Homme de 15 à 64 ans",
+   "chunk_id": "DOC-6ac40dd2d127-C0006",
+   "text_hash": "67cef0ac0c0c8cd7f8b289737e8f98d70abafe6b"
+  },
+  {
+   "section": "Procédure d'échantillonnage",
+   "text": "L’échantillon de l’EDSG-III 2019–21 est un échantillon aréolaire, stratifié et tiré à deux degrés. L’unité primaire de sondage (UPS) est la grappe ou secteur de dénombrement (SD) telle que définie au recensement général de la population et du logement (RGPL) 2013. Chacune des neuf provinces du pays a été séparée en parties urbaine et rurale pour former des strates. La capitale politique Libreville et la capitale économique Port-Gentil constituent, chacune, un domaine d’étude à part et sont considérées comme n’ayant pas de partie rurale. L’échantillon a été tiré indépendamment dans chaque strate. Au premier degré, 390 grappes ont été tirées avec une probabilité proportionnelle à la taille. La taille de la grappe est le nombre de ménages recensés dans la grappe pendant le recensement général de la population et des logements. Un dénombrement complet des ménages dans chaque grappe sélectionnée a permis d’obtenir une liste des ménages, à partir de laquelle 32 ménages de l’échantillon ont été tirés au deuxième degré avec un tirage systématique à probabilité égale. Toutes les femmes âgées de 15–49 ans vivant de façon permanente dans les ménages sélectionnés, ou présentes la nuit précédant l’enquête, étaient éligibles pour être enquêtées.",
+   "chunk_id": "DOC-6ac40dd2d127-C0007",
+   "text_hash": "f59150d6aa0be890ff41607aead5be6a97016229"
+  },
+  {
+   "section": "Procédure d'échantillonnage",
+   "text": "En outre, dans deux-tiers des ménages, toutes les femmes de 50–64 ans et tous les hommes de 15–64 ans étaient également éligibles pour être enquêtés. Dans tous les ménages, tous les enfants de moins de 5 ans étaient éligibles pour être pesés et mesurés de façon à évaluer leur état nutritionnel (émaciation, insuffisance pondérale et retard de croissance). De même, dans ces ménages, tous les enfants de 6–59 mois étaient éligibles pour les tests d’anémie et de paludisme. Dans le sous-échantillon des deuxtiers des ménages, toutes les femmes et tous les hommes de 15–64 ans étaient éligibles pour les mesures anthropométriques et les tests d’anémie, du VIH et de l’hépatite B. Enfin, dans ce même sous-échantillon, toutes les femmes de 15–64 ans et tous les hommes de 35–64 ans étaient également éligibles pour la prise de la tension artérielle.\n\nRemarque: voir l'annexe A dans le rapport final: plan de sondage.",
+   "chunk_id": "DOC-6ac40dd2d127-C0008",
+   "text_hash": "de54dc17bdf53adfefcc3fe9531b15512b417842"
+  },
+  {
+   "section": "Questionnaires",
+   "text": "Quatre types de questionnaires ont été utilisés pour collecter les données de l’EDSG-III 2019–21 : le Questionnaire Ménage, le Questionnaire Individuel Femme, le Questionnaire Individuel Homme et les Questionnaires Biomarqueurs 1 et 2. Le contenu de ces questionnaires est basé sur les questionnaires modèles développés par le programme DHS.",
+   "chunk_id": "DOC-6ac40dd2d127-C0009",
+   "text_hash": "527e0750e5d508787a912c5daf22bf05248262a5"
+  },
+  {
+   "section": "Collecteurs de données",
+   "text": "Direction Générale de la Statistique, abbreviation: DGS, affiliation: Gouvernement de la République Gabonaise",
+   "chunk_id": "DOC-6ac40dd2d127-C0010",
+   "text_hash": "a07362e800045b5e2339c784d299dc096f2e6a0a"
+  },
+  {
+   "section": "Taux de réponse",
+   "text": "Dans les grappes complétées au cours de l’EDSG-III 2019–21, 12 480 ménages ont été sélectionnés et, parmi eux 11 930 ont été identifiés. De ces 11 930 ménages, 11 781 ont pu être enquêtés avec succès, soit un taux de réponse de 99 %. Le taux de réponses des ménages varie peu entre le milieu rural et le milieu urbain. Il est légèrement plus faible à Port-Gentil/Libreville (97 % contre 99 % dans l’ensemble).\n\nDans les 11 781 ménages enquêtés, 9 912 femmes âgées de 15–49 ans étaient éligibles pour l’enquête individuelle, et pour 9 507 d’entre elles, l’interview a été menée avec succès, soit un taux de réponse de 96 %, quel que soit le milieu de résidence. Au cours de l’EDSG-III 2019–21, l’enquête auprès des hommes a été réalisée dans deux ménages sur trois. Dans ce même sous-échantillon, les femmes de 50–64 ans étaient concernées. Dans les 8 190 ménages sélectionnés, 7 814 ont été identifiés, parmi lesquels 7 713 ont été enquêtés, soit un taux de réponse de 99 %, pratiquement identique en milieu rural (99 %) et urbain (98 %). Parmi les femmes, 1 592 âgées de 50–64 ans ont été identifiées comme étant éligibles et pour 1 536 d’entre elles, l’interview a été réalisée avec succès, soit un taux de réponse de 97 %. Le taux de réponse enregistré en milieu urbain (96 %) est légèrement inférieur à celui du milieu rural (98 %).",
+   "chunk_id": "DOC-6ac40dd2d127-C0011",
+   "text_hash": "a7d8385b5f776d2d3c3a7c07be93b7ed79d88fd0"
+  },
+  {
+   "section": "Taux de réponse",
+   "text": "Dans les 7 713 ménages enquêtés, 5 964 hommes âgés de 15–49 ans ont été identifiés comme étant éligibles et 5 566 ont été interviewés avec succès, soit un taux de réponse de 93 %. Le taux de réponse enregistré en milieu urbain (93 %) est légèrement inférieur à celui du milieu rural (95 %). Dans le même sous-échantillon de ménages enquêtés avec succès, 1 423 hommes de 50–64 ans ont été identifiées comme étant éligibles et pour 1 328 d’entre eux, l’interview a été réalisée avec succès, soit un taux de réponse de 93 %. Le taux de réponse enregistré en milieu urbain est plus faible que celui obtenu en milieu rural (90 % contre 97 %).",
+   "chunk_id": "DOC-6ac40dd2d127-C0012",
+   "text_hash": "a3364c3c23f9e9221d6b21a5aa4225663c17cc5e"
+  },
+  {
+   "section": "Financement",
+   "text": "Gouvernement de la République Gabonaise, abbreviation: Govt. GAB, role: Financier; Agence des États-Unis pour le Développement international, abbreviation: USAID, role: Financier; Banque Mondiale, abbreviation: WB, role: Financier; Fonds des Nations Unies pour la Population, abbreviation: UNFPA, role: Financier",
+   "chunk_id": "DOC-6ac40dd2d127-C0013",
+   "text_hash": "737a73460ad85e0af4561d1f7a3a4072af4dc121"
+  },
+  {
+   "section": "Série",
+   "text": "L'Enquête Démographique et de Santé (EDSG-III) de 2019–21, réalisée auprès des ménages en deux phases (novembre 2019 à mars 2020, puis de juin à octobre 2021), est la troisième du genre, effectuée au Gabon depuis 2000. Dans le cadre du programme de travail Gabon-Banque mondiale (feuille de route) 2015–2020, prorogé jusqu’en 2023, le Gabon s’est engagé à organiser cette enquête d’envergure nationale. L’enquête a été conduite par la Direction Générale de la Statistique (DGS) du ministère de l’Économie et de la Relance, en collaboration avec des services techniques des ministères en charge de la Santé, des Affaires Sociales et de la Recherche scientifique.",
+   "chunk_id": "DOC-6ac40dd2d127-C0014",
+   "text_hash": "bdeeb4b78a12b6a076a7085ac8a99a7c1964565f"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000193",
+  "scientific_name": "Nectophryne afra",
+  "normalized_name": "nectophryne_afra",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Bufonidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009749",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 5,
+        "extracted_text_snippet": "Table row: Gabon 05/10/2022 G07 G0038 Bufonidae Nectophryne afra 0.9 19.6 6 0.7 8.6 0.97",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.724930+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009944",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 101,
+        "extracted_text_snippet": "Table row: Nectophryne afra Nectophryne PHAQ 0.22314355131420976 -0.5836023670410367 -1.1465099671482886 -1.1623568422510628 -0.8796775070168733 -1.0534112192449",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:32.291987+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.725343+00:00",
+  "updated_at": "2026-10-14T10:10:32.293024+00:00"
+}

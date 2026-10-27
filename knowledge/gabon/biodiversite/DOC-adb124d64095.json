@@ -1,0 +1,1175 @@
+{
+ "doc_id": "DOC-adb124d64095",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "economie",
+  "infrastructures_transport",
+  "droit"
+ ],
+ "classification_confidence": 0.496,
+ "language": "fr",
+ "source_files": [
+  "Données-scientifiques\\Gabon_species.pdf"
+ ],
+ "sha256": "adb124d64095516057dc9ec0beb54f9f36409654d1677a66ec1a2964015fba52",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:10:27.900654+00:00",
+ "kind": "text",
+ "title": "Guide d'identification des espèces de faune gabonaise inscrites à la convention CITES (2012)",
+ "chunks": [
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "La Convention sur le Commerce International des Espèces de Faune et de Flore Sauvages\nMenacées d’Extinction (CITES)\nQu’est-ce que la CITES ?\n\nLa CITES est un accord multilatéral sur l’environnement qui réglemente le commerce international des plantes et des animaux dont la conservation est préoccupante pour garantir qu’un tel commerce ne menace pas leur survie. Le traité CITES a initialement été signé en 1973 et il est entré\nen vigueur en 1975. 175 pays membres (« les Parties ») ont signé le traité de la CITES qui protège désormais plus de 33 000 espèces d’animaux\net de plantes. Le Gabon est devenu une Partie à la CITES en 1989.\n\nQu’est-ce que la CITES réglemente ?\n\nLa CITES ne réglemente pas le commerce intérieur des espèces sauvages mais concerne seulement le commerce international. Ceci inclut les\nimportations, les exportations, les réexportations et les introductions en provenance de la mer (c’est-à-dire le transport, dans un État, de spécimens d'espèces qui ont été pris dans l'environnement marin n'étant pas sous la juridiction d'un État). La CITES ne réglemente le commerce international d’une espèce que si cette espèce est inscrite dans les Annexes CITES. Une copie mise à jour des Annexes de la CITES est disponible\nsur le site Internet de la CITES à l’adresse http://www.cites.org/fra/app/appendices.shtml",
+   "chunk_id": "DOC-adb124d64095-C0001",
+   "text_hash": "6c80cb711d2c5c8586dd24c50691b85dcc517ee5"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Le commerce des espèces CITES est diverse et comprend, par exemple, le commerce des animaux et des plantes vivants, des produits alimentaires, des médicaments traditionnels, des articles en cuir, des grumes, des instruments ou des meubles en bois, des racines ou des essences,\ndes produits bruts ou transformés issus des espèces sauvages.\n\nQuelles espèces sont concernées par la CITES ?\n\nLa CITES protège près de 5 000 espèces d’animaux et 28 000 espèces de plantes qui sont inscrites dans trois listes (les Annexes de la CITES)\nselon l’état de leur conservation et l’urgence de leur besoin de protection contre le commerce international. Les Annexes peuvent inclure des\ngroupes d’espèces complets comme les cétacés (baleines, dauphins et marsouins), les primates, les grands félins, les tortues de mer, les perroquets, les coraux, les cactus ou les orchidées, ou seulement une sous-espèce ou une population. Les inscriptions aux Annexes peuvent également être limitées à des parties, des produits, des articles ou des produits dérivés spécifiques (comme les grumes, les racines, les essences ou\nles graines).",
+   "chunk_id": "DOC-adb124d64095-C0002",
+   "text_hash": "cc251abfebbdd5db33072a1ba0420ee5b1f379aa"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Les espèces inscrites à l’Annexe I sont les espèces « menacées d'extinction qui sont ou pourraient être affectées par le commerce » (CITES Article 2). Comme ce sont les plus vulnérables, les espèces de l’Annexe I ne peuvent pas être commercialisées au niveau international si leur utilisation est destinée à des fins principalement commerciales. Ces espèces peuvent cependant être exportées et importées à des fins non commerciales. Les dispositions de la CITES stipulent qu’une activité peut en général être qualifiée de commerciale « si son but est d’obtenir un avantage\néconomique (en espèces ou autrement) et si elle est orientée vers la revente, l'échange, la prestation d’un service ou toute autre forme d'utilisation\néconomique ou d’obtention d’un avantage économique » (Résolution Conf. 5.10). L’Annexe I de la CITES inclut plus de 890 espèces telles que les\nchimpanzés, les gorilles, les éléphants, la baleine à bosse, les tortues de mer, le léopard, le faucon pèlerin, le crocodile nain africain et certaines\nespèces d’orchidées.",
+   "chunk_id": "DOC-adb124d64095-C0003",
+   "text_hash": "b2faee0baa9efc3831fd3e1f115ba4fae1886e33"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Les espèces inscrites à l’Annexe II sont celles qui, « bien que n'étant pas nécessairement menacées actuellement d'extinction, pourraient le devenir si le commerce des spécimens de ces espèces n'était pas soumis à une réglementation stricte ayant pour but d'éviter une exploitation incompatible avec leur survie » (CITES Article 2). Les espèces peuvent également être inscrites à l’Annexe II si elles ressemblent, ou si leurs\nEspèces inscrites à la CITES au Gabon\nPage 1\n\nparties et produits ressemblent, à d’autres espèces inscrites ou à leurs parties et produits. Le commerce international des espèces de l’Annexe II\nest autorisé mais il est strictement contrôlé par un système de délivrance de permis permettant de garantir qu’il n’est pas préjudiciable à la survie\ndes espèce, et qu’il est légal et mené de façon à respecter le bien-être des spécimens vivants. L’Annexe II inclut plus de 33 000 espèces telles\nque la plupart des primates, la plupart des espèces de crocodiles, la plupart des espèces de perroquets, les cactus, les euphorbes succulentes et\nla plupart des orchidées.",
+   "chunk_id": "DOC-adb124d64095-C0004",
+   "text_hash": "fce606032257a695506999df3b10abf777fcd87c"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Les espèces de l’Annexe III sont des espèces inscrites unilatéralement par une Partie à la CITES qui règlemente ces espèces et considère que la\ncoopération des autres Parties à la CITES est nécessaire pour contrôler leur commerce (CITES Article 2). Le commerce international des espèces\nde l’Annexe III est autorisé s’il est légal et mené de façon à respecter le bien-être des spécimens vivants. L’Annexe III inclut plus de 160 espèces ;\nle Gabon n’a inscrit aucune espèce à l’Annexe III de la CITES.\n\nComment la CITES protège-t-elle les espèces ?\n\nLa protection CITES repose sur un système de permis dont l’objectif est de garantir que le commerce international légal ne soit pas préjudiciable\naux espèces inscrites aux Annexes de la CITES. Les Parties à la CITES ont l’obligation de délivrer différents permis ou certificats en fonction de\nl’inscription des espèces à l’Annexe I, II ou III. La délivrance des permis CITES pour les espèces inscrites à l’Annexe I ou II doit obligatoirement\nêtre accompagnée d’un avis de commerce non-préjudiciable certifiant que la transaction autorisée par le permis CITES (importation, exportation\nou introduction en provenance de la mer) ne nuira pas à l’espèce.",
+   "chunk_id": "DOC-adb124d64095-C0005",
+   "text_hash": "212f31c3adce15476cb30a1bf8e04c3b4324b4b6"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Le commerce :\n- des espèces inscrites à l’Annexe I nécessite à la fois un permis d’exportation et un permis d’importation ;\n- des espèces inscrites à l’Annexe II nécessite seulement un permis d’exportation ;\n- des espèces inscrites à l’Annexe III nécessite un permis d’exportation délivré par le pays qui a inscrit l’espèce à l’Annexe III et la délivrance de\ncertificats d’origine par les autres Parties à la CITES\n\nPar ailleurs, l’introduction en provenance de la mer des espèces inscrites à l’Annexe I ou II nécessite la délivrance d’un certificat d’introduction en\nprovenance de la mer et les réexportations d’espèces inscrites à l’Annexe I, II ou III nécessitent la délivrance d’un certificat de réexportation.\n\nLa CITES comprend également des dispositions sur la protection du bien-être des animaux vivants pendant le transport dans les cas où les animaux inscrits à la CITES sont commercialisés au niveau international.\n\nLa délivrance de permis et de certificats CITES valides et le contrôle de ces documents qui accompagnent les espèces dans le cadre de leur commerce, sont des garanties cruciales pour garantir que le commerce international ne soit pas nuisible aux espèces inscrites à la CITES. Ceci n’empêche que certaines Parties ont des législations nationales prévoyant des contrôles commerciaux plus strictes que les obligations CITES normales.",
+   "chunk_id": "DOC-adb124d64095-C0006",
+   "text_hash": "783fd17d3bc76c0302004e31e12ccbada2c334c9"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Comment la CITES est-elle appliquée et mise en œuvre ?\n\nLa CITES dépend des Parties individuelles pour sa mise en œuvre et son application.\n\nChaque Partie à la CITES, dont le Gabon, doit désigner un ou plusieurs organes de gestion chargés principalement de délivrer les permis et les\ncertificats, de décider si les dérogations à la CITES s’appliquent, de communiquer avec le Secrétariat à la CITES et les autres Parties, de préparer\net de soumettre les rapports annuels sur le commerce. Les Parties doivent également désigner une ou plusieurs autorités scientifiques chargées\nPage 2\nEspèces inscrites à la CITES au Gabon",
+   "chunk_id": "DOC-adb124d64095-C0007",
+   "text_hash": "e71d698223e68bf5aa2106de261809591d268911"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "- Site général de la CITES : www.cites.org/fra/index.shtml\n- Annexes de la CITES : www.cites.org/fra/app/appendices.shtml\n- Base de données sur le commerce CITES du PNUE-WCMC: www.unepwcmc.org/citestrade/trade_fra.cfm\n- Base de données sur les espèces inscrites à la CITES : www.cites.org/fra/\nresources/species.html\n- Manuel d’identification des espèces CITES : www.cites.org/fra/resources/ID/\nindex.php\n- Guide d’identification de la CITES (gratuit – produit par le Canada):\nwww.ec.gc.ca/alef-ewe/default.asp?lang=Fr&n=35ED0E50-1\n- Modèle de permis CITES / certificat standard : www.cites.org/fra/res/12/F1203R14A2.pdf\n- Lignes directrices de la CITES pour le transport : www.cites.org/fra/\nresources/transport/index.shtml\n- Association Internationale du Transport Aérien : www.iata.org/index.htm\n- Publications de la CITES : www.cites.org/fra/resources/publications.shtml\n- Informations sur les quotas d’exportation CITES: www.cites.org/fra/resources/\nquotas/index.shtml\n- Liste de contacts nationaux : www.cites.org/cms/index.php/lang-fr/component/ncd/\net\n- Sites internet des autorités nationales CITES : www.cites.org/fra/resources/\nlinks.shtml\n- Initiative Douanes Vertes : www.greencustoms.org/\n- Groupe de travail d’Interpol sur la criminalité en matière d’espèces sauvages :\nwww.interpol.int/Public/EnvironmentalCrime/Wildlife/Default.asp\n- Liste Rouge des Espèces Menacées de l’Union Mondiale de Conservation de\nla Nature: www.iucnredlist.org/\n- Fiche de l’UICN sur les avis de commerce non-préjudiciable :\nwww.conabio.gob.mx/institucion/cooperacion_internacional/TallerNDF/LinksDocumentos/IUCNChecklist/Annex1.pdf\n- Réseau pour la Survie des Espèces : http://ssn.org/index_FR.htm\nde conseiller l’organe de gestion sur des questions techniques importantes telles que la détermination de l’effet préjudiciable à la survie des espèces pour la délivrance des permis et des certificats, d’aider au suivi de la situation des espèces indigènes inscrites à l'Annexe II et des données\nrelatives aux exportations, et de déterminer si un établissement remplit les critères applicables à la reproduction artificielle ou à l’élevage en captivité conformément à la CITES.",
+   "chunk_id": "DOC-adb124d64095-C0008",
+   "text_hash": "4d78288de6391231c136524e4e2b911ea67b117d"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "Au Gabon, l’organe de gestion et l’autorité scientifique sont mis en place par le Ministère des Eaux et Forêts. Les coordonnées de l’organe de gestion et de l’autorité scientifique du Gabon sont disponibles sur le site Internet de la CITES à l’adresse : http://www.cites.org/cms/index.php/langfr/component/ncd/?country=GA\n\nLes douaniers et les agents chargés des contrôles frontaliers jouent également un rôle crucial dans la mise en application de la CITES et doivent,\nnotamment :\n- identifier les spécimens CITES à la frontière,\n- inspecter les convois et la documentation CITES pour garantir que les documents CITES accompagnant les convois sont valides et correspondent bien aux marchandises réelles,\n- garantir que les règles applicables au transport des animaux vivants sont respectées,\n- saisir les convois illicites et aider à informer le public sur les mesures en vigueur pour conserver la faune et la flore.\n\nQuelles sont les dérogations aux obligations sur la délivrance des permis CITES ?",
+   "chunk_id": "DOC-adb124d64095-C0009",
+   "text_hash": "844ed7d6a8a5b67237568c58853e05bb2c1b1725"
+  },
+  {
+   "section": "Introduction à la CITES et fonctionnement des Annexes I, II et III",
+   "text": "L’Article 7 de la CITES stipule que des dérogations aux obligations sur la délivrance des permis CITES couvrent :\n- les spécimens en transit ou en transbordement qui restent sous le contrôle de la douane ;\n- les spécimens qui ont été acquis avant que les dispositions CITES ne s’appliquent aux spécimens en question (ou spécimens pré-Convention) ;\n- les spécimens qui sont des objets personnels ou à usage domestique ;\n- les animaux élevés en captivité et les plantes reproduites artificiellement ;\n- les spécimens destinés à la recherche scientifique ;\n- les animaux ou les plantes faisant partie d'une exposition d'animaux ou de plantes itinérants telle que les cirques.\n\nOù trouver des informations supplémentaires pertinentes à la CITES ?\nPage 3\nEspèces inscrites à la CITES au Gabon",
+   "chunk_id": "DOC-adb124d64095-C0010",
+   "text_hash": "667b82bef8b01858a00b96b0597e73b0d5087cad"
+  },
+  {
+   "section": "Informations Sommaires sur la Liste Rouge Mondiale des Espèces Menacées de l'UICN",
+   "text": "Informations Sommaires sur la Liste Rouge Mondiale des Espèces Menacées\nde l’Union Internationale pour la Conservation de la Nature\n\nL’Union Internationale pour la Conservation de la Nature (UICN) est l’autorité mondiale principale en matière de détermination du statut de conservation des espèces. C’est une organisation qui fonctionne sur un système d’adhésion de membres et qui comprend plus de 1000 organisations\net 10 000 experts scientifiques et spécialistes. La Liste Rouge Mondiale des Espèces Menacées de l’UICN (ou Liste Rouge) est l'inventaire\nmondial le plus complet de l'état de conservation global des espèces végétales et animales. Elle fournit des informations taxonomiques, et des détails sur l’état de conservation et la répartition des plantes et des animaux qui ont été évalués au niveau global.\n\nLes espèces évaluées dans la Liste Rouge Mondiale des Espèces Menacées de l’UICN sont classées dans neufs catégories basées sur des critères tels que le taux de déclin, la taille de la population, la zone de répartition géographique, le degré de peuplement et la fragmentation de la répartition. Les neufs catégories de la Liste Rouge de l’UICN sont les suivantes :",
+   "chunk_id": "DOC-adb124d64095-C0011",
+   "text_hash": "6757697ae806e76655a10f92988b3698141016f6"
+  },
+  {
+   "section": "Informations Sommaires sur la Liste Rouge Mondiale des Espèces Menacées de l'UICN",
+   "text": "Ce guide met en avant les espèces les plus menacées en utilisant un code de couleur pour marquer les espèces qui sont en danger critique\nd’extinction et en danger d’extinction par la couleur rouge et pour marquer les espèces vulnérables par la couleur orange.",
+   "chunk_id": "DOC-adb124d64095-C0012",
+   "text_hash": "eea0a1dee59b5b142328cad5ec970b512704d83d"
+  },
+  {
+   "section": "Informations Sommaires sur la Liste Rouge Mondiale des Espèces Menacées de l'UICN",
+   "text": "Des informations complémentaires sur la Liste Rouge sont disponibles à l’adresse : http://www.uicn.fr/IMG/pdf/UICN_2001_Categories_et_criteres_Liste_Rouge.pdf\nCatégories de la Liste Rouge Mondiale des Espèces Menacées de l’UICN\nEteint (EX)\nIl ne fait aucun doute que le dernier individu du taxon est mort\nEteint à l’état sauvage (EW)\nLe taxon ne survit qu’en culture, en captivité ou dans le cadre d’une population (ou de populations) naturalisée(s), nettement en dehors de son ancienne aire de répartition\nEn danger critique d’extinction\nLe taxon est confronté à un risque extrêmement élevé d’extinction à l’état sauvage\nEn danger (EN)\nLe taxon est confronté à un risque très élevé d’extinction à l’état sauvage\nVulnérable (VU)\nLe taxon est confronté à un risque élevé d’extinction à l’état sauvage\nQuasi menacée (NT)\nLe taxon ne remplit pas, pour l’instant, les critères des catégories En danger critique d’extinction, En danger ou Vulnérable mais il est près de remplir ces critères\nPréoccupation mineure (LC)\nLe taxon ne remplit pas les critères des catégories En danger critique d’extinction, En danger, Vulnérable ou Quasi menacé\nDonnées insuffisantes (DD)\nOn ne dispose pas d’assez de données pour évaluer directement ou indirectement le\nrisque d’extinction en fonction de la distribution du taxon et/ou de l’état de sa population.\n\nNon évaluée (NE)\nLe taxon n’a pas encore été confronté aux critères\n\nPage 4\nEspèces inscrites à la CITES au Gabon",
+   "chunk_id": "DOC-adb124d64095-C0013",
+   "text_hash": "3589eb9413f12ecefdd4f5857295f0878950da29"
+  },
+  {
+   "section": "Résumé de la Réglementation Applicable et Autorités CITES au Gabon",
+   "text": "Résumé de la Réglementation Applicable\nCITES\n\nFins (de l’importation) principalement commerciales\nAutres buts que les fins commerciales\ntels que la recherche scientifique\nAnnexe I\n\n(CITES\nArticle III)\n→ Commerce international INTERDIT (sauf en cas de\ndérogation de l’Article 7 de la CITES)\n\n→ Commerce international PEUT ÊTRE AUTORISÉ\n\nEXPORTATION et IMPORTATION\n→ exiger un permis d’importation et un permis d’exportation\n(sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\n\nRÉEXPORTATION\n→ exiger un permis d’importation et un certificat de réexportation (sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\n\nINTRODUCTION EN PROVENANCE DE LA MER\n→ exiger un certificat d’introduction en provenance de la mer\n(sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\nAnnexe II\n\n(CITES\nArticle IV)\n→ Commerce international PEUT ÊTRE AUTORISÉ\n\nEXPORTATION et IMPORTATION\n→ exiger un permis d’exportation (sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment\naux obligations CITES (animaux vivants)",
+   "chunk_id": "DOC-adb124d64095-C0014",
+   "text_hash": "ee736b9b089e22640e5f20ca4bf2637ba1158571"
+  },
+  {
+   "section": "Résumé de la Réglementation Applicable et Autorités CITES au Gabon",
+   "text": "RÉEXPORTATION\n→ exiger un certificat de réexportation (sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment\naux obligations CITES (animaux vivants)\n\nINTRODUCTION EN PROVENANCE DE LA MER\n→ exiger un certificat d’introduction en provenance de la\nmer sauf en cas de dérogation de l’Article 7 de la CITES\n→ s’assurer que les conditions de transport se conforment\naux obligations CITES (animaux vivants)\n→ Commerce international PEUT ÊTRE AUTORISÉ\n\nEXPORTATION et IMPORTATION\n→ exiger un permis d’exportation (sauf en cas de dérogation de\nl’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\n\nRÉEXPORTATION\n→ exiger un certificat de réexportation (sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\n\nINTRODUCTION EN PROVENANCE DE LA MER\n→ exiger un certificat d’introduction en provenance de la mer\nsauf en cas de dérogation de l’Article 7 de la CITES\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\nPage 5\nEspèces inscrites à la CITES au Gabon",
+   "chunk_id": "DOC-adb124d64095-C0015",
+   "text_hash": "bfcf11eb85549b1817ad277d23946e28d73673df"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "Dispositions pertinentes de la CITES\n\nArticle III. Réglementation du commerce des spécimens d'espèces inscrites à l'Annexe I\n\n1. Tout commerce de spécimens d'une espèce inscrite à l'Annexe I doit être conforme aux dispositions du présent Article.\n\n2. L'exportation d'un spécimen d'une espèce inscrite à l'Annexe I nécessite la délivrance et la présentation préalables d'un permis d'exportation.\nCe permis doit satisfaire aux conditions suivantes:\n\na) une autorité scientifique de l'Etat d'exportation a émis l'avis que cette exportation ne nuit pas à la survie de l'espèce intéressée;\n\nb) un organe de gestion de l'Etat d'exportation a la preuve que le spécimen n'a pas été obtenu en contravention aux lois sur la préservation de\nla faune et de la flore en vigueur dans cet Etat;\nc) un organe de gestion de l'Etat d'exportation a la preuve que tout spécimen vivant sera mis en état et transporté de façon à éviter les risques\nde blessures, de maladie, ou de traitement rigoureux;\nd) un organe de gestion de l'Etat d'exportation a la preuve qu'un permis d'importation a été accordé pour ledit spécimen.\n\n3. L'importation d'un spécimen d'une espèce inscrite à l'Annexe I nécessite la délivrance et la présentation préalables d'un permis d'importation et,\nsoit d'un permis d'exportation, soit d'un certificat de réexportation. Un permis d'importation doit satisfaire aux conditions suivantes:\nAnnexe III",
+   "chunk_id": "DOC-adb124d64095-C0016",
+   "text_hash": "6d064be5bdbbbd929f81cc661ef48bfc7e6ce166"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "(CITES\nArticle V)\n→ Commerce international PEUT ÊTRE AUTORISÉ\n\nEXPORTATION et IMPORTATION\n→ exiger un permis d’exportation délivré par le pays qui a\ninscrit l’espèce à l’Annexe III et un certificat d’origine délivré par les autres Parties (sauf en cas de dérogation de\nl’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment\naux obligations CITES (animaux vivants)\n\nRÉEXPORTATION\n→ exiger un certificat de réexportation (sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment\naux obligations CITES (animaux vivants)\n→ Commerce international PEUT ÊTRE AUTORISÉ\n\nEXPORTATION et IMPORTATION\n→ exiger un permis d’exportation délivré par le pays qui a inscrit\nl’espèce à l’Annexe III et un certificat d’origine délivré par les\nautres Parties (sauf en cas de dérogation de l’Article 7 de la\nCITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)",
+   "chunk_id": "DOC-adb124d64095-C0017",
+   "text_hash": "024a51ec697273b1c50ea2a31a2a1efddcde9e7d"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "RÉEXPORTATION\n→ exiger un certificat de réexportation (sauf en cas de dérogation de l’Article 7 de la CITES)\n→ s’assurer que les conditions de transport se conforment aux\nobligations CITES (animaux vivants)\nLOI NATIONALE\nEspèces intégralement protégées\n→ Chasse, capture, détention, commercialisation et transport interdits sauf si délivrance d’un\npermis scientifique de chasse et le permis scientifique de capture (Article 92 du Code Forestier)\nEspèces partiellement protégées\n→ Chasse, capture, transport et commercialisation soumis à une réglementation spécifique\n(Article 92 du Code Forestier)\nEspèces non-protégées\n→ Chasse et capture soumis à une réglementation générale (Article 92 du Code Forestier)\nPage 6\nEspèces inscrites à la CITES au Gabon\n\na) une autorité scientifique de l'Etat d'importation a émis l'avis que les objectifs de l'importation ne nuisent pas à la survie de ladite espèce;\nb) une autorité scientifique de l'Etat d'importation a la preuve que, dans le cas d'un spécimen vivant, le destinataire a les installations adéquates\npour le conserver et le traiter avec soin;\nc) un organe de gestion de l'Etat d'importation a la preuve que le spécimen ne sera pas utilisé à des fins principalement commerciales.",
+   "chunk_id": "DOC-adb124d64095-C0018",
+   "text_hash": "5812c039cb6f620acffe2591beacab53211f83ed"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "4. La réexportation d'un spécimen d'une espèce inscrite à l'Annexe I nécessite la délivrance et la présentation préalables d'un certificat de réexportation. Ce certificat doit satisfaire aux conditions suivantes:\na) un organe de gestion de l'Etat de réexportation a la preuve que le spécimen a été importé dans cet Etat conformément aux dispositions de la\nprésente Convention;\nb) un organe de gestion de l'Etat de réexportation a la preuve que tout spécimen vivant sera mis en état et transporté de façon à éviter les\nrisques de blessures, de maladie, ou de traitement rigoureux;\nc) un organe de gestion de l'Etat de réexportation a la preuve qu'un permis d'importation a été accordé pour tout spécimen vivant.",
+   "chunk_id": "DOC-adb124d64095-C0019",
+   "text_hash": "2b85f8a6042013ab9b59d330b601d40d6c230017"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "5. L'introduction en provenance de la mer d'un spécimen d'une espèce inscrite à l'Annexe I nécessite la délivrance préalable d'un certificat par l'organe de gestion de l'Etat dans lequel le spécimen a été introduit. Ledit certificat doit satisfaire aux conditions suivantes:\na) une autorité scientifique de l'Etat dans lequel le spécimen a été introduit a émis l'avis que l'introduction ne nuit pas à la survie de ladite espèce;\nb) un organe de gestion de l'Etat dans lequel le spécimen a été introduit a la preuve que dans le cas d'un spécimen vivant, le destinataire a les\ninstallations adéquates pour le conserver et le traiter avec soin;\nc) un organe de gestion de l'Etat dans lequel le spécimen a été introduit a la preuve que le spécimen ne sera pas utilisé à des fins principalement commerciales.\n\nArticle IV. Réglementation du commerce des spécimens d'espèces inscrites à l'Annexe II\n\n1. Tout commerce de spécimens d'une espèce inscrite à l'Annexe II doit être conforme aux dispositions du présent Article.",
+   "chunk_id": "DOC-adb124d64095-C0020",
+   "text_hash": "a34dd8ff3cb4ff0d53939ae3b604622f647091df"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "2. L'exportation d'un spécimen d'une espèce inscrite à l'Annexe II nécessite la délivrance et la présentation préalables d'un permis d'exportation.\nCe permis doit satisfaire aux conditions suivantes:\na) une autorité scientifique de l'Etat d'exportation a émis l'avis que cette exportation ne nuit pas à la survie de l'espèce intéressée;\nb) un organe de gestion de l'Etat d'exportation a la preuve que le spécimen n'a pas été obtenu en contravention aux lois sur la préservation de\nla faune et de la flore en vigueur dans cet Etat;\nc) un organe de gestion de l'Etat d'exportation a la preuve que tout spécimen vivant sera mis en état et transporté de façon à éviter les risques\nde blessures, de maladie, ou de traitement rigoureux.",
+   "chunk_id": "DOC-adb124d64095-C0021",
+   "text_hash": "8a63058724774ddc70593e2163595b2683431695"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "3. Pour chaque Partie, une autorité scientifique surveillera de façon continue la délivrance par ladite Partie des permis d'exportation pour les spécimens d'espèces inscrites à l'Annexe II, ainsi que les exportations réelles de ces spécimens. Lorsqu'une autorité scientifique constate que l'exportation de spécimens d'une de ces espèces devrait être limitée pour la conserver dans toute son aire de distribution, à un niveau qui soit à la\nfois conforme à son rôle dans les écosystèmes où elle est présente, et nettement supérieur à celui qui entraînerait l'inscription de cette espèce à\nl'Annexe I, elle informe l'organe de gestion compétent des mesures appropriées qui doivent être prises pour limiter la délivrance de permis d'exportation pour le commerce des spécimens de ladite espèce.\n\n4. L'importation d'un spécimen d'une espèce inscrite à l'Annexe II nécessite la présentation préalable soit d'un permis d'exportation, soit d'un certificat de réexportation.\nPage 7\nEspèces inscrites à la CITES au Gabon",
+   "chunk_id": "DOC-adb124d64095-C0022",
+   "text_hash": "42285a6c678ee97d57b48854af6b98eb4b0f9e95"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "5. La réexportation d'un spécimen d'une espèce inscrite à l'Annexe II nécessite la délivrance et la présentation préalables d'un certificat de réexportation. Ce certificat doit satisfaire aux conditions suivantes:\na) un organe de gestion de l'Etat de réexportation a la preuve que le spécimen a été importé dans cet Etat conformément aux dispositions de la\nprésente Convention;\nb) un organe de gestion de l'Etat de réexportation a la preuve que tout spécimen vivant sera mis en état et transporté de façon à éviter les\nrisques de blessures, de maladie ou de traitement rigoureux.\n\n6. L'introduction en provenance de la mer d'un spécimen d'une espèce inscrite à l'Annexe II nécessite la délivrance préalable d'un certificat par l'organe de gestion de l'Etat dans lequel le spécimen a été introduit. Ledit certificat doit satisfaire aux conditions suivantes:\na) une autorité scientifique de l'Etat dans lequel le spécimen a été introduit a émis l'avis que l'introduction ne nuit pas à la survie de ladite espèce;\nb) un organe de gestion de l'Etat dans lequel le spécimen a été introduit a la preuve que tout spécimen vivant sera traité de façon à éviter les\nrisques de blessures, de maladie ou de traitement rigoureux.",
+   "chunk_id": "DOC-adb124d64095-C0023",
+   "text_hash": "e8c82b21f976fb03a25ef03bb7544aa6057418cd"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "7. Les certificats visés au paragraphe 6 ci-dessus peuvent être délivrés, sur avis de l'autorité scientifique pris après consultation des autres autorités scientifiques nationales, et, le cas échéant, des autorités scientifiques internationales, pour le nombre total de spécimens dont l'introduction\nest autorisée pendant des périodes n'excédant pas un an.\n\nArticle V. Réglementation du commerce de spécimens d'espèces inscrites à l'Annexe III\n\n1. Tout commerce de spécimens d'une espèce inscrite à l'Annexe III doit être conforme aux dispositions du présent Article\n\n2. L'exportation d'un spécimen d'une espèce inscrite à l'Annexe III par tout Etat qui a inscrit ladite espèce à l'Annexe III nécessite la délivrance et la\nprésentation préalables d'un permis d'exportation qui doit satisfaire aux conditions suivantes:\na) un organe de gestion de l'Etat d'exportation a la preuve que le spécimen en question n'a pas été obtenu en contravention aux lois sur la préservation de la faune et de la flore en vigueur dans cet Etat;\nb) un organe de gestion de l'Etat d'exportation a la preuve que tout spécimen vivant sera mis en état et transporté de façon à éviter les risques\nde blessures, de maladie ou de traitement rigoureux.",
+   "chunk_id": "DOC-adb124d64095-C0024",
+   "text_hash": "eef76806f216f4e9d73757c11ce5cb2e6c19f34a"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "3. Sauf dans les cas prévus au paragraphe 4 du présent Article, l'importation de tout spécimen d'une espèce inscrite à l'Annexe III nécessite la présentation préalable d'un certificat d'origine et, dans le cas d'une importation en provenance d'un Etat qui a inscrit ladite espèce à l'Annexe III,\nd'un permis d'exportation.\n\n4. Lorsqu'il s'agit d'une réexportation, un certificat délivré par l'organe de gestion de l'Etat de réexportation précisant que le spécimen a été transformé dans cet Etat, ou qu'il va être réexporté en l'état, fera preuve pour l'Etat d'importation que les dispositions de la présente Convention ont\nété respectées pour les spécimens en question.\n\nDispositions pertinentes de la loi nationale:",
+   "chunk_id": "DOC-adb124d64095-C0025",
+   "text_hash": "bd1a636a00b89ea3bc0193e33cc12577aa385f9e"
+  },
+  {
+   "section": "Dispositions conventionnelles CITES (Articles III et IV) : Exportation, Importation et Permis",
+   "text": "Article 92 du Code Forestier: Dans le cadre de l’aménagement de la Faune sauvage, l’administration des Eaux et Forêts procède également au\nclassement des espèces animales. Cette classification doit faire apparaître :\n• la liste des espèces intégralement protégées dont la chasse, la capture, la détention, le transport et la commercialisation sont interdits ;\n• la liste des espèces partiellement protégées dont la chasse, la capture, le transport et la commercialisation sont interdits ;\n• la liste des espèces non protégées dont la chasse et la capture font l’objet d’une réglementation générale.\nLes listes visées ci-dessus sont établies et révisables par voie réglementaire.\nPage 8\nEspèces inscrites à la CITES au Gabon",
+   "chunk_id": "DOC-adb124d64095-C0026",
+   "text_hash": "6433b7dc03c6abff167e44ba58ed671d5a9786d0"
+  },
+  {
+   "section": "Étapes du Contrôle et Procédures de Vérification des Permis CITES au Gabon",
+   "text": "Que le permis ...\n□ soit en cours de validité (six mois après la délivrance pour les permis d’exportation mais certaines\nParties utilisent une durée de validité plus courte ; un an maximum pour les permis d’importation)\n□ a été signé par le postulant\n□ inclut le nom et les coordonnées complètes de l’importateur et de l’exportateur\n□ décrit avec exactitude les spécimens inclus dans la cargaison\n□ soit bien un permis CITES et pas un certificat sanitaire ou tout autre document\n□ soit un document original et pas une photocopie ou une copie\n□ n’a pas été falsifié (c.à.d. qu’il n’a pas été modifié après sa délivrance)\n□ a été délivré par l’autorité compétente\n□ n’inclut aucune erreur (code de source correct, pays d’origine correct, etc.)\n□ comprend des informations qui correspondent au contenu de la cargaison (même espèces,\nmême nombre d’espèces, description et marque d’identification exactes, même contenu que sur le\npermis d’exportation initial s’il s’agit d’une réexportation; code de source et pays d’origine exacts)\n□ inclut un timbre de sécurité si le pays ayant délivré le permis est un pays qui utilise des timbres de\nsécurité *\n□ ait été endossé au moment de l’exportation et que le nombre de spécimens exportés soit confirmé\nsur le permis",
+   "chunk_id": "DOC-adb124d64095-C0027",
+   "text_hash": "57b5971baba3d239104ed4cec73c9a5086c98ee6"
+  },
+  {
+   "section": "Étapes du Contrôle et Procédures de Vérification des Permis CITES au Gabon",
+   "text": "Que le timbre de sécurité ...\n□ a été annulé par une signature et oblitéré par cachet ou un sceau (le cachet, la signature et le numéro du timbre de sécurité doivent être lisibles)\n□ soit authentique et ait été délivré pour le permis en question",
+   "chunk_id": "DOC-adb124d64095-C0028",
+   "text_hash": "b63e6ae21cfa4c6328e6edf6dc6e3e6e408efabf"
+  },
+  {
+   "section": "Étapes du Contrôle et Procédures de Vérification des Permis CITES au Gabon",
+   "text": "Étapes du Contrôle des Permis CITES\nPage 10\nEspèces inscrites à la CITES au Gabon\n* Liste des pays exigeant un timbre de sécurité CITES au 30 novembre 2011 (CITES Notification No 2011/052): Afrique du Sud, Argentine,\nBahamas, Bénin, Bermudes, Botswana, Brésil, Burkina Faso, Cambodge, Cameroun, Chili, Colombie, Congo, Costa Rica, Côte d’Ivoire, Croatie,\nCuba, Danemark (Groenland), El Salvador, Emirats arabes unis, Equateur, Erythrée, Fédération de Russie, Finlande, Gabon, Ghana, Guatemala, Guinée-Bissau, Guyana, Honduras, Inde, Indonésie, Iran (République islamique d’), Jamaïque, Japon, Kazakhstan, Kenya, Liberia, Libye,\nLuxembourg, Madagascar, Malaisie, Malawi, Mali, Malte, Maroc, Mongolie, Mozambique, Namibie, Népal, Nicaragua, Niger, Norvège, NouvelleZélande, Ouzbékistan, Pakistan, Panama, Paraguay, Pérou, Philippines, Pologne, République centrafricaine, République démocratique du Congo, République dominicaine, République tchèque, République-Unie de Tanzanie, Roumanie, Serbie, Slovaquie, Slovénie, Soudan, Sri Lanka,\nSuède, Suisse, Suriname, Tchad, Togo, Trinité-et-Tobago, Uruguay, Vanuatu, Venezuela (République bolivarienne du), Viet Nam, Zambie et\nZimbabwe",
+   "chunk_id": "DOC-adb124d64095-C0029",
+   "text_hash": "2f1a1a96f545abe29c61717ce99e0edfeda3c93b"
+  },
+  {
+   "section": "Espèce CITES: Arctocebus aureus (Potto doré)",
+   "text": "Espèce: Arctocebus aureus\nClasse: Mammalia (mammals)\nNom français: Potto doré\nNom anglais: Golden Angwantibo\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0030",
+   "text_hash": "8897b5146dbdfbe3cc7a4225cf4f3f37ce091925"
+  },
+  {
+   "section": "Espèce CITES: Perodicticus potto (Potto)",
+   "text": "Espèce: Perodicticus potto\nClasse: Mammalia (mammals)\nNom français: Potto\nNom anglais: Potto\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, os, trophées, corps",
+   "chunk_id": "DOC-adb124d64095-C0031",
+   "text_hash": "690d83e02d5733806104b1ced437270a5f2012e7"
+  },
+  {
+   "section": "Espèce CITES: Euoticus elegantulus (Galago élégant)",
+   "text": "Espèce: Euoticus elegantulus\nClasse: Mammalia (mammals)\nNom français: Galago élégant\nNom anglais: Southern Needle-clawed Galago\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Aucun commerce rapporté",
+   "chunk_id": "DOC-adb124d64095-C0032",
+   "text_hash": "2cf917ea61762e3aa9dfa1b6769e736e1d4b22e4"
+  },
+  {
+   "section": "Espèce CITES: Galago alleni (Galago d'Allen)",
+   "text": "Espèce: Galago alleni\nClasse: Mammalia (mammals)\nNom français: Galago d'Allen\nNom anglais: Allen's Bushbaby\nSynonymes: Sciurocheirus alleni\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, os, trophées",
+   "chunk_id": "DOC-adb124d64095-C0033",
+   "text_hash": "85e3a76573c13155d967e9d72749951d09e7de4e"
+  },
+  {
+   "section": "Espèce CITES: Galago demidoff (Galago de Demidoff)",
+   "text": "Espèce: Galago demidoff\nClasse: Mammalia (mammals)\nNom français: Galago de Demidoff\nNom anglais: Demidoff's Dwarf Galago\nSynonymes: Galagoides demidovii\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, os, trophées",
+   "chunk_id": "DOC-adb124d64095-C0034",
+   "text_hash": "d4563b45fec8771b30cc3a70e3b279f90d309518"
+  },
+  {
+   "section": "Espèce CITES: Galago gabonensis (Galago d'Allen du Gabon)",
+   "text": "Espèce: Galago gabonensis\nClasse: Mammalia (mammals)\nNom français: Galago d'Allen du Gabon\nNom anglais: s Galago\nSynonymes: Sciurocheirus gabonensis\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0035",
+   "text_hash": "eb987c664e1412804bb764ed1e024b78df7fbf80"
+  },
+  {
+   "section": "Espèce CITES: Galago thomasi (Galago de Thomas)",
+   "text": "Espèce: Galago thomasi\nClasse: Mammalia (mammals)\nNom français: Galago de Thomas\nNom anglais: Thomas's Dwarf Galago\nSynonymes: Galagoides thomasi\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0036",
+   "text_hash": "d25c24c9109cc422be667bb5ec61ca58ced87e0d"
+  },
+  {
+   "section": "Espèce CITES: Cercocebus torquatus (Mangabey Couronné)",
+   "text": "Espèce: Cercocebus torquatus\nClasse: Mammalia (mammals)\nNom français: Mangabey Couronné\nNom anglais: Collared Mangabey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, os, peaux, dents, trophées",
+   "chunk_id": "DOC-adb124d64095-C0037",
+   "text_hash": "d44b91cba16f96216cca0353a00023fe50dc4f33"
+  },
+  {
+   "section": "Espèce CITES: Cercocebus agilis (Cercocèbe agile)",
+   "text": "Espèce: Cercocebus agilis\nClasse: Mammalia (mammals)\nNom français: Cercocèbe agile\nNom anglais: Agile Mangabey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0038",
+   "text_hash": "6f8baad96cd92ea1490bb07d0dc119e019e99041"
+  },
+  {
+   "section": "Espèce CITES: Cercocebus cephus (Guenon à moustaches)",
+   "text": "Espèce: Cercocebus cephus\nClasse: Mammalia (mammals)\nNom français: Guenon à moustaches\nNom anglais: Moustached Monkey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Squelettes, peaux, crânes, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0039",
+   "text_hash": "60b3b4b37152285fd19ec73e7e3a7adbdfc7285e"
+  },
+  {
+   "section": "Espèce CITES: Cercopithecus neglectus (Cercopithèque de Brazza)",
+   "text": "Espèce: Cercopithecus neglectus\nClasse: Mammalia (mammals)\nNom français: Cercopithèque de Brazza\nNom anglais: s Monkey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Squelettes, peaux, crânes, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0040",
+   "text_hash": "e901ce0b3e74311cbf45281d88cdddd34c4ec439"
+  },
+  {
+   "section": "Espèce CITES: Cercopithecus nictitans (Blanc-Nez)",
+   "text": "Espèce: Cercopithecus nictitans\nClasse: Mammalia (mammals)\nNom français: Blanc-Nez\nNom anglais: Greater White-nosed Monkey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, os, peaux, produits en cuir, trophées",
+   "chunk_id": "DOC-adb124d64095-C0041",
+   "text_hash": "7ea111adc70afbe083064fd43fe1fc813892cec7"
+  },
+  {
+   "section": "Espèce CITES: Cercopithecus pogonias (Guenon Couronnée)",
+   "text": "Espèce: Cercopithecus pogonias\nClasse: Mammalia (mammals)\nNom français: Guenon Couronnée\nNom anglais: Crowned Guenon\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, os, crânes, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0042",
+   "text_hash": "f5361a16983ee6e56739efaebc28094f69f291e4"
+  },
+  {
+   "section": "Espèce CITES: Cercopithecus solatus (Cercopithèque à queue de soleil)",
+   "text": "Espèce: Cercopithecus solatus\nClasse: Mammalia (mammals)\nNom français: Cercopithèque à queue de soleil\nNom anglais: Sun-tailed Monkey\nStatut CITES: Annexe II\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, corps, sculptures, pieds, poils, peaux, crânes,",
+   "chunk_id": "DOC-adb124d64095-C0043",
+   "text_hash": "152d9d4909f5f659676e7f68c9c78f26b9340b2d"
+  },
+  {
+   "section": "Espèce CITES: Chlorocebus cynosuros (Malbrouck)",
+   "text": "Espèce: Chlorocebus cynosuros\nClasse: Mammalia (mammals)\nNom français: Malbrouck\nNom anglais: Malbrouck Monkey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Crânes, spécimens, trophées, produits dérivés",
+   "chunk_id": "DOC-adb124d64095-C0044",
+   "text_hash": "f7d7d6cd333a5da3807fbb9022ddc64c7cd7648e"
+  },
+  {
+   "section": "Espèce CITES: Colobus guereza (Colobe à Epaules Blanches)",
+   "text": "Espèce: Colobus guereza\nClasse: Mammalia (mammals)\nNom français: Colobe à Epaules Blanches\nNom anglais: Eastern Black-and-white Colobus\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, os, peaux, poils, queues, corps, sculptures,",
+   "chunk_id": "DOC-adb124d64095-C0045",
+   "text_hash": "c9366fe82bc555e2bb6207785041d9e99b4dd801"
+  },
+  {
+   "section": "Espèce CITES: Colobus satanas (Colobe Satan)",
+   "text": "Espèce: Colobus satanas\nClasse: Mammalia (mammals)\nNom français: Colobe Satan\nNom anglais: Black Colobus\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Peaux, produits en cuir, crânes, spécimens, vêtements, poils, os",
+   "chunk_id": "DOC-adb124d64095-C0046",
+   "text_hash": "8e1bcb6edd31430e6691d8de9f86e35f08bb9fe7"
+  },
+  {
+   "section": "Espèce CITES: Lophocebus albigena (Mangabey à Joues Blanches)",
+   "text": "Espèce: Lophocebus albigena\nClasse: Mammalia (mammals)\nNom français: Mangabey à Joues Blanches\nNom anglais: Grey-cheeked Mangabey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, poils, peaux, crânes, spécimens, trophées,",
+   "chunk_id": "DOC-adb124d64095-C0047",
+   "text_hash": "eca2a811fed5822256bf3cb1848675a24ecc1b77"
+  },
+  {
+   "section": "Espèce CITES: Mandrillus leucophaeus (Drill)",
+   "text": "Espèce: Mandrillus leucophaeus\nClasse: Mammalia (mammals)\nNom français: Drill\nNom anglais: Drill\nStatut CITES: Annexe I\nStatut UICN: EN\nForme dans le commerce: Animaux vivants, squelettes, crânes, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0048",
+   "text_hash": "3a4764a3f2f30c40616136fe82f0ae18ff8deeb0"
+  },
+  {
+   "section": "Espèce CITES: Mandrillus sphinx (Mandrill)",
+   "text": "Espèce: Mandrillus sphinx\nClasse: Mammalia (mammals)\nNom français: Mandrill\nNom anglais: Mandrill\nStatut CITES: Annexe I\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, poils, corps, squelettes, crânes",
+   "chunk_id": "DOC-adb124d64095-C0049",
+   "text_hash": "dd8bd832da057dd69661cf18425c073dbc3950eb"
+  },
+  {
+   "section": "Espèce CITES: Miopithecus ogouensis (Talapoin)",
+   "text": "Espèce: Miopithecus ogouensis\nClasse: Mammalia (mammals)\nNom français: Talapoin\nNom anglais: Northern Talapoin Monkey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0050",
+   "text_hash": "ae1c58d06fc8bd6b5e287249421ce0f23b0dbc7b"
+  },
+  {
+   "section": "Espèce CITES: Gorilla gorilla (Gorille)",
+   "text": "Espèce: Gorilla gorilla\nClasse: Mammalia (mammals)\nNom français: Gorille\nNom anglais: Western Gorilla\nStatut CITES: Annexe I\nStatut UICN: CR\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, poils, peaux, crânes, spécimens, trophées,",
+   "chunk_id": "DOC-adb124d64095-C0051",
+   "text_hash": "32de4efad58a1ab89c61d3f56718c865928c303f"
+  },
+  {
+   "section": "Espèce CITES: Pan troglodytes (Chimpanzé)",
+   "text": "Espèce: Pan troglodytes\nClasse: Mammalia (mammals)\nNom français: Chimpanzé\nNom anglais: Chimpanzee\nStatut CITES: Annexe I\nStatut UICN: EN\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, poils, peaux, crânes, spécimens, trophées,",
+   "chunk_id": "DOC-adb124d64095-C0052",
+   "text_hash": "2f6d478a6ec512669b1d32d5f5cde11a7232a182"
+  },
+  {
+   "section": "Espèce CITES: Manis gigantea (Pangolin Géant)",
+   "text": "Espèce: Manis gigantea\nClasse: Mammalia (mammals)\nNom français: Pangolin Géant\nNom anglais: Giant Ground Pangolin\nStatut CITES: Annexe II\nStatut UICN: NT\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, spécimens, corps",
+   "chunk_id": "DOC-adb124d64095-C0053",
+   "text_hash": "92523717636f6c5ef996480c60691dbb4e1d93f7"
+  },
+  {
+   "section": "Espèce CITES: Manis tetradactyla (Pangolin à Longue Queue)",
+   "text": "Espèce: Manis tetradactyla\nClasse: Mammalia (mammals)\nNom français: Pangolin à Longue Queue\nNom anglais: Black-bellied Pangolin\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, spécimens, corps, crânes, produits en cuir,",
+   "chunk_id": "DOC-adb124d64095-C0054",
+   "text_hash": "dc285562f447c77737a6293969a51663af6f99be"
+  },
+  {
+   "section": "Espèce CITES: Manis tricuspis (Pangolin à Ecailles Tricuspides)",
+   "text": "Espèce: Manis tricuspis\nClasse: Mammalia (mammals)\nNom français: Pangolin à Ecailles Tricuspides\nNom anglais: Three-cusped Pangolin\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Animaux vivants, spécimens, corps, crânes, produits en cuir,",
+   "chunk_id": "DOC-adb124d64095-C0055",
+   "text_hash": "d8e94a40fddef884c45323139b156cd56e1d1732"
+  },
+  {
+   "section": "Espèce CITES: Cercopithecus nictitans (Blanc-Nez)",
+   "text": "Espèce: Cercopithecus nictitans\nClasse: Mammalia (mammals)\nNom français: Blanc-Nez\nNom anglais: Greater White-nosed Monkey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, os, peaux, produits en cuir, trophées",
+   "chunk_id": "DOC-adb124d64095-C0056",
+   "text_hash": "7ea111adc70afbe083064fd43fe1fc813892cec7"
+  },
+  {
+   "section": "Espèce CITES: Delphinus capensis (Dauphin commun à long bec)",
+   "text": "Espèce: Delphinus capensis\nClasse: Mammalia (mammals)\nNom français: Dauphin commun à long bec\nNom anglais: Long-beaked Common Dolphin\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Os, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0057",
+   "text_hash": "883252ff68b217b515164d01f4f34edc4d987875"
+  },
+  {
+   "section": "Espèce CITES: Delphinus delphis (Dauphin commun à bec court)",
+   "text": "Espèce: Delphinus delphis\nClasse: Mammalia (mammals)\nNom français: Dauphin commun à bec court\nNom anglais: Short-beaked Common Dolphin\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, corps, sculptures, dents, spécimens, os",
+   "chunk_id": "DOC-adb124d64095-C0058",
+   "text_hash": "f1554e79b50f8fd31bf5adb86f92fbc2781bbb9f"
+  },
+  {
+   "section": "Espèce CITES: Stenella longirostris (Dauphin longirostre)",
+   "text": "Espèce: Stenella longirostris\nClasse: Mammalia (mammals)\nNom français: Dauphin longirostre\nNom anglais: Long-beaked Dolphin\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Corps, produits dérivés, morceaux de peaux, peaux, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0059",
+   "text_hash": "451c96a97a3a1370ef8297f82dbfdac2598fff3b"
+  },
+  {
+   "section": "Espèce CITES: Balaenoptera borealis (Baleinoptère de Rudolphi)",
+   "text": "Espèce: Balaenoptera borealis\nClasse: Mammalia (mammals)\nNom français: Baleinoptère de Rudolphi\nNom anglais: Sei Whale\nStatut CITES: Annexe I\nStatut UICN: EN\nForme dans le commerce: Fanons, corps, os, animaux vivants, viande, huile, morceaux de",
+   "chunk_id": "DOC-adb124d64095-C0060",
+   "text_hash": "ae1262207a4ea909bc08f0058591897bf654d2df"
+  },
+  {
+   "section": "Espèce CITES: Balaenoptera edeni (Rorqual de Bryde)",
+   "text": "Espèce: Balaenoptera edeni\nClasse: Mammalia (mammals)\nNom français: Rorqual de Bryde\nNom anglais: Bryde's Whale\nStatut CITES: Annexe I\nStatut UICN: DD\nForme dans le commerce: Corps, os, sque- lettes, viande, peaux, spécimens, crânes,",
+   "chunk_id": "DOC-adb124d64095-C0061",
+   "text_hash": "d0ac735a68d9b70f992ee7c10a6050a247e5ac32"
+  },
+  {
+   "section": "Espèce CITES: Balaenoptera musculus (Baleine Bleue)",
+   "text": "Espèce: Balaenoptera musculus\nClasse: Mammalia (mammals)\nNom français: Baleine Bleue\nNom anglais: Blue Whale\nStatut CITES: Annexe I\nStatut UICN: EN\nForme dans le commerce: Corps, os, sque- lettes, viande, peaux, spécimens, crânes,",
+   "chunk_id": "DOC-adb124d64095-C0062",
+   "text_hash": "7231470b2349f8c7a1a255e4b9ab286a77f773bd"
+  },
+  {
+   "section": "Espèce CITES: Balaenoptera physalus (Rorqual commun)",
+   "text": "Espèce: Balaenoptera physalus\nClasse: Mammalia (mammals)\nNom français: Rorqual commun\nNom anglais: Fin Whale\nStatut CITES: Annexe I\nStatut UICN: EN\nForme dans le commerce: Fanons, corps, os, produits en cuir. sculptures, viande, crânes,",
+   "chunk_id": "DOC-adb124d64095-C0063",
+   "text_hash": "73dda42b1a51be353a972e05537f72cc1d8a78fd"
+  },
+  {
+   "section": "Espèce CITES: Megaptera novaeangliae (Baleine à Bosse)",
+   "text": "Espèce: Megaptera novaeangliae\nClasse: Mammalia (mammals)\nNom français: Baleine à Bosse\nNom anglais: Humpback Whale\nStatut CITES: Annexe I\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Fanons, huile, os, peaux, spécimens, dents, cire",
+   "chunk_id": "DOC-adb124d64095-C0064",
+   "text_hash": "bb9f57f7dcb126f6e5706491a2f05b39a4ed55d7"
+  },
+  {
+   "section": "Espèce CITES: Physeter macrocephalus (Grand Cachalot)",
+   "text": "Espèce: Physeter macrocephalus\nClasse: Mammalia (mammals)\nNom français: Grand Cachalot\nNom anglais: Sperm Whale\nStatut CITES: Annexe I\nStatut UICN: VU\nForme dans le commerce: Fanons, corps, os, animaux vivants, viande, huile, morceaux de",
+   "chunk_id": "DOC-adb124d64095-C0065",
+   "text_hash": "6177213b096ccda7c93234c872f7476928c6b5bd"
+  },
+  {
+   "section": "Espèce CITES: Globicephala macrorhynchus (Baleine Pilote)",
+   "text": "Espèce: Globicephala macrorhynchus\nClasse: Mammalia (mammals)\nNom français: Baleine Pilote\nNom anglais: Short-finned Pilot Whale\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Os, animaux vi- vants, viande, morceaux de peau, spécimens,",
+   "chunk_id": "DOC-adb124d64095-C0066",
+   "text_hash": "dc489bdb6012b4f7ad098b7e25f36268ea14a904"
+  },
+  {
+   "section": "Espèce CITES: Grampus griseus (Dauphin de Risso)",
+   "text": "Espèce: Grampus griseus\nClasse: Mammalia (mammals)\nNom français: Dauphin de Risso\nNom anglais: Risso's Dolphin\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0067",
+   "text_hash": "36ccaf00be5dac0740621ab11dda0f58429ef146"
+  },
+  {
+   "section": "Espèce CITES: Orcinus orca (Orque Epaulard)",
+   "text": "Espèce: Orcinus orca\nClasse: Mammalia (mammals)\nNom français: Orque Epaulard\nNom anglais: Killer Whale\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Animaux vivants, os, sculptures, crânes, spécimens, dents",
+   "chunk_id": "DOC-adb124d64095-C0068",
+   "text_hash": "981b04d9d38ae2284400957499c766fcdbf74a5a"
+  },
+  {
+   "section": "Espèce CITES: Peponocephala electra (Dauphin d'Electre)",
+   "text": "Espèce: Peponocephala electra\nClasse: Mammalia (mammals)\nNom français: Dauphin d'Electre\nNom anglais: Melon-headed Whale\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Squelettes, peaux, crânes, spécimens, dents",
+   "chunk_id": "DOC-adb124d64095-C0069",
+   "text_hash": "63dd03198d58f680ce01cabf1b5153b538febd10"
+  },
+  {
+   "section": "Espèce CITES: Pseudorca crassidens (Fausse Orque)",
+   "text": "Espèce: Pseudorca crassidens\nClasse: Mammalia (mammals)\nNom français: Fausse Orque\nNom anglais: False Killer Whale\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Animaux vivants, spécimens, dents",
+   "chunk_id": "DOC-adb124d64095-C0070",
+   "text_hash": "5ff1552e6c893af7379594d758ee66feacfb192b"
+  },
+  {
+   "section": "Espèce CITES: Sousa teuszii (Dauphin à Bosse de L'Atlantique)",
+   "text": "Espèce: Sousa teuszii\nClasse: Mammalia (mammals)\nNom français: Dauphin à Bosse de L'Atlantique\nNom anglais: Atlantic Humpbacked Dolphin\nStatut CITES: Annexe I\nStatut UICN: VU\nForme dans le commerce: Morceaux de peaux, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0071",
+   "text_hash": "476d984ef29878b4cdf6711521e098e11b951240"
+  },
+  {
+   "section": "Espèce CITES: Stenella attenuata (Dauphin Tacheté Pantropical)",
+   "text": "Espèce: Stenella attenuata\nClasse: Mammalia (mammals)\nNom français: Dauphin Tacheté Pantropical\nNom anglais: Pantropical Spotted Dolphin\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, corps, os, squelettes, peaux, crânes, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0072",
+   "text_hash": "12884eba89d53675dc87ddb8e8d117178e408434"
+  },
+  {
+   "section": "Espèce CITES: Stenella frontalis (Dauphin tacheté de l'Atlantique)",
+   "text": "Espèce: Stenella frontalis\nClasse: Mammalia (mammals)\nNom français: Dauphin tacheté de l'Atlantique\nNom anglais: Atlantic Spotted Dolphin\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Os, peaux, crânes, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0073",
+   "text_hash": "56a135b828c1f96126896ae0317703e25469ae3e"
+  },
+  {
+   "section": "Espèce CITES: Steno bredanensis (Dauphin Sténo)",
+   "text": "Espèce: Steno bredanensis\nClasse: Mammalia (mammals)\nNom français: Dauphin Sténo\nNom anglais: Rough-toothed Dolphin\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Os, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0074",
+   "text_hash": "1df24ec3fc27b454d689563cd8a415b7f5c885d4"
+  },
+  {
+   "section": "Espèce CITES: Tursiops truncatus (Grand dauphin)",
+   "text": "Espèce: Tursiops truncatus\nClasse: Mammalia (mammals)\nNom français: Grand dauphin\nNom anglais: Common Bottlenose Dolphin\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, dents, spécimens, morceaux de peaux, corps,",
+   "chunk_id": "DOC-adb124d64095-C0075",
+   "text_hash": "8c710b8b0cd9160832fad556e4e1368ef8db14ab"
+  },
+  {
+   "section": "Espèce CITES: Aonyx capensis (Loutre à Joues Blanches)",
+   "text": "Espèce: Aonyx capensis\nClasse: Mammalia (mammals)\nNom français: Loutre à Joues Blanches\nNom anglais: African Clawless Otter\nStatut CITES: Annexe I\nStatut UICN: LC\nForme dans le commerce: Corps, peaux, pat- tes, animaux vivants, crânes, spécimens, sque-",
+   "chunk_id": "DOC-adb124d64095-C0076",
+   "text_hash": "7eaa0fddacaef21a4902915fe5d99ccc0555f4fb"
+  },
+  {
+   "section": "Espèce CITES: Hydrictis maculicollis (Loutre à Cou Tacheté)",
+   "text": "Espèce: Hydrictis maculicollis\nClasse: Mammalia (mammals)\nNom français: Loutre à Cou Tacheté\nNom anglais: Speckle-throated Otter\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, peaux, ani- maux vivants, crânes, trophées",
+   "chunk_id": "DOC-adb124d64095-C0077",
+   "text_hash": "3ca404abfdabf0e3a24169c882a0d8ca9854ba31"
+  },
+  {
+   "section": "Espèce CITES: Civettictis civetta (Civette Africaine)",
+   "text": "Espèce: Civettictis civetta\nClasse: Mammalia (mammals)\nNom français: Civette Africaine\nNom anglais: African Civet\nForme dans le commerce: Corps, peaux, ani- maux vivants, crânes, squelettes, griffes,",
+   "chunk_id": "DOC-adb124d64095-C0078",
+   "text_hash": "63b871e978c16780a02b294061bfe436eee271b4"
+  },
+  {
+   "section": "Espèce CITES: Caracal caracal (Lynx du Désert)",
+   "text": "Espèce: Caracal caracal\nClasse: Mammalia (mammals)\nNom français: Lynx du Désert\nNom anglais: Caracal\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, os, peaux, animaux vivants, dents, griffes, pattes, poils,",
+   "chunk_id": "DOC-adb124d64095-C0079",
+   "text_hash": "b3054e9ccfbf176265b90df10bd478b01ffbaf51"
+  },
+  {
+   "section": "Espèce CITES: Leptailurus serval (Chat Tigre)",
+   "text": "Espèce: Leptailurus serval\nClasse: Mammalia (mammals)\nNom français: Chat Tigre\nNom anglais: Serval\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Partiellement protégée au Gabon\nForme dans le commerce: Peaux, animaux vivants, os, pattes, griffes, produits en cuir,",
+   "chunk_id": "DOC-adb124d64095-C0080",
+   "text_hash": "db2ab7e3f03a33940ef1586e3ed1b4a5e375c114"
+  },
+  {
+   "section": "Espèce CITES: Panthera leo (Lion)",
+   "text": "Espèce: Panthera leo\nClasse: Mammalia (mammals)\nNom français: Lion\nNom anglais: Lion\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Peaux, animaux vivants, os, dents, griffes, pattes, poils, queues",
+   "chunk_id": "DOC-adb124d64095-C0081",
+   "text_hash": "1616872014471f032ea8d8771111144675543b85"
+  },
+  {
+   "section": "Espèce CITES: Panthera pardus (Léopard)",
+   "text": "Espèce: Panthera pardus\nClasse: Mammalia (mammals)\nNom français: Léopard\nNom anglais: Leopard\nStatut CITES: Annexe I\nStatut UICN: NT\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Peaux, animaux vivants, os, dents, griffes, pattes, poils, queues",
+   "chunk_id": "DOC-adb124d64095-C0082",
+   "text_hash": "aaa90f793ec5d858f77b4b66a7c57ca12b713c20"
+  },
+  {
+   "section": "Espèce CITES: Profelis aurata (Chat Doré)",
+   "text": "Espèce: Profelis aurata\nClasse: Mammalia (mammals)\nNom français: Chat Doré\nNom anglais: African Golden Cat\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Peaux, animaux vivants, produits en cuir, trophées",
+   "chunk_id": "DOC-adb124d64095-C0083",
+   "text_hash": "ecc15496adcbdb54cb18ef6df382872d1f372a49"
+  },
+  {
+   "section": "Espèce CITES: Arctocephalus pusillus (Arctocéphale d'Afrique du Sud)",
+   "text": "Espèce: Arctocephalus pusillus\nClasse: Mammalia (mammals)\nNom français: Arctocéphale d'Afrique du Sud\nNom anglais: Afro-Australian Fur Seal\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, peaux, plaques, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0084",
+   "text_hash": "709b71f6243d1f8d262b2bf70b0aef28ab942f1c"
+  },
+  {
+   "section": "Espèce CITES: Loxodonta africana (Eléphant d’Afrique)",
+   "text": "Espèce: Loxodonta africana\nClasse: Mammalia (mammals)\nNom français: Eléphant d’Afrique\nNom anglais: African Elephant\nStatut CITES: Annexe I\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, pieds, os, sculptures, oreilles, organes sexuels,",
+   "chunk_id": "DOC-adb124d64095-C0085",
+   "text_hash": "66f956d328fb0c733383e5f0178174e2da4cc338"
+  },
+  {
+   "section": "Espèce CITES: Trichechus senegalensis (Lamantin d'Afrique)",
+   "text": "Espèce: Trichechus senegalensis\nClasse: Mammalia (mammals)\nNom français: Lamantin d'Afrique\nNom anglais: African Manatee\nStatut CITES: Annexe II\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, os, peaux, crânes, spécimens, huile",
+   "chunk_id": "DOC-adb124d64095-C0086",
+   "text_hash": "0431dc35ed386527b96d8a1cf2af6f81e3ed5e37"
+  },
+  {
+   "section": "Espèce CITES: Hippopotamus amphibius (Hippopotame)",
+   "text": "Espèce: Hippopotamus amphibius\nClasse: Mammalia (mammals)\nNom français: Hippopotame\nNom anglais: Common Hippopotamus\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Animaux vivants, viande, os, oreilles, organes sexuels, queues,",
+   "chunk_id": "DOC-adb124d64095-C0087",
+   "text_hash": "55686f990d9469280c2d863aab7640deb7a8236f"
+  },
+  {
+   "section": "Espèce CITES: Cephalophus dorsalis (Céphalophe à Bande Dorsale Noire)",
+   "text": "Espèce: Cephalophus dorsalis\nClasse: Mammalia (mammals)\nNom français: Céphalophe à Bande Dorsale Noire\nNom anglais: Bay Duiker\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, corps, os, sculptures, cornes, peaux, crânes,",
+   "chunk_id": "DOC-adb124d64095-C0088",
+   "text_hash": "b1b975fe98b42c7b507230e3235b49e1821df143"
+  },
+  {
+   "section": "Espèce CITES: Cephalophus ogilbyi (Céphalophe d'Ogilby)",
+   "text": "Espèce: Cephalophus ogilbyi\nClasse: Mammalia (mammals)\nNom français: Céphalophe d'Ogilby\nNom anglais: Ogilby's Duiker\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Corps, peaux, pat- tes, animaux vivants, crânes, spécimens, sque-",
+   "chunk_id": "DOC-adb124d64095-C0089",
+   "text_hash": "f1d369fe653519cb60e3e413bc66f9c9cc4d28d3"
+  },
+  {
+   "section": "Espèce CITES: Cephalophus silvicultor (Céphalophe à Dos Jaune)",
+   "text": "Espèce: Cephalophus silvicultor\nClasse: Mammalia (mammals)\nNom français: Céphalophe à Dos Jaune\nNom anglais: Yellow-backed Duiker\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Partiellement protégée au Gabon\nForme dans le commerce: Animaux vivants, peaux, crânes, cornes, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0090",
+   "text_hash": "8f0eb6b17f84eb1a9d2dafe8f5a003661c706819"
+  },
+  {
+   "section": "Espèce CITES: Philantomba monticola (Céphalophe Bleu)",
+   "text": "Espèce: Philantomba monticola\nClasse: Mammalia (mammals)\nNom français: Céphalophe Bleu\nNom anglais: Blue Duiker\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, peaux, ani- maux vivants, crânes, os, cornes, pieds,",
+   "chunk_id": "DOC-adb124d64095-C0091",
+   "text_hash": "0b8f854ae9f50078c038f830c618508bb127372f"
+  },
+  {
+   "section": "Espèce CITES: Spheniscus demersus (Manchot du Cap)",
+   "text": "Espèce: Spheniscus demersus\nClasse: Mammalia (mammals)\nNom français: Manchot du Cap\nNom anglais: African Penguin\nStatut CITES: Annexe II\nStatut UICN: EN\nForme dans le commerce: Corps, plumes, animaux vivants, squelettes, peaux, crânes,",
+   "chunk_id": "DOC-adb124d64095-C0092",
+   "text_hash": "3f5b5e1cd65fbbd958f1297ab93b3d91cc083d13"
+  },
+  {
+   "section": "Espèce CITES: Phoeniconaias minor (Petit Flamant)",
+   "text": "Espèce: Phoeniconaias minor\nClasse: Mammalia (mammals)\nNom français: Petit Flamant\nNom anglais: Lesser Flamingo\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Corps, oeufs, plumes, oiseaux vivants, squelettes, trophées",
+   "chunk_id": "DOC-adb124d64095-C0093",
+   "text_hash": "3eb1928e0bfe8c9bbb9581a8c909eaca443c7615"
+  },
+  {
+   "section": "Espèce CITES: Sarkidiornis melanotos (Canard à Bosse)",
+   "text": "Espèce: Sarkidiornis melanotos\nClasse: Mammalia (mammals)\nNom français: Canard à Bosse\nNom anglais: Comb Duck\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, plumes, peaux, spécimens, produits en cuir",
+   "chunk_id": "DOC-adb124d64095-C0094",
+   "text_hash": "f65fb6e303bd476c8a0a093a2194765c5f0fd19d"
+  },
+  {
+   "section": "Espèce CITES: Pandion haliaetus (Balbuzard Pêcheur)",
+   "text": "Espèce: Pandion haliaetus\nClasse: Mammalia (mammals)\nNom français: Balbuzard Pêcheur\nNom anglais: Osprey\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, serres, œufs, pattes, plumes, peaux,",
+   "chunk_id": "DOC-adb124d64095-C0095",
+   "text_hash": "06df58782f651deb405599534ad83ce82fc4e88e"
+  },
+  {
+   "section": "Espèce CITES: Accipiter castanilius (Autour à Flancs Roux)",
+   "text": "Espèce: Accipiter castanilius\nClasse: Mammalia (mammals)\nNom français: Autour à Flancs Roux\nNom anglais: Chestnut-flanked Sparrowhawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0096",
+   "text_hash": "d6f2232ba909793403a30fba68173104adeedd7a"
+  },
+  {
+   "section": "Espèce CITES: Accipiter erythropus (Épervier de Hartlaub)",
+   "text": "Espèce: Accipiter erythropus\nClasse: Mammalia (mammals)\nNom français: Épervier de Hartlaub\nNom anglais: Red-thighed Sparrowhawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0097",
+   "text_hash": "c42cadf0be9711b2fcd5ccf738c718fef4c1b95e"
+  },
+  {
+   "section": "Espèce CITES: Accipiter melanoleucus (Épervier Pie)",
+   "text": "Espèce: Accipiter melanoleucus\nClasse: Mammalia (mammals)\nNom français: Épervier Pie\nNom anglais: Great Sparrowhawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, œufs, crânes, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0098",
+   "text_hash": "6c9f4f50f8d7eb9809c3ff2d5b6a75eaefd8bb9d"
+  },
+  {
+   "section": "Espèce CITES: Accipiter toussenelii (Autour de Toussenel)",
+   "text": "Espèce: Accipiter toussenelii\nClasse: Mammalia (mammals)\nNom français: Autour de Toussenel\nNom anglais: Red-chested Hawk\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Oiseaux vivants",
+   "chunk_id": "DOC-adb124d64095-C0099",
+   "text_hash": "3e0101540abec5e17782f03c2dcadc801d3b3784"
+  },
+  {
+   "section": "Espèce CITES: Aquila rapax (Aigle Ravisseur)",
+   "text": "Espèce: Aquila rapax\nClasse: Aves (birds)\nNom français: Aigle Ravisseur\nNom anglais: Tawny Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, plumes, oiseaux vivants, peaux, crânes, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0100",
+   "text_hash": "3ae086aeb874669d6037b32c17e3e85022feaba8"
+  },
+  {
+   "section": "Espèce CITES: Aviceda cuculoides (Baza coucou)",
+   "text": "Espèce: Aviceda cuculoides\nClasse: Aves (birds)\nNom français: Baza coucou\nNom anglais: African Baza\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0101",
+   "text_hash": "fb3c456b2e1639fb994f8945355b6273b0230a37"
+  },
+  {
+   "section": "Espèce CITES: Buteo auguralis (Buse à Queue Rousse)",
+   "text": "Espèce: Buteo auguralis\nClasse: Aves (birds)\nNom français: Buse à Queue Rousse\nNom anglais: Red-tailed Buzzard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants",
+   "chunk_id": "DOC-adb124d64095-C0102",
+   "text_hash": "85e016d52afbea526dda61b50163fa9e13f1fb32"
+  },
+  {
+   "section": "Espèce CITES: Buteo buteo (Buse Variable)",
+   "text": "Espèce: Buteo buteo\nClasse: Aves (birds)\nNom français: Buse Variable\nNom anglais: Common Buzzard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, os, serres, œufs, pattes, sculptures, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0103",
+   "text_hash": "7589414047f3231f99bf95f2061a6a3b26ff9896"
+  },
+  {
+   "section": "Espèce CITES: Circaetus pectoralis (Circaète à poitrine noire)",
+   "text": "Espèce: Circaetus pectoralis\nClasse: Aves (birds)\nNom français: Circaète à poitrine noire\nNom anglais: Black-breasted Snake-Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, squelettes, oiseaux vivants, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0104",
+   "text_hash": "ddf120c82021c15baa1bb53eb4d8aa99020e66b6"
+  },
+  {
+   "section": "Espèce CITES: Circus aeruginosus (Busard des Roseaux)",
+   "text": "Espèce: Circus aeruginosus\nClasse: Aves (birds)\nNom français: Busard des Roseaux\nNom anglais: Western Marsh-harrier\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, plumes, oiseaux vivants, squelettes, peaux, œufs,",
+   "chunk_id": "DOC-adb124d64095-C0105",
+   "text_hash": "d504bdea59d297fbf6022047b8ea2271c3942747"
+  },
+  {
+   "section": "Espèce CITES: Dryotriorchis spectabilis (Serpentaire du Congo)",
+   "text": "Espèce: Dryotriorchis spectabilis\nClasse: Aves (birds)\nNom français: Serpentaire du Congo\nNom anglais: Congo Serpent-Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants",
+   "chunk_id": "DOC-adb124d64095-C0106",
+   "text_hash": "afb435f27b17676e9547e2ac120427b0b2631920"
+  },
+  {
+   "section": "Espèce CITES: Elanus caeruleus (Elanion Blanc)",
+   "text": "Espèce: Elanus caeruleus\nClasse: Aves (birds)\nNom français: Elanion Blanc\nNom anglais: Black-winged Kite\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, oi- seaux vivants, peaux, crânes, trophées, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0107",
+   "text_hash": "d8d019cebbae0df2835126b90745c43536a7e4d3"
+  },
+  {
+   "section": "Espèce CITES: Gypohierax angolensis (Palmiste Africain)",
+   "text": "Espèce: Gypohierax angolensis\nClasse: Aves (birds)\nNom français: Palmiste Africain\nNom anglais: Palm-nut Vulture\nStatut CITES: Annexe II\nStatut UICN: LC\nProtection nationale: Partiellement protégée au Gabon\nForme dans le commerce: Plumes, oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0108",
+   "text_hash": "62d12ea50b51495819ee33d9b531e960ef2b1253"
+  },
+  {
+   "section": "Espèce CITES: Haliaeetus vocifer (Aigle Pêcheur Africain)",
+   "text": "Espèce: Haliaeetus vocifer\nClasse: Aves (birds)\nNom français: Aigle Pêcheur Africain\nNom anglais: African Fish-Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, plumes, corps, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0109",
+   "text_hash": "cbe3b8228db5a482e579ec42fe3db088fe436f0f"
+  },
+  {
+   "section": "Espèce CITES: Hieraaetus ayresii (Aigle d'Ayres)",
+   "text": "Espèce: Hieraaetus ayresii\nClasse: Aves (birds)\nNom français: Aigle d'Ayres\nNom anglais: Ayres's Hawk-Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0110",
+   "text_hash": "29f6cedac9e3c8b80579efdfb478c46c2285a51a"
+  },
+  {
+   "section": "Espèce CITES: Kaupifalco monogrammicus (Autour Unibande)",
+   "text": "Espèce: Kaupifalco monogrammicus\nClasse: Aves (birds)\nNom français: Autour Unibande\nNom anglais: Lizard Buzzard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens, corps, peaux, trophées",
+   "chunk_id": "DOC-adb124d64095-C0111",
+   "text_hash": "0d3ea97a27785d43872685dfd9f57844890768d0"
+  },
+  {
+   "section": "Espèce CITES: Lophaetus occipitalis (Aigle Huppard)",
+   "text": "Espèce: Lophaetus occipitalis\nClasse: Aves (birds)\nNom français: Aigle Huppard\nNom anglais: Long-crested Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, produits en cuir, peaux, spécimens,",
+   "chunk_id": "DOC-adb124d64095-C0112",
+   "text_hash": "87b98f48d56d64b8907cf3fe4f1c03c1d5b6dbef"
+  },
+  {
+   "section": "Espèce CITES: Macheiramphus alcinus (Milan des Chauves-Souris)",
+   "text": "Espèce: Macheiramphus alcinus\nClasse: Aves (birds)\nNom français: Milan des Chauves-Souris\nNom anglais: Bat Hawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0113",
+   "text_hash": "ab8e2dac5820276c07141ac5011cb8cf848b7e6f"
+  },
+  {
+   "section": "Espèce CITES: Melierax metabates (Autour Sombre)",
+   "text": "Espèce: Melierax metabates\nClasse: Aves (birds)\nNom français: Autour Sombre\nNom anglais: Dark Chanting-Goshawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, oi- seaux vivants, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0114",
+   "text_hash": "c7b460a033c69afa5637b1af3e5dc6534b4b3e96"
+  },
+  {
+   "section": "Espèce CITES: Micronisus gabar (Autour Gabar)",
+   "text": "Espèce: Micronisus gabar\nClasse: Aves (birds)\nNom français: Autour Gabar\nNom anglais: Gabar Goshawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, plumes, oiseaux vivants, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0115",
+   "text_hash": "fa6170f7c4cd0d2a19b1a19f6ab34db7f1b72188"
+  },
+  {
+   "section": "Espèce CITES: Milvus migrans (Milan Noir)",
+   "text": "Espèce: Milvus migrans\nClasse: Aves (birds)\nNom français: Milan Noir\nNom anglais: Black Kite\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants, œufs, crânes, pattes, peaux, spécimens,",
+   "chunk_id": "DOC-adb124d64095-C0116",
+   "text_hash": "fd66c32f7a1d86f904eef2d6e869679661f3248d"
+  },
+  {
+   "section": "Espèce CITES: Pernis apivorus (Bondrée Apivore)",
+   "text": "Espèce: Pernis apivorus\nClasse: Aves (birds)\nNom français: Bondrée Apivore\nNom anglais: European Honey-buzzard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, plumes, oiseaux vivants, squelettes, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0117",
+   "text_hash": "2ae9638ebf36ac7cda3caa30746fbb5d256cdd06"
+  },
+  {
+   "section": "Espèce CITES: Pernis ptilorhynchus (Bondrée orientale)",
+   "text": "Espèce: Pernis ptilorhynchus\nClasse: Aves (birds)\nNom français: Bondrée orientale\nNom anglais: Oriental Honey-buzzard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, spécimens, plumes, pattes",
+   "chunk_id": "DOC-adb124d64095-C0118",
+   "text_hash": "04a49706852e71e328cfccd921419fe3661504e5"
+  },
+  {
+   "section": "Espèce CITES: Polyboroides typus (Gymnogène d'Afrique)",
+   "text": "Espèce: Polyboroides typus\nClasse: Aves (birds)\nNom français: Gymnogène d'Afrique\nNom anglais: African Harrier-Hawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, plumes, oiseaux vivants, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0119",
+   "text_hash": "3ecc1a2017b38a97d1edb00cbbdfc03bce313185"
+  },
+  {
+   "section": "Espèce CITES: Spizaetus africanus (Aigle de Cassin)",
+   "text": "Espèce: Spizaetus africanus\nClasse: Aves (birds)\nNom français: Aigle de Cassin\nNom anglais: Cassin's Hawk-Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0120",
+   "text_hash": "174a5f63a1139bd3b4bdf98ba83575a517b778ed"
+  },
+  {
+   "section": "Espèce CITES: Stephanoaetus coronatus (Aigle Couronné)",
+   "text": "Espèce: Stephanoaetus coronatus\nClasse: Aves (birds)\nNom français: Aigle Couronné\nNom anglais: Crowned Hawk-Eagle\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, plumes, articles en cuir, oiseaux vivants, sque-",
+   "chunk_id": "DOC-adb124d64095-C0121",
+   "text_hash": "2234a8b48bce7fa3d02b9bcde4292afb061d7a0f"
+  },
+  {
+   "section": "Espèce CITES: Terathopius ecaudatus (Bateleur des Savanes)",
+   "text": "Espèce: Terathopius ecaudatus\nClasse: Aves (birds)\nNom français: Bateleur des Savanes\nNom anglais: Bateleur Eagle\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Corps, os, œufs, oiseaux vivants, squelettes, peaux, spécimens,",
+   "chunk_id": "DOC-adb124d64095-C0122",
+   "text_hash": "21c124b9697bf8166239acce240d4d71b5b17fce"
+  },
+  {
+   "section": "Espèce CITES: Torgos tracheliotus (Vautour Oricou)",
+   "text": "Espèce: Torgos tracheliotus\nClasse: Aves (birds)\nNom français: Vautour Oricou\nNom anglais: Lappet-faced Vulture\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Oiseaux vivants, corps, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0123",
+   "text_hash": "ebf1cfd73298f4af81443bf11303bf07b9c6125d"
+  },
+  {
+   "section": "Espèce CITES: Urotriorchis macrourus (Autour à Longue Queue)",
+   "text": "Espèce: Urotriorchis macrourus\nClasse: Aves (birds)\nNom français: Autour à Longue Queue\nNom anglais: Long-tailed Hawk\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants",
+   "chunk_id": "DOC-adb124d64095-C0124",
+   "text_hash": "765d0c638dcc82a8c72a133f51828f4d1e8648a3"
+  },
+  {
+   "section": "Espèce CITES: Falco ardosiaceus (Faucon Ardoisé)",
+   "text": "Espèce: Falco ardosiaceus\nClasse: Aves (birds)\nNom français: Faucon Ardoisé\nNom anglais: Grey Kestrel\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants, peaux, trophées",
+   "chunk_id": "DOC-adb124d64095-C0125",
+   "text_hash": "13c87e649e0e6a705a35fa00ec599568d5291d6a"
+  },
+  {
+   "section": "Espèce CITES: Falco biarmicus (Faucon Lanier)",
+   "text": "Espèce: Falco biarmicus\nClasse: Aves (birds)\nNom français: Faucon Lanier\nNom anglais: Lanner Falcon\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, œufs, plumes, spécimens, corps, peaux, tro-",
+   "chunk_id": "DOC-adb124d64095-C0126",
+   "text_hash": "c79ffa76da1a048adbf34f10e6da6bd7309464dd"
+  },
+  {
+   "section": "Espèce CITES: Falco cuvierii (Faucon de Cuvier)",
+   "text": "Espèce: Falco cuvierii\nClasse: Aves (birds)\nNom français: Faucon de Cuvier\nNom anglais: African Hobby\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants",
+   "chunk_id": "DOC-adb124d64095-C0127",
+   "text_hash": "6676a909886cdfc8b9ab10d66bddc24f7bdb360a"
+  },
+  {
+   "section": "Espèce CITES: Falco naumanni (Faucon Crécerellette)",
+   "text": "Espèce: Falco naumanni\nClasse: Aves (birds)\nNom français: Faucon Crécerellette\nNom anglais: Lesser Kestrel\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, plumes, oiseaux vivants, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0128",
+   "text_hash": "d0f500721d770bf7df28fbf04a9a4652f648b6d3"
+  },
+  {
+   "section": "Espèce CITES: Falco peregrinus (Faucon Pèlerin)",
+   "text": "Espèce: Falco peregrinus\nClasse: Aves (birds)\nNom français: Faucon Pèlerin\nNom anglais: Peregrine Falcon\nStatut CITES: Annexe I\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, plumes, pattes, oiseaux vivants, coquilles, peaux, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0129",
+   "text_hash": "3c013da24ff61b97532476aca85b533a4ab36cce"
+  },
+  {
+   "section": "Espèce CITES: Falco subbuteo (birds)",
+   "text": "Espèce: Falco subbuteo\nClasse: Aves (birds)\nNom anglais: Eurasian Hobby\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, oi- seaux vivants, squelettes, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0130",
+   "text_hash": "ad0fa519aaa07a9a8c65984eb7d1ec975652b11a"
+  },
+  {
+   "section": "Espèce CITES: Falco tinnunculus (Faucon Crécerelle)",
+   "text": "Espèce: Falco tinnunculus\nClasse: Aves (birds)\nNom français: Faucon Crécerelle\nNom anglais: Common Kestrel\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants, œufs, plumes, pattes, squelettes,",
+   "chunk_id": "DOC-adb124d64095-C0131",
+   "text_hash": "b0834afbaa67b7bdb1c7dd06314821e2acd4fea8"
+  },
+  {
+   "section": "Espèce CITES: Falco vespertinus (Faucon Kobez)",
+   "text": "Espèce: Falco vespertinus\nClasse: Reptilia (reptiles)\nNom français: Faucon Kobez\nNom anglais: Red-footed Falcon\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Corps, œufs, plumes, oiseaux vivants, squelettes, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0132",
+   "text_hash": "fe9163a886cc95593a2cf8289a7454e3cc6e894c"
+  },
+  {
+   "section": "Espèce CITES: Balearica pavonina (Grue Couronnée)",
+   "text": "Espèce: Balearica pavonina\nClasse: Reptilia (reptiles)\nNom français: Grue Couronnée\nNom anglais: West African Crowned Crane\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Corps, plumes, oiseaux vivants, peaux, crânes, spécimens,",
+   "chunk_id": "DOC-adb124d64095-C0133",
+   "text_hash": "05759886fa6826cb9f51906a72c2ea7dc03236c7"
+  },
+  {
+   "section": "Espèce CITES: Eupodotis senegalensis (Outarde du Sénégal)",
+   "text": "Espèce: Eupodotis senegalensis\nClasse: Reptilia (reptiles)\nNom français: Outarde du Sénégal\nNom anglais: White-bellied Bustard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, peaux, spécimens, trophées, squelettes",
+   "chunk_id": "DOC-adb124d64095-C0134",
+   "text_hash": "cea8c35a02991384f3dbd93406dd92a9b6bf336b"
+  },
+  {
+   "section": "Espèce CITES: Lissotis melanogaster (Outarde à Ventre Noir)",
+   "text": "Espèce: Lissotis melanogaster\nClasse: Reptilia (reptiles)\nNom français: Outarde à Ventre Noir\nNom anglais: Black-bellied Bustard\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, peaux, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0135",
+   "text_hash": "f0debb52b2f9068b147b439e39bd16ab8fe2d900"
+  },
+  {
+   "section": "Espèce CITES: Neotis denhami (Outarde de Denham)",
+   "text": "Espèce: Neotis denhami\nClasse: Reptilia (reptiles)\nNom français: Outarde de Denham\nNom anglais: Stanley Bustard\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Corps, oiseaux vi- vants, peaux, trophées, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0136",
+   "text_hash": "a78d3c0aa2a8d726c163c7413966680349e175d0"
+  },
+  {
+   "section": "Espèce CITES: Agapornis pullarius (Perruche à Tête Rouge)",
+   "text": "Espèce: Agapornis pullarius\nClasse: Reptilia (reptiles)\nNom français: Perruche à Tête Rouge\nNom anglais: Red-headed Lovebird\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, peaux, spécimens, squelettes",
+   "chunk_id": "DOC-adb124d64095-C0137",
+   "text_hash": "a6c1bb27af2fd31d2422dd0208b8cf384cf312cb"
+  },
+  {
+   "section": "Espèce CITES: Agapornis swindernianus (Inséparable à collier noir)",
+   "text": "Espèce: Agapornis swindernianus\nClasse: Reptilia (reptiles)\nNom français: Inséparable à collier noir\nNom anglais: Black-collared Lovebird\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0138",
+   "text_hash": "649eececb96350c9f1403f40f921823f58d80c37"
+  },
+  {
+   "section": "Espèce CITES: Poicephalus gulielmi (Perroquet Vert du Congo)",
+   "text": "Espèce: Poicephalus gulielmi\nClasse: Reptilia (reptiles)\nNom français: Perroquet Vert du Congo\nNom anglais: Red-fronted Parrot\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, crânes, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0139",
+   "text_hash": "820505df583acc0973bff7f1e1e782811b471ede"
+  },
+  {
+   "section": "Espèce CITES: Psittacus erithacus (Perroquet Jaco ; Perroquet Gris)",
+   "text": "Espèce: Psittacus erithacus\nClasse: Reptilia (reptiles)\nNom français: Perroquet Jaco ; Perroquet Gris\nNom anglais: Grey Parrot\nStatut CITES: Annexe II\nStatut UICN: NT\nProtection nationale: Partiellement protégée au Gabon\nForme dans le commerce: Corps, os, œufs, plumes, oiseaux vivants, squelettes, peaux,",
+   "chunk_id": "DOC-adb124d64095-C0140",
+   "text_hash": "67ede99e4c14ccfce60deaf965f5a6ec3eb6594b"
+  },
+  {
+   "section": "Espèce CITES: Tauraco macrorhynchus (Touraco à Gros Bec)",
+   "text": "Espèce: Tauraco macrorhynchus\nClasse: Reptilia (reptiles)\nNom français: Touraco à Gros Bec\nNom anglais: Yellow-billed Turaco\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, plumes, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0141",
+   "text_hash": "cb804cd69e751ec2d73b94ac2ecbbf42b1e2ef50"
+  },
+  {
+   "section": "Espèce CITES: Tauraco persa (Touraco Vert)",
+   "text": "Espèce: Tauraco persa\nClasse: Reptilia (reptiles)\nNom français: Touraco Vert\nNom anglais: Guinea Turaco\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, corps, spécimens, trophées",
+   "chunk_id": "DOC-adb124d64095-C0142",
+   "text_hash": "4db18feb2817e645a1f6bd76f8d5df74e21ae839"
+  },
+  {
+   "section": "Espèce CITES: Asio capensis (Hibou du Cap)",
+   "text": "Espèce: Asio capensis\nClasse: Reptilia (reptiles)\nNom français: Hibou du Cap\nNom anglais: Marsh Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants",
+   "chunk_id": "DOC-adb124d64095-C0143",
+   "text_hash": "7ee5b16915c6a820305e06a70747870347053001"
+  },
+  {
+   "section": "Espèce CITES: Tyto alba (Chouette effraie)",
+   "text": "Espèce: Tyto alba\nClasse: Reptilia (reptiles)\nNom français: Chouette effraie\nNom anglais: Barn Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, sculptures, serres, œufs, plumes, pattes, oiseaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0144",
+   "text_hash": "4b066b0ba877b0a9a750534b891dea06ae7c3784"
+  },
+  {
+   "section": "Espèce CITES: Bubo africanus (Grand-duc africain)",
+   "text": "Espèce: Bubo africanus\nClasse: Reptilia (reptiles)\nNom français: Grand-duc africain\nNom anglais: Spotted Eagle-owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants, œufs, plumes, pattes, squelettes,",
+   "chunk_id": "DOC-adb124d64095-C0145",
+   "text_hash": "fe05dc8eedebf1083b2b4fbde4d0a521140d7092"
+  },
+  {
+   "section": "Espèce CITES: Bubo leucostictus (Grand-Duc Tacheté)",
+   "text": "Espèce: Bubo leucostictus\nClasse: Reptilia (reptiles)\nNom français: Grand-Duc Tacheté\nNom anglais: Sooty Eagle-Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Serres, plumes, pattes, oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0146",
+   "text_hash": "d799b65d0ea9d2a6a77315258c4b5850a125da21"
+  },
+  {
+   "section": "Espèce CITES: Bubo poensis (Grand-Duc à Aigrettes)",
+   "text": "Espèce: Bubo poensis\nClasse: Reptilia (reptiles)\nNom français: Grand-Duc à Aigrettes\nNom anglais: Fraser's Eagle-Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants",
+   "chunk_id": "DOC-adb124d64095-C0147",
+   "text_hash": "2132feafb2ddacbfdeb0652269fec03a861efe38"
+  },
+  {
+   "section": "Espèce CITES: Bubo shelleyi (Grand-duc de Shelley)",
+   "text": "Espèce: Bubo shelleyi\nClasse: Reptilia (reptiles)\nNom français: Grand-duc de Shelley\nNom anglais: Shelley's Eagle-owl\nStatut CITES: Annexe II\nStatut UICN: NT\nForme dans le commerce: Serres, plumes, pattes, oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0148",
+   "text_hash": "4e2151ac751fce78530ebe1674c0864847a16682"
+  },
+  {
+   "section": "Espèce CITES: Glaucidium sjostedti (Chevêchette à Queue Barrée)",
+   "text": "Espèce: Glaucidium sjostedti\nClasse: Reptilia (reptiles)\nNom français: Chevêchette à Queue Barrée\nNom anglais: Sjostedt's Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0149",
+   "text_hash": "749906ea0fcbd23079fa6dceceef3867fa96fcaf"
+  },
+  {
+   "section": "Espèce CITES: Glaucidium tephronotum (Chevêchette à pieds jaunes)",
+   "text": "Espèce: Glaucidium tephronotum\nClasse: Reptilia (reptiles)\nNom français: Chevêchette à pieds jaunes\nNom anglais: Red-chested Owlet\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0150",
+   "text_hash": "bded0a8aedf93f3122da8421f45b59ffa783b870"
+  },
+  {
+   "section": "Espèce CITES: Jubula lettii (Duc à crinière)",
+   "text": "Espèce: Jubula lettii\nClasse: Reptilia (reptiles)\nNom français: Duc à crinière\nNom anglais: Maned Owl\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Aucun commerce rapporté",
+   "chunk_id": "DOC-adb124d64095-C0151",
+   "text_hash": "fbf2ea6cdd211a5889d9b58863fc14d87fd0f0eb"
+  },
+  {
+   "section": "Espèce CITES: Otus icterorhynchus (Petit-duc à bec jaune)",
+   "text": "Espèce: Otus icterorhynchus\nClasse: Reptilia (reptiles)\nNom français: Petit-duc à bec jaune\nNom anglais: Sandy Scops-Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Aucun commerce rapporté",
+   "chunk_id": "DOC-adb124d64095-C0152",
+   "text_hash": "4b16c954881b630e865fb922b77c7a91a548729d"
+  },
+  {
+   "section": "Espèce CITES: Ptilopsis granti (Petit-Duc à Face Blanche)",
+   "text": "Espèce: Ptilopsis granti\nClasse: Reptilia (reptiles)\nNom français: Petit-Duc à Face Blanche\nNom anglais: White-faced Scops-Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Aucun commerce rapporté",
+   "chunk_id": "DOC-adb124d64095-C0153",
+   "text_hash": "b76e323a9cc92410033db7389f66eb2e80ce103c"
+  },
+  {
+   "section": "Espèce CITES: Scotopelia bouvieri (Chouette-Pêcheuse de Bouvier)",
+   "text": "Espèce: Scotopelia bouvieri\nClasse: Reptilia (reptiles)\nNom français: Chouette-Pêcheuse de Bouvier\nNom anglais: Vermiculated Fishing-Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants",
+   "chunk_id": "DOC-adb124d64095-C0154",
+   "text_hash": "170d41e31d08abe7d09d2d91952a60f170e13a4e"
+  },
+  {
+   "section": "Espèce CITES: Scotopelia peli (Chouette-Pêcheuse de Pel)",
+   "text": "Espèce: Scotopelia peli\nClasse: Reptilia (reptiles)\nNom français: Chouette-Pêcheuse de Pel\nNom anglais: Pel's Fishing-Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Oiseaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0155",
+   "text_hash": "6ee184252dbd5c13dedbb585a43997bccd5ef780"
+  },
+  {
+   "section": "Espèce CITES: Strix woodfordii (Hulotte Africaine)",
+   "text": "Espèce: Strix woodfordii\nClasse: Reptilia (reptiles)\nNom français: Hulotte Africaine\nNom anglais: Woodford's Owl\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, oiseaux vi- vants, peaux, trophées, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0156",
+   "text_hash": "4f495d7f5e7e25d9f7fd5509660e67954a7558d1"
+  },
+  {
+   "section": "Espèce CITES: Picathartes oreas (Picatharte à Tête Rouge)",
+   "text": "Espèce: Picathartes oreas\nClasse: Reptilia (reptiles)\nNom français: Picatharte à Tête Rouge\nNom anglais: Red-headed Rockfowl\nStatut CITES: Annexe I\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Aucun commerce rapporté",
+   "chunk_id": "DOC-adb124d64095-C0157",
+   "text_hash": "24ce9828055e5ee8785f7e168ba603a6b0047590"
+  },
+  {
+   "section": "Espèce CITES: Kinixys erosa (Tortue Articulée d'Afrique)",
+   "text": "Espèce: Kinixys erosa\nClasse: Amphibia (amphibians)\nNom français: Tortue Articulée d'Afrique\nNom anglais: Serrated Hinge-backed Tortoise\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Corps, carapaces, sculptures, produits en cuir, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0158",
+   "text_hash": "3a59d15274f10a79e39f55af2d01be8da2517127"
+  },
+  {
+   "section": "Espèce CITES: Kinixys homeana (Kinixys de Home)",
+   "text": "Espèce: Kinixys homeana\nClasse: Amphibia (amphibians)\nNom français: Kinixys de Home\nNom anglais: Home's Hinge-backed Tortoise\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Corps, carapaces, sculptures, animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0159",
+   "text_hash": "cdddda49106c6f8d1ddee27875fba788e9747d08"
+  },
+  {
+   "section": "Espèce CITES: Kinixys belliana (Kinixys de Bell)",
+   "text": "Espèce: Kinixys belliana\nClasse: Amphibia (amphibians)\nNom français: Kinixys de Bell\nNom anglais: Bell's Hinge-backed Tortoise\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Corps, carapaces, sculptures, produits en cuir, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0160",
+   "text_hash": "f0e2064c501f4973fe3d56a5751e28c15a263448"
+  },
+  {
+   "section": "Espèce CITES: Eretmochelys imbricata (Tortue Imbriquée)",
+   "text": "Espèce: Eretmochelys imbricata\nClasse: Amphibia (amphibians)\nNom français: Tortue Imbriquée\nNom anglais: Hawksbill Seaturtle\nStatut CITES: Annexe I\nStatut UICN: CR\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Carapaces, sculp- tures, produits en cuir, os, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0161",
+   "text_hash": "91d8a463774c1877af21927e93a45625e4c0934c"
+  },
+  {
+   "section": "Espèce CITES: Lepidochelys olivacea (Tortue Olivâtre)",
+   "text": "Espèce: Lepidochelys olivacea\nClasse: Amphibia (amphibians)\nNom français: Tortue Olivâtre\nNom anglais: Olive Ridley\nStatut CITES: Annexe I\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Carapaces, sculp- tures, produits en cuir, os, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0162",
+   "text_hash": "90e6b114b91d772b528f51ca00ee3d50449d4d0b"
+  },
+  {
+   "section": "Espèce CITES: Dermochelys coriacea (Tortue Luth)",
+   "text": "Espèce: Dermochelys coriacea\nClasse: Amphibia (amphibians)\nNom français: Tortue Luth\nNom anglais: Leatherback Seaturtle\nStatut CITES: Annexe I\nStatut UICN: CR\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Carapaces, sculp- tures, produits en cuir, os, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0163",
+   "text_hash": "695d80017de4eee478a9880d6f596ca1982603b2"
+  },
+  {
+   "section": "Espèce CITES: Chelonia mydas (Tortue Verte)",
+   "text": "Espèce: Chelonia mydas\nClasse: Amphibia (amphibians)\nNom français: Tortue Verte\nNom anglais: Green Seaturtle\nStatut CITES: Annexe I\nStatut UICN: EN\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Corps, carapaces, sculptures, produits en cuir, os, animaux vi-",
+   "chunk_id": "DOC-adb124d64095-C0164",
+   "text_hash": "49c2f9058f8777a47f98acdb74785991bdde05d6"
+  },
+  {
+   "section": "Espèce CITES: Caretta caretta (Tortue Caouanne)",
+   "text": "Espèce: Caretta caretta\nClasse: Amphibia (amphibians)\nNom français: Tortue Caouanne\nNom anglais: Loggerhead Seaturtle\nStatut CITES: Annexe I\nStatut UICN: EN\nForme dans le commerce: Corps, carapaces, sculptures, produits en cuir, os, animaux vi-",
+   "chunk_id": "DOC-adb124d64095-C0165",
+   "text_hash": "534b49bf45d84524689cee9a32a1397082e3eecc"
+  },
+  {
+   "section": "Espèce CITES: Crocodylus cataphractus (Faux-Gavial d'Afrique)",
+   "text": "Espèce: Crocodylus cataphractus\nClasse: Elasmobranchii (fish)\nNom français: Faux-Gavial d'Afrique\nNom anglais: Long-snouted Crocodile\nStatut CITES: Annexe I\nStatut UICN: DD\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Produits en cuir, corps, sculptures, pattes, animaux vivants,",
+   "chunk_id": "DOC-adb124d64095-C0166",
+   "text_hash": "7b948695274d60a731bfed9a9fde0530dfaef674"
+  },
+  {
+   "section": "Espèce CITES: Crocodylus niloticus (Crocodile du Nil)",
+   "text": "Espèce: Crocodylus niloticus\nClasse: Elasmobranchii (fish)\nNom français: Crocodile du Nil\nNom anglais: Nile Crocodile\nStatut CITES: Annexe I\nStatut UICN: LC\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Pattes, produits en cuir, animaux vivants, peaux, os, griffes, œufs,",
+   "chunk_id": "DOC-adb124d64095-C0167",
+   "text_hash": "67a27cf491ac9a546b5c43930bae6668c17cb85e"
+  },
+  {
+   "section": "Espèce CITES: Osteolaemus tetraspis (Crocodile Nain Africain)",
+   "text": "Espèce: Osteolaemus tetraspis\nClasse: Elasmobranchii (fish)\nNom français: Crocodile Nain Africain\nNom anglais: West African Dwarf Crocodile\nStatut CITES: Annexe I\nStatut UICN: VU\nProtection nationale: Intégralement protégée au Gabon\nForme dans le commerce: Pattes, produits en cuir, animaux vivants, peaux, os, griffes, œufs,",
+   "chunk_id": "DOC-adb124d64095-C0168",
+   "text_hash": "ecf70b59e33fbbbf09d64507d4f08614a4672149"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo africanus (Caméléon Africain)",
+   "text": "Espèce: Chamaeleo africanus\nClasse: Elasmobranchii (fish)\nNom français: Caméléon Africain\nNom anglais: Sahel Chameleon\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Corps, animaux vivants, peaux, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0169",
+   "text_hash": "b540a54157ef0226bcbb1e89575f3884e7a2f130"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo camerunensis (Caméléon du Cameroun)",
+   "text": "Espèce: Chamaeleo camerunensis\nClasse: Elasmobranchii (fish)\nNom français: Caméléon du Cameroun\nNom anglais: Cameroon Chameleon\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0170",
+   "text_hash": "88cd053efb1018249a91e9e38b5ed3eafca0b40e"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo chapini (Caméléon gris)",
+   "text": "Espèce: Chamaeleo chapini\nClasse: Elasmobranchii (fish)\nNom français: Caméléon gris\nNom anglais: Grey Chameleon\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants",
+   "chunk_id": "DOC-adb124d64095-C0171",
+   "text_hash": "732db04ad1001a1a3acc613b06c20132518785a3"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo cristatus (Caméléon à Crête)",
+   "text": "Espèce: Chamaeleo cristatus\nClasse: Anthozoa (corals)\nNom français: Caméléon à Crête\nNom anglais: Crested Chameleon\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Animaux vivants, spécimens, corps",
+   "chunk_id": "DOC-adb124d64095-C0172",
+   "text_hash": "87b2cef4dc29dfc3648475777fc6a25a9377e97c"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo dilepis (Caméléon de Leach)",
+   "text": "Espèce: Chamaeleo dilepis\nClasse: Anthozoa (corals)\nNom français: Caméléon de Leach\nNom anglais: Flap-necked Chameleon\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Corps, œufs, pro- duits, animaux vivants, peaux, spécimens,",
+   "chunk_id": "DOC-adb124d64095-C0173",
+   "text_hash": "d189ccc4ac8076185eb697c310b3a3cb6b907fe4"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo gracilis (Caméléon Gracile)",
+   "text": "Espèce: Chamaeleo gracilis\nClasse: Anthozoa (corals)\nNom français: Caméléon Gracile\nNom anglais: Spur-heeled Chameleon\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Corps, animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0174",
+   "text_hash": "4e25a12f5fefbeaa81c52e142fc204011eaf9875"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo oweni (Caméléon d'Owen)",
+   "text": "Espèce: Chamaeleo oweni\nClasse: Anthozoa (corals)\nNom français: Caméléon d'Owen\nNom anglais: Owen's Three-horned Chameleon\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Corps, animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0175",
+   "text_hash": "323cef06c58429c76b673b992fb61eabd1c8c6be"
+  },
+  {
+   "section": "Espèce CITES: Chamaeleo quilensis (Caméléon de Bocage)",
+   "text": "Espèce: Chamaeleo quilensis\nClasse: Anthozoa (corals)\nNom français: Caméléon de Bocage\nNom anglais: Bocage's Chameleon\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0176",
+   "text_hash": "a432b89f50dd6314e9b2e333d83783254043060d"
+  },
+  {
+   "section": "Espèce CITES: Varanus exanthematicus (Varan des Steppes)",
+   "text": "Espèce: Varanus exanthematicus\nClasse: Anthozoa (corals)\nNom français: Varan des Steppes\nNom anglais: Northern Savanna Monitor\nStatut CITES: Annexe II\nStatut UICN: LC\nForme dans le commerce: Produits en cuir, animaux vivants, peaux, os, crânes, spéci-",
+   "chunk_id": "DOC-adb124d64095-C0177",
+   "text_hash": "5081d5b2a5c9d61c488c400a3b0f250113eb4074"
+  },
+  {
+   "section": "Espèce CITES: Varanus niloticus (Varan du Nil FR))",
+   "text": "Espèce: Varanus niloticus\nClasse: Anthozoa (corals)\nNom français: Varan du Nil FR)\nNom anglais: Nile Monitor\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Sculptures, viande, produits dérivés, queues, os, produits en cuir,",
+   "chunk_id": "DOC-adb124d64095-C0178",
+   "text_hash": "baed1097b0bb1171dda15a1b67e3ae5bf0cfb607"
+  },
+  {
+   "section": "Espèce CITES: Varanus ornatus (Varan Orné)",
+   "text": "Espèce: Varanus ornatus\nClasse: Anthozoa (corals)\nNom français: Varan Orné\nNom anglais: Ornate Nile Monitor\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nProtection nationale: Partiellement protégée au Gabon\nForme dans le commerce: Corps, animaux vi- vants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0179",
+   "text_hash": "0be335830e9ea7e4ea9603f40f6d268fdb7f1cba"
+  },
+  {
+   "section": "Espèce CITES: Python sebae (Python de Seba)",
+   "text": "Espèce: Python sebae\nClasse: Arachnida (arachnids)\nNom français: Python de Seba\nNom anglais: African Rock Python\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nProtection nationale: Partiellement protégée au Gabon\nForme dans le commerce: Produits en cuir, corps, sculptures, animaux vivants, peaux, os,",
+   "chunk_id": "DOC-adb124d64095-C0180",
+   "text_hash": "0e37a4910c3ec027e4b304c55469d1087b932b27"
+  },
+  {
+   "section": "Espèce CITES: Calabaria reinhardtii (Calabaria de Reinhardt)",
+   "text": "Espèce: Calabaria reinhardtii\nClasse: Arachnida (arachnids)\nNom français: Calabaria de Reinhardt\nNom anglais: Calabar Ground Python\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Corps, animaux vivants, produits en cuir, peaux, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0181",
+   "text_hash": "6895e774660b0237f9f4d437a882c305bc7958aa"
+  },
+  {
+   "section": "Espèce CITES: Bufo superciliaris (Crapaud du Cameroun)",
+   "text": "Espèce: Bufo superciliaris\nClasse: Arachnida (arachnids)\nNom français: Crapaud du Cameroun\nNom anglais: Zaire Toad\nStatut CITES: Annexe I\nStatut UICN: LC\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0182",
+   "text_hash": "4d042a18e75156c093a830a7d61d37a9bffbaa70"
+  },
+  {
+   "section": "Espèce CITES: Rhincodon typus (Requin Baleine)",
+   "text": "Espèce: Rhincodon typus\nClasse: Arachnida (arachnids)\nNom français: Requin Baleine\nNom anglais: Whale Shark\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Os, produits déri- vés, ailerons, animaux vivants, peaux, soupe,",
+   "chunk_id": "DOC-adb124d64095-C0183",
+   "text_hash": "75416018dd75460805b7b835763cabcbde15a433"
+  },
+  {
+   "section": "Espèce CITES: Carcharodon carcharias (Grand Requin Blanc)",
+   "text": "Espèce: Carcharodon carcharias\nClasse: Liliopsida (plants)\nNom français: Grand Requin Blanc\nNom anglais: Great White Shark\nStatut CITES: Annexe II\nStatut UICN: VU\nForme dans le commerce: Animaux vivants, spécimens, corps, os, dents, sculptures, pro-",
+   "chunk_id": "DOC-adb124d64095-C0184",
+   "text_hash": "cd4fce80138417366632466097df65fe823c16fa"
+  },
+  {
+   "section": "Espèce CITES: Pristis pectinata (Requin-scie)",
+   "text": "Espèce: Pristis pectinata\nClasse: Liliopsida (plants)\nNom français: Requin-scie\nNom anglais: Wide Sawfish\nStatut CITES: Annexe I\nStatut UICN: CR\nForme dans le commerce: Corps, dents",
+   "chunk_id": "DOC-adb124d64095-C0185",
+   "text_hash": "d9d275d978f2c990e6bee12ce791f447df67ae33"
+  },
+  {
+   "section": "Espèce CITES: Pristis pristis (Poisson-scie commun)",
+   "text": "Espèce: Pristis pristis\nClasse: Liliopsida (plants)\nNom français: Poisson-scie commun\nNom anglais: Common sawfish\nStatut CITES: Annexe I\nStatut UICN: CR\nForme dans le commerce: Dents",
+   "chunk_id": "DOC-adb124d64095-C0186",
+   "text_hash": "de48026d22c7552a0126f2ebbf549e1a9ba69841"
+  },
+  {
+   "section": "Espèce CITES: Pandinus dictator (Scorpion Dictateur)",
+   "text": "Espèce: Pandinus dictator\nClasse: Liliopsida (plants)\nNom français: Scorpion Dictateur\nNom anglais: No common name\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Corps, animaux vivants, spécimens",
+   "chunk_id": "DOC-adb124d64095-C0187",
+   "text_hash": "34c04fd786ead35f8494e5601df73944fd51b6b8"
+  },
+  {
+   "section": "Espèce CITES: Schizoculina africana (Pas de nom commun)",
+   "text": "Espèce: Schizoculina africana\nClasse: Liliopsida (plants)\nNom français: Pas de nom commun\nNom anglais: No common name\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Coraux vivants",
+   "chunk_id": "DOC-adb124d64095-C0188",
+   "text_hash": "a4c08ef60b7ea5e2041fd5c09602db4ef1c43f6c"
+  },
+  {
+   "section": "Espèce CITES: Schizoculina fissipara (Pas de nom commun)",
+   "text": "Espèce: Schizoculina fissipara\nClasse: Liliopsida (plants)\nNom français: Pas de nom commun\nNom anglais: No common name\nStatut CITES: Annexe II\nStatut UICN: DD\nForme dans le commerce: Aucun commerce rapporté",
+   "chunk_id": "DOC-adb124d64095-C0189",
+   "text_hash": "bf38b8ad9ef7416e6ff8b04a97c956be6189af28"
+  },
+  {
+   "section": "Espèce CITES: Anomocora marchadi (Pas de nom commun)",
+   "text": "Espèce: Anomocora marchadi\nClasse: Liliopsida (plants)\nNom français: Pas de nom commun\nNom anglais: No common name\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0190",
+   "text_hash": "64146a6bbc72cec69b674bf3059c00fd5987e051"
+  },
+  {
+   "section": "Espèce CITES: Phyllangia americana (Phyllange américaine)",
+   "text": "Espèce: Phyllangia americana\nClasse: Liliopsida (plants)\nNom français: Phyllange américaine\nNom anglais: Hidden Cup Coral\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Spécimens",
+   "chunk_id": "DOC-adb124d64095-C0191",
+   "text_hash": "dd2eeb9e4570da3036fdc1adc3c47d1aa7f2461a"
+  },
+  {
+   "section": "Espèce CITES: Cyathea camerooniana (Pas de nom commun)",
+   "text": "Espèce: Cyathea camerooniana\nClasse: Liliopsida (plants)\nNom français: Pas de nom commun\nNom anglais: No common name\nStatut CITES: Annexe II\nStatut UICN: Espèce non-évaluée\nForme dans le commerce: Information non disponible",
+   "chunk_id": "DOC-adb124d64095-C0192",
+   "text_hash": "b09f5ddb0e944e1569a7a366ddbe575816f6c9bf"
+  }
+ ]
+}

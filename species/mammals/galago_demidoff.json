@@ -1,0 +1,229 @@
+{
+  "species_id": "SPECIES-000035",
+  "scientific_name": "Galago demidoff",
+  "normalized_name": "galago_demidoff",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [
+    "Galagoides demidovii"
+  ],
+  "common_names": {
+    "en": [
+      "Demidoff's Dwarf Galago"
+    ],
+    "fr": [
+      "Galago de Demidoff"
+    ]
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "conservation": {
+      "cites_appendix": {
+        "fact_id": "FACT-000016",
+        "category": "conservation",
+        "predicate": "cites_appendix",
+        "value": "Annexe II",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 15,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "CITES: Annexe II",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.077567+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "national_protection": {
+        "fact_id": "FACT-000017",
+        "category": "conservation",
+        "predicate": "national_protection",
+        "value": "Intégralement protégée au Gabon",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 15,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Protection Gabon: Intégralement protégée au Gabon",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.077578+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "threats": {
+        "fact_id": "FACT-000018",
+        "category": "conservation",
+        "predicate": "threats",
+        "value": "Commerce/Exploitation: Animaux vivants, os, trophées",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 15,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Forme dans le commerce: Animaux vivants, os, trophées",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.077584+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      },
+      "iucn_status": {
+        "fact_id": "FACT-000019",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "LC",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "Gabon_species.pdf",
+            "file_path": null,
+            "section": null,
+            "page": 15,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "UICN: LC",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:28.077589+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "habitat": {
+      "type": {
+        "fact_id": "FACT-000524",
+        "category": "habitat",
+        "predicate": "type",
+        "value": "savanna",
+        "sources": [
+          "SRC-000015"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000015",
+            "filename": "",
+            "file_path": null,
+            "section": "General",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Nom français: Bateleur des Savanes",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:10:29.983687+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000015"
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0004",
+      "species_id": "SPECIES-000035",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.986843+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0005",
+      "species_id": "SPECIES-000035",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.987946+00:00"
+    },
+    {
+      "conflict_id": "CONFLICT-0006",
+      "species_id": "SPECIES-000035",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "LC",
+          "sources": [
+            "SRC-000015"
+          ]
+        },
+        {
+          "value": "VU",
+          "sources": [
+            "SRC-000015"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:10:29.988637+00:00"
+    }
+  ],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:28.079591+00:00",
+  "updated_at": "2026-10-14T10:10:29.989853+00:00"
+}

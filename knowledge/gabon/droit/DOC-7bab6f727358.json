@@ -1,0 +1,1352 @@
+{
+ "doc_id": "DOC-7bab6f727358",
+ "country": "Gabon",
+ "category": "droit",
+ "subcategory": "constitution",
+ "secondary_categories": [
+  "gouvernance_politique",
+  "histoire",
+  "culture_tourisme"
+ ],
+ "classification_confidence": 0.494,
+ "language": "fr",
+ "source_files": [
+  "Droit\\Constitution_Gabonaise\\Projet-de-Constitution_2024_2eme-Republique_VF.pdf"
+ ],
+ "sha256": "7bab6f72735895f9a56fe9a76713122c22e5b5d882ae668920876ef6aa921295",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:11:14.898522+00:00",
+ "kind": "legal_text",
+ "title": "Constitution de la République Gabonaise (2024)",
+ "chunks": [
+  {
+   "article": "Préambule / Dispositions introductives",
+   "context": "",
+   "text": "Constitution Gabonaise - 2024\n1\n\nConstitution Gabonaise - 2024\n2\nTABLE DES MATIERES\nPREAMBULE ............................................................................................................ 3\nTITRE I : DES PRINCIPES ET DES VALEURS DE LA REPUBLIQUE ........... 3\nCHAPITRE I : DES PRINCIPES ........................................................................... 3\nCHAPITRE II : DES VALEURS ............................................................................. 5\nTITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS .......................... 5\nCHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX ................... 5\nCHAPITRE II : DES DEVOIRS ............................................................................. 8\nTITRE III : DU POUVOIR EXECUTIF ............................................................... 10\nCHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE .................................. 10\nCHAPITRE II : DU GOUVERNEMENT............................................................. 17\nCHAPITRE I : DE LA COMPOSITION DU POUVOIR LEGISLATIF ET DU\nSTATUT DES PARLEMENTAIRES .................................................................... 19\nCHAPITRE II : DES POUVOIRS DU PARLEMENT........................................ 20\nCHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU\nPARLEMENT ........................................................................................................ 20\nTITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE\nPOUVOIR LEGISLATIF ........................................................................................ 22\nCHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT................ 22\nCHAPITRE II : DE LA PROCEDURE LEGISLATIVE ..................................... 26\nTITRE VI : DE LA JUSTICE .................................................................................. 28\nCHAPITRE I : DES PRINCIPES GENERAUX DE LA JUSTICE .................... 28\nCHAPITRE II : DE LA COUR CONSTITUTIONNELLE ............................... 28\nCHAPITRE III : DES PRINCIPES D’ORGANISATION DU POUVOIR\nJUDICIAIRE ........................................................................................................... 32\nCHAPITRE IV : DES HAUTES COURS ............................................................. 33\nCHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE\nJUSTICE DE LA REPUBLIQUE ET DES AUTRES JURIDICTIONS\nD’EXCEPTION ...................................................................................................... 34\nTITRE VI : DU CONSEIL ECONOMIQUE, SOCIAL,\nENVIRONNEMENTAL ET CULTUREL ........................................................... 36\nTITRE VII : DES COLLECTIVITES LOCALES ................................................. 38\nTITRE VIII : DES TRAITES ET DES ACCORDS INTERNATIONAUX ........ 39\nTITRE IX : DE LA REVISION DE LA CONSTITUTION ................................. 40\nTITRE X : DES DISPOSITIONS TRANSITOIRES ET FINALES .................... 41\n\nConstitution Gabonaise - 2024\n3\nPREAMBULE\nLe Peuple gabonais,\nConscient de sa responsabilité devant Dieu, ses Ancêtres et l’Histoire ;\nPorté par l’esprit du 30 août 2023, entend reprendre sa marche vers l’édification d’un Etat\nde droit garant des droits et libertés fondamentaux ;\nSoucieux de la préservation du patrimoine naturel et immatériel de la Nation et respectueux\ndes valeurs sociales profondes et traditionnelles qui l’unissent ;\nAnimé de la volonté d'assurer son indépendance et son unité, d'organiser la vie commune\nd'après les principes de la souveraineté nationale, de la séparation des pouvoirs, de la\ndémocratie pluraliste et participative, fondés sur la tenue d'élections libres et transparentes,\nde la justice sociale et de l’Etat de droit ;\nMû par la ferme volonté de refonder l’Etat, de réhabiliter ses valeurs cardinales, de préserver\nles principes républicains et de consolider la démocratie et la citoyenneté ;\nInspiré par l'engagement partagé de changement pour le vivre ensemble, le développement\net le bien-être ;\nConscient que les choix destinés à répondre aux besoins du présent ne doivent pas\ncompromettre la capacité des générations futures à satisfaire leurs propres besoins ;\nProclame solennellement son attachement à sa terre, à ses valeurs sociales profondes et\ntraditionnelles, à son patrimoine culturel, matériel et spirituel et à ses langues nationales, au\nrespect des libertés, des droits et des devoirs du citoyen ;\nAffirme solennellement et souverainement son attachement aux droits de l'Homme et aux\nlibertés fondamentales, tels qu'ils résultent de la Déclaration universelle des droits de\nl'Homme de 1948, consacrés par la Charte africaine des Droits de l'Homme et des\npeuples de 1981 et par la Charte Nationale des Libertés de 1990 ;\nRéaffirme sa pleine souveraineté sur l’ensemble des ressources naturelles de son sol et de\nson sous-sol ainsi que sur le numérique ;\nDéclare son intérêt profond aux enjeux écologiques, environnementaux, des changements\nclimatiques et de la protection des écosystèmes ;\nEn vertu de ces principes et de celui de la souveraineté des peuples, adopte par référendum\nla présente Constitution, loi suprême de la République, dont le préambule est partie\nintégrante.\nTITRE I : DES PRINCIPES ET DES VALEURS DE LA REPUBLIQUE\nCHAPITRE I : DES PRINCIPES",
+   "chunk_id": "DOC-7bab6f727358-C0001",
+   "text_hash": "453bbe99a55799f17bf320ba4653c9f36749ec1d"
+  },
+  {
+   "article": "Article premier",
+   "context": "",
+   "text": "Le Gabon est une République organisée sous la forme d’un Etat unitaire décentralisé.\nLa République gabonaise est une, indivisible, laïque, démocratique et sociale. Elle affirme la\nséparation de l'État et des religions.\n\nConstitution Gabonaise - 2024\n4\nLa République gabonaise assure l'égalité de tous les citoyens devant la loi, sans distinction\nd'origine, de race, d’ethnie, de sexe, d'opinion, de religion, de croyances et de rites. Tout\nacte de discrimination raciale, ethnique ou religieuse, de même que toute propagande\nrégionaliste pouvant porter atteinte à l’unité nationale, à la sécurité intérieure ou extérieure\nde l’Etat ou à l’intégrité de la République sont punis par la loi.\nL’emblème national est le drapeau tricolore, « vert, jaune, bleu », à trois bandes horizontales,\nd’égale dimension.\nL’hymne national est « La Concorde ».\nLa devise de la République est « Union-Travail- Justice ».\nLe sceau de la République est une « Maternité allaitant ».\nSon principe est « Gouvernement du peuple, par le peuple et pour le peuple ».\nLa République gabonaise adopte le français comme langue officielle de travail.\nEn outre, elle œuvre pour la protection, la promotion et l’enseignement de ses langues\nnationales.\nLa capitale de la République est Libreville. Elle ne peut être transférée en tout autre lieu\nqu’en vertu d’une loi référendaire.\nLa fête nationale est célébrée le 17 août.",
+   "chunk_id": "DOC-7bab6f727358-C0002",
+   "text_hash": "c5162ed2e17a49a2e6f073fb3954da47e62244bf"
+  },
+  {
+   "article": "Article 2",
+   "context": "",
+   "text": "La fête de la libération est célébrée le 30 août.",
+   "chunk_id": "DOC-7bab6f727358-C0003",
+   "text_hash": "5d8ee07be4ea291b0879a35ab9519c8a3975fa24",
+   "duplicate_of": "DOC-8e28d53d40ca-C0003"
+  },
+  {
+   "article": "Article 3",
+   "context": "",
+   "text": "La souveraineté nationale appartient au peuple qui l'exerce directement, par le référendum\nou par l'élection, selon le principe de la démocratie pluraliste et indirectement par les\ninstitutions constitutionnelles.\nAucune section du peuple, aucun groupe, aucun individu ne peut s'attribuer l'exercice de la\nsouveraineté nationale ni entraver le fonctionnement régulier des institutions de la\nRépublique.",
+   "chunk_id": "DOC-7bab6f727358-C0004",
+   "text_hash": "5668c792118f8b8556c4441757515bc1190aa3d7",
+   "duplicate_of": "DOC-8e28d53d40ca-C0004"
+  },
+  {
+   "article": "Article 4",
+   "context": "",
+   "text": "Le suffrage est universel, égal et secret. Il peut être direct ou indirect, dans les conditions\nprévues par la Constitution ou par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0005",
+   "text_hash": "309dd5525337f614bbd80b7d1f50e2b4f4006b1d",
+   "duplicate_of": "DOC-8e28d53d40ca-C0005"
+  },
+  {
+   "article": "Article 5",
+   "context": "",
+   "text": "La République gabonaise est organisée selon les principes de la souveraineté nationale, de\nla séparation des pouvoirs exécutif, législatif et judiciaire et de celui de l'État de droit.",
+   "chunk_id": "DOC-7bab6f727358-C0006",
+   "text_hash": "38c09f69fb0857c419982a632aedfb4493e85758"
+  },
+  {
+   "article": "Article 6",
+   "context": "",
+   "text": "Les partis politiques et les groupements de partis politiques légalement reconnus\nconcourent à l’expression du suffrage, selon les principes de la démocratie pluraliste et\nparticipative. Ils se forment et exercent librement leurs activités dans les conditions\ndéterminées par la loi.\n\nConstitution Gabonaise - 2024\n5\nIls contribuent à l’égal accès des femmes, des hommes, des jeunes et des personnes vivant\navec un handicap aux mandats électoraux, dans les conditions fixées par la loi.\nL’Etat concourt au financement des partis politiques selon des modalités fixées par la loi.\nL’Etat garantit le droit d’opposition démocratique dans les conditions fixées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0007",
+   "text_hash": "7bb030d5c68fa8a5134fc6394b600490806c684e"
+  },
+  {
+   "article": "Article 7",
+   "context": "",
+   "text": "La société civile est une des composantes de l’expression de la démocratie pluraliste et\nparticipative. Elle contribue au développement démocratique, économique, social, cultuel,\nenvironnemental et culturel.",
+   "chunk_id": "DOC-7bab6f727358-C0008",
+   "text_hash": "222798447b51fef3b931440e46486c30973b3dbe",
+   "duplicate_of": "DOC-8e28d53d40ca-C0008"
+  },
+  {
+   "article": "Article 8",
+   "context": "",
+   "text": "Tout acte portant atteinte à la forme républicaine, à l’unité, à la laïcité de l’Etat, à la\nsouveraineté, à l’indépendance et à l’intégrité des institutions, est puni par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0009",
+   "text_hash": "29802e76c6abaed6ea956b05761f636a5c86f495",
+   "duplicate_of": "DOC-8e28d53d40ca-C0009"
+  },
+  {
+   "article": "Article 9",
+   "context": "CHAPITRE II : DES VALEURS",
+   "text": "La République Gabonaise affirme les valeurs suivantes :\n- le respect de la dignité humaine ;\n- le patriotisme, la loyauté et la probité ;\n- la justice, l’impartialité et la dignité ;\n- le travail, le mérite, le sens de la responsabilité et de la redevabilité ;\n- la discipline, le civisme et la citoyenneté ;\n- la fraternité, la tolérance et l’inclusion ;\n- la neutralité, la transparence et l’intégrité ;\n- le dialogue et l’esprit de consensus ;\n- la solidarité, l’équité, l’éthique, le partage, le pardon et la réconciliation ;\n- le respect des bonnes mœurs.",
+   "chunk_id": "DOC-7bab6f727358-C0010",
+   "text_hash": "f7843e723b43ba3a4f5e79fb8c80a4f497fe550a",
+   "duplicate_of": "DOC-8e28d53d40ca-C0010"
+  },
+  {
+   "article": "Article 10",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "La République Gabonaise reconnaît et garantit les droits inviolables et imprescriptibles de\nl'Homme, qui lient obligatoirement les pouvoirs publics.",
+   "chunk_id": "DOC-7bab6f727358-C0011",
+   "text_hash": "81a9902c2a3f1e27232c77812ccb70d7b08fb304",
+   "duplicate_of": "DOC-8e28d53d40ca-C0011"
+  },
+  {
+   "article": "Article 11",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Chaque citoyen a le droit à la vie, au libre développement de sa personnalité, au respect de\nsa dignité et de son intégrité physique et morale.\nLe clonage des êtres humains est interdit.\nToutes formes de tortures, de peines ou traitements cruels, inhumains ou dégradants sont\ninterdits.\n\nConstitution Gabonaise - 2024\n6",
+   "chunk_id": "DOC-7bab6f727358-C0012",
+   "text_hash": "455fb6f193d996cd72dee539c8963dfc533d9634"
+  },
+  {
+   "article": "Article 12",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Nul ne peut être humilié, maltraité, torturé, ni faire l’objet de traitements ou de peines cruels,\ninhumains ou dégradants, même lorsqu’il est en état d’arrestation ou d’emprisonnement.\nL’esclavage et la traite des personnes sont interdits sous toutes leurs formes.",
+   "chunk_id": "DOC-7bab6f727358-C0013",
+   "text_hash": "f7a62df7c57e3b1626543dc16f6cee8907dd9af1",
+   "duplicate_of": "DOC-8e28d53d40ca-C0013"
+  },
+  {
+   "article": "Article 13",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Les libertés de conscience, de pensée et de libre pratique de la religion et de culte sont\ngaranties à tous.",
+   "chunk_id": "DOC-7bab6f727358-C0014",
+   "text_hash": "78bb2f0916d34eebde2abfba0315ce4fcaa95322",
+   "duplicate_of": "DOC-8e28d53d40ca-C0014"
+  },
+  {
+   "article": "Article 14",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "L’Etat garantit aux citoyen l’égal accès à l’information.\nToute personne a droit à la liberté d’opinion, d’expression, de communication et de presse.\nElle exerce son droit à l’accès et à la diffusion de l’information quel qu’en soit le support.\nL’accès aux documents administratifs est ouvert à tout citoyen.\nTous les citoyens ont le droit de prendre connaissance des renseignements figurant dans les\nfichiers, les archives ou les registres informatiques les concernant, d’être informés des fins\nauxquelles ils sont destinés et d’exiger que ces données soient rectifiées ou mises à jour,\ndans les conditions fixées par la loi.\nLa loi encadre l’usage de l’informatique et des technologies de l’information et de la\ncommunication pour sauvegarder l’humanité, l’intimité personnelle et familiale des\npersonnes ainsi que le plein exercice de leurs droits.",
+   "chunk_id": "DOC-7bab6f727358-C0015",
+   "text_hash": "fdddedb7bf37fb9cb9db32c0c72826f0be77586c"
+  },
+  {
+   "article": "Article 15",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Tout citoyen gabonais est électeur et éligible dans les conditions fixées par la loi. Il doit\npouvoir participer à la gestion des affaires publiques soit directement, soit par\nl’intermédiaire de représentants élus.\nL’Etat garantit l’égal accès des femmes et des hommes aux mandats électoraux ainsi qu’aux\nresponsabilités politiques et professionnelles.",
+   "chunk_id": "DOC-7bab6f727358-C0016",
+   "text_hash": "6971511f648453c13de132a98dfd0fe62af4d83c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0016"
+  },
+  {
+   "article": "Article 16",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Nul ne peut être arbitrairement détenu.\nNul ne peut être gardé à vue ou placé sous mandat de dépôt s'il présente des garanties\nsuffisantes de représentation, sous réserve des nécessités de sécurité et de procédure.\nTout prévenu est présumé innocent jusqu'à l'établissement de sa culpabilité à la suite d'un\nprocès régulier, offrant les garanties indispensables à sa défense.\nLa détention préventive ne doit pas excéder le temps prévu par la loi.\nLes droits de la défense, dans le cadre de tout procès, sont garantis à tous.",
+   "chunk_id": "DOC-7bab6f727358-C0017",
+   "text_hash": "815cedf025f55a1be87a9dd199a2ee700c932c1b",
+   "duplicate_of": "DOC-8e28d53d40ca-C0017"
+  },
+  {
+   "article": "Article 17",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Tout citoyen a le droit d’aller et venir librement à l’intérieur du territoire de la République\ngabonaise, d’en sortir et d’y revenir, le droit de fixer librement son domicile et sa résidence\nen un lieu quelconque du territoire national et le droit de bénéficier de la protection et de\nl’assistance de l’Etat s’il réside ou séjourne à l’étranger.\n\nConstitution Gabonaise - 2024\n7\nTout étranger qui se trouve régulièrement sur le territoire national jouit, pour sa personne,\nsa famille et ses biens, de la protection de la loi.\nIl est tenu de se conformer aux lois et règlements de la République.\nAucun Gabonais ne peut être extradé si ce n’est en vertu des accords internationaux\nbilatéraux ou multilatéraux et des lois nationales.",
+   "chunk_id": "DOC-7bab6f727358-C0018",
+   "text_hash": "b67438f4352916861adb3920498e0a1db3c4b39a"
+  },
+  {
+   "article": "Article 18",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Chacun a droit au respect de sa vie privée.\nLe domicile est inviolable. Il ne peut être ordonné de perquisition que par le juge ou par les\nautres autorités désignées par la loi. Les perquisitions ne peuvent être exécutées que dans\nles formes prescrites par celles-ci.\nLes mesures portant atteinte à l'inviolabilité du domicile ou la restreignant, ne peuvent être\nprises que pour parer aux dangers collectifs ou protéger l'ordre public de menaces\nimminentes, notamment pour lutter contre les risques d'épidémies ou pour protéger les\npersonnes en danger.\nIl ne peut être ordonné de restriction à cette inviolabilité qu’en application de la loi, pour\ndes raisons d’ordre public et de sécurité nationale.",
+   "chunk_id": "DOC-7bab6f727358-C0019",
+   "text_hash": "c211af55a821dcaddca420dccc701551df06f1df",
+   "duplicate_of": "DOC-8e28d53d40ca-C0019"
+  },
+  {
+   "article": "Article 19",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Le secret de la correspondance, des communications postales, télégraphiques,\nélectroniques, téléphoniques et télématiques est inviolable.",
+   "chunk_id": "DOC-7bab6f727358-C0020",
+   "text_hash": "d46c801c6258f0607a062da303a7f68946622803",
+   "duplicate_of": "DOC-8e28d53d40ca-C0020"
+  },
+  {
+   "article": "Article 20",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Tout citoyen gabonais, aussi bien seul qu’en collectivité, a droit à la propriété. Nul ne peut\nêtre privé de sa propriété, si ce n’est lorsque la nécessité publique, légalement constatée,\nl’exige et sous la condition d’une juste et préalable indemnisation ; toutefois, les\nexpropriations immobilières engagées pour cause d’utilité publique, pour insuffisance ou\nabsence de mise en valeur, et visant les propriétés immatriculées, sont régies par la loi.\nLes conditions et modalités d'accès à la propriété sont fixées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0021",
+   "text_hash": "99530f3589b3bfe21ab4d8711445d1a257ae4a62",
+   "duplicate_of": "DOC-8e28d53d40ca-C0021"
+  },
+  {
+   "article": "Article 21",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Toute personne a droit à la liberté d’association.\nLe droit de former des associations, des partis ou formations politiques, des syndicats, des\nsociétés, des établissements d'intérêt social ainsi que des communautés religieuses, est\ngaranti à tous dans les conditions fixées par la loi ; les communautés religieuses règlent et\nadministrent leurs affaires d'une manière indépendante, sous réserve de respecter les\nprincipes de la souveraineté nationale, l'ordre public et de préserver l'intégrité morale et\nmentale de l'individu.\nLes associations, partis ou formations politiques, syndicats, sociétés, établissements d'intérêt\nsocial, ainsi que les communautés religieuses dont les activités sont contraires aux lois, ou à\nla bonne entente des groupes ou ensembles ethniques peuvent être interdits selon les termes\nde la loi.\n\nConstitution Gabonaise - 2024\n8\nTout acte de discrimination raciale, ethnique ou religieuse, de même que toute propagande\nrégionaliste pouvant porter atteinte à la sécurité intérieure ou extérieure de l’État ou à\nl’intégrité de la République sont punis par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0022",
+   "text_hash": "256b770419df6ebb50188834a75078f765362ea4"
+  },
+  {
+   "article": "Article 22",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Les citoyens ont le droit de se réunir librement.\nLes rassemblements, manifestations ou défilés sur l’espace public doivent être autorisés\ndans les conditions prévues par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0023",
+   "text_hash": "0edc50983544ad74b45c84d0e0d40ddf0498acd3",
+   "duplicate_of": "DOC-8e28d53d40ca-C0023"
+  },
+  {
+   "article": "Article 23",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Chaque citoyen a le droit de travailler et celui d’obtenir un emploi et un salaire équitable.\nNul ne peut être lésé dans son travail en raison de ses origines, de son sexe, de sa race, de\nsa religion ou de ses opinions.\nIl dispose de la liberté de former, avec d’autres, des syndicats et de s’affilier au syndicat de\nson choix.\nLe droit de grève est reconnu aux salariés du secteur privé et aux agents publics pour la\ndéfense de leurs intérêts. L’exercice de ce droit devra se concilier avec le maintien des\nservices essentiels de la Nation.",
+   "chunk_id": "DOC-7bab6f727358-C0024",
+   "text_hash": "9c6d7b6c1c4cfb61765016de71a5b43919c5cf53",
+   "duplicate_of": "DOC-8e28d53d40ca-C0024"
+  },
+  {
+   "article": "Article 24",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "L’Etat reconnaît la liberté d’entreprendre.\nL’activité économique et les investissements des personnes physiques ou morales doivent\ncontribuer au développement durable du Gabon et ne peuvent d’aucune manière porter\natteinte à son indépendance ou aux intérêts de sa population.",
+   "chunk_id": "DOC-7bab6f727358-C0025",
+   "text_hash": "6ebd8270d648e9648dbab7346fc0ce99bab26338",
+   "duplicate_of": "DOC-8e28d53d40ca-C0025"
+  },
+  {
+   "article": "Article 25",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "La famille est la cellule de base naturelle de la société. Le mariage, union entre deux\npersonnes de sexe opposé, en est le support légitime. Ils sont placés sous la protection de\nl'Etat.\nLes parents ont le droit, dans le cadre de l'obligation scolaire, de décider de l'éducation\nmorale et religieuse de leurs enfants. Les enfants ont, vis-à-vis de l'État, les mêmes droits\nen ce qui concerne aussi bien l'assistance que leur développement physique, intellectuel et\nmoral.",
+   "chunk_id": "DOC-7bab6f727358-C0026",
+   "text_hash": "0ec38c016e73888642c7eeb3c4e728ed9486b4ed",
+   "duplicate_of": "DOC-8e28d53d40ca-C0026"
+  },
+  {
+   "article": "Article 26",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE I : DES DROITS ET LIBERTES FONDAMENTAUX",
+   "text": "Les droits et libertés énoncés par la présente Constitution s’exercent dans les conditions\ndéterminées par la loi, dans le respect de l’ordre public et de tout principe ou objectif\nprotégé par la Constitution, et sans qu’ils puissent porter atteinte aux droits d’autrui.\nIls pourront ainsi être soumis à certaines formalités, conditions, restrictions ou sanctions\nétablies par la loi et considérées comme nécessaires dans une société démocratique.",
+   "chunk_id": "DOC-7bab6f727358-C0027",
+   "text_hash": "d82170de8c18391a0879344b2c66f799eed5bae3",
+   "duplicate_of": "DOC-8e28d53d40ca-C0027"
+  },
+  {
+   "article": "Article 27",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "Chaque citoyen a le devoir de défendre la patrie.\n\nConstitution Gabonaise - 2024\n9\nIl se doit de respecter et de défendre le patrimoine national et les biens publics. Il a\nl’obligation de protéger et de respecter la Constitution, les lois et les Règlements de la\nRépublique.\nLe service militaire est obligatoire pour les Gabonais des deux sexes, dans les conditions\nfixées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0028",
+   "text_hash": "7f94473d2175c3e91820c64cd2892ceb9d934394",
+   "duplicate_of": "DOC-8e28d53d40ca-C0028"
+  },
+  {
+   "article": "Article 28",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "Chaque citoyen a le devoir de respecter et de défendre le patrimoine national et les biens\npublics et de contribuer à la préservation ainsi qu’à l’amélioration de l’environnement.",
+   "chunk_id": "DOC-7bab6f727358-C0029",
+   "text_hash": "053d71ed71662d807f7062db544cb63dc12ad2f8",
+   "duplicate_of": "DOC-8e28d53d40ca-C0029"
+  },
+  {
+   "article": "Article 29",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "Les soins à donner aux enfants et leur éducation constituent pour les parents un devoir\nnaturel qu'ils exercent, sous la surveillance et avec l'aide de l'État et des autres collectivités\npubliques.",
+   "chunk_id": "DOC-7bab6f727358-C0030",
+   "text_hash": "afc050db72ea924f29cf6320b106da4287dda49b",
+   "duplicate_of": "DOC-8e28d53d40ca-C0030"
+  },
+  {
+   "article": "Article 30",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L'Etat garantit l'égal accès de l'enfant et de l'adulte à l'instruction, à la formation\nprofessionnelle et à la culture.\nL’Etat a le devoir d’organiser l’enseignement public sur le principe de la neutralité religieuse\net, selon ses possibilités, sur la base de la gratuité.",
+   "chunk_id": "DOC-7bab6f727358-C0031",
+   "text_hash": "6e8532bd71508aa3a728459ec8d0a5b9dbc04a49",
+   "duplicate_of": "DOC-8e28d53d40ca-C0031"
+  },
+  {
+   "article": "Article 31",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L’État prend les mesures nécessaires pour intégrer dans les programmes d’enseignement\nscolaires et universitaires, ainsi que dans la formation des agents publics civils et militaires\nla Constitution, notamment les droits et libertés fondamentaux et les devoirs des citoyens.",
+   "chunk_id": "DOC-7bab6f727358-C0032",
+   "text_hash": "2a80704dff47908e1e9f9e7f41d97f32f994aa88",
+   "duplicate_of": "DOC-8e28d53d40ca-C0032"
+  },
+  {
+   "article": "Article 32",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "La collation des grades demeure la prérogative de l'État.\nLa liberté de l'enseignement est garantie à tous. Toute personne peut ouvrir un\nétablissement préscolaire, primaire, secondaire, supérieur ou une université, dans les\nconditions fixées par la loi.\nLa loi fixe les conditions de participation de l'État et des collectivités publiques aux charges\nfinancières des établissements privés d'enseignement, reconnus d'utilité publique.\nDans les établissements publics d’enseignement, l’instruction religieuse peut être dispensée\naux élèves à la demande de leurs parents, dans les conditions déterminées par les règlements.\nLa loi fixe les conditions de fonctionnement des établissements d’enseignement privé en\ntenant compte de leur spécificité.",
+   "chunk_id": "DOC-7bab6f727358-C0033",
+   "text_hash": "cbc7d5da8965ea8b043bf5a43659c1ccf84f2ae0",
+   "duplicate_of": "DOC-8e28d53d40ca-C0033"
+  },
+  {
+   "article": "Article 33",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L’Etat affirme son attachement à la politique nataliste.",
+   "chunk_id": "DOC-7bab6f727358-C0034",
+   "text_hash": "c955616fd81bad6bdf5d14b030fb56296114ca13",
+   "duplicate_of": "DOC-8e28d53d40ca-C0034"
+  },
+  {
+   "article": "Article 34",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L'État a le devoir d'organiser un recensement général de la population tous les dix ans.\n\nConstitution Gabonaise - 2024\n10",
+   "chunk_id": "DOC-7bab6f727358-C0035",
+   "text_hash": "2767be5807b7b5ce85a7febf846bab1a2c8403d5",
+   "duplicate_of": "DOC-8e28d53d40ca-C0035"
+  },
+  {
+   "article": "Article 35",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "La protection de la jeunesse contre l’exploitation et contre l’abandon moral, intellectuel et\nphysique, est une obligation pour l’Etat et les autres collectivités publiques.",
+   "chunk_id": "DOC-7bab6f727358-C0036",
+   "text_hash": "bceb32c5b6f7ba6f4662e81c1cb8e2debcd357a1",
+   "duplicate_of": "DOC-8e28d53d40ca-C0036"
+  },
+  {
+   "article": "Article 36",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L’Etat garantit à tous les citoyens l’égal accès aux emplois et services publics, sans\ndistinction de sexe, d’appartenance ethnique, politique, religieuse ou idéologique.\nL’Etat garantit aux personnes vivant avec un handicap l’égal accès aux emplois et services\npublics.\nIl a le devoir de veiller, au sein de l’Administration, au respect des principes d’éthique, de\ndéontologie, de performance, de transparence et de redevabilité, gage du développement\nharmonieux et durable du pays.",
+   "chunk_id": "DOC-7bab6f727358-C0037",
+   "text_hash": "7414d47d19bb20ed01ea6da2ef5c2acee523669e",
+   "duplicate_of": "DOC-8e28d53d40ca-C0037"
+  },
+  {
+   "article": "Article 37",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L'État garantit à tous, notamment à l'enfant, à la mère, aux personnes vivant avec un\nhandicap, aux retraités et aux personnes âgées, la protection de la santé, la protection sociale,\nun environnement naturel préservé, le repos et les loisirs.\nL’Etat garantit à tous l’accès à l’eau potable et à l’énergie.\nL’Etat a le devoir de promouvoir la qualité de la vie et de protéger l’environnement.",
+   "chunk_id": "DOC-7bab6f727358-C0038",
+   "text_hash": "2c280ce7ab43e05b8192a7eb5d5aba408d608eec",
+   "duplicate_of": "DOC-8e28d53d40ca-C0038"
+  },
+  {
+   "article": "Article 38",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "La défense de la Nation et la sauvegarde de l'ordre public sont assurées essentiellement par\nles forces de défense et de sécurité nationales. En conséquence, aucune personne, aucun\ngroupement de personnes ne peuvent se constituer en milice privée ou groupement\nparamilitaire ; les forces de défense et de sécurité nationales sont au service de l'État.\nEn temps de paix, les forces de défense et de sécurité gabonaises peuvent participer aux\ntravaux de développement économique et social de la Nation.",
+   "chunk_id": "DOC-7bab6f727358-C0039",
+   "text_hash": "6e9b7447d27279190d52f2456b422b484da2be03",
+   "duplicate_of": "DOC-8e28d53d40ca-C0039"
+  },
+  {
+   "article": "Article 39",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "La Nation proclame la solidarité et l’égalité de tous devant les charges publiques ; chacun\ndoit contribuer, en proportion de ses ressources, au financement des dépenses publiques.\nLa Nation proclame en outre la solidarité de tous devant les charges qui résultent des\ncalamités naturelles et nationales.",
+   "chunk_id": "DOC-7bab6f727358-C0040",
+   "text_hash": "3586052984b85eaa41e35429267f2d85ade1f182",
+   "duplicate_of": "DOC-8e28d53d40ca-C0040"
+  },
+  {
+   "article": "Article 40",
+   "context": "TITRE II : DES DROITS, DES LIBERTÉS ET DES DEVOIRS > CHAPITRE II : DES DEVOIRS",
+   "text": "L’Etat est tenu de promouvoir et de faire respecter la bonne gouvernance dans la gestion\ndes affaires publiques et de lutter contre la corruption, les détournements des deniers\npublics et les infractions assimilées.",
+   "chunk_id": "DOC-7bab6f727358-C0041",
+   "text_hash": "6886c29632e274b384a057a2756a8defcd911966",
+   "duplicate_of": "DOC-8e28d53d40ca-C0041"
+  },
+  {
+   "article": "Article 41",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République est le Chef de l'Etat, il est le détenteur du pouvoir exécutif.\n\nConstitution Gabonaise - 2024\n11\nIl incarne l’unité nationale, veille au respect de la Constitution, assure, par son arbitrage, le\nfonctionnement régulier des pouvoirs publics ainsi que la continuité de l'Etat.\nIl est le garant de l'indépendance nationale, de l'intégrité du territoire, du respect des\naccords et traités internationaux.\nIl détermine et conduit la politique de la Nation.",
+   "chunk_id": "DOC-7bab6f727358-C0042",
+   "text_hash": "26d9b75d7df7fc659ca947b37e283c0deb003929"
+  },
+  {
+   "article": "Article 42",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République est élu pour sept (07) ans au suffrage universel direct. Il est\nrééligible une seule fois.\nNul ne peut exercer plus de deux mandats successifs, quelles que soient les éventuelles\nrévisions de la Constitution.\nL'élection du Président de la République a lieu au scrutin majoritaire uninominal à deux\ntours.\nLe Président de la République est élu à la majorité absolue des suffrages exprimés. Si celleci n'est pas obtenue au premier tour du scrutin, il est procédé, le quatorzième jour suivant\nl'annonce des résultats, à un second tour.\nSeuls peuvent se présenter au second tour du scrutin, les deux candidats qui ont recueilli\nle plus grand nombre de suffrages au premier tour.\nEn cas de désistement ou d’empêchement définitif de l'un des deux candidats arrivés en\ntête au premier tour, celui-ci est remplacé par le candidat qui le suit dans l'ordre de\nclassement des résultats du premier tour du scrutin.\nEst déclaré élu au second tour, le candidat ayant recueilli le plus grand nombre de voix.",
+   "chunk_id": "DOC-7bab6f727358-C0043",
+   "text_hash": "736c83465810b62f9b6e4acbafceaf44762f69f2",
+   "duplicate_of": "DOC-8e28d53d40ca-C0043"
+  },
+  {
+   "article": "Article 43",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Sont éligibles à la Présidence de la République, tous les Gabonais des deux sexes\nremplissant les conditions ci-après :\n- être né Gabonais d’au moins un parent gabonais, lui-même né Gabonais ;\n- avoir la nationalité gabonaise unique et exclusive ;\n- être âgé(e) de 35 ans au moins et de 70 ans au plus ;\n- être marié(e) à un (e) Gabonais (e) né(e) d’au moins un parent gabonais, lui-même\nné Gabonais ;\n- avoir résidé au Gabon pendant au moins 3 ans sans discontinuité avant l’élection\nprésidentielle ;\n- parler au moins une langue nationale ;\n- jouir d’un état complet de bien-être physique et mental dûment constaté par un\ncollège médical qui prête serment devant la Cour Constitutionnelle. Ce collège\nmédical est désigné par les Bureaux des deux Chambres du Parlement ;\n- jouir de ses droits civils et politiques.\nTout Gabonais bénéficiant d’une autre nationalité peut se porter candidat sous réserve d’y\navoir renoncé trois (3) ans avant l’élection.\nLe conjoint et les descendants d’un Président de la République ne peuvent se porter\ncandidats à sa succession.\n\nConstitution Gabonaise - 2024\n12\nSi dans le mois précédant le premier tour du scrutin, la Cour Constitutionnelle, saisie dans\nles conditions prévues par la loi, constate le décès ou l’empêchement d’un candidat, elle\nprononce le report de l’élection.\nLa Cour Constitutionnelle peut proroger les délais prévus, conformément à l’article 44 ciaprès, sans que le report de l’élection ne puisse excéder la date d’expiration du mandat du\nPrésident en exercice.\nLes modalités d’application du présent article sont fixées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0044",
+   "text_hash": "ef6450dd063d2686f8d90f3e2d14b2098dc0cbc8"
+  },
+  {
+   "article": "Article 44",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le mandat du Président de la République débute le jour de sa prestation de serment, qui a\nlieu dans les huit (08) jours ouvrés après la proclamation des résultats par la Cour\nConstitutionnelle et prend fin à l'expiration de la septième année suivant cette date.\nS’il n’y a pas de contentieux, la décision de la Cour Constitutionnelle intervient au plus tard\nle septième jour suivant l’annonce des résultats par l’autorité administrative compétente.\nS’il y a contentieux, la décision de la Cour Constitutionnelle intervient dans un délai\nmaximum de quinze (15) jours à compter du sixième jour qui suit l’annonce des résultats.\nL'élection du Président de la République a lieu trois mois au plus avant l'expiration du\nmandat du Président en exercice.\nCelui-ci ne peut écourter son mandat de quelque manière que ce soit pour en solliciter un\nautre.\nSi le Président de la République en exercice se porte candidat, il ne peut, à partir de\nl'annonce officielle de sa candidature, et ce, jusqu'à l'élection, exercer son pouvoir de\nlégiférer par ordonnances. En cas de nécessité, le Parlement est convoqué en session\nextraordinaire.\nEn cas de décès ou d’empêchement définitif du Président de la République en exercice\nnon réélu, intervenant avant l’expiration du mandat de celui-ci, le Président proclamé élu\nprête immédiatement serment. Si la décision de proclamation des résultats par la Cour\nConstitutionnelle n’est pas intervenue, l’intérim est assuré conformément à l’article 46 cidessous.\nLe décès ou l’empêchement définitif du Président élu ou réélu, intervenant dans la période\nqui sépare la proclamation des résultats de l’expiration du mandat du Président en exercice,\nentraîne la reprise de l’ensemble des opérations électorales dans les conditions et délais\nprévus à l’article 43 ci-dessus.\nDans ce cas, une fois la vacance constatée, les fonctions de Président de la République\nsont assurées conformément aux dispositions de l’article 46 ci-dessous.\nPendant la période qui sépare la proclamation des résultats de l’élection présidentielle du\ndébut d’un nouveau mandat présidentiel, la révision de la Constitution ne peut être\nentamée ou achevée.",
+   "chunk_id": "DOC-7bab6f727358-C0045",
+   "text_hash": "c66007c7df9d751e72c203405f2cdabb9fac4d1c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0045"
+  },
+  {
+   "article": "Article 45",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Lors de son entrée en fonction, le Président de la République prête solennellement le\nserment ci-dessous, devant la Cour Constitutionnelle, en présence du Parlement, la main\n\nConstitution Gabonaise - 2024\n13\ngauche posée sur la Constitution, la main droite levée devant le Drapeau national :\n« Moi, (…), élu Président de la République, m’engage devant Dieu, nos Ancêtres et le peuple gabonais à\nconsacrer toutes mes forces à son bien-être, le protéger de tout dommage, respecter et défendre fidèlement la\nConstitution et l'Etat de droit, préserver les acquis démocratiques, l’indépendance de la Patrie, l’intégrité\ndu territoire national, remplir consciencieusement les devoirs de ma charge et être juste envers tous.\nJe le jure ».",
+   "chunk_id": "DOC-7bab6f727358-C0046",
+   "text_hash": "1f8273e531b7898284f8cf429fe5e7e15b07965f"
+  },
+  {
+   "article": "Article 46",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "En cas d’empêchement temporaire du Président de la République dûment constaté par la\nCour Constitutionnelle, sur saisine des Présidents des deux Chambres du Parlement ou du\nVice-Président du Gouvernement, le Vice-Président de la République exerce\nprovisoirement les fonctions de Président de la République, à l’exclusion des pouvoirs\nprévus par les articles 66, 67,68,69,70,71,72,73,145 et 156 de la présente Constitution.\nL’empêchement temporaire ne peut excéder quarante-cinq jours. Passé ce délai,\nl’empêchement devient définitif.\nEn cas de vacance de la Présidence de la République pour quelque cause que ce soit ou\nd’empêchement définitif de son titulaire, constatés par la Cour Constitutionnelle saisie soit\npar le Bureau de l’Assemblée Nationale statuant à la majorité des deux tiers (2/3)\nde ses membres, soit à l’initiative du Vice-Président du Gouvernement après convocation\ndu Conseil des Ministres statuant à la majorité simple de ses membres, les fonctions de\nPrésident de la République, à l’exception de celles prévues aux articles 66,\n67,68,69,70,71,72,73,145 et 156 sont provisoirement exercées par le Président du Sénat,\net, si celui-ci est empêché à son tour, par le Premier Vice-Président du Sénat. Dans tous\nles cas, ni l’un ni l’autre ne peut être candidat à l’élection présidentielle.\nAvant son entrée en fonction, le Président du Sénat assurant l’intérim prête serment dans\nles conditions prévues à l’article 50 ci-dessus.\nEn cas de vacance ou lorsque l’empêchement est déclaré définitif par la Cour\nConstitutionnelle, le scrutin pour l’élection du nouveau Président a lieu, sauf cas de force\nmajeure constatée par la Cour Constitutionnelle, trente jours au moins et cent-vingt jours\nau plus après l’ouverture de la vacance ou de la déclaration du caractère définitif de\nl’empêchement.\nLes modalités d’application du présent article sont fixées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0047",
+   "text_hash": "54158545ab33c213582ab9181eb129e2ed871079",
+   "duplicate_of": "DOC-8e28d53d40ca-C0047"
+  },
+  {
+   "article": "Article 47",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Les fonctions de Président de la République sont incompatibles avec l’exercice de toute\nautre fonction publique et activité privée à caractère lucratif.",
+   "chunk_id": "DOC-7bab6f727358-C0048",
+   "text_hash": "851ebbdaa205def78792f5c9e6eec0f13cf62dd4",
+   "duplicate_of": "DOC-8e28d53d40ca-C0048"
+  },
+  {
+   "article": "Article 48",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République est assisté d’un Vice-Président de la République.\nLe Vice-Président de la République est nommé par le Président de la République qui met\nfin à ses fonctions.\nLes fonctions de Vice-Président de la République cessent également à l’issue de la\nproclamation de l’élection présidentielle par la Cour Constitutionnelle et en cas de vacance\n\nConstitution Gabonaise - 2024\n14\nde la Présidence de la République, pour quelque cause que ce soit ou d’empêchement\ndéfinitif du Président de la République dûment constaté par la Cour constitutionnelle.",
+   "chunk_id": "DOC-7bab6f727358-C0049",
+   "text_hash": "7d84c064fd2db50ed3238f1fa881a7b8438977db"
+  },
+  {
+   "article": "Article 49",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Les fonctions de Vice-président de la République sont incompatibles avec l’exercice de\ntoute autre fonction publique et activité privée à caractère lucratif.",
+   "chunk_id": "DOC-7bab6f727358-C0050",
+   "text_hash": "2d7575d5fa7ed9f01175830b43373e00bce4f1ff",
+   "duplicate_of": "DOC-8e28d53d40ca-C0050"
+  },
+  {
+   "article": "Article 50",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Vice-président de la République prête serment sur la Constitution devant le Président\nde la République et en présence de la Cour Constitutionnelle selon les termes ci- après :\n« Je jure de respecter la Constitution et l’Etat de droit, de remplir consciencieusement les devoirs de ma\ncharge dans le strict respect de ses obligations de loyauté et de confidentialité à l’égard du Chef de l’Etat ».",
+   "chunk_id": "DOC-7bab6f727358-C0051",
+   "text_hash": "ace5515243fc7149024cb36889c0f54564bd1dcc",
+   "duplicate_of": "DOC-8e28d53d40ca-C0051"
+  },
+  {
+   "article": "Article 51",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Vice-Président de la République supplée le Président de la République dans les\nfonctions que celui-ci lui délègue.\nLe Vice-Président de la République, sur habilitation expresse du Président de la\nRépublique, peut présider le Conseil des Ministres avec un ordre du jour précis.\nLes modalités d’application du présent article sont fixées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0052",
+   "text_hash": "dba6ea14316069fdd64953556cfa2320978751e7",
+   "duplicate_of": "DOC-8e28d53d40ca-C0052"
+  },
+  {
+   "article": "Article 52",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République promulgue les lois définitivement adoptées dans les vingtcinq (25) jours qui suivent leur transmission au Gouvernement.\nLe Président de la République peut, pendant le délai de promulgation, demander au\nParlement une nouvelle délibération de la loi ou de certains de ses articles. Cette nouvelle\ndélibération ne peut être refusée. Le texte ainsi soumis à une seconde lecture doit être\nadopté à la majorité des deux tiers (2/3) de ses membres, soit sous sa forme initiale, soit\naprès modification. Le Président de la République le promulgue dans les délais fixés cidessus.\nSi le texte est adopté sous sa forme initiale, le Président de la République saisit la Cour\nConstitutionnelle qui statue dans un délai de quinze (15) jours. Le projet ou la proposition\nde loi est repris conformément aux indications de la Cour Constitutionnelle et promulgué\npar le Président de la République.\nSi le texte est adopté après modification, le Président de la République le promulgue dans\nles délais fixés ci-dessus.\nA défaut de promulgation de la loi par le Président de la République dans les conditions et\ndélais ci-dessus, il doit déférer le texte à la Cour Constitutionnelle.\nEn cas de rejet du recours par la Cour Constitutionnelle, le Président de la République\npromulgue la loi dans les dix jours suivant la notification de la décision de la Cour.",
+   "chunk_id": "DOC-7bab6f727358-C0053",
+   "text_hash": "7290b632290cd4c818f00f0f312678a5c36fba2b",
+   "duplicate_of": "DOC-8e28d53d40ca-C0053"
+  },
+  {
+   "article": "Article 53",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République veille à l’application des lois et à l’exécution des décisions\nde justice.\nIl dispose du pouvoir réglementaire.\n\nConstitution Gabonaise - 2024\n15",
+   "chunk_id": "DOC-7bab6f727358-C0054",
+   "text_hash": "a02a6fd01397d6ae45bb2f8deeee090735d627c6"
+  },
+  {
+   "article": "Article 54",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République peut, sur sa propre initiative ou sur proposition de\nl’Assemblée Nationale ou du Sénat prise à la majorité absolue, pendant la durée de la\nsession, soumettre au référendum tout projet de loi portant application des principes\ncontenus dans la présente Constitution et touchant directement ou indirectement au\nfonctionnement des institutions.\nLorsque le référendum a conclu à l’adoption du projet de loi, le Président de la République\nle promulgue conformément à l’article 52 ci-dessus.",
+   "chunk_id": "DOC-7bab6f727358-C0055",
+   "text_hash": "fc608952eb14e0072a9e7d4e9c81b7bf51ab6a14"
+  },
+  {
+   "article": "Article 55",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République est le chef des administrations civiles et militaires.\nIl dispose de l’ensemble des forces de défense et de sécurité.\nIl nomme aux emplois civils et militaires conformément aux textes en vigueur.\nLes nominations à certains emplois et fonctions civils supérieurs de l’Etat sont soumises à\nl’avis des Présidents des deux Chambres du Parlement.\nUne loi détermine les emplois et fonctions mentionnés à l’alinéa ci-dessus, ainsi que les\nmodalités d’accès à ces emplois et fonctions.\nUne loi organique détermine les emplois et fonctions de souveraineté ainsi que les modalités\nd’accès à ces emplois et fonctions.\nAvant leur entrée en fonction, les Commandants en Chef des forces de défense et de\nsécurité, les Gouverneurs, les Ambassadeurs ainsi que les Envoyés extraordinaires prêtent\nserment devant le Président de la République dans les conditions définies par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0056",
+   "text_hash": "415f43f903ce113414d3c136b69ff5cf31d4d0a1"
+  },
+  {
+   "article": "Article 56",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République est le Chef suprême des forces de défense et de sécurité. A\nce titre, les questions y relatives relèvent de son autorité directe.\nLe Président de la République préside le Conseil Supérieur de la défense nationale et de la\nsécurité publique et les comités de défense et de sécurité.\nIl y est suppléé, le cas échéant, par les Ministres chargés de la Défense et de la Sécurité, sur\nune habilitation expresse et pour un ordre du jour déterminé.\nLes Ministres chargés de la Défense et de la Sécurité assurent la direction des comités de\ndéfense et de sécurité selon leur domaine de compétence.\nUne loi fixe les modalités d'application du présent article.",
+   "chunk_id": "DOC-7bab6f727358-C0057",
+   "text_hash": "f25fedb4b5b4f41e26bcf40281e9440bf00955ee",
+   "duplicate_of": "DOC-8e28d53d40ca-C0057"
+  },
+  {
+   "article": "Article 57",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République accrédite les Ambassadeurs et les Envoyés extraordinaires\nauprès des puissances étrangères et des organisations internationales.\nLes Ambassadeurs et les Envoyés extraordinaires étrangers sont accrédités auprès de lui.",
+   "chunk_id": "DOC-7bab6f727358-C0058",
+   "text_hash": "148426f5380b81fc8f8f5858a15e1718f3ea974c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0058"
+  },
+  {
+   "article": "Article 58",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République a le droit de grâce.\n\nConstitution Gabonaise - 2024\n16",
+   "chunk_id": "DOC-7bab6f727358-C0059",
+   "text_hash": "a4697c7b9651a624b30fa254ed4429905fe27cf8"
+  },
+  {
+   "article": "Article 59",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République communique avec chaque Chambre du Parlement par des\nmessages qu’il fait lire par le Président de chacune d’elles.\nA sa demande, il est entendu par les Chambres du Parlement réunies en Congrès.\nCes communications ne donnent lieu à aucun débat.\nHors session, chacune des Chambres est convoquée spécialement à cet effet.\nAu cours de la première session de l’année, le Président s’adresse au Parlement réuni en\nCongrès sur l’état de la Nation.",
+   "chunk_id": "DOC-7bab6f727358-C0060",
+   "text_hash": "e78abfbf1886db6b48ac3ba778f58efced595f35"
+  },
+  {
+   "article": "Article 60",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République peut, lorsque les circonstances l’exigent, après consultation\ndu Conseil des Ministres et des Bureaux de l’Assemblée Nationale et du Sénat, proclamer\npar décret l’état d’urgence ou l’état de siège, qui lui confère des pouvoirs spéciaux, dans les\nconditions déterminées par la loi.\nLa prorogation de l’état d’urgence ou de l’état de siège au-delà de quinze jours est autorisée\npar le Parlement.\nEn cas de désaccord entre les deux Chambres, la décision est prise par l'Assemblée\nNationale à la majorité absolue.",
+   "chunk_id": "DOC-7bab6f727358-C0061",
+   "text_hash": "0e8e9e9d1e5b7719fd783a9ad890ba5477a939de",
+   "duplicate_of": "DOC-8e28d53d40ca-C0061"
+  },
+  {
+   "article": "Article 61",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "La déclaration de guerre par le Président de la République est autorisée par le Parlement à\nla majorité des deux tiers de ses membres.",
+   "chunk_id": "DOC-7bab6f727358-C0062",
+   "text_hash": "de090be2f12756ebd7c0081a41bd7989a0a4b0aa",
+   "duplicate_of": "DOC-8e28d53d40ca-C0062"
+  },
+  {
+   "article": "Article 62",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République peut, après consultation des Présidents des deux Chambres\ndu Parlement et avis de de la Cour Constitutionnelle, prononcer la dissolution de\nl’Assemblée Nationale.\nLe recours à cette prérogative est limité à une fois au cours d’un même mandat présidentiel.\nAucune dissolution ne peut être prononcée dans les vingt-quatre (24) premiers mois de la\nlégislature ou lorsqu’une mise en accusation devant la Haute Cour de Justice est ouverte.\nLe renouvellement de l’Assemblée Nationale a lieu soixante (60) jours au plus après la\ndissolution.",
+   "chunk_id": "DOC-7bab6f727358-C0063",
+   "text_hash": "bb6f73fd38e30a5e8ba920ccbdcf589345ec57c4",
+   "duplicate_of": "DOC-8e28d53d40ca-C0063"
+  },
+  {
+   "article": "Article 63",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Lorsque les Institutions de la République, l’indépendance ou les intérêts supérieurs de la Nation,\nl’intégrité du territoire ou l’exécution de ses engagements internationaux sont menacés d’une\nmanière grave et immédiate et que le fonctionnement régulier des pouvoirs publics\nconstitutionnels est interrompu, le Président de la République prend les mesures exigées par ces\ncirconstances, après consultation officielle des Présidents de l’Assemblée Nationale et du Sénat\nainsi que de la Cour Constitutionnelle.\nIl en informe la Nation par un message.\nCes mesures doivent être inspirées par la volonté d’assurer aux pouvoirs publics\n\nConstitution Gabonaise - 2024\n17\nconstitutionnels, dans les moindres délais, les moyens d’accomplir leur mission.\nDurant l’exercice des pouvoirs exceptionnels, aucune institution de la République ne peut\nêtre dissoute ou suspendue.\nAprès trente jours d'exercice des pouvoirs exceptionnels, la Cour Constitutionnelle est\nsaisie par le Président de l'Assemblée Nationale ou le Président du Sénat, aux fins\nd'examiner si les conditions énoncées au premier alinéa demeurent réunies. Elle se\nprononce dans les huit jours par avis public.\nLa révision de la Constitution ne peut être entamée ou achevée pendant l’exercice des\npouvoirs exceptionnels.\nLe Parlement se réunit de plein droit.",
+   "chunk_id": "DOC-7bab6f727358-C0064",
+   "text_hash": "0047bfccc5a151e22917bbb334ace23368506c83"
+  },
+  {
+   "article": "Article 64",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République peut, lorsque les circonstances l’exigent, après consultation\ndu Conseil des Ministres et des Présidents des Chambres du Parlement, proclame par\ndécret l’état de mise en garde et l’état d’alerte, dans les conditions déterminées par la loi.\nLa prorogation de l’état de mise en garde ou de l’état d’alerte au-delà de vingt et un jours\nest autorisée par le Parlement.",
+   "chunk_id": "DOC-7bab6f727358-C0065",
+   "text_hash": "68d6633156cb78107a427104ed2b2c146fa07c49",
+   "duplicate_of": "DOC-8e28d53d40ca-C0065"
+  },
+  {
+   "article": "Article 65",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République convoque et préside le Conseil des Ministres et en arrête\nl’ordre du jour.\nLe Vice-Président de la République en est membre de droit.",
+   "chunk_id": "DOC-7bab6f727358-C0066",
+   "text_hash": "199d6f47820952299e37bc62d533316970f4380f",
+   "duplicate_of": "DOC-8e28d53d40ca-C0066"
+  },
+  {
+   "article": "Article 66",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Le Président de la République nomme, en Conseil des Ministres, aux emplois supérieurs,\ncivils et militaires de l’Etat, notamment les Ambassadeurs et les Envoyés extraordinaires,\nles Officiers supérieurs et généraux, ainsi que les Directeurs des administrations centrales\net les Gouverneurs.\nUne loi organique détermine les emplois ou fonctions autres que ceux mentionnés au\npremier alinéa, pour lesquels s’exerce le pouvoir de nomination du Président de la\nRépublique ainsi que ceux des emplois ou fonctions ouverts aux seuls citoyens gabonais\ndont au moins un des deux parents est gabonais de naissance.",
+   "chunk_id": "DOC-7bab6f727358-C0067",
+   "text_hash": "6e2395842f4050bef2e9cb9d79f2c3983dc07cfb",
+   "duplicate_of": "DOC-8e28d53d40ca-C0067"
+  },
+  {
+   "article": "Article 67",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "Les actes du Président de la République autres que ceux visés aux articles 52, 54, 58, 125,\net 165, sont contresignés par les membres du Gouvernement chargés de leur exécution.",
+   "chunk_id": "DOC-7bab6f727358-C0068",
+   "text_hash": "b4925991345ae4dfb27cf13701b791e5d0f6b073",
+   "duplicate_of": "DOC-8e28d53d40ca-C0068"
+  },
+  {
+   "article": "Article 68",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE",
+   "text": "La loi fixe les avantages et les garanties accordés au Président de la République et aux\nanciens Présidents de la République.",
+   "chunk_id": "DOC-7bab6f727358-C0069",
+   "text_hash": "6b245a8f847308f17958343606ef43d12a04e85d",
+   "duplicate_of": "DOC-8e28d53d40ca-C0069"
+  },
+  {
+   "article": "Article 69",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Le Président de la République est le Chef du Gouvernement.\n\nConstitution Gabonaise - 2024\n18\nIl est assisté d’un Vice-Président du Gouvernement qui assure la coordination de l’action\ngouvernementale.\nIl nomme les membres du Gouvernement et détermine par décret leurs attributions.\nIl met fin aux fonctions des membres du Gouvernement par décret.\nNe peuvent être membres du Gouvernement que les Gabonais des deux sexes, nés de père\nou de mère gabonais, âgés de trente (30) ans au moins et jouissant de leurs droits civils et\npolitiques.\nLe Gouvernement est responsable devant le Président de la République dans les conditions\nprévues par la présente Constitution.",
+   "chunk_id": "DOC-7bab6f727358-C0070",
+   "text_hash": "3d0697884c85bf9a4e75a42828a8a4ac76e29489"
+  },
+  {
+   "article": "Article 70",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Les membres du Gouvernement sont choisis au sein du Parlement et en dehors de celui-ci.\nUn membre du Gouvernement est éligible à un mandat national ou à un mandat local.",
+   "chunk_id": "DOC-7bab6f727358-C0071",
+   "text_hash": "8eabcd0a507fda3a0dc438501561a2376aa22217",
+   "duplicate_of": "DOC-8e28d53d40ca-C0071"
+  },
+  {
+   "article": "Article 71",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Les membres du Gouvernement sont pénalement responsables des crimes et délits commis\ndans l’exercice de leurs fonctions et à l’occasion de l’exercice de celles-ci.\nLes activités incompatibles avec les fonctions de membre du Gouvernement, leurs\ntraitements, leurs avantages et leurs indemnités sont déterminées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0072",
+   "text_hash": "25bc279fa1308b6ade6860817122cbc91652b733",
+   "duplicate_of": "DOC-8e28d53d40ca-C0072"
+  },
+  {
+   "article": "Article 72",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Avant leur entrée en fonction, les membres du Gouvernement prêtent serment devant le\nPrésident de la République, en présence de la Cour Constitutionnelle, selon les termes ciaprès :\n« Je jure de respecter la Constitution et l'Etat de droit, de remplir consciencieusement les devoirs de ma charge\ndans le strict respect de ses obligations de loyauté à l'égard du Chef de l'Etat, de garder religieusement, même\naprès la cessation de mes fonctions, la confidentialité des dossiers et des informations dont j'aurais eu\nconnaissance dans l'exercice de celles-ci ».",
+   "chunk_id": "DOC-7bab6f727358-C0073",
+   "text_hash": "80dbacc0d4abd53f2daed2205c45fec330d1f79d",
+   "duplicate_of": "DOC-8e28d53d40ca-C0073"
+  },
+  {
+   "article": "Article 73",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Les fonctions de membre du Gouvernement sont incompatibles avec l’exercice d’un\nmandat parlementaire.",
+   "chunk_id": "DOC-7bab6f727358-C0074",
+   "text_hash": "e4cbabc052604d4bba6bec6a96aee1f0c9a3d27f",
+   "duplicate_of": "DOC-8e28d53d40ca-C0074"
+  },
+  {
+   "article": "Article 74",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Les fonctions de membre du Gouvernement cessent à l’issue de la prestation de serment\ndu Président de la République.\nLe Gouvernement assure l’expédition des affaires courantes jusqu’à la formation d’un\nnouveau Gouvernement.",
+   "chunk_id": "DOC-7bab6f727358-C0075",
+   "text_hash": "223019d465a6775ba0588b4149d18fc279d2cc51",
+   "duplicate_of": "DOC-8e28d53d40ca-C0075"
+  },
+  {
+   "article": "Article 75",
+   "context": "TITRE III : DU POUVOIR EXECUTIF > CHAPITRE II : DU GOUVERNEMENT",
+   "text": "Les projets de loi, d’ordonnances et de décrets réglementaires sont délibérés en Conseil des\nMinistres, après avis consultatif du Conseil d’Etat.\n\nConstitution Gabonaise - 2024\n19",
+   "chunk_id": "DOC-7bab6f727358-C0076",
+   "text_hash": "b27292d1af3ad56e62dfe740be5bcabeceadb9f5"
+  },
+  {
+   "article": "Article 76",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE I : DE LA COMPOSITION DU POUVOIR LEGISLATIF ET DU",
+   "text": "Le pouvoir législatif est représenté par un Parlement composé de deux Chambres :\nl’Assemblée Nationale et le Sénat.\nLes membres de l’Assemblée Nationale portent le titre de Député. Ils sont élus au suffrage\nuniversel direct pour une durée de cinq (5) ans renouvelable.\nLes membres du Sénat portent le titre de Sénateur. Ils sont élus au suffrage universel\nindirect.\nLa durée du mandat des Sénateurs est de cinq (5) ans renouvelable. Le Sénat assure la\nreprésentation des collectivités locales.\nLes Chambres du Parlement se renouvellent intégralement un mois au moins et six (6)\nmois au plus avant l’expiration de la législature en cours. Ce renouvellement intervient\ndans la même année.\nLe mandat des Députés et des Sénateurs débute le jour de l’élection des membres des\nBureaux des deux Chambres du Parlement et prend fin à l’expiration de la cinquième (5ème)\nannée suivant la mise en place des Bureaux.\nIl ne peut être procédé à aucun découpage des circonscriptions électorales dans l’année en\ncours ou précédant l’échéance normale du renouvellement de chacune des Chambres.\nLes sièges des Chambres du Parlement sont inviolables.",
+   "chunk_id": "DOC-7bab6f727358-C0077",
+   "text_hash": "2a25e9eeee57da5cb9fd18ffd170b50b51602bee"
+  },
+  {
+   "article": "Article 77",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE I : DE LA COMPOSITION DU POUVOIR LEGISLATIF ET DU",
+   "text": "Les membres du Parlement jouissent de l’immunité parlementaire.\nAucun membre du Parlement ne peut être inquiété, poursuivi, recherché, arrêté, détenu\nou jugé à l’occasion des opinions ou votes émis par lui dans l’exercice ou à l’occasion de\nl’exercice de ses fonctions et même après la cessation de celles-ci.\nTout membre du Parlement ne peut, sauf en cas de flagrant délit ou de condamnation\ndéfinitive, être poursuivi, recherché ou arrêté en matière criminelle, correctionnelle ou de\nsimple police qu’après la levée de l’immunité parlementaire.\nL’immunité parlementaire est levée à l’issue d’un vote au scrutin public et à la majorité des\ndeux tiers (2/3) des membres composant la Chambre intéressée.\nLes membres du Parlement sont protégés contre les menaces, violences et attaques de\nquelque nature que ce soit dont ils peuvent être l’objet dans l’exercice de leurs fonctions.\nLa détention ou la poursuite d’un membre du Parlement est suspendue jusqu’à la fin de\nson mandat, sauf en cas de levée de l’immunité parlementaire.",
+   "chunk_id": "DOC-7bab6f727358-C0078",
+   "text_hash": "02ae05f6a8c2b09cd655e7d9f56e5f1d6470be6a",
+   "duplicate_of": "DOC-8e28d53d40ca-C0078"
+  },
+  {
+   "article": "Article 78",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE I : DE LA COMPOSITION DU POUVOIR LEGISLATIF ET DU",
+   "text": "Une loi organique fixe, pour chacune des Chambres, le nombre de parlementaires, leurs\nindemnités, les modalités et les conditions de leur élection ainsi que le régime des\n\nConstitution Gabonaise - 2024\n20\ninéligibilités et des incompatibilités.",
+   "chunk_id": "DOC-7bab6f727358-C0079",
+   "text_hash": "d6e904e8c7a78fbd719d70ff55fd91894573e279"
+  },
+  {
+   "article": "Article 79",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE II : DES POUVOIRS DU PARLEMENT",
+   "text": "Le Parlement vote la loi, consent l’impôt, contrôle l’action du Gouvernement et évalue les\npolitiques publiques dans les conditions prévues par la présente Constitution.",
+   "chunk_id": "DOC-7bab6f727358-C0080",
+   "text_hash": "23cc5ebd8b8a15cbe0a9ed6e534f9305d0153b45",
+   "duplicate_of": "DOC-8e28d53d40ca-C0080"
+  },
+  {
+   "article": "Article 80",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE II : DES POUVOIRS DU PARLEMENT",
+   "text": "Les moyens d’information, de contrôle et d’évaluation du Parlement sur l’action du\nGouvernement sont les suivants :\n\n- les interpellations ;\n- les questions écrites et orales ;\n- les questions d’actualité ;\n- les commissions d’enquête, de contrôle et d’évaluation.",
+   "chunk_id": "DOC-7bab6f727358-C0081",
+   "text_hash": "eea6a5dfdba209a3257b9376ddae0630061be5a7"
+  },
+  {
+   "article": "Article 81",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE II : DES POUVOIRS DU PARLEMENT",
+   "text": "Le Vice-Président du Gouvernement et les autres membres du Gouvernement répondent\naux interpellations devant la Chambre du Parlement concernée.\nEn la circonstance, la Chambre concernée peut prendre une résolution pour faire des\nrecommandations au Président de la République.",
+   "chunk_id": "DOC-7bab6f727358-C0082",
+   "text_hash": "f66c98e5b7071b41dc4077c30e312f7df8921e41",
+   "duplicate_of": "DOC-8e28d53d40ca-C0082"
+  },
+  {
+   "article": "Article 82",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE II : DES POUVOIRS DU PARLEMENT",
+   "text": "Une séance au moins, par mois, est réservée aux questions des parlementaires et aux\nréponses du Vice-Président du Gouvernement et des Ministres.\nToutefois, une séance consacrée à l’examen des questions d’actualité peut être organisée\nchaque fois que de besoin.\nLes questions d’actualité peuvent faire l’objet d’interpellations du Vice-Président du\nGouvernement et des Ministres, même pendant les sessions extraordinaires du Parlement.\nL’Exécutif est tenu de fournir au Parlement tous les éléments d’information qui lui sont\ndemandés sur sa gestion et ses activités.",
+   "chunk_id": "DOC-7bab6f727358-C0083",
+   "text_hash": "8660970a84915959d93340a3277d4c032e434160",
+   "duplicate_of": "DOC-8e28d53d40ca-C0083"
+  },
+  {
+   "article": "Article 83",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE II : DES POUVOIRS DU PARLEMENT",
+   "text": "Une loi organique détermine les conditions dans lesquelles la question écrite peut être\ntransformée en question orale avec débats, et les conditions d’organisation et de fonctionnement\ndes commissions d’enquête, de contrôle et d’évaluation.",
+   "chunk_id": "DOC-7bab6f727358-C0084",
+   "text_hash": "e3d74ac7d74b0b8c65b33128638722530822d7f0",
+   "duplicate_of": "DOC-8e28d53d40ca-C0084"
+  },
+  {
+   "article": "Article 84",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Chaque Chambre du Parlement se réunit de plein droit le premier jour ouvrable suivant le\nquinzième jour après son élection. Son ordre du jour comprend alors exclusivement\nl’élection de son Président et de son Bureau.\n\nConstitution Gabonaise - 2024\n21\nLes Présidents et les autres membres des Bureaux de l’Assemblée Nationale et du Sénat\nsont élus par leurs pairs pour la durée de la législature, au scrutin secret, conformément\naux dispositions du règlement de la Chambre concernée.\nA tout moment, après leur entrée en fonction, la Chambre concernée peut relever le\nPrésident et les autres membres du Bureau de leur mandat à la suite d’un vote de défiance,\nà la majorité absolue.",
+   "chunk_id": "DOC-7bab6f727358-C0085",
+   "text_hash": "f520600043de4480d724817361d36cbc6e43d8ac"
+  },
+  {
+   "article": "Article 85",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Le Parlement se réunit de plein droit au cours de deux sessions de quatre (4) mois par an.\nLa première commence le premier jour ouvrable du mois de mars et prend fin le dernier\njour ouvrable du mois de juin.\nLa seconde commence le premier jour ouvrable du mois de septembre et prend fin le\ndernier jour ouvrable de la troisième semaine du mois de décembre.\nL’ouverture de la session est reportée au lendemain si ce jour est férié ou, le cas échéant,\nle premier jour ouvrable qui suit. »",
+   "chunk_id": "DOC-7bab6f727358-C0086",
+   "text_hash": "e1e28662a948ada24ee64bcebd8792dc9f6e3485"
+  },
+  {
+   "article": "Article 86",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Le Parlement se réunit de plein droit pendant la durée de l’état de siège et dans les cas\nprévus à l’article 63 ci-dessus.",
+   "chunk_id": "DOC-7bab6f727358-C0087",
+   "text_hash": "31e12bd7f831895135e27c341154cc2f8f020256",
+   "duplicate_of": "DOC-8e28d53d40ca-C0087"
+  },
+  {
+   "article": "Article 87",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Les Chambres du Parlement se réunissent en session extraordinaire, sur convocation de\nleurs Présidents, pour un ordre du jour déterminé, à la demande, soit du Président de la\nRépublique, soit de la majorité absolue de leurs membres.\nLes sessions extraordinaires sont ouvertes et closes par décret du Président de la\nRépublique.\nElles ne peuvent excéder une durée de quinze (15) jours.",
+   "chunk_id": "DOC-7bab6f727358-C0088",
+   "text_hash": "4009d77a8844a2ac25174928084c6a37b9b75809",
+   "duplicate_of": "DOC-8e28d53d40ca-C0088"
+  },
+  {
+   "article": "Article 88",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Les séances du Parlement sont publiques. Un compte-rendu intégral des débats est publié\nau Journal des débats.\nChacune des deux Chambres peut, sous le contrôle de son Bureau, faire diffuser par les\nmédias publics une retransmission des débats, dans le respect du pluralisme et\nconformément aux dispositions de son Règlement.\nChacune des deux Chambres peut accueillir un Chef d'Etat ou de Gouvernement étranger\nou le Chef d’une institution internationale.\nChaque Chambre du Parlement peut siéger à huis clos, à la demande, soit du Président de\nla République, soit d'un cinquième (1/5) de ses membres.",
+   "chunk_id": "DOC-7bab6f727358-C0089",
+   "text_hash": "b5c78bc4a78489afa8745f822d69ab8fab495df5",
+   "duplicate_of": "DOC-8e28d53d40ca-C0089"
+  },
+  {
+   "article": "Article 89",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "La clôture des sessions ordinaires ou extraordinaires est de droit retardée pour permettre,\nle cas échéant, l’application des dispositions des articles 61, 62, 64 et 66 de la présente\nConstitution.\n\nConstitution Gabonaise - 2024\n22",
+   "chunk_id": "DOC-7bab6f727358-C0090",
+   "text_hash": "1f0f23b9bf3b573913d67d85b719a410aa6c1939"
+  },
+  {
+   "article": "Article 90",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Chaque parlementaire est le représentant de la Nation toute entière.\nTout mandat impératif est nul.\nLe droit de vote des membres du Parlement est libre et personnel.",
+   "chunk_id": "DOC-7bab6f727358-C0091",
+   "text_hash": "2f2b118a35bfb0b5bcfa03f611ddd67a064de508",
+   "duplicate_of": "DOC-8e28d53d40ca-C0091"
+  },
+  {
+   "article": "Article 91",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Chaque Chambre du Parlement vote son Règlement qui ne peut rentrer en vigueur qu’après\navoir été déclaré conforme à la Constitution par la Cour Constitutionnelle. Toute\nmodification ultérieure est également soumise à cette procédure.",
+   "chunk_id": "DOC-7bab6f727358-C0092",
+   "text_hash": "ad22d43010585f71d147c93beb6dc7e81f8e1212"
+  },
+  {
+   "article": "Article 92",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Chaque Chambre du Parlement jouit de l’autonomie administrative et financière.\nLes modalités d’application de cet article sont fixées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0093",
+   "text_hash": "e11817f1657996a49b8fcc511d0d2c8fd745d81a",
+   "duplicate_of": "DOC-8e28d53d40ca-C0093"
+  },
+  {
+   "article": "Article 93",
+   "context": "TITRE IV : DU POUVOIR LEGISLATIF > CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT DU",
+   "text": "Les deux Chambres du Parlement se réunissent en Congrès pour les cas suivants :\n- la procédure de révision constitutionnelle conformément à l’article 170 de la présente\nConstitution ;\n- la communication du Président de la République conformément à l’article 46 de la\nprésente Constitution ;\n- l’autorisation de déclarer la guerre à la majorité des deux tiers(2/3) des membres du\nParlement réuni en Congrès, conformément à l’article 61 de la présente Constitution.",
+   "chunk_id": "DOC-7bab6f727358-C0094",
+   "text_hash": "1b77d7f0ddfc84a38fff0c2d560a71565e8b09e4",
+   "duplicate_of": "DOC-8e28d53d40ca-C0094"
+  },
+  {
+   "article": "Article 94",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT",
+   "text": "En dehors des cas expressément prévus par la Constitution, la loi fixe les règles\nconcernant :\n\n- l’exercice des droits fondamentaux des citoyens et des devoirs ;\n- les sujétions imposées aux gabonais et aux étrangers en leurs personnes et en\nleurs biens, en vue de l’utilité publique et de la défense nationale ;\n- la nationalité, l’état et la capacité des personnes, les régimes matrimoniaux, les\nsuccessions et les libéralités, le statut des étrangers et l’immigration ;\n- la procédure selon laquelle les traditions, les rites, les us et coutumes sont\nconstatés, codifiés et mis en harmonie avec les principes fondamentaux de la\nConstitution ;\n- l’organisation de l’état-civil ;\n- l’information, la communication audiovisuelle, en ligne, cinématographique et\nécrite ;\n- les conditions de l’usage de l’informatique, du numérique et de l’intelligence\nartificielle afin que soient sauvegardés l’honneur, l’intimité personnelle et\nfamiliale des citoyens, ainsi que le plein exercice de leurs droits ;\n\nConstitution Gabonaise - 2024\n23\n- le régime du service militaire obligatoire ;\n- le régime de protection des données à caractère personnel et de la vie privée ;\n- le régime des élections politiques ;\n- le statut des magistrats ;\n- le système de financement de la vie politique et des campagnes électorales ;\n- l'organisation de la Justice ;\n- l’organisation des Offices Ministériels ou Publics, les professions d’Officiers\nMinistériels ;\n- la détermination des crimes et délits ainsi que des peines qui leur sont\napplicables ;\n- la procédure pénale, la procédure civile, le régime pénitentiaire ;\n- les règles de procédure devant les juridictions des ordres administratif et\nfinancier ;\n- les règles de procédure devant la Cour Constitutionnelle ;\n- l’amnistie et le droit de grâce ;\n- l'état de mise en garde, l'état d'urgence, l'état d'alerte et l'état de siège ;\n- le régime des associations, des organisations non gouvernementales, des\nfondations, des syndicats, des partis et des formations politiques ;\n- le statut de l’opposition ;\n- le régime des cultes ;\n- l'assiette, le taux et les modalités de recouvrement des impositions de toute\nnature, le régime d'émission de la monnaie ;\n- le statut général de la fonction publique et les statuts particuliers ;\n- la définition des emplois et fonctions de souveraineté ;\n- le statut de la fonction publique locale ;\n- le statut de la fonction publique parlementaire ;\n- le régime de la responsabilité des ordonnateurs et des comptables publics ;\n- les nationalisations d’entreprises et les transferts de propriété d’entreprises du\nsecteur public au secteur privé ;\n- le régime des concessions des services publics ;\n- le régime des transports, du numérique, des télécommunications et des\ntechnologies de l’information et de la communication ;\n- l’organisation générale administrative et financière ;\n- la création, le fonctionnement et la libre administration des collectivités\nterritoriales, leurs compétences, leurs ressources et leurs assiettes d’impôts ;\n- les conditions de participation de l’Etat au capital de toutes sociétés et de contrôle\npar celui-ci de la gestion de ces sociétés ;\n- le régime domanial, foncier, forestier, minier, pétrolier et de l’habitat ;\n- le régime de protection des espaces marin, océanique, atmosphérique ;\n- la protection du patrimoine historique, numérique, artistique, culturel et\narchéologique ;\n- les conditions de promotion et de développement de la culture et des langues\nnationales ;\n- la protection de la nature, de l’environnement et la lutte contre le changement\nclimatique ;\n- le régime de conservation et de protection de la biodiversité ;\n\nConstitution Gabonaise - 2024\n24\n- le régime de la propriété, des droits réels et des obligations civiles et\ncommerciales ;\n- les engagements financiers de toute nature et de tout terme de l’Etat : emprunt,\ngarantie, cautions et avals ;\n- les programmes d’action économique et sociale ;\n- les conditions dans lesquelles sont présentées et votées les lois de finances et\nréglés les comptes de la Nation ;\n- les lois de finances déterminant les ressources et les charges de l’Etat dans les\nconditions prévues par une loi organique ;\n- les lois de programme fixant les objectifs de l’Etat en matière économique,\nsociale, culturelle, touristique, de politique étrangère, de défense et sécurité\nnationale ;\n- la planification, la conception et l’évaluation des politiques publiques ;\n- la création et la suppression des établissements et services publics autonomes ;\n- l’alimentation.\nLa loi détermine en outre les principes fondamentaux ;\n- de l’enseignement, de la formation et de la recherche ;\n- de la santé ;\n- de la protection sociale ;\n- du droit du travail ;\n- du droit syndical y compris les conditions d’exercice du droit de grève ;\n- de la mutualité et de l’épargne ;\n- de l’organisation générale de la défense nationale et de la sécurité publique.\nL’organisation administrative du territoire de la République est fixée par une loi organique.\nLes dispositions du présent article peuvent être précisées ou complétées par une loi\norganique.",
+   "chunk_id": "DOC-7bab6f727358-C0095",
+   "text_hash": "6ea44e783d57078d9f5f94cac7494f389dcbd53c"
+  },
+  {
+   "article": "Article 95",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT",
+   "text": "Les matières autres que celles qui sont du domaine de la loi ont un caractère réglementaire.",
+   "chunk_id": "DOC-7bab6f727358-C0096",
+   "text_hash": "d2b912f1b2c87e1a599b673627f030dc93cfc933",
+   "duplicate_of": "DOC-8e28d53d40ca-C0096"
+  },
+  {
+   "article": "Article 96",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT",
+   "text": "Toutes les ressources et toutes les charges de l’Etat doivent, pour chaque exercice\nbudgétaire, être évaluées et inscrites dans le projet annuel de loi de finances déposé par le\nGouvernement à l’Assemblée Nationale quinze (15) jours au plus tard après l’ouverture de\nla deuxième session ordinaire.\nSi le projet de loi de finances n’est pas déposé après ce délai, l’Assemblée Nationale\ninterpelle le Gouvernement quant au respect des prescriptions constitutionnelles. Il dispose\nd’un délai de quinze (15) jours pour déposer le projet de loi de finances.\nAprès le dépôt du projet de loi de finances, si l’Assemblée Nationale ne s’est pas prononcée\nen première lecture dans un délai de quarante-cinq (45) jours, le Président de la République\nsaisit le Sénat qui statue dans un délai de vingt (20) jours.\nIl est ensuite procédé à son examen dans les conditions prévues à l’article 108 ci-après.\nSi au terme de la session budgétaire, le Parlement se sépare sans avoir voté le budget en\néquilibre, le Président de la République est autorisé à reconduire provisoirement, par\n\nConstitution Gabonaise - 2024\n25\nordonnance, le budget de l’année précédente.\nA la demande du Président de la République, le Parlement est convoqué dans les quinze\n(15) jours pour une nouvelle délibération.\nSi au terme des quinze jours, le Parlement n’a pas voté le budget en équilibre, le Président\nde l’Assemblée Nationale renvoie le projet de loi de finances de l’année au Président de la\nRépublique. Celui-ci est établi définitivement par ordonnance spéciale.\nLes recettes nouvelles qui peuvent être créées, s’il s’agit d’impôts directs et des\ncontributions ou taxes assimilables, sont mises en recouvrement pour compter du premier\njanvier.",
+   "chunk_id": "DOC-7bab6f727358-C0097",
+   "text_hash": "5473bbfe124a275f6a1a8816487d099e47639ea6"
+  },
+  {
+   "article": "Article 97",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT",
+   "text": "Le projet ou la proposition de loi organique n’est soumis à la délibération et au vote du\nParlement qu’à l’expiration d’un délai de quinze (15) jours après son dépôt.\nCe délai est ramené à huit (8) jours si le Gouvernement demande l’urgence.\nLe projet ou la proposition de loi organique est adopté dans les mêmes conditions par\nchacune des deux Chambres du Parlement à la majorité absolue des membres présents.\nLa procédure des articles 103 et 108 est applicable.\nLes lois organiques ne peuvent être promulguées qu’après avoir été déclarées conformes à\nla Constitution par la Cour Constitutionnelle.",
+   "chunk_id": "DOC-7bab6f727358-C0098",
+   "text_hash": "316ef80619af7599720c75232cf80f9983b9e148"
+  },
+  {
+   "article": "Article 98",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT",
+   "text": "La Cour des Comptes assiste le Parlement et le Gouvernement dans le contrôle de\nl’exécution de la loi de finances.\n\nLe projet de loi de règlement établi par le Gouvernement, accompagné du rapport sur\nl’exécution de la loi de finances et du rapport sur la certification du compte général de\nl’Etat produits par la Cour des Comptes, doit être déposé au Parlement, au plus tard, au\ndébut de la seconde session ordinaire de la première année qui suit l’exercice d’exécution\ndu budget concerné.",
+   "chunk_id": "DOC-7bab6f727358-C0099",
+   "text_hash": "f37346aea3e0598973f714db6bdeabc0b413cc3c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0099"
+  },
+  {
+   "article": "Article 99",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE I : DU DOMAINE DE LA LOI ET DU REGLEMENT",
+   "text": "Le Président de la République peut, en cas d’urgence, pour l’exécution de son programme,\ndemander au Parlement l’autorisation de prendre par ordonnance pendant l’intersession\nparlementaire, les mesures qui sont normalement du domaine de la loi.\nLes ordonnances sont prises après avis consultatif du Conseil d’Etat et signées par le\nPrésident de la République. Elles entrent en vigueur dès leur publication.\nElles doivent être ratifiées par le Parlement au cours de sa prochaine session.\nLe Parlement a la possibilité de modifier les ordonnances par voie d’amendements.\nEn l’absence d’une loi de ratification, les ordonnances sont frappées de caducité.\nLes ordonnances peuvent être modifiées par une autre ordonnance ou par une loi.\n\nConstitution Gabonaise - 2024\n26",
+   "chunk_id": "DOC-7bab6f727358-C0100",
+   "text_hash": "c72f3b40de3a06b70a62a546b1fd87e38d8009d7"
+  },
+  {
+   "article": "Article 100",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "L’initiative des lois appartient concurremment au Gouvernement et au Parlement.",
+   "chunk_id": "DOC-7bab6f727358-C0101",
+   "text_hash": "128e150fd4298c9b85214237724c74f62ba4756f",
+   "duplicate_of": "DOC-bb22b5a28485-C0057"
+  },
+  {
+   "article": "Article 101",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "Les projets de loi sont déposés sur le bureau de l’une des deux Chambres du Parlement,\naprès avis consultatif du Conseil d’Etat.\nPar délégation du Président de la République, le Vice-Président du Gouvernement ou tout\nautre membre du Gouvernement est chargé d’en exposer les motifs et de soutenir la\ndiscussion devant les Chambres du Parlement.\nLes projets de loi de finances et les projets de révision de la Constitution sont déposés en\npremier lieu à l’Assemblée Nationale. Les projets de loi afférents aux collectivités locales\nsont présentés en premier lieu devant le Sénat.\nToute proposition de loi transmise au Gouvernement par le Parlement qui n’a pas fait\nl’objet d’un examen dans un délai de soixante jours est d’office mise en délibération au\nsein du Parlement.",
+   "chunk_id": "DOC-7bab6f727358-C0102",
+   "text_hash": "4708d042fc57bd962159f5af01f9cf987532adb2"
+  },
+  {
+   "article": "Article 102",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "L’ordre du jour du Parlement comporte la discussion des projets de loi déposés par le\nGouvernement et des propositions de loi.\nLe Gouvernement est informé de l’ordre du jour des travaux des Chambres et de leurs\nCommissions.\nLe Gouvernement dispose du droit d’accès et de parole aux Chambres du Parlement et à\nleurs Commissions. Les Ministres sont entendus à l’initiative des instances parlementaires\nou à leur demande.",
+   "chunk_id": "DOC-7bab6f727358-C0103",
+   "text_hash": "0d2bb70cba9483ca98ca12a3a4fdcfeef6ba3c15",
+   "duplicate_of": "DOC-8e28d53d40ca-C0103"
+  },
+  {
+   "article": "Article 103",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "Les membres du Parlement ont le droit d’amendement.\nLes propositions de loi et les amendements d’origine parlementaire sont irrecevables\nlorsque leur adoption aurait pour conséquence, soit une diminution des recettes publiques,\nsoit la création ou l’aggravation d’une charge publique sans dégagement des recettes\ncorrespondantes.\nLes amendements ne doivent pas être dépourvus de tout lien avec le texte auquel ils se\nrapportent.\nSi le Gouvernement le demande, la Chambre saisie se prononce par un vote unique sur\ntout ou partie du texte en discussion et en ne retenant que les seuls amendements proposés\nou acceptés par le Gouvernement.",
+   "chunk_id": "DOC-7bab6f727358-C0104",
+   "text_hash": "3cf5e8237b5ec97c4b03d1147bc87936162b831a",
+   "duplicate_of": "DOC-8e28d53d40ca-C0104"
+  },
+  {
+   "article": "Article 104",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "S’il apparaît, au cours de la procédure législative, qu’un texte ou un amendement n’est pas\ndu domaine de la loi, au sens de l’article 96 susvisé, ou dépasse les limites de l’habilitation\nlégislative accordée au Gouvernement en vertu de l’article 101, le Gouvernement peut\nsoulever l’irrecevabilité, ainsi que le Président de la Chambre intéressée à la demande du\n\nConstitution Gabonaise - 2024\n27\ncinquième de ses membres.\nEn cas de désaccord, la Cour Constitutionnelle est saisie. Celle-ci statue dans le délai de\nhuit (8) jours.\nToute personne lésée par un texte jugé inconstitutionnel peut également saisir la Cour\nConstitutionnelle qui doit statuer dans le même délai.\nSi ce délai n'est pas respecté, le texte devient caduc.",
+   "chunk_id": "DOC-7bab6f727358-C0105",
+   "text_hash": "42da79f4f0ce4506b8bd6f4d19c6518d22174c11"
+  },
+  {
+   "article": "Article 105",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "L’urgence du vote d’une loi peut être demandée, soit par le Gouvernement, soit par les\nmembres du Parlement à la majorité absolue.",
+   "chunk_id": "DOC-7bab6f727358-C0106",
+   "text_hash": "f45a342680f0e4a52faac80118f9cfabb5f106b3",
+   "duplicate_of": "DOC-8e28d53d40ca-C0106"
+  },
+  {
+   "article": "Article 106",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "Tout projet ou proposition de loi est examiné successivement dans les deux Chambres du\nParlement en vue de l’adoption d’un texte identique.\nLorsque par suite d’un désaccord entre les deux Chambres, un projet ou une proposition\nde loi n’a pu être adopté après une seule lecture par chacune des Chambres, les Présidents\ndu Sénat et de l’Assemblée Nationale convoquent la réunion d’une Commission mixte\nparitaire des deux Chambres, chargée de proposer un texte sur les dispositions demeurant\nen discussion.\nSi la Commission mixte paritaire adopte un texte commun, ce dernier ne devient celui du\nParlement que s’il est adopté séparément par chacune des Chambres.\nSi la Commission mixte paritaire ne parvient pas à l’adoption d’un texte commun,\nl’Assemblée Nationale statue définitivement à l’exception des lois relatives aux\nCollectivités locales et à la Constitution.\nEn cas de désaccord persistant à l’issue de l’examen de la Constitution, l’un des Présidents\ndes deux Chambres saisit la Cour Constitutionnelle pour avis.\nLa procédure relative au budget est identique à celle de la loi ordinaire, sous réserve des\ndispositions particulières visées à l’article 98 ci-dessus.\nL’Assemblée Nationale et le Sénat reçoivent une ampliation des lois et des ordonnances\ndès leur promulgation. Il en est de même de tous les actes réglementaires pris en\napplication de ces lois.",
+   "chunk_id": "DOC-7bab6f727358-C0107",
+   "text_hash": "194dcf3f3d7b95bd5231e9c2eb40a716ca58da5f"
+  },
+  {
+   "article": "Article 107",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "Les projets et propositions de loi sont envoyés, pour examen, dans les Commissions\ncompétentes de chaque Chambre du Parlement avant délibération en séance plénière.\nAprès l’ouverture des débats publics, aucun amendement ne peut être examiné s’il n’a été\npréalablement soumis à la Commission compétente.",
+   "chunk_id": "DOC-7bab6f727358-C0108",
+   "text_hash": "d255c58e77e2b185ad724085c72d705aa482dbf7",
+   "duplicate_of": "DOC-8e28d53d40ca-C0108"
+  },
+  {
+   "article": "Article 108",
+   "context": "TITRE V : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE > CHAPITRE II : DE LA PROCEDURE LEGISLATIVE",
+   "text": "En cas de dissolution de l’Assemblée Nationale ou d’impossibilité de se réunir pour quelque\ncause que ce soit, le Sénat adopte les textes législatifs nécessaires à la conduite de la politique\nde la Nation qui lui sont soumis par le Président de la République. Ces textes législatifs\ndoivent être transmis à l’Assemblée Nationale lors de la première session ordinaire qui suit\n\nConstitution Gabonaise - 2024\n28\nla mise en place du Bureau de la nouvelle législature.",
+   "chunk_id": "DOC-7bab6f727358-C0109",
+   "text_hash": "92041e6fbf63ba5a733cf784bef0138330519fb3"
+  },
+  {
+   "article": "Article 109",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE I : DES PRINCIPES GENERAUX DE LA JUSTICE",
+   "text": "La justice est rendue au nom du peuple gabonais par la Cour Constitutionnelle, les\njuridictions de l'ordre judiciaire, les juridictions de l'ordre administratif, les juridictions de\nl'ordre financier, la Haute Cour de Justice, la Cour de Justice de la République et les autres\njuridictions d'exception.",
+   "chunk_id": "DOC-7bab6f727358-C0110",
+   "text_hash": "3cb76c887730eb28c6d49093c60a093453e40e13",
+   "duplicate_of": "DOC-2b2cd26aa88f-C0303"
+  },
+  {
+   "article": "Article 110",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE I : DES PRINCIPES GENERAUX DE LA JUSTICE",
+   "text": "Les ordres de juridiction jouissent de l’autonomie financière dans les conditions fixées par\nla loi. Les crédits nécessaires à leur fonctionnement sont inscrits dans la loi de finances.",
+   "chunk_id": "DOC-7bab6f727358-C0111",
+   "text_hash": "188b1ac233ddf8012f2a8583c57203a2430f77a8"
+  },
+  {
+   "article": "Article 111",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE I : DES PRINCIPES GENERAUX DE LA JUSTICE",
+   "text": "Le pouvoir judiciaire est indépendant du pouvoir exécutif et du pouvoir législatif, dans le\nrespect des dispositions de la présente Constitution.\nLes magistrats ne sont soumis, dans l’exercice de leurs fonctions, qu’à l’autorité de la loi.\nLes magistrats du siège sont inamovibles dans les conditions fixées par la loi.\nLes décisions de justice sont rendues sur le seul fondement de l’application impartiale de\nla loi.\nLes décisions de justice sont motivées et publiées dans les conditions fixées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0112",
+   "text_hash": "2e4f086f27be13dd08f7d090bc6125289c659848"
+  },
+  {
+   "article": "Article 112",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE I : DES PRINCIPES GENERAUX DE LA JUSTICE",
+   "text": "Les modes alternatifs et traditionnels de règlement des différends sont autorisés dans les\nconditions déterminées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0113",
+   "text_hash": "11021ca2840d3c14b67613e01e995c6f33c3b6cb",
+   "duplicate_of": "DOC-8e28d53d40ca-C0113"
+  },
+  {
+   "article": "Article 113",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle est la juridiction de l’Etat en matière constitutionnelle. Elle est\nimpartiale et indépendante du pouvoir exécutif et du pouvoir législatif, dans le respect des\ndispositions de la présente Constitution.\nElle est juge de la constitutionnalité des lois et de la régularité des élections présidentielles,\nlégislatives et référendaires. Elle garantit les droits fondamentaux de la personne humaine et les\nlibertés publiques.\nElle est l’organe régulateur du fonctionnement des institutions et de l’activité des pouvoirs publics.\nLe siège de la Cour Constitutionnelle est inviolable.",
+   "chunk_id": "DOC-7bab6f727358-C0114",
+   "text_hash": "2bd8ae93f95c127e18d893f8613ba2c0e029581b",
+   "duplicate_of": "DOC-8e28d53d40ca-C0114"
+  },
+  {
+   "article": "Article 114",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle statue obligatoirement sur :\n- les traités et accords internationaux avant leur entrée en vigueur, quant à leur conformité\n\nConstitution Gabonaise - 2024\n29\nà la Constitution, après adoption par le Parlement de la loi d’autorisation ;\n- les projets ou propositions de révision de la Constitution avant leur adoption par le\nParlement, quant à la régularité de la procédure et de l’objet de la révision ;\n- la constitutionnalité des lois organiques avant leur promulgation ;\n- les Règlements de l’Assemblée Nationale, du Sénat et du Conseil Economique, Social,\nEnvironnemental et Culturel, avant leur mise en application, quant à leur conformité à\nla Constitution ;\n- le règlement du Congrès du Parlement, avant sa mise en application, quant à sa\nconformité à la Constitution ;\n- les conflits d’attribution entre les institutions de l’Etat, à l’exception des conflits de\ncompétence entre les ordres de juridiction ;\n- la régularité des élections présidentielles, parlementaires et des opérations de\nréférendum dont elle proclame les résultats ;\n- la déchéance du mandat des Députés et des Sénateurs.",
+   "chunk_id": "DOC-7bab6f727358-C0115",
+   "text_hash": "15a88507c0adef0b2ae96f9d42d6727d57d0b929"
+  },
+  {
+   "article": "Article 115",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle peut statuer sur :\n- la constitutionnalité des lois avant leur promulgation et des ordonnances après leur\npublication ;\n- la constitutionnalité des lois promulguées dans un délai de trente (30) jours maximum\naprès leur publication.\nLorsque la Cour Constitutionnelle admet l’inconstitutionnalité d’une loi, le Parlement\nremédie à la situation juridique résultant de la décision de la Cour dans un délai de trente\n(30) jours.",
+   "chunk_id": "DOC-7bab6f727358-C0116",
+   "text_hash": "5dc83647015f7431b863c121f4a525b10553832e",
+   "duplicate_of": "DOC-8e28d53d40ca-C0116"
+  },
+  {
+   "article": "Article 116",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "En dehors des autres compétences prévues par la présente Constitution, la Cour\nConstitutionnelle dispose du pouvoir d’interpréter la Constitution et les autres textes à\nvaleur constitutionnelle, en cas de doute ou de lacune. Elle est saisie à la demande du\nPrésident de la République, du Président de l’Assemblée Nationale, du Président du Sénat,\nd’un dixième des Députés ou d’un dixième des Sénateurs.",
+   "chunk_id": "DOC-7bab6f727358-C0117",
+   "text_hash": "c69633c08afc8ddcdc6da9a358b6a103c13ce862",
+   "duplicate_of": "DOC-8e28d53d40ca-C0117"
+  },
+  {
+   "article": "Article 117",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "Les règles d’organisation et de fonctionnement de la Cour Constitutionnelle, ainsi que la\nprocédure suivie devant elle sont déterminées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0118",
+   "text_hash": "05cd72aafeae8ea6c2ca6aa8223fcd3420b16e88",
+   "duplicate_of": "DOC-8e28d53d40ca-C0118"
+  },
+  {
+   "article": "Article 118",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle est saisie en cas de contestation sur la validité d’une élection,\npar tout électeur, tout candidat, tout parti politique ou délégué du Gouvernement dans les\nconditions prévues par les règles de procédures devant la Cour Constitutionnelle.",
+   "chunk_id": "DOC-7bab6f727358-C0119",
+   "text_hash": "838da05f1c0e55897d9d7cc7ed8886a5b6287ee5",
+   "duplicate_of": "DOC-8e28d53d40ca-C0119"
+  },
+  {
+   "article": "Article 119",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "Les lois organiques et les ordonnances portant sur le domaine relevant de la loi organique\nsont soumises par le Président de la République à la Cour Constitutionnelle avant leur\npromulgation ou leur publication.\nLes autres catégories de loi et les ordonnances peuvent être déférées à la Cour\n\nConstitution Gabonaise - 2024\n30\nConstitutionnelle, soit par le Président de la République, soit par les Présidents des\nChambres du Parlement ou un dixième (1/10) des membres de chaque Chambre, soit par\nles Présidents de la Cour de Cassation, du Conseil d’Etat et de la Cour des Comptes, soit\npar tout citoyen ou toute personne morale lésée par la loi ou l’ordonnance querellée.\nLa Cour Constitutionnelle se prononce d'office sur la constitutionnalité des lois et des\nordonnances censées porter atteinte aux droits fondamentaux de la personne humaine et\naux libertés publiques. Elle statue plus généralement sur les violations des droits de la\npersonne humaine et sa décision doit intervenir dans un délai maximum de huit (8) jours.\nElle statue, selon une procédure contradictoire dont les modalités sont fixées par la loi\norganique, dans le délai d’un (1) mois. Toutefois, à la demande du Président de la\nRépublique et en cas d’urgence, ce délai est ramené à huit (8) jours.\nLe recours suspend le délai de promulgation de la loi ou l’application de l’ordonnance\nquerellée.\nUne disposition déclarée inconstitutionnelle ne peut être promulguée, publiée ou\nappliquée.",
+   "chunk_id": "DOC-7bab6f727358-C0120",
+   "text_hash": "3f552caca9843e73a0da2e137c0dbf75c6fbbff2"
+  },
+  {
+   "article": "Article 120",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "Tout justiciable peut, dès l’entame de la procédure, à l’occasion d’un procès devant un tribunal\nordinaire, soulever une exception d’inconstitutionnalité à l’encontre d’une loi ou d’une\nordonnance qui méconnaîtrait ses droits fondamentaux.\nLe juge du siège saisit la Cour Constitutionnelle par voie d’exception préjudicielle.\nLa Cour Constitutionnelle statue dans le délai d’un (1) mois. Si elle déclare la loi ou\nl’ordonnance incriminée contraire à la Constitution, cette loi ou cette ordonnance cesse de\nproduire ses effets à compter de la décision.\nLe Parlement examine, au cours de la prochaine session, dans le cadre d’une procédure de\nrenvoi, les conséquences découlant de la décision de non-conformité à la Constitution\nrendue par la Cour.\nLorsque la Cour Constitutionnelle admet l’inconstitutionnalité d’une ordonnance, le\nPrésident de la République remédie à la situation juridique résultant de la décision de la\nCour dans un délai d’un (1) mois.",
+   "chunk_id": "DOC-7bab6f727358-C0121",
+   "text_hash": "724cece80dfa670f653c230721b9e2b9d7338dbe",
+   "duplicate_of": "DOC-8e28d53d40ca-C0121"
+  },
+  {
+   "article": "Article 121",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "Les engagements internationaux, prévus aux articles 165 et 166 ci-après doivent être\ndéférés, avant leur ratification à la Cour Constitutionnelle, soit par le Président de la\nRépublique, soit par le Président de l’Assemblée Nationale ou un dixième (1/10) des\nDéputés, soit par le Président du Sénat ou un dixième (1/10) des Sénateurs.\nLa Cour Constitutionnelle vérifie, dans un délai d'un (1) mois, si ces engagements\ncomportent une clause contraire à la Constitution. Toutefois, à la demande du Président\nde la République, s'il y a urgence, ce délai est ramené à huit (8) jours.\nDans l’affirmative, ces engagements ne peuvent être ratifiés que dans les conditions fixées\nà l’article 165 ci-dessous.\n\nConstitution Gabonaise - 2024\n31",
+   "chunk_id": "DOC-7bab6f727358-C0122",
+   "text_hash": "79f41b970430388c1e532e14cec087604eed1125"
+  },
+  {
+   "article": "Article 122",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "Les décisions de la Cour Constitutionnelle ne sont susceptibles d’aucun recours. Elles\ns’imposent aux pouvoirs publics, à toutes les autorités administratives et juridictionnelles\net à toutes les personnes physiques et morales.",
+   "chunk_id": "DOC-7bab6f727358-C0123",
+   "text_hash": "16189273cc06dc0147acd649dfaaba80ad28e115",
+   "duplicate_of": "DOC-8e28d53d40ca-C0123"
+  },
+  {
+   "article": "Article 123",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle comprend neuf (9) membres nommés et des membres de\ndroit.\nLes membres de la Cour Constitutionnelle portent le titre de Juge Constitutionnel.\nLa durée du mandat des membres nommés est de huit (8) ans, renouvelable aux deux tiers\n(2/3).\nToutefois, aucun Juge constitutionnel ne peut faire plus de deux (2) mandats.\nLes neuf (9) membres de la Cour Constitutionnelle sont désignés comme suit :\n- trois (3) par le Président de la République ;\n- deux (2) par le Président de l’Assemblée Nationale ;\n- deux (2) par le Président du Sénat.\n- deux (2) par le Conseil Supérieur de la Magistrature\nLes Juges constitutionnels sont choisis, à titre principal, parmi les magistrats de grade hors\nhiérarchie, les avocats et les professeurs de droit âgés de cinquante (50) ans au moins et\nayant au moins quinze (15) ans d’expérience, ainsi que les personnalités qualifiées qui ont\nhonoré le service de la Nation ou qui sont reconnues pour leur compétence et leur expertise\navérées en matière juridique ou administrative.\nLe Président de la Cour Constitutionnelle est élu par ses pairs pour la durée du mandat\nparmi les magistrats membres de la Cour.\nEn cas d'empêchement temporaire, l'intérim du Président est assuré par le doyen des juges\nconstitutionnels.\nEn cas de décès ou de démission d'un membre, le nouveau membre nommé par l'autorité\nde nomination concernée achève le mandat commencé.\nLes anciens Présidents de la République sont membres de droit de la Cour\nConstitutionnelle, sauf renonciation explicite ou condamnation définitive à la perte des\ndroits civils et politiques.\nLes juges constitutionnels ne sont soumis, dans l'exercice de leur fonction, qu'à l'autorité\nde la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0124",
+   "text_hash": "4f61d95d5e2662f17a805dd24f20cd78e1586cf7"
+  },
+  {
+   "article": "Article 124",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "Les fonctions de membre de la Cour Constitutionnelle sont incompatibles avec toute autre\nfonction publique et avec toute activité professionnelle privée, sous réserve des exceptions\nprévues par la loi organique.\nAucun membre de la Cour Constitutionnelle ne peut être inquiété, poursuivi, recherché,\narrêté, détenu ou jugé à l’occasion des opinions ou votes émis par lui dans l’exercice de ses\nfonctions et même après la cessation de celles-ci.\n\nConstitution Gabonaise - 2024\n32\nToute mesure de poursuite, d’arrestation ou de détention d’un membre de la Cour\nConstitutionnelle ne peut intervenir qu’après avis conforme de la Cour statuant à la\nmajorité des quatre cinquième (4/5) des autres membres, sauf en cas de crime ou délit\nflagrant ou de condamnation définitive.\nLes membres de la Cour Constitutionnelle sont protégés contre les menaces, outrages,\nviolences dont ils peuvent être l’objet dans l’exercice ou à l’occasion de l’exercice de leurs\nfonctions.\nLes membres de la Cour Constitutionnelle prêtent serment au cours d’une cérémonie\nsolennelle présidée par le Président de la République devant le Parlement, la Cour de\nCassation, le Conseil d’Etat et la Cour des Comptes réunis.\nIls prêtent le serment suivant, la main gauche posée sur la Constitution et la main droite\nnue levée devant le drapeau national.\n« Je jure de remplir consciencieusement les devoirs de ma charge dans le strict respect de ses obligations de\nneutralité, impartialité et de réserve, et de me conduire en digne Juge Constitutionnel. »",
+   "chunk_id": "DOC-7bab6f727358-C0125",
+   "text_hash": "0ff6d3b2d720e905981d9bfe2493170ae4836b75"
+  },
+  {
+   "article": "Article 125",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle adresse chaque année un rapport d’activités au Président de la\nRépublique et aux Présidents des Chambres du Parlement.\nElle peut, à cette occasion, appeler l’attention des pouvoirs publics sur la portée de ses\ndécisions en matière législative et faire toute suggestion qu’elle juge utile à la consolidation\nde l’Etat de droit.",
+   "chunk_id": "DOC-7bab6f727358-C0126",
+   "text_hash": "94f0e4fcb42a77996d80f89580bd66dc1f19785f",
+   "duplicate_of": "DOC-8e28d53d40ca-C0126"
+  },
+  {
+   "article": "Article 126",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE II : DE LA COUR CONSTITUTIONNELLE",
+   "text": "La Cour Constitutionnelle jouit de l’autonomie de gestion financière. Les crédits\nnécessaires à son fonctionnement sont inscrits dans la loi de finances.",
+   "chunk_id": "DOC-7bab6f727358-C0127",
+   "text_hash": "4b638543c0e9123b0f57115c0b2d6a992c3eaf19",
+   "duplicate_of": "DOC-8e28d53d40ca-C0127"
+  },
+  {
+   "article": "Article 127",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE III : DES PRINCIPES D’ORGANISATION DU POUVOIR",
+   "text": "Le pouvoir judiciaire comprend les ordres judiciaire, administratif et financier.\nL’ordre judiciaire comprend la Cour de Cassation, les Cours d’appel judiciaires et les\ntribunaux.\nL’ordre administratif comprend le Conseil d’Etat, les Cours d’appel administratives et les\ntribunaux administratifs.\nL’ordre financier comprend la Cour des comptes et les Chambres provinciales des comptes.\nUne loi organique fixe l’organisation de la Justice.",
+   "chunk_id": "DOC-7bab6f727358-C0128",
+   "text_hash": "3f53ceee843c210ae82b0f4b83d77c767d78f90c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0128"
+  },
+  {
+   "article": "Article 128",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE III : DES PRINCIPES D’ORGANISATION DU POUVOIR",
+   "text": "Le Conseil Supérieur de la Magistrature veille à la bonne administration de la justice et statue\nde ce fait sur les nominations, les affectations, les avancements et la discipline des\nmagistrats.\n\nConstitution Gabonaise - 2024\n33\nLe Conseil Supérieur de la Magistrature est présidé par le Président de la République.\nLa Vice-présidence est assurée de façon rotative par les présidents de la Cour de Cassation,\ndu Conseil d'Etat et de la Cour des Comptes.\nLe Ministre chargé de la Justice assiste le Président de la République.\nLe Ministre chargé du Budget assiste au Conseil Supérieur de la Magistrature avec voix\nconsultative.\nLe Parlement est représenté par trois (3) Députés et deux (2) Sénateurs désignés par le\nPrésident de chaque Chambre, avec voix consultative.",
+   "chunk_id": "DOC-7bab6f727358-C0129",
+   "text_hash": "1cf4be630287dde7fcea1bfcb331861f64e4d9c6"
+  },
+  {
+   "article": "Article 129",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "La Cour de Cassation est la plus haute juridiction de l’Etat en matière civile, commerciale,\nsociale, pénale et des requêtes. Elle est divisée en chambres civiles, commerciales, sociales,\npénales et des requêtes.\nChaque chambre délibère séparément, selon son chef de compétence.\nLa Cour de Cassation peut siéger toutes chambres réunies dans les conditions prévues par\nla loi.\nLes arrêts de la Cour de Cassation sont revêtus de l’autorité absolue de la chose jugée. Ils\ns'imposent aux juridictions inférieures, aux pouvoirs publics, à toutes les autorités\nadministratives et à toutes les personnes physiques et morales.",
+   "chunk_id": "DOC-7bab6f727358-C0130",
+   "text_hash": "e7f5000c9b2d211fe9c836bfbf27ffab8da69d08"
+  },
+  {
+   "article": "Article 130",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "Une loi organique fixe l’organisation, la composition, les compétences et le\nfonctionnement de la Cour de Cassation ainsi que des Cours d’Appel et des tribunaux\njudiciaires en matière civile, commerciale, sociale, pénale et des requêtes.",
+   "chunk_id": "DOC-7bab6f727358-C0131",
+   "text_hash": "39416f18487f812029da9eddbb00779d0400c35c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0131"
+  },
+  {
+   "article": "Article 131",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "Le Conseil d’Etat est la plus haute juridiction de l’Etat en matière administrative.\nLe Conseil d'Etat connaît, en premier et dernier ressort ou en dernier ressort de toutes les\nmatières pour lesquelles la loi lui attribue expressément compétence.",
+   "chunk_id": "DOC-7bab6f727358-C0132",
+   "text_hash": "a21a94d2068bb1654b36b69bcc0c80ec6dac43a8"
+  },
+  {
+   "article": "Article 132",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "Une loi organique fixe l’organisation, la composition, les compétences et le\nfonctionnement du Conseil d’Etat, des Cours d’Appel et des tribunaux administratifs.",
+   "chunk_id": "DOC-7bab6f727358-C0133",
+   "text_hash": "92e4335bd94d469fd36f8966ca94ed59855b6ed0",
+   "duplicate_of": "DOC-8e28d53d40ca-C0133"
+  },
+  {
+   "article": "Article 133",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "La Cour des Comptes est la plus haute juridiction de l’Etat en matière de contrôle des\nfinances publiques. Elle est l'institution supérieure de contrôle des finances publiques.",
+   "chunk_id": "DOC-7bab6f727358-C0134",
+   "text_hash": "1b027b65cbd5b75ba575641af882a20f085d82d2"
+  },
+  {
+   "article": "Article 134",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "Les arrêts de la Cour des Comptes sont revêtus de l’autorité absolue de la chose jugée. Ils\ns'imposent aux juridictions inférieures, aux pouvoirs publics, à toutes les autorités\nadministratives et à toutes les personnes physiques et morales.\n\nConstitution Gabonaise - 2024\n34",
+   "chunk_id": "DOC-7bab6f727358-C0135",
+   "text_hash": "744f0d69e74030e06744ed5998ef72348f101ca0"
+  },
+  {
+   "article": "Article 135",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE IV : DES HAUTES COURS",
+   "text": "Une loi organique fixe l’organisation, la composition, la compétence et le fonctionnement\nde la Cour des Comptes et des Chambres provinciales des Comptes.",
+   "chunk_id": "DOC-7bab6f727358-C0136",
+   "text_hash": "b19ae210c9c5afb4d6c5582faee80f8ff9487337",
+   "duplicate_of": "DOC-8e28d53d40ca-C0136"
+  },
+  {
+   "article": "Article 136",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "La Haute Cour de Justice est une juridiction d’exception non permanente.\nElle juge le Président de la République en cas de violation du serment ou de haute trahison.",
+   "chunk_id": "DOC-7bab6f727358-C0137",
+   "text_hash": "316a51ceffb1a6058a7414b26ecff6cb406ca0bd",
+   "duplicate_of": "DOC-8e28d53d40ca-C0137"
+  },
+  {
+   "article": "Article 137",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "Le Président de la République est mis en accusation par l’Assemblée Nationale et le Sénat,\nsaisis soit par deux tiers (2/3) des Députés, soit par deux tiers (2/3) des Sénateurs, statuant\npar un vote identique au scrutin public et à la majorité des deux tiers (2/3) des membres\nde chacune des Chambres.\nEn cas de désaccord entre les deux Chambres, les Présidents du Sénat et de l’Assemblée\nNationale convoquent la réunion d’une Commission mixte paritaire chargée de proposer\nune position commune.\nSi le désaccord persiste, l’Assemblée Nationale statue définitivement.\nLa Haute Cour de justice est saisie, selon les cas, soit par les Présidents des deux Chambres\ndu Parlement, soit par le Président de l’Assemblée Nationale.",
+   "chunk_id": "DOC-7bab6f727358-C0138",
+   "text_hash": "f617fb1abf24625ca7d6d1741a85d01f8f92c19b"
+  },
+  {
+   "article": "Article 138",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "La Haute Cour de Justice est composée de treize (13) membres dont sept (7) magistrats\ndu grade hors hiérarchie issus des juridictions pénales, désignés par le Conseil Supérieur\nde la Magistrature et de six (6) parlementaires élus par le Parlement, à raison de quatre\npour l’Assemblée Nationale et deux pour le Sénat, au prorata des effectifs des groupes\nparlementaires, de manière à refléter la configuration politique des Chambres du\nParlement.\nLe Président et le Vice-Président de la Haute Cour de Justice sont élus parmi les magistrats\nvisés à l’alinéa premier par l’ensemble des membres de cette institution.",
+   "chunk_id": "DOC-7bab6f727358-C0139",
+   "text_hash": "c87ebd506d53018abe624a54c1a6eeb9cdd36c21",
+   "duplicate_of": "DOC-8e28d53d40ca-C0139"
+  },
+  {
+   "article": "Article 139",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "La Haute Cour de Justice est liée, à l'exception du jugement du Président de la République\net de la violation du serment, par la définition des crimes et délits ainsi que par la\ndétermination des peines telles qu'elles résultent des lois pénales en vigueur au moment où\nles faits ont été commis.",
+   "chunk_id": "DOC-7bab6f727358-C0140",
+   "text_hash": "88fef00704c25f33be2d1b37b580086d47d58dcb",
+   "duplicate_of": "DOC-8e28d53d40ca-C0140"
+  },
+  {
+   "article": "Article 140",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "Les règles de fonctionnement de la Haute Cour de Justice, la détermination des infractions,\nla procédure et les peines applicables devant elle sont fixées par une loi organique.\n\nConstitution Gabonaise - 2024\n35",
+   "chunk_id": "DOC-7bab6f727358-C0141",
+   "text_hash": "14b1cb4b4fbb4cde4ec8497a9f804d87b7f9594e"
+  },
+  {
+   "article": "Article 141",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "La Cour de Justice de la République est une juridiction d'exception non permanente.\nElle juge le Vice-Président de la République, le Vice-Président du Gouvernement, les\nPrésidents et Vice-Présidents des institutions constitutionnelles, les Ministres, les Chefs des\nHautes Cours et les membres de la Cour Constitutionnelle pour les actes commis dans\nl'exercice ou à l'occasion de l'exercice de leurs fonctions et qualifiés de crimes ou délits au\nmoment où ils ont été commis, ainsi que leurs complices et co-auteurs en cas d'atteinte à la\nsûreté de l'Etat.\nIls sont également responsables devant la Cour de Justice de la République en cas de\nviolation de leur serment.\nA la cessation de leurs fonctions, les personnalités citées au deuxième alinéa ci-dessus\nperdent le privilège de juridiction de la Cour de Justice de la République et répondent des\nactes commis dans l'exercice de leurs fonctions ou à l'occasion de celles-ci devant les\njuridictions de droit commun.\nToutefois, si la cessation de fonction intervient alors qu'une procédure impliquant l'une des\npersonnalités citées ci-dessus est déjà ouverte devant la Cour de Justice de la République,\ncelle-ci reste saisie jusqu'à ce qu'il soit statué définitivement sur l'affaire.",
+   "chunk_id": "DOC-7bab6f727358-C0142",
+   "text_hash": "c247204505339678450f84abd2420e73a384e632"
+  },
+  {
+   "article": "Article 142",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "La Cour de Justice de la République comprend treize (13) juges, dont sept (7) magistrats du\ngrade hors hiérarchie issus des juridictions pénales, désignés par le Conseil Supérieur de la\nMagistrature, et six (6) membres élus par le Parlement, à raison de trois (3) par l'Assemblée\nNationale et trois (3) par le Sénat, au prorata des effectifs des groupes parlementaires.\nLe Président et le Vice-Président de la Cour de Justice de la République sont élus parmi les\nmagistrats visés à l'alinéa ci-dessus par l'ensemble des membres de cette juridiction.\nLa Cour de Justice de la République est saisie, soit par le Président de la République, soit\npar le Président de l'Assemblée Nationale, soit par le Président du Sénat, soit par le\nProcureur Général près la Cour de Cassation agissant d'office ou sur saisine de toute\npersonne lésée par un crime ou un délit commis dans l'exercice de ses fonctions par l'une\ndes personnalités citées à l'article 144 ci-dessus.",
+   "chunk_id": "DOC-7bab6f727358-C0143",
+   "text_hash": "416d266641df2b3962388b13bd84611459852e17",
+   "duplicate_of": "DOC-8e28d53d40ca-C0143"
+  },
+  {
+   "article": "Article 143",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "La Cour de Justice de la République est liée par la définition des crimes et délits ainsi que\npar la détermination des peines telles qu'elles résultent de la loi au moment des faits.",
+   "chunk_id": "DOC-7bab6f727358-C0144",
+   "text_hash": "f0880f478693f8aa1a8fa889ea85b47e04f889fa",
+   "duplicate_of": "DOC-8e28d53d40ca-C0144"
+  },
+  {
+   "article": "Article 144",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "Les règles de fonctionnement de la Cour de Justice de la République ainsi que la procédure\napplicable devant elle sont fixées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0145",
+   "text_hash": "0665fe2ce47483eae8b7a3385ac31bb276e7a70e",
+   "duplicate_of": "DOC-8e28d53d40ca-C0145"
+  },
+  {
+   "article": "Article 145",
+   "context": "TITRE VI : DE LA JUSTICE > CHAPITRE V : DE LA HAUTE COUR DE JUSTICE, DE LA COUR DE",
+   "text": "Les autres juridictions d’exception sont également des instances non permanentes, créées\npar la loi.\n\nConstitution Gabonaise - 2024\n36",
+   "chunk_id": "DOC-7bab6f727358-C0146",
+   "text_hash": "b7137a4ff846557b2e0ad97a9c2540a793f3c541"
+  },
+  {
+   "article": "Article 146",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel, sous réserve des dispositions des\narticles 41 et 102 ci-dessus, donne son avis sur toutes les questions de développement\néconomique, social, environnemental et culturel, à savoir :\n- l’orientation générale de l’économie du pays ;\n- la politique financière et budgétaire ;\n- la politique des matières premières ;\n- la politique sociale, culturelle et cultuelle ;\n- la politique de l’environnement, de lutte contre le changement climatique et du\ndéveloppement durable.",
+   "chunk_id": "DOC-7bab6f727358-C0147",
+   "text_hash": "9a458bf45c0198918b4427a6ca6bdcc40034279e",
+   "duplicate_of": "DOC-8e28d53d40ca-C0147"
+  },
+  {
+   "article": "Article 147",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel participe à toute commission\nd'intérêt national à caractère économique, social, culturel, cultuel, environnemental et de\ndéveloppement durable.\nIl collecte et rédige, avec la participation des différentes entités qui le composent, à\nl'attention du Président de la République et du Parlement, le recueil annuel des attentes,\ndes besoins des populations et des problèmes de la société civile avec des orientations et\ndes propositions.",
+   "chunk_id": "DOC-7bab6f727358-C0148",
+   "text_hash": "4b8a9f8587912aa6ea7ad9e39010200d2b80791e"
+  },
+  {
+   "article": "Article 148",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel est chargé de donner son avis\nsur les questions à caractère économique, social, culturel, cultuel, environnemental et de\ndéveloppement durable, portées à son examen par le Président de la République, le\nParlement ou toute autre institution publique.\nIl est consulté sur tout projet de plan ou tout projet de programme à caractère économique,\nsocial, culturel, cultuel, environnemental et de développement durable. Il peut être, au\npréalable, associé à leur élaboration.\nLe Conseil Economique, Social, Environnemental et Culturel est saisi par le Président de la\nRépublique des demandes d'avis ou d'études sur toutes questions de développement\néconomique, social, culturel, cultuel, environnemental et de développement durable.",
+   "chunk_id": "DOC-7bab6f727358-C0149",
+   "text_hash": "4305364eba01d21c947d71e818d91712dae1c6fe",
+   "duplicate_of": "DOC-8e28d53d40ca-C0149"
+  },
+  {
+   "article": "Article 149",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel peut également procéder, de sa\npropre initiative, à l'analyse de tout problème de développement économique, social,\nculturel, cultuel, environnemental et de développement durable. Il soumet ses conclusions\nau Président de la République et aux Présidents des Chambres du Parlement.\nLe Président de la République et le Parlement, quand ils sont saisis, donnent suite aux avis\net rapports formulés par le Conseil Economique, Social, Environnemental et Culturel, dans\nun délai maximum de trois (3) mois pour le Président de la République et avant la fin de\nla session en cours pour le Parlement.\n\nConstitution Gabonaise - 2024\n37",
+   "chunk_id": "DOC-7bab6f727358-C0150",
+   "text_hash": "eb2e34014a6504265f8659bad3b02bbf43279451"
+  },
+  {
+   "article": "Article 150",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel peut désigner l'un de ses\nmembres, à la demande du Président de la République ou des Présidents des Chambres du\nParlement, pour exposer devant ces institutions l'avis du Conseil sur les projets ou\npropositions de loi qui lui ont été soumis.\nLe Conseil Economique, Social, Environnemental et Culturel reçoit une ampliation des lois,\nordonnances et décrets sur lesquels il a été consulté, dès leur promulgation. Il suit\nl'exécution des décisions du Président de la République relatives à l'organisation\néconomique, sociale, culturelle, cultuelle, environnementale et de développement durable.",
+   "chunk_id": "DOC-7bab6f727358-C0151",
+   "text_hash": "8a3c13c6bf9477b12955a9ad9c562b80715c5cf0",
+   "duplicate_of": "DOC-8e28d53d40ca-C0151"
+  },
+  {
+   "article": "Article 151",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel se réunit chaque année de plein\ndroit en deux (2) sessions ordinaires de vingt-et-un (21) jours chacune. La première session\ns'ouvre le troisième mardi de février et la seconde, le premier mardi de septembre.\nL'ouverture de chaque session est reportée au lendemain si le jour prévu est non ouvrable.\nLe Conseil Economique, Social, Environnemental et Culturel peut être convoqué en session\nextraordinaire par son Président pour une durée de dix (10) jours au plus.\nLes séances du Conseil Economique, Social, Environnemental et Culturel sont publiques.",
+   "chunk_id": "DOC-7bab6f727358-C0152",
+   "text_hash": "34799e8ce0f6ee9f0f4957287a042d9df41152eb",
+   "duplicate_of": "DOC-8e28d53d40ca-C0152"
+  },
+  {
+   "article": "Article 152",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Sont membres du Conseil Economique, Social, Environnemental et Culturel pour un mandat de\ncinq ans renouvelables :\n- les cadres supérieurs de l'Etat nommés par décret ;\n- les organisations de la société civile dans les domaines économique, social,\nenvironnemental et culturel nommés par décret du Président de la République ;\n- les représentants des collectivités locales, des Organisations Non Gouvernementales\n(ONG), les organisations de défense des droits humains, et les organisations de la\nsociété civile désignés par leurs pairs ;\n- les représentants des syndicats autonomes, des confédérations syndicales, des associations,\ndes acteurs culturels, des groupements socioprofessionnels les plus représentatifs, élus par\nleurs groupements d'origine, après quitus des autorités compétentes, et des représentants\ndes confessions religieuses et des cultes ;\n- les représentants des artisans désignés par leurs pairs ;\n- les représentants des Gabonais établis à l’étranger désignés par les institutions\nreprésentatives reconnues par l’État ;\n- les représentants des populations autochtones désignés par leurs pairs.\nEn cas de décès, de démission d'un membre, ou de perte de qualité dans son secteur\nd'origine, le suppléant du membre concerné achève le mandat commencé.",
+   "chunk_id": "DOC-7bab6f727358-C0153",
+   "text_hash": "00704dfe5a5b2105991992a9c152e03d3de22c43"
+  },
+  {
+   "article": "Article 153",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "Le Conseil Economique, Social, Environnemental et Culturel est dirigé par un Bureau qui\ncomprend un Président, deux Vice-présidents, deux Questeurs et trois Secrétaires.\nLe Président du Conseil Economique, Social, Environnemental et Culturel, le Premier\n\nConstitution Gabonaise - 2024\n38\nQuesteur et le Premier Secrétaire du Bureau sont nommés par décret du Président de la\nRépublique parmi les cadres supérieurs de l'État.\nLes deux Vice-présidents et les autres membres du Bureau sont nommés par décret du\nPrésident de la République sur proposition des représentants des organisations autres que\nl’État.\nLes membres du Bureau du Conseil sont nommés pour toute la durée du mandat.\nAucun membre du Conseil Economique, Social, Environnemental et Culturel ne peut être\npoursuivi, recherché ou jugé pour des opinions émises par lui lors des séances du Conseil.",
+   "chunk_id": "DOC-7bab6f727358-C0154",
+   "text_hash": "2434293944ea22d64ae53db3fc642fc14a5be6b2"
+  },
+  {
+   "article": "Article 154",
+   "context": "TITRE VII : DU CONSEIL ECONOMIQUE, SOCIAL,",
+   "text": "L'organisation interne, les règles de fonctionnement et de désignation des membres du\nConseil Economique, Social, Environnemental et Culturel sont fixées par une loi organique.",
+   "chunk_id": "DOC-7bab6f727358-C0155",
+   "text_hash": "30bf5b5b64e57a7df16eedd06e68a4294b29fb52",
+   "duplicate_of": "DOC-8e28d53d40ca-C0155"
+  },
+  {
+   "article": "Article 155",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "L’Etat assure la gouvernance des collectivités locales par une politique de décentralisation\nefficace et efficiente, garante d’un développement local équitable, démocratique et inclusif.",
+   "chunk_id": "DOC-7bab6f727358-C0156",
+   "text_hash": "d71d57ac9008676fd9b94c7fbe90afca8282749c",
+   "duplicate_of": "DOC-8e28d53d40ca-C0156"
+  },
+  {
+   "article": "Article 156",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "Les Collectivités locales sont des personnes morales de droit public créées par la loi qui\nexercent leurs activités sur le territoire national, notamment les communes et les\ndépartements.\nElles peuvent être modifiées ou supprimées après avis des conseils intéressés et dans les\nconditions fixées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0157",
+   "text_hash": "0d67ced9301ef252fd9bc2319a0def49c74e4c28"
+  },
+  {
+   "article": "Article 157",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "Les Collectivités locales s’administrent librement par les Conseils élus dans les conditions\nprévues par la loi, notamment en ce qui concerne leurs compétences et leurs ressources.\nDans la mise en œuvre de la décentralisation, tout transfert de compétences entre l'État et\nles Collectivités locales s'accompagne de l'attribution de ressources équivalentes à celles qui\nétaient consacrées à leur exercice.\nToute création ou extension de compétences ayant pour conséquence d'augmenter les\ndépenses des Collectivités locales est accompagnée de ressources déterminées par la loi.\nLa loi prévoit des dispositifs de péréquation destinés à favoriser l'égalité entre les\nCollectivités locales.",
+   "chunk_id": "DOC-7bab6f727358-C0158",
+   "text_hash": "fb5ac1cc1ff2688c699e05a03fa0ae1398e21b28",
+   "duplicate_of": "DOC-8e28d53d40ca-C0158"
+  },
+  {
+   "article": "Article 158",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "Les Collectivités locales ont vocation à prendre des décisions pour l’ensemble des\ncompétences qui peuvent le mieux être mises en œuvre à leur échelon.",
+   "chunk_id": "DOC-7bab6f727358-C0159",
+   "text_hash": "b99ca89733eaa4527aed6ddf6625219427a23eb7",
+   "duplicate_of": "DOC-8e28d53d40ca-C0159"
+  },
+  {
+   "article": "Article 159",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "Pour le développement des Collectivités locales, l’État met à leur disposition une dotation\n\nConstitution Gabonaise - 2024\n39\nspéciale annuelle inscrite dans la loi de finances.",
+   "chunk_id": "DOC-7bab6f727358-C0160",
+   "text_hash": "5ecaa28159bd7b6d812fd126e8367ea996bc2f4e"
+  },
+  {
+   "article": "Article 160",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "Des consultations locales, portant sur des problèmes spécifiques ne relevant pas du\ndomaine de la loi, peuvent être organisées à l’initiative, soit des Conseils élus, soit des\ncitoyens intéressés, dans les conditions fixées par la loi.",
+   "chunk_id": "DOC-7bab6f727358-C0161",
+   "text_hash": "1e8dfd0dfbbb1130c03d400f921acf9179680868",
+   "duplicate_of": "DOC-8e28d53d40ca-C0161"
+  },
+  {
+   "article": "Article 161",
+   "context": "TITRE VIII : DES COLLECTIVITES LOCALES",
+   "text": "Les conflits de compétence, entre les Collectivités locales d’une part, ou entre une\nCollectivité locale et l’État d’autre part, sont portés devant les juridictions administratives,\nà la diligence des autorités responsables ou du représentant de l’Etat.\nLe représentant de l’Etat veille au respect des intérêts nationaux et des lois et assure le\ncontrôle de tutelle.\nUne loi organique précise les modalités d’application du présent titre.",
+   "chunk_id": "DOC-7bab6f727358-C0162",
+   "text_hash": "6dd052464b709ff5ab82ca4580e6d0e32bdc103b",
+   "duplicate_of": "DOC-8e28d53d40ca-C0162"
+  },
+  {
+   "article": "Article 162",
+   "context": "TITRE IX : DES TRAITES ET DES ACCORDS INTERNATIONAUX",
+   "text": "Le Président de la République négocie et ratifie les traités et accords internationaux après le\nvote d’une loi d’autorisation par le Parlement et la vérification de leur constitutionnalité par\nla Cour Constitutionnelle.\nIl dénonce les traités et accords internationaux.\nToute négociation tendant à la conclusion d’un accord international, est soumise à\nl’autorisation du Président de la République.\nLes Présidents des Chambres du Parlement et le Président de la Cour Constitutionnelle sont\ninformés de toute négociation tendant à la conclusion d’un accord international non soumis\nà ratification.",
+   "chunk_id": "DOC-7bab6f727358-C0163",
+   "text_hash": "46f3d8feb2c804ecf61abe55c9e34ff606332227"
+  },
+  {
+   "article": "Article 163",
+   "context": "TITRE IX : DES TRAITES ET DES ACCORDS INTERNATIONAUX",
+   "text": "Ne peuvent être approuvés et ratifiés qu’en vertu d’une loi :\n- les traités de paix ;\n- les traités de commerce ;\n- les traités de coopération judiciaire ;\n- les traités relatifs à l’organisation internationale ;\n- les traités relatifs à la défense ;\n- les traités relatifs à la protection de l'environnement et à la gestion des ressources\nnaturelles ;\n- les traités relatifs à l’intégration régionale et sous régionale ;\n- les traités relatifs au numérique, aux transports, aux technologies de l’information et\nde la communication ;\n- les traités engageant les finances de l’Etat ;\n- les traités modifiant les dispositions de nature législative ;\n- les traités relatifs à l’état des personnes.\n\nConstitution Gabonaise - 2024\n40\nAucun amendement n’est recevable à cette occasion. Les traités ne prennent effet qu’après\navoir été régulièrement ratifiés et publiés.\nNulle cession, nul échange, nulle adjonction de territoire n’est valable sans consultation\npréalable du peuple gabonais par voie de référendum.",
+   "chunk_id": "DOC-7bab6f727358-C0164",
+   "text_hash": "9175a9b6152db19320171afee020e766446433e3"
+  },
+  {
+   "article": "Article 164",
+   "context": "TITRE IX : DES TRAITES ET DES ACCORDS INTERNATIONAUX",
+   "text": "La République Gabonaise, soucieuse de réaliser l’unité africaine, peut conclure\nsouverainement tout accord d’intégration sous régionale ou régionale, conformément aux\narticles 165 et 166 de la présente Constitution.",
+   "chunk_id": "DOC-7bab6f727358-C0165",
+   "text_hash": "411c0754be9bb645fc67917121d052e49e50da25",
+   "duplicate_of": "DOC-8e28d53d40ca-C0165"
+  },
+  {
+   "article": "Article 165",
+   "context": "TITRE IX : DES TRAITES ET DES ACCORDS INTERNATIONAUX",
+   "text": "Si la Cour Constitutionnelle, saisie par le Président de la République, le Président de\nl’Assemblée Nationale, le Président du Sénat, un dixième (1/10) de Députés ou un dixième\n(1/10) de Sénateurs, déclare qu’un engagement international comporte une clause contraire\nà la Constitution, l’autorisation de le ratifier ne peut intervenir qu’après révision de la\nConstitution.",
+   "chunk_id": "DOC-7bab6f727358-C0166",
+   "text_hash": "2958a6ec7fce49b5f73a7b3ce2b57e954ff69519",
+   "duplicate_of": "DOC-8e28d53d40ca-C0166"
+  },
+  {
+   "article": "Article 166",
+   "context": "TITRE IX : DES TRAITES ET DES ACCORDS INTERNATIONAUX",
+   "text": "Les traités ou accords régulièrement ratifiés ont, dès leur publication, une autorité\nsupérieure à celle des lois, sous réserve, pour chaque accord ou traité, de son application\npar l'autre partie.",
+   "chunk_id": "DOC-7bab6f727358-C0167",
+   "text_hash": "de5f1ccb541ead9d8d2485cf34634163af729953",
+   "duplicate_of": "DOC-8e28d53d40ca-C0167"
+  },
+  {
+   "article": "Article 167",
+   "context": "TITRE X : DE LA REVISION DE LA CONSTITUTION",
+   "text": "L’initiative de la révision appartient concurremment au Président de la République et aux\nmembres du Parlement.\nToute proposition de révision doit être déposée au Bureau de l’Assemblée Nationale par au\nmoins un tiers (1/3) des Députés ou au Bureau du Sénat par au moins un tiers (1/3) des\nSénateurs.\nTout projet ou toute proposition de révision de la Constitution ainsi que tout amendement\ny relatif est soumis au contrôle de la Cour Constitutionnelle quant à la régularité de la\nprocédure et de l’objet de la révision, avant le référendum ou la réunion du Parlement en\nCongrès.\nLa révision de la Constitution est acquise par référendum.\nToutefois, le Président de la République peut décider, à son initiative ou à la demande de la\nmajorité des membres de l’Assemblée Nationale ou du Sénat, la Cour Constitutionnelle\nconsultée, de recourir à la voie parlementaire pour l’adoption du projet ou de la proposition\nde révision.\nDans ce cas, le projet ou la proposition de révision doit être voté respectivement par\nl’Assemblée Nationale et par le Sénat en des termes identiques avant d’être soumis pour\nadoption au Parlement réuni en Congrès.\nUne majorité qualifiée des deux tiers des membres composant le Congrès est requise pour\n\nConstitution Gabonaise - 2024\n41\nl’adoption du projet ou de la proposition de révision de la Constitution.",
+   "chunk_id": "DOC-7bab6f727358-C0168",
+   "text_hash": "08340daba9f14a2d7e7736c50c1410bc31b66470"
+  },
+  {
+   "article": "Article 168",
+   "context": "TITRE X : DE LA REVISION DE LA CONSTITUTION",
+   "text": "La révision de la Constitution ne peut être entamée ou achevée :\n- les douze (12) mois précédant une élection politique ;\n- en cas d’empêchement temporaire du Président de la République ;\n- en cas d’intérim de la Présidence de la République ;\n- en cas de recours aux pouvoirs de crise de l’article 62 ci-dessus, ou d’atteinte à\nl’intégrité du territoire dûment constatée ;\n- pendant la période qui sépare la proclamation des résultats de l’élection\nprésidentielle du début d’un mandat présidentiel.",
+   "chunk_id": "DOC-7bab6f727358-C0169",
+   "text_hash": "496a3e700880b150111ac1cb4d5f2dbc7a7dcbbb",
+   "duplicate_of": "DOC-8e28d53d40ca-C0169"
+  },
+  {
+   "article": "Article 169",
+   "context": "TITRE X : DE LA REVISION DE LA CONSTITUTION",
+   "text": "Ne peuvent faire l’objet d’aucune révision :\n- la forme républicaine et décentralisée de l’Etat ;\n- le caractère pluraliste de la démocratie ;\n- la séparation des pouvoirs ;\n- le nombre des mandats présidentiels ;\n- le mode d’élection au suffrage universel direct du Président de la République ;\n- la définition du mariage comme l’union entre deux personnes de sexe opposé ;\n- le nombre de mandats des membres de la Cour Constitutionnelle ;\n- l’amnistie des acteurs des évènements allant du 29 août 2023 à l’investiture du\nPrésident de la Transition.",
+   "chunk_id": "DOC-7bab6f727358-C0170",
+   "text_hash": "f5247e88ece38838ac59013edbdf023849459da6",
+   "duplicate_of": "DOC-8e28d53d40ca-C0170"
+  },
+  {
+   "article": "Article 170",
+   "context": "TITRE XI : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+   "text": "Les acteurs des évènements allant du 29 août 2023 à l’investiture du Président de la\nTransition, ne seront ni poursuivis ni condamnés.\nUne loi d’amnistie sera adoptée à cet effet.",
+   "chunk_id": "DOC-7bab6f727358-C0171",
+   "text_hash": "b9ebe581e3bc90ab6691cf52135c077d4cfa75ae"
+  },
+  {
+   "article": "Article 171",
+   "context": "TITRE XI : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+   "text": "L’Assemblée Nationale de la Transition et le Sénat de la Transition demeurent en place\njusqu’à l’élection du Bureau de chaque Chambre.\nLa Cour Constitutionnelle de la Transition et le Conseil Economique, Social et\nEnvironnemental de la Transition demeurent en place jusqu’à leur renouvellement.\nLes Délégations Spéciales de la Transition demeurent jusqu’à la mise en place des bureaux\ndes Conseils locaux.\nLes dispositions de l’article 76 alinéa 6 de la présente Constitution ne s’appliquent pas aux\npremières élections législatives et sénatoriales post-Transition.",
+   "chunk_id": "DOC-7bab6f727358-C0172",
+   "text_hash": "7b285fe7d5d0cc93d7541c0748c80d83d65d2619",
+   "duplicate_of": "DOC-8e28d53d40ca-C0172"
+  },
+  {
+   "article": "Article 172",
+   "context": "TITRE XI : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+   "text": "Les dispositions de la présente Constitution relatives à l’élection du Président de la\nRépublique sont d’application immédiate.\n\nConstitution Gabonaise - 2024\n42",
+   "chunk_id": "DOC-7bab6f727358-C0173",
+   "text_hash": "9e07ff0acad9f8e7715bb4c78e1649c1ef390deb"
+  },
+  {
+   "article": "Article 173",
+   "context": "TITRE XI : DES DISPOSITIONS TRANSITOIRES ET FINALES",
+   "text": "Sous réserves des dispositions de l’article 172 ci-dessus, la présente Constitution entre en\nvigueur après l’élection du Président de la République.\nFait à Libreville, le\nPar\nLe Président de la Transition,\nPrésident de la République,\nChef de l’Etat,\nGénéral de Brigade\n\nBrice Clotaire OLIGUI NGUEMA\nLe Premier Ministre de la Transition,\nChef du Gouvernement.\n\nRaymond NDONG SIMA\nLe Ministre de la Réforme des Institutions.\n\nMurielle MINKOUE épse MINTSA\nMinistre de la Justice, Garde des Sceaux.\n\nPaul-Marie GONDJOUT\n\nConstitution Gabonaise - 2024\n43",
+   "chunk_id": "DOC-7bab6f727358-C0174",
+   "text_hash": "600c20d742290d92a7e13ce2a7678e464b635132"
+  }
+ ]
+}

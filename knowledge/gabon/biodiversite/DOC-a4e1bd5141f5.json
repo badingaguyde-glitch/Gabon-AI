@@ -1,0 +1,324 @@
+{
+ "doc_id": "DOC-a4e1bd5141f5",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "environnement",
+  "infrastructures_transport",
+  "geographie"
+ ],
+ "classification_confidence": 0.629,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\BioCon_GabonSoundscapes_maindata.csv"
+ ],
+ "sha256": "a4e1bd5141f5919c9f437ca3f0ec7210643be705e06e05452b96ff1d84abad86",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:19.243280+00:00",
+ "dataset_summary": {
+  "columns": [
+   "SiteRename",
+   "ForestUse",
+   "ForestType",
+   "Year",
+   "DeployDateMMDDYY",
+   "Date",
+   "Time",
+   "DatetimeFinal",
+   "MinSinMid",
+   "Season",
+   "Altitude",
+   "Slope",
+   "DistVillage",
+   "DistRoads",
+   "DistWater",
+   "Gun_RawGunshots",
+   "Gun_DailyGunshots",
+   "CH_100m",
+   "CH_300m",
+   "CH_500m",
+   "Avg_canopy",
+   "sd_canopy",
+   "FC_Final_300m",
+   "YearsSinceLogging_cat",
+   "Access",
+   "sat1db",
+   "TotPMN"
+  ],
+  "rows_analyzed": 25000,
+  "numeric_stats": {
+   "Year": {
+    "min": 2022.0,
+    "max": 2022.0,
+    "mean": 2022.0,
+    "n": 25000
+   },
+   "MinSinMid": {
+    "min": 0.0,
+    "max": 1439.0,
+    "mean": 709.932,
+    "n": 25000
+   },
+   "Altitude": {
+    "min": 124.0,
+    "max": 142.0,
+    "mean": 133.8208,
+    "n": 25000
+   },
+   "Slope": {
+    "min": 0.0,
+    "max": 35.0,
+    "mean": 16.5312,
+    "n": 25000
+   },
+   "DistVillage": {
+    "min": 1902.7578,
+    "max": 2861.7161,
+    "mean": 2150.0436,
+    "n": 25000
+   },
+   "DistRoads": {
+    "min": 375.1156,
+    "max": 698.8956,
+    "mean": 450.6523,
+    "n": 25000
+   },
+   "DistWater": {
+    "min": 8425.3509,
+    "max": 9375.0717,
+    "mean": 8569.6699,
+    "n": 25000
+   },
+   "Gun_RawGunshots": {
+    "min": 2.0,
+    "max": 3.0,
+    "mean": 2.4032,
+    "n": 25000
+   },
+   "Gun_DailyGunshots": {
+    "min": 0.2207,
+    "max": 0.3664,
+    "mean": 0.2797,
+    "n": 25000
+   },
+   "CH_100m": {
+    "min": 23.9574,
+    "max": 30.4453,
+    "mean": 29.1888,
+    "n": 25000
+   },
+   "CH_300m": {
+    "min": 24.6928,
+    "max": 30.5631,
+    "mean": 29.2044,
+    "n": 25000
+   },
+   "CH_500m": {
+    "min": 25.4203,
+    "max": 30.2894,
+    "mean": 28.9709,
+    "n": 25000
+   },
+   "Avg_canopy": {
+    "min": 0.83,
+    "max": 0.9748,
+    "mean": 0.9079,
+    "n": 25000
+   },
+   "sd_canopy": {
+    "min": 0.0053,
+    "max": 0.0727,
+    "mean": 0.0347,
+    "n": 25000
+   },
+   "FC_Final_300m": {
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "n": 25000
+   },
+   "Access": {
+    "min": 9870.8202,
+    "max": 9904.2689,
+    "mean": 9887.8188,
+    "n": 25000
+   },
+   "sat1db": {
+    "min": 5.0781,
+    "max": 100.0,
+    "mean": 64.2245,
+    "n": 25000
+   },
+   "TotPMN": {
+    "min": 127.5264,
+    "max": 4587.2318,
+    "mean": 827.8024,
+    "n": 25000
+   }
+  },
+  "categorical_top_values": {
+   "SiteRename": [
+    [
+     "FSC-A2",
+     11520
+    ],
+    [
+     "FSC-A1",
+     10080
+    ],
+    [
+     "FSC-A3",
+     3400
+    ]
+   ],
+   "ForestUse": [
+    [
+     "FSC-certified logging concession",
+     25000
+    ]
+   ],
+   "ForestType": [
+    [
+     "Mosaic",
+     25000
+    ]
+   ],
+   "DeployDateMMDDYY": [
+    [
+     "06/08/2022",
+     25000
+    ]
+   ],
+   "Date": [
+    [
+     "09/06/2022",
+     4320
+    ],
+    [
+     "11/06/2022",
+     3400
+    ],
+    [
+     "12/06/2022",
+     2880
+    ],
+    [
+     "13/06/2022",
+     2880
+    ],
+    [
+     "14/06/2022",
+     2880
+    ],
+    [
+     "15/06/2022",
+     2880
+    ],
+    [
+     "16/06/2022",
+     2880
+    ],
+    [
+     "10/06/2022",
+     2880
+    ]
+   ],
+   "Time": [
+    [
+     "00:00",
+     540
+    ],
+    [
+     "00:30",
+     540
+    ],
+    [
+     "01:00",
+     540
+    ],
+    [
+     "01:30",
+     540
+    ],
+    [
+     "02:00",
+     540
+    ],
+    [
+     "02:30",
+     540
+    ],
+    [
+     "03:00",
+     540
+    ],
+    [
+     "03:30",
+     540
+    ]
+   ],
+   "DatetimeFinal": [
+    [
+     "09/06/2022 00:00",
+     3
+    ],
+    [
+     "09/06/2022 00:01",
+     3
+    ],
+    [
+     "09/06/2022 00:02",
+     3
+    ],
+    [
+     "09/06/2022 00:03",
+     3
+    ],
+    [
+     "09/06/2022 00:04",
+     3
+    ],
+    [
+     "09/06/2022 00:05",
+     3
+    ],
+    [
+     "09/06/2022 00:06",
+     3
+    ],
+    [
+     "09/06/2022 00:07",
+     3
+    ]
+   ],
+   "Season": [
+    [
+     "dry",
+     25000
+    ]
+   ],
+   "YearsSinceLogging_cat": [
+    [
+     "Less than 2 years",
+     13480
+    ],
+    [
+     "20 years",
+     11520
+    ]
+   ]
+  },
+  "readme": "# Data for: Impacts of logging, hunting, and conservation on vocalizing biodiversity in Gabon\n\nDataset DOI: [10.5061/dryad.4tmpg4frs](https://doi.org/10.5061/dryad.4tmpg4frs)\n\n## Description of the data and file structure\n\nBetween February 2021 and June 2022, we sampled soundscapes at 110 sites across Gabon. Our sampling covered the main dry (May to September; 37 sites) and rainy season (October to April; 73 sites). We sampled soundscapes in four of Gabon's nine provinces: the Ogooué-Ivindo, Ogooué-Lolo, Nyanga, and Ngounié. In each province, we sampled three different land use designations: national parks (Ivindo, Lopé, and Moukalaba-Doudou National Parks, 41 sites total), FSC-certified selective logging concessions (anonymized, 32 sites in 3 concessions), non-certified selective logging concessions (anonymized, 32 sites in 3 concessions). Additionally, we sampled in a proposed community conserved area, Ibola Dja Bana Ba Massaha, in the Ogooué-Ivindo province (5 sites, hereafter referred to as the PCCA). The sites sampled in the PCCA were in an unlogged area of forest situated within a non-certified concession. During our study, the legal status and designation of this land were being determined.\n\nOur sites included two main habitat types present in our study area: closed rainforest (hereafter referred to as ‘forest’), and forest-savannah mosaic (‘mosaic’). Sampling sites within the mosaic were situated within forest patches at least 200 m from the forest edge.\n\nWe deployed bioacoustic recorders to quantify the soundscape within each forest designation, separating sampling sites by at least 1 km to ensure independence. At each site, we deployed one Bioacoustic Recorder (BAR-LT, Frontier Labs) at 1.8 m above ground with a single omnidirectional microphone pointing down, as a compromise between limiting exposure to rain and capturing a broader array of sounds. Recorders were programmed for continuous, autonomous recording in 30 min segments for at least seven days per site. We only included complete days in this dataset (e.g. 1440 min per day; mean no. days per site = 5.8 ± 2.0). We recorded soundscapes at 40 dB gain and 44.1 kHz sample rate.\n\nFor each site, we quantified logging disturbance and hunting pressure. We measured changes in the forest due to selective logging in three ways. First, we calculated forest extent within a 300m buffer around our sites. Second, we documented the logging history at each site as specified in forest management maps and logging crews as years since loggin&#x67;*.* These were aggregated into three categories (logged <2 years ago, logged 20+ years ago, never logged). Third, we calculated mean canopy height at 100, 300, and 500 m buffers as a measure of forest quality. See corresponding paper for more details.\n\nHunting pressure was calculated in two ways. First, we quantified the number of gunshot sounds detected at each site during the recording period. Secondly, we produced a spatially explicit accessibility layer to estimate the spatial variability in hunting effort. Variables included slope, distance to settlements, rivers, and roads. The final metric (Access) was scaled and inverted so the resulting metric is unitless, where the higher the relative accessibility the more accessible the sites. See corresponding paper for more details.\n\nWe calculated two acoustic indices: (i) Power Minus Noise (ToTPMN) and (ii) Soundscape Saturation (sat1db). These were calculated for 256 frequency bins between 0 and 11 kHz (~43 Hz bandwidth each). See corresponding paper for more details.\n\n### Files and variables\n\n#### File: BioCon_GabonSoundscapes_maindata.csv\n\n**Description:**\n\n##### Variables\n\n* SiteRename: Site ID\n* ForestUse: Forest designation including National parks, proposed conservation area, and different logging concession types\n* ForestType: Forest type, closed rainforest (forest) or forest-savannah mosaic (mosaic)\n* Year: Year of recording\n* DeployDateMMDDYY: Date the bioacoustic detector was deployed\n* Date: Date of the recording\n* Time: Time of the recording\n* DatetimeFinal: Date and time of the recording\n* MinSinMid: Minute since midnight, calculated from time\n* Season: Dry season or rainy season\n* Altitude: Altitude (m)\n* Slope: Slope derived from a 30m digital elevation model ([Farr et al., 2007](https://www.sciencedirect.com/science/article/pii/S000632072400288X#bb0225)) (m)\n* DistVillage: Distance to nearest settlement retrieved from OpenStreetMap (2022) (m)\n* DistRoads: Distance to nearest road retrieved from OpenStreetMap (2022) (m). We excluded roads no longer operational\n* DistWater: Distance to nearest river retrieved from OpenStreetMap (2022) (m). We excluded rivers not suitable for navigation\n* Gun_RawGunshots: Count of gunshots detected at the site\n* Gun_DailyGunshots: Mean daily gunshot rate\n* CH_100m: Mean forest canopy height within a 100m buffer of the site (m)\n* CH_300m: Mean forest canopy height within a 300m buffer of the site (m)\n* CH_500m: Mean forest canopy height within a 500m buffer of the site (m)\n* Avg_canopy: Average canopy cover calcuated from 4 samples (No cover 0-1 closed cover)\n* sd_canopy: Standard deviation in canopy cover calcuated from 4 samples (No cover 0-1 closed cover)\n* FC_Final_300m: Forest extent within a 300m buffer of the site (No forest 0-1 complete forest)\n* YearsSinceLogging_cat: Categorical variable of logging history\n* Access: Accessibility layer calculated from Slope, DistVillage, DistWater, and DistRoad. The higher the relative accessibility the more accessible the sites\n* sat1db: Soundscape saturation (%) at a threshold of 1.5db\n* TotPMN: Power minus noise (dB), i.e. total energy of sound above background noise\n\n## Access information\n\nData was derived from the following sources:\n\n* *HOTOSM Gabon populated places*. [https://data.humdata.org/dataset/hotosm_gab_populated_places](https://data.humdata.org/dataset/hotosm_gab_populated_places) (2022)\n* Humanitarian OpenStreetMap Team. *HOTOSM Gabon roads*. [h"
+ },
+ "kind": "dataset",
+ "title": "Data for: Impacts of logging, hunting, and conservation on vocalizing biodiversity in Gabon — BioCon_GabonSoundscapes_maindata.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Data for: Impacts of logging, hunting, and conservation on vocalizing biodiversity in Gabon — BioCon_GabonSoundscapes_maindata.csv (Gabon).\nDescription : # Data for: Impacts of logging, hunting, and conservation on vocalizing biodiversity in Gabon\n\nDataset DOI: [10.5061/dryad.4tmpg4frs](https://doi.org/10.5061/dryad.4tmpg4frs)\n\n## Description of the data and file structure\n\nBetween February 2021 and June 2022, we sampled soundscapes at 110 sites across Gabon. Our sampling covered the main dry (May to September; 37 sites) and rainy season (October to April; 73 sites). We sampled soundscapes in four of Gabon's nine provinces: the Ogooué-Ivindo, Ogooué-Lolo, Nyanga, and Ngounié. In each province, we sampled three different land use designations: national parks (Ivindo, Lopé, and Moukalaba-Doudou National Parks, 41 sites total), FSC-certified selective logging concessions (anonymized, 32 sites in 3 concessions), non-certified selective logging concessions (anonymized, 32 sites in 3 concessions). Additionally, we sampled in a proposed community conserved area, Ibola Dja Bana Ba Massaha, in the Ogooué-Ivindo province (5 sites, hereafter referred to as the PCCA). The sites sampled in the PCCA were in an unlogged area of forest situated within a non-certified concession. During our study, the legal status and designation of this land were being determined.\n\nOur sites included two main habitat types present in our study area: closed rainforest (hereafter referred to as ‘forest’), and forest-savannah mosaic (‘mosaic’). Sampling sites within the mosaic were situated within forest patches at least 200 m from the forest edge.\n\nWe deployed bioacoustic recorders to quantify the soundscape within each forest designation, separating sampling sites by at least 1 km to ensure independence. At each site, we deployed one Bioacoustic Recorder (BAR-LT, Frontier Labs) at 1.8 m above ground with a single omnidirectional microphone pointing down, as a compromise between limiting exposure to rain and capturing a broader array of sounds. Recorders were programmed for continuous, autonomous recording in 30 min segments for at least seven days per site. We only included complete days in this dataset (e.g. 1440 min per day; mean no. days per site = 5.8 ± 2.0). We recorded soundscapes at 40 dB gain and 44.1 kHz sample rate.\n\nFor each site, we quantified logging disturbance and hunting pressure. We measured changes in the forest due to selective logging in three ways. First, we calculated forest extent within a 300m buffer around our sites. Second, we documented the logging history at each site as specified in forest management maps and lo\nColonnes (27) : SiteRename, ForestUse, ForestType, Year, DeployDateMMDDYY, Date, Time, DatetimeFinal, MinSinMid, Season, Altitude, Slope, DistVillage, DistRoads, DistWater, Gun_RawGunshots, Gun_DailyGunshots, CH_100m, CH_300m, CH_500m, Avg_canopy, sd_canopy, FC_Final_300m, YearsSinceLogging_cat, Access, sat1db, TotPMN.\nNombre de lignes analysées : 25000.\n- Year : min 2022.0, max 2022.0, moyenne 2022.0 (n=25000).\n- MinSinMid : min 0.0, max 1439.0, moyenne 709.932 (n=25000).\n- Altitude : min 124.0, max 142.0, moyenne 133.8208 (n=25000).\n- Slope : min 0.0, max 35.0, moyenne 16.5312 (n=25000).\n- DistVillage : min 1902.7578, max 2861.7161, moyenne 2150.0436 (n=25000).\n- DistRoads : min 375.1156, max 698.8956, moyenne 450.6523 (n=25000).\n- DistWater : min 8425.3509, max 9375.0717, moyenne 8569.6699 (n=25000).\n- Gun_RawGunshots : min 2.0, max 3.0, moyenne 2.4032 (n=25000).\n- Gun_DailyGunshots : min 0.2207, max 0.3664, moyenne 0.2797 (n=25000).\n- CH_100m : min 23.9574, max 30.4453, moyenne 29.1888 (n=25000).\n- CH_300m : min 24.6928, max 30.5631, moyenne 29.2044 (n=25000).\n- CH_500m : min 25.4203, max 30.2894, moyenne 28.9709 (n=25000).\n- Avg_canopy : min 0.83, max 0.9748, moyenne 0.9079 (n=25000).\n- sd_canopy : min 0.0053, max 0.0727, moyenne 0.0347 (n=25000).\n- FC_Final_300m : min 1.0, max 1.0, moyenne 1.0 (n=25000).\n- SiteRename : valeurs principales FSC-A2 (11520), FSC-A1 (10080), FSC-A3 (3400).\n- ForestUse : valeurs principales FSC-certified logging concession (25000).\n- ForestType : valeurs principales Mosaic (25000).\n- DeployDateMMDDYY : valeurs principales 06/08/2022 (25000).\n- Date : valeurs principales 09/06/2022 (4320), 11/06/2022 (3400), 12/06/2022 (2880), 13/06/2022 (2880), 14/06/2022 (2880), 15/06/2022 (2880).\n- Time : valeurs principales 00:00 (540), 00:30 (540), 01:00 (540), 01:30 (540), 02:00 (540), 02:30 (540).\n- DatetimeFinal : valeurs principales 09/06/2022 00:00 (3), 09/06/2022 00:01 (3), 09/06/2022 00:02 (3), 09/06/2022 00:03 (3), 09/06/2022 00:04 (3), 09/06/2022 00:05 (3).\n- Season : valeurs principales dry (25000).\n- YearsSinceLogging_cat : valeurs principales Less than 2 years (13480), 20 years (11520).",
+   "chunk_id": "DOC-a4e1bd5141f5-C0001",
+   "text_hash": "6370a3465955f0de68f52575fb93230d03ab4311"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000004",
+  "scientific_name": "Nandinia binotata",
+  "normalized_name": "nandinia_binotata",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Nandiniidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-000322",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 1516,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 2515 1516  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2019-11-30 2019-11-30 21:06:53 101EK113_11300517.JPG MAMMALIA CARNIVORA NANDI",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:22.679209+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:22.792377+00:00",
+  "updated_at": "2026-10-14T10:10:22.792410+00:00"
+}

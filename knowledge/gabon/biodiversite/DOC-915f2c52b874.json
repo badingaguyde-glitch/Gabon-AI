@@ -1,0 +1,59 @@
+{
+ "doc_id": "DOC-915f2c52b874",
+ "country": "Gabon",
+ "category": "biodiversite",
+ "subcategory": null,
+ "secondary_categories": [
+  "environnement",
+  "geographie",
+  "social"
+ ],
+ "classification_confidence": 0.549,
+ "language": "fr",
+ "source_files": [
+  "Cercopithèque_à_queue_de_soleil.pdf"
+ ],
+ "sha256": "915f2c52b8748bae3aca88674630616e70885c72d77015f6a4a7a1910973fd67",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:14:07.330431+00:00",
+ "kind": "text",
+ "title": "Cercopithèque à queue de soleil — Wikipédia",
+ "chunks": [
+  {
+   "section": "Conservation",
+   "text": "conservation, vol. 22, n 4,‎ 1988, p. 190-191\n2. (en) Murray Wrobel, Elsevier's Dictionary of Mammals : in Latin, English, German, French\nand Italian, Amsterdam, Elsevier, 2007, 857 p. (ISBN 978-0-444-51877-4, lire en ligne (http\ns://books.google.fr/books?id=Qn1A9Y1OA2oC&lpg=PP1&hl=fr&pg=PA)). 3. (en) D. Brugière, J.P. Gautier et S. Lahm, « Additional data on the distribution of\n\"Cercopithecus (lhoesti) solatus\" », Folia Primatol, vol. 69,‎ 1998, p. 331-336\n4. (en) J.P. Gautier, F. Moysan, A.T.C. Feistner, J.N. Loireau et R.W. Cooper, « The distribution\nof \"Cercopithecus (lhoesti) solatus\". An endemic guenon of Gabon », La Terre et la Vie,\nvol. 47,‎ 1992, p. 367-381\n5. (en) L.M. Coad, J.J. Tanga, F. Maisels, K. Abernethy, N. Bout, M. Fay, P. Henschel, G. Lenglet, Y. Mihindou, M. Puit, M. Starkey, L. White et O.S.G. Pauwels, « New Range Limits\nof the Sun-tailed Monkey, Cercopithecus solatus, in Central Gabon », Primate Conservation,\nvol. 25,‎ 2010, p. 33-41 (lire en ligne (http://www.primate-sg.org/PDF/PC25_Coad_C_solatus\n_Gabon_FINAL.pdf))\n6. P. Motsch, G. Le Flohic, J. Leclercq et J.P. Gonzalez, « Contribution à la réévaluation de\nl’aire de répartition du singe à queue de soleil (Cercopithecus solatus) », Revue de\nprimatologie,‎ 2011 (lire en ligne (http://primatologie.revues.org/604))\n7.",
+   "chunk_id": "DOC-915f2c52b874-C0001",
+   "text_hash": "2581de891a9841f1b1b5ee11ce5bfc206536aef4"
+  },
+  {
+   "section": "Conservation",
+   "text": "(en) UICN : espèce Allochrocebus solatus (Harrison, 1984) (https://www.iucnredlist.org/detail\ns/4230/0)\n8. (en) D. Brugière et J.P. Gautier, « Status and conservation of the sun-tailed guenon\nCercopithecus solatus, Gabon's endemic monkey », Oryx, the international journal of",
+   "chunk_id": "DOC-915f2c52b874-C0002",
+   "text_hash": "e710856b09ae7f8d86568053d2e802d821e2b787"
+  },
+  {
+   "section": "Conservation",
+   "text": "conservation, vol. 33,‎ 1999, p. 67-74\n5, 6",
+   "chunk_id": "DOC-915f2c52b874-C0003",
+   "text_hash": "adf1753f86552d1f30f9f6def732378806829ef1"
+  },
+  {
+   "section": "Habitat",
+   "text": "Habitat\n7\nMenaces et protection\n8\nNotes et références\no\nLiens externes Peggy Motsch, « Une espèce unique : Le singe à queue de soleil du Gabon »,\nScienceSud, CENAREST, no 3,‎ 2010 (ISSN 1998-0612 (https://portal.issn.org/resource/ISSN/1998-0\n612), lire en ligne (http://editions.cenarestgabon.com/sciencesud/Peggy%20Motsch%20Ssud%203%20final.",
+   "chunk_id": "DOC-915f2c52b874-C0004",
+   "text_hash": "6fb4d1265ec6890ab965a40b49623a5a2296fddd"
+  },
+  {
+   "section": "Habitat",
+   "text": "pdf))\n(en) Catalogue of Life : Allochrocebus solatus (Harrison, 1988) (https://www.catalogueoflif\ne.org/data/taxon/BVHJ) (consulté le 20 décembre 2020)\n(fr + en) ITIS : Allochrocebus solatus (Harrison, 1988) (https://www.itis.gov/servlet/SingleR\npt/SingleRpt?search_topic=TSN&search_value=944221) (consulté le 1er avril 2019)\n(en) NCBI : Allochrocebus solatus (Harrison, 1988) (https://www.ncbi.nlm.nih.gov/Taxono\nmy/Browser/wwwtax.cgi?mode=Info&id=147650) (taxons inclus (http://www.ncbi.nlm.nih.g\nov/Taxonomy/Browser/wwwtax.cgi?lin=s&p=has_linkout&id=147650)) (consulté le\n1er avril 2019)\n(en) Animal Diversity Web : Cercopithecus solatus (http://animaldiversity.org/accounts/Cer\ncopithecus_solatus/) (consulté le 8 octobre 2014)\n(en) CITES : Cercopithecus solatus (Harrison, 1984) (http://www.speciesplus.net/#/taxon_\nconcepts/11255/legal) (+ répartition (http://www.speciesplus.net/#/taxon_concepts/11255/distribution)\nsur Species+) (consulté le 17 mai 2015)\n(fr) CITES : taxon Cercopithecus solatus (http://cites.application.developpement-durable.g\nouv.fr/viewtaxon.do?id=4618) (sur le site du ministère français de l'Écologie) (consulté le 17 mai 2015)\n(en) Mammal Species of the World (3e éd., 2005) : Cercopithecus solatus M. J. S.",
+   "chunk_id": "DOC-915f2c52b874-C0005",
+   "text_hash": "ed77b9f4e65b14ec505cd7b28dab06786d14e605"
+  },
+  {
+   "section": "Habitat",
+   "text": "Harrison,\n1988 (https://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?s=y&id\n=12100500) (consulté le 8 octobre 2014)\n(en) UICN : espèce Allochrocebus solatus (Harrison, 1984) (https://www.iucnredlist.org/deta\nils/4230/0) (consulté le 1er avril 2019)\nCe document provient de « https://fr.wikipedia.org/w/index.php? title=Cercopithèque_à_queue_de_soleil&oldid=234575185 ». Sur les autres projets Wikimedia :\nCercopithèque à queue de soleil (https://c\nommons.wikimedia.org/wiki/Category:Cer\ncopithecus_solatus?uselang=fr), sur\nWikimedia Commons\nCercopithèque à queue de soleil,\nsur Wikispecies",
+   "chunk_id": "DOC-915f2c52b874-C0006",
+   "text_hash": "62ff4f541163e400684247ccded9aacca5b82e4e"
+  }
+ ]
+}

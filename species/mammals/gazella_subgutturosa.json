@@ -1,0 +1,106 @@
+{
+  "species_id": "SPECIES-000240",
+  "scientific_name": "Gazella subgutturosa",
+  "normalized_name": "gazella_subgutturosa",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "diet": {
+      "type": {
+        "fact_id": "FACT-001151",
+        "category": "diet",
+        "predicate": "type",
+        "value": [
+          "carnivore"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "Conservation",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Carnivores of Dana",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.382513+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "conservation": {
+      "iucn_status": {
+        "fact_id": "FACT-001153",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "CR",
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "Conservation",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Critically endangered Arabian",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.382876+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000189"
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0061",
+      "species_id": "SPECIES-000240",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.386045+00:00"
+    }
+  ],
+  "version": 1,
+  "created_at": "2026-10-14T10:14:06.383295+00:00",
+  "updated_at": "2026-10-14T10:14:06.383298+00:00"
+}

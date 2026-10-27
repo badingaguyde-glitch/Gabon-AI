@@ -1,0 +1,81 @@
+{
+  "species_id": "SPECIES-000030",
+  "scientific_name": "Atilax paludinosus",
+  "normalized_name": "atilax_paludinosus",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "Carnivora",
+    "family": "Herpestidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009692",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 18373,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 19387 18373  C06 C06 _ FSC5_C06   FSC5-2019-10-C06 Animal 2019-12-22 2019-12-22 18:56:41 12220811.JPG MAMMALIA CARNIVORA HERPESTIDAE ",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:27.188876+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009695",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 22651,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 23665 22651  C09 C09 _ FSC5_C09   FSC5-2019-10-C09 Animal 2020-01-06 2020-01-06 13:07:14 01060118.JPG MAMMALIA CARNIVORA HERPESTIDAE ",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:27.208996+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:27.225060+00:00",
+  "updated_at": "2026-10-14T10:10:27.225078+00:00"
+}

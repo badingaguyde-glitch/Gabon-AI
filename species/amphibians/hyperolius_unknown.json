@@ -1,0 +1,54 @@
+{
+  "species_id": "SPECIES-000213",
+  "scientific_name": "Hyperolius unknown",
+  "normalized_name": "hyperolius_unknown",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009903",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 60,
+        "extracted_text_snippet": "Table row: Hyperolius unknown sp. 1 Hyperolius ARAQ 0.9555114450274363 -0.162469236690035 0.5053604830021888 0.5522284515675908 0.7791144869730656 0.589446811423",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:31.993284+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:31.995214+00:00",
+  "updated_at": "2026-10-14T10:10:31.995354+00:00"
+}

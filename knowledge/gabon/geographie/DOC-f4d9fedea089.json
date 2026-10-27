@@ -1,0 +1,34 @@
+{
+ "doc_id": "DOC-f4d9fedea089",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "infrastructures_transport",
+  "histoire"
+ ],
+ "classification_confidence": 0.6,
+ "language": "fr",
+ "source_files": [
+  "Aéroport_de_Franceville.pdf"
+ ],
+ "sha256": "f4d9fedea0899f58a23bafb851eed0ee4b79f8419d6ff3a979d5cfce9e0d8b7f",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:28.786057+00:00",
+ "kind": "text",
+ "title": "Aéroport de Franceville — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Aéroport de Franceville\nMvengue El Hadj Omar Bongo\nOndimba\nLocalisation\nPays\nGabon\nVille\nFranceville\nCoordonnées\n1° 39′ 22″ sud,\n13° 26′ 17″ est\nInformations aéronautiques\nCode IATA\nMVB\nCode OACI\nFOON\nType\nd'aéroport\nCivil/ militaire\nGestionnaire\nAsecna\nPistes\nDirection\nLongueur\nSurface\n15/33\n3 032 m (9 948 ft)\nasphalte\nAéroport de Franceville\nL’aéroport de Franceville, aussi appelé aéroport\ninternational M'Vengue El Hadj Omar Bongo\nOndimba, est un aéroport situé à M'Vengue, à proximité\nde la ville de Franceville, chef-lieu de la province du\nHaut-Ogooué, dans l'Est du Gabon. Des vols réguliers y\nsont assurés à destination de Libreville, la capitale du\npays.\nL'aéroport a été inauguré le 14 août 1972 par\nl’atterrissage d'un DC8 de la compagnie Air Afrique qui\nfut le premier jet à s'y poser, le deuxième président du\nGabon Omar Bongo était à son bord.\nL'aéroport est le troisième du Gabon quant au trafic après\nLibreville et Port-Gentil.\nFranceville abrite la plus grande piste d'atterrissage du\npays.\nGéolocalisation sur la carte : Gabon\nSituation\nFranceville\nKoulamoutou\nLibreville\nMakokou\nMouila\nOyem\nPort-Gentil\nTchibanga\nCompagnies aériennes et",
+   "chunk_id": "DOC-f4d9fedea089-C0001",
+   "text_hash": "09b8632c53789ce738bea4545676105867dafcce"
+  },
+  {
+   "section": "",
+   "text": "Compagnies\nDestinations\nAfrijet\nLibreville-Léon\nMba\nNationale Régionale Transport\nLibreville-Léon\nMba\nEdité le 16/10/2023\nL'armée de l'air gabonaise dispose d'une base militaire aéronautique à l’extrémité ouest de l'aérodrome.\nLa base a été ouverte en janvier 1980 afin d'accueillir la flotte d'avions de combat du Gabon. Elle abrite\naujourd'hui les Mirage gabonais.\nL'escadron présent sur la base est l'escadron de chasse 1-02 « Leyou » sur Mirage F1 AZ.\nEn août 2013, la base s'est enrichie de deux appareils de type Aermacchi MB-326 Impala acquis en\nAfrique du Sud. Ils serviront[Quand ?] principalement à l'entrainement et au maintien en condition des\npilotes de chasse gabonais.\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=Aéroport_de_Franceville&oldid=234408918 ».\ndestinations\nLa base aérienne 02 Mvengue",
+   "chunk_id": "DOC-f4d9fedea089-C0002",
+   "text_hash": "6369b8d359a3c845fed4ed21eff0734ce0293a9d"
+  }
+ ]
+}

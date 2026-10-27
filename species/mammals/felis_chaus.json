@@ -1,0 +1,106 @@
+{
+  "species_id": "SPECIES-000238",
+  "scientific_name": "Felis chaus",
+  "normalized_name": "felis_chaus",
+  "category": "mammals",
+  "taxonomy": {
+    "class": "Mammalia",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "LC",
+  "facts": {
+    "diet": {
+      "type": {
+        "fact_id": "FACT-001135",
+        "category": "diet",
+        "predicate": "type",
+        "value": [
+          "carnivore"
+        ],
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "Conservation",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Carnivore competition and resource use in Serengeti ecosystem in",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.346054+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    },
+    "conservation": {
+      "iucn_status": {
+        "fact_id": "FACT-001143",
+        "category": "conservation",
+        "predicate": "iucn_status",
+        "value": "CR",
+        "sources": [
+          "SRC-000189"
+        ],
+        "provenance": [
+          {
+            "source_id": "SRC-000189",
+            "filename": "",
+            "file_path": null,
+            "section": "Conservation",
+            "page": null,
+            "table_id": null,
+            "line_number": null,
+            "extracted_text_snippet": "Critically endangered Arabian",
+            "confidence": 1.0,
+            "timestamp": "2026-10-14T10:14:06.350714+00:00"
+          }
+        ],
+        "confidence": 0.95,
+        "metadata": {}
+      }
+    }
+  },
+  "observations": [],
+  "sources": [
+    "SRC-000189"
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "CONFLICT-0059",
+      "species_id": "SPECIES-000238",
+      "field": "conservation.iucn_status",
+      "values": [
+        {
+          "value": "CR",
+          "sources": [
+            "SRC-000189"
+          ]
+        },
+        {
+          "value": "EN",
+          "sources": [
+            "SRC-000189"
+          ]
+        }
+      ],
+      "status": "requires_review",
+      "resolution_notes": null,
+      "detected_at": "2026-10-14T10:14:06.354158+00:00"
+    }
+  ],
+  "version": 1,
+  "created_at": "2026-10-14T10:14:06.351310+00:00",
+  "updated_at": "2026-10-14T10:14:06.351314+00:00"
+}

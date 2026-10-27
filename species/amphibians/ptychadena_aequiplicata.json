@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000187",
+  "scientific_name": "Ptychadena aequiplicata",
+  "normalized_name": "ptychadena_aequiplicata",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Ptychadenidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009710",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 8,
+        "extracted_text_snippet": "Table row: Gabon 06/10/2022 G08 G0055 Ptychadenidae Ptychadena aequiplicata 15 49.7 16 1.2 34.7 0",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.643558+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009961",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 118,
+        "extracted_text_snippet": "Table row: Ptychadena aequiplicata Ptychadena AQAQ 0 2.192047810272384 1.5275575437388704 1.144924602517249 -0.40573693730546234 2.745697976676856 2.753729860024",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:32.505660+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.645420+00:00",
+  "updated_at": "2026-10-14T10:10:32.506603+00:00"
+}

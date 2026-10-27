@@ -1,0 +1,26 @@
+{
+  "species_id": "SPECIES-000215",
+  "scientific_name": "Aucoumea klaineana",
+  "normalized_name": "aucoumea_klaineana",
+  "category": "plants",
+  "taxonomy": {
+    "class": "",
+    "order": "",
+    "family": ""
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": "VU",
+  "facts": {},
+  "observations": [],
+  "sources": [
+    "SRC-000145"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:13:28.146430+00:00",
+  "updated_at": "2026-10-14T10:13:28.146443+00:00"
+}

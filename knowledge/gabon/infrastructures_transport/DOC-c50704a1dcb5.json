@@ -1,0 +1,41 @@
+{
+ "doc_id": "DOC-c50704a1dcb5",
+ "country": "Gabon",
+ "category": "infrastructures_transport",
+ "subcategory": null,
+ "secondary_categories": [
+  "education",
+  "histoire",
+  "culture_tourisme"
+ ],
+ "classification_confidence": 0.503,
+ "language": "fr",
+ "source_files": [
+  ".ga.pdf"
+ ],
+ "sha256": "c50704a1dcb5f03e549921e468f748666ce4169558b07a5ad27cb1bc379ea233",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:11:30.453459+00:00",
+ "kind": "text",
+ "title": ".ga — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": ".ga\nDébut\n12 Décembre 1994\nType\nDomaine de premier niveau\nnational\nÉtat\nactif\nRegistre\nAgence Nationale des\nInfrastructures Numériques et\ndes Fréquences (ANINF)\nParrainé par\nANINF\nPays\nGabon\nUtilisation\nactuelle\nUtilisé dans une certaine\nmesure au Gabon et rarement\nde manière générale. Restrictions\nAccessible aux résidents du\nGabon, ou aux personnes\nayant tout autre lien\nd’attachement direct ou\nindirect avec le Gabon . Dispute policies\nUDPR\nSite web\nMon GA (http://www.mon.ga)\n.ga\n.ga est le domaine de premier niveau national\n(country code top level domain : ccTLD) réservé\nau Gabon. Il est administré par l'Agence Nationale\ndes\nInfrastructures\nNumériques\net\ndes\nFréquences . Entre 1998 et 2004, l'extension de domaine a été\nadministré\npar\nl'Agence\nNationale\ndes\nInfrastructures Numériques et des Fréquences,\npuis transféré à Gabon Telecom. En 2013, Gabon\nTelecom a formé un partenariat avec le registraire\nde domaines international Freenom pour proposer\ndes enregistrements de ce domaine gratuitement. Entre le 4 et le 7 juin 2023, l'ANINF, avec\nl'assistance technique de l'AFNIC , reprend la\ngestion technique de ce domaine national, jusque\nlà effectué par Freenom, afin de mettre fin aux\npratiques abusives . La possibilité d'enregistrer un\nnom de domaine .ga gratuitement a été retiré en\nmême temps que cette migration technique.",
+   "chunk_id": "DOC-c50704a1dcb5-C0001",
+   "text_hash": "fdffbb2d0df17b2a3be19415d4e121efca47590f"
+  },
+  {
+   "section": "",
+   "text": "Les noms de domaine de second niveau terminant\npar .ga sont :\n.gouv.ga – réservé aux organisations\ngouvernementales\n.co.ga – organisations commerciales\n.edu.ga, .univ.ga – écoles, universités\net académies\n1\n2\n3\nHistoire\n4\n5\nNoms de domaine de second\nniveau\n6\nNotes et références 1. « Site de l'ANINF (http://www.aninf.ga) »\n2. (en) « Politiques Mon GA (https://www.mon.ga/politique_de_registre.pdf) »\n3. (en) « Delegation Record for .GA (http://www.iana.org/domains/root/db/ga.html) », IANA\n4. AFNIC, « Les noms de domaine en «.ga » bientôt de retour vers une gestion gabonaise (http\ns://www.afnic.fr/wp-media/uploads/2024/07/Rapport-annuel-Afnic-2023_FR.pdf) » [PDF],\nsur afnic.fr, mai 2023 (consulté le 21 septembre 2024)\n5. Digital Business Africa, « Gabon: Pour mettre fin \"aux pratiques abusives\", l'ANINF récupère\nà Freenom la gestion internationale du domaine de premier niveau .ga (https://www.digitalbu\nsiness.africa/gabon-pour-mettre-fin-aux-pratiques-abusives-laninf-recupere-a-freenom-la-ge\nstion-internationale-du-domaine-de-premier-niveau-ga/) », sur Digital Business Africa,\n1 juin 2023 (consulté le 21 septembre 2024)\n6.",
+   "chunk_id": "DOC-c50704a1dcb5-C0002",
+   "text_hash": "f946e7fe067210f2c20d8089b950d919579e27f2"
+  },
+  {
+   "section": "",
+   "text": "ANINF, « CHARTE DE NOMMAGE RELATIVE A L'ENREGISTREMENT ET LA GESTION\nDES NOMS DE DOMAINE .GA (http://aninf.netisse.eu/wp-content/uploads/2016/04/CHART\nE-DE-NOMMAGE-GA_V1.pdf) » [PDF], 28 juillet 2013 (consulté le 21 septembre 2024)\n(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais\nintitulé « .ga (https://en.wikipedia.org/wiki/.ga?oldid=1230239472) » (voir la liste des auteurs (h\nttps://en.wikipedia.org/wiki/.ga?action=history)). Liste des domaines Internet de premier niveau\nCe document provient de « https://fr.wikipedia.org/w/index.php?title=.ga&oldid=233968939 ». er\nVoir aussi",
+   "chunk_id": "DOC-c50704a1dcb5-C0003",
+   "text_hash": "f94eb39a59bfdef45de7487c1b8273ab05f0700a"
+  }
+ ]
+}

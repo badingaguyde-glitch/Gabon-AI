@@ -1,0 +1,152 @@
+{
+ "doc_id": "DOC-eceb4e691997",
+ "country": "Gabon",
+ "category": "geographie",
+ "subcategory": null,
+ "secondary_categories": [
+  "biodiversite",
+  "environnement",
+  "culture_tourisme"
+ ],
+ "classification_confidence": 0.587,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Tree_survey_data.csv"
+ ],
+ "sha256": "eceb4e6919970a1da02caf90e26a6a76c9b7d362496caf4ba617840f84bdc87a",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:32.525745+00:00",
+ "dataset_summary": {
+  "columns": [
+   "Country",
+   "tree_code",
+   "date",
+   "start_time",
+   "max_height_climbed_m",
+   "total height",
+   "Latitude",
+   "Longitude",
+   "Elevation"
+  ],
+  "rows_analyzed": 74,
+  "numeric_stats": {
+   "max_height_climbed_m": {
+    "min": 11.0,
+    "max": 35.0,
+    "mean": 23.3919,
+    "n": 74
+   },
+   "total height": {
+    "min": 17.0,
+    "max": 41.0,
+    "mean": 28.6162,
+    "n": 74
+   },
+   "Latitude": {
+    "min": -2.1121,
+    "max": -2.0788,
+    "mean": -2.0938,
+    "n": 74
+   },
+   "Longitude": {
+    "min": 12.1238,
+    "max": 12.143,
+    "mean": 12.1347,
+    "n": 74
+   },
+   "Elevation": {
+    "min": 651.7939,
+    "max": 797.424,
+    "mean": 726.5304,
+    "n": 74
+   }
+  },
+  "categorical_top_values": {
+   "Country": [
+    [
+     "Gabon",
+     74
+    ]
+   ],
+   "date": [
+    [
+     "08/10/2022",
+     3
+    ],
+    [
+     "04/11/2022",
+     3
+    ],
+    [
+     "11/11/2022",
+     3
+    ],
+    [
+     "21/11/2022",
+     3
+    ],
+    [
+     "03/10/2022",
+     2
+    ],
+    [
+     "04/10/2022",
+     2
+    ],
+    [
+     "05/10/2022",
+     2
+    ],
+    [
+     "10/10/2022",
+     2
+    ]
+   ],
+   "start_time": [
+    [
+     "18:45",
+     16
+    ],
+    [
+     "19:00",
+     6
+    ],
+    [
+     "20:30",
+     6
+    ],
+    [
+     "20:45",
+     5
+    ],
+    [
+     "18:40",
+     5
+    ],
+    [
+     "20:20",
+     4
+    ],
+    [
+     "20:40",
+     3
+    ],
+    [
+     "19:30",
+     2
+    ]
+   ]
+  },
+  "readme": "# Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of temperature and humidity range are included which are the maximum - the minimum values per day."
+ },
+ "kind": "dataset",
+ "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Tree_survey_data.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Data from: Vertical niche usage and trait associations in Gabonese amphibians — Tree_survey_data.csv (Gabon).\nDescription : # Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of\nColonnes (9) : Country, tree_code, date, start_time, max_height_climbed_m, total height, Latitude, Longitude, Elevation.\nNombre de lignes analysées : 74.\n- max_height_climbed_m : min 11.0, max 35.0, moyenne 23.3919 (n=74).\n- total height : min 17.0, max 41.0, moyenne 28.6162 (n=74).\n- Latitude : min -2.1121, max -2.0788, moyenne -2.0938 (n=74).\n- Longitude : min 12.1238, max 12.143, moyenne 12.1347 (n=74).\n- Elevation : min 651.7939, max 797.424, moyenne 726.5304 (n=74).\n- Country : valeurs principales Gabon (74).\n- date : valeurs principales 08/10/2022 (3), 04/11/2022 (3), 11/11/2022 (3), 21/11/2022 (3), 03/10/2022 (2), 04/10/2022 (2).\n- start_time : valeurs principales 18:45 (16), 19:00 (6), 20:30 (6), 20:45 (5), 18:40 (5), 20:20 (4).",
+   "chunk_id": "DOC-eceb4e691997-C0001",
+   "text_hash": "4991bfa6ed283b1a0ad86dd7fd55e32453e3d697"
+  }
+ ]
+}

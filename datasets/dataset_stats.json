@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-10-14T10:15:09.582062+00:00",
+  "sft_examples": 25469,
+  "rag_chunks": 8323,
+  "pretraining_documents": 2134,
+  "pretraining_characters": 6451163,
+  "kg_triplets": 43642,
+  "by_language": {
+    "fr": 23156,
+    "en": 2313
+  },
+  "by_question_type": {
+    "indicator_value": 10911,
+    "legal_source_attribution": 4606,
+    "legal_article": 3855,
+    "indicator_trend": 2122,
+    "indicator_latest": 1252,
+    "indicator_definition": 1252,
+    "document_passage": 1018,
+    "species_profile": 239,
+    "species_name": 156,
+    "legal_preamble": 13,
+    "legal_structure": 13,
+    "dataset_description": 11,
+    "dataset_variables": 11,
+    "survey_metadata": 10
+  },
+  "by_country_and_category": {
+    "Gabon": {
+      "droit": 8487,
+      "economie": 6450,
+      "sante": 1866,
+      "social": 1628,
+      "demographie": 1308,
+      "education": 1080,
+      "environnement": 1056,
+      "administration": 692,
+      "biodiversite": 582,
+      "general": 531,
+      "energie_mines": 394,
+      "infrastructures_transport": 322,
+      "agriculture": 314,
+      "histoire": 265,
+      "culture_tourisme": 206,
+      "securite": 122,
+      "geographie": 21
+    },
+    "France": {
+      "histoire": 77,
+      "culture_tourisme": 23,
+      "droit": 21,
+      "geographie": 1
+    },
+    "Cameroun": {
+      "culture_tourisme": 16,
+      "histoire": 4,
+      "biodiversite": 3
+    }
+  }
+}

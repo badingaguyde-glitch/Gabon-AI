@@ -1,0 +1,89 @@
+{
+ "doc_id": "DOC-f4cc8501e3d4",
+ "country": "France",
+ "category": "histoire",
+ "subcategory": null,
+ "secondary_categories": [
+  "administration",
+  "culture_tourisme",
+  "geographie"
+ ],
+ "classification_confidence": 0.385,
+ "language": "fr",
+ "source_files": [
+  "Association_internationale_des_maires_francophones.pdf"
+ ],
+ "sha256": "f4cc8501e3d43e8bce8a9e7dc032262b5de4b4882b2e954e0a8a65589a26935a",
+ "format": "pdf",
+ "processed_at": "2026-10-14T10:13:27.886503+00:00",
+ "kind": "text",
+ "title": "Association internationale des maires francophones — Wikipédia",
+ "chunks": [
+  {
+   "section": "",
+   "text": "Association internationale des\nmaires francophones\nHistoire\nFondation\n1979\nCadre\nSigle\nAIMF\nType\nAssociation internationale\nd'élus locaux\nSiège\nParis\nPays\nFrance\nCoordonnées\n48° 51′ 35″ N, 2° 20′ 48″ E\nLangue\nFrançais\nOrganisation\nMembres\n325 villes ou groupes de villes\nPrésident\nAnne Hidalgo\nPersonnes clés\nJacques Chirac, Jean Pelletier\nBudget\n7 576 800 € (2022)\nChiffre d'affaires\n8,9 M€ (2024)\nSite web\naimf.asso.fr (http://www.aimf.a\nsso.fr)\nAssociation internationale des maires\nfrancophones\nL'Association\ninternationale\ndes\nmaires\nfrancophones (AIMF) (https://www.aimf.asso.fr/\nassociation/film/) est créée en 1979, avec 20 villes\nfondatrices, à l'initiative des maires de Paris,\nJacques Chirac, et de Québec, Jean Pelletier . Elle\nest à la fois un forum de concertation entre les\nmaires et un réseau de coopération qui appuie les\nprogrammes innovants et impactants portés et mis\nen œuvre par les villes. Présidée par la maire de Paris, Anne Hidalgo ,\nl'AIMF a pour Secrétaire général le ministregouverneur du district autonome d'Abidjan, Robert\nBeugré Mambé. L'AIMF rassemble et établit des liens entre les\nmaires et responsables des capitales et métropoles\nfrancophones. Elle a pour but de faciliter la\nréalisation de projets, l'échange de pratiques et de\nconnaissances,\nen\nfournissant\nune\ntribune\ninternationale aux villes francophones.",
+   "chunk_id": "DOC-f4cc8501e3d4-C0001",
+   "text_hash": "f3af7a6e023742b936caee47fc5c6bc906bd9236"
+  },
+  {
+   "section": "",
+   "text": "La gouvernance de l'AIMF est assurée par un\nBureau élu pour deux ans, représentatif de la\ndiversité des membres de l’association, où siègent\nles Maires en titre de 29 capitales et métropoles. Présidente (depuis 2014) : Mme Anne\nHIDALGO, Maire de Paris\nVice-Président-Secrétaire général : M. Robert BEUGRE MAMBE, MinistreGouverneur du District d’Abidjan\nLocalisation sur la carte de France\n1\n2\nObjectifs\nGouvernance Vice-Président-Trésorier : M. Willy\nDEMEYER, Bourgmestre de Liège\nVice-Présidents : M. Gentiny NGOBILA\nMBAKA, Gouverneur de Kinshasa ; Mme Lydie POLFER, Bourgmestre de\nLuxembourg ; Mme Fatimetou ABDEL\nMALICK, Présidente du Conseil régional\nde Nouakchott, Présidente de CGLUA ; M. Bruno MARCHAND, Maire de\nQuébec\nLa présidence de l'association a été précédemment\nassurée par les :\n1979-1995 : Jacques Chirac, puis\nprésident d'honneur à partir de 1995 ; 1995-2001 : Jean Tiberi ; 2001-2014 : Bertrand Delanoë, puis président d'honneur à partir de 2014 ; Les missions de l'AIMF sont les suivantes :\n▪️ Affirmer les villes comme une force de dialogue et de coopération à l’international, en faisant\nvivre une communauté riche de sa diversité et en soutenant sa coopération décentralisée dans la durée.",
+   "chunk_id": "DOC-f4cc8501e3d4-C0002",
+   "text_hash": "4ca3a214a8c321a3f1f3a5a085ab0fc7c2116b6e"
+  },
+  {
+   "section": "",
+   "text": "▪️ Faire valoir le rôle des villes et des Maires pour répondre aux grands défis mondiaux, à travers\nune communication qui valorise le pouvoir de transformation des autorités locales, et des plaidoyers\nportés du national à l’international. ▪️ Nourrir une réflexion collective et de haut niveau sur le développement urbain et la\ngouvernance locale pour construire des villes durables, inclusives, solidaires. ▪️ Fédérer les énergies pour appuyer les projets portés et mis en œuvre par les municipalités, au\nbénéfice direct des populations. L'AIMF est l'opérateur de l'Organisation internationale de la francophonie (OIF) pour la coopération\ndécentralisée . En 2023, l'AIMF compte 325 capitales, métropoles et associations de villes membres, issues de 54 pays. (a) = associé. Activités\n3\nMembres Pays\nVilles\nAlbanie\nTirana\nAlgérie\nAlger(a) ; Oran(a)\nAndorre\nAssociation des communes d'Andorre\nArménie\nAssociation des communes d'Arménie ; Erevan\nBelgique\nBruxelles ; Liège ; Namur ; Union des Villes et Communes de Wallonie ; Woluwe-SaintLambert\nBénin\nAbomey ; Association des communes de l'Atlantique et du Littoral ; Association des\ncommunes du Mono et du Couffo ; Association nationale des communes du Bénin ; Bohicon ; Communauté de Communes de l'Ouémé ; Cotonou ; Covè ; Groupement\nintercommunal du Mono ; Lokossa ; Nikki ; Ouidah ; Parakou ; Porto-Novo ; Union des\ncommunes du Zou ;",
+   "chunk_id": "DOC-f4cc8501e3d4-C0003",
+   "text_hash": "1fca166b5b3219e2845f24709c0aec4dfc0dac42"
+  },
+  {
+   "section": "",
+   "text": "Zogbodomey\nBosnieHerzégovine\nBanja Luka(a)\nBrésil\nOuro Preto\nBulgarie\nBlagoevgrad ; Sofia\nBurkina Faso\nAssociation des municipalités du Burkina Faso (AMBF) ; Banfora ; Bobo-Dioulasso ; Dédougou ; Dori ; Koudougou ; Manga ; Ouagadougou ; Ouahigouya ; Tenkodogo ; Yako\nBurundi\nAssociation burundaise des élus locaux ; Bujumbura ; Gitega ; Ngozi\nCambodge\nKampot ; Phnom Penh ; Province de Battambang ; Siem Reap ; Association nationale\ndes conseils de la capitale et des provinces du Royaume du Cambodge\nCameroun\nBangangté ; Bertoua ; Communes et villes unies du Cameroun ; Douala ; Dschang ; Ebolowa ; Édéa ; Foumban ; Garoua ; Limbé ; Ngaoundéré ; Yaoundé ; Réseau des\nMaires du Cameroun pour l’économie sociale et solidaire (REMCESS)\nCanada\nAssociation francophone des municipalités du Nouveau-Brunswick ; Fédération\ncanadienne des municipalités ; Longueuil ; Montréal ; Québec ; Saguenay ; Sherbrooke ; Union des municipalités du Québec\nCap-Vert\nPraia ; São Vicente\nRépublique\ncentrafricaine\nBangui ; Bossangoa ; M'Baiki\nComores\nAssociation nationale des maires comoriens ; Domoni ; Fomboni ; Moroni ; Mutsamudu ; Organisme public de l'Union des communes Bambao Ya Djou\nRépublique du\nCongo\nAssociation des Maires du Congo ; Brazzaville ; Dolisie ; Mossendjo ; Nkayi ; Ouesso ; Pointe-Noire\nRépublique\ndémocratique du\nCongo\nAssociation des villes et communes de la République démocratique du Congo ;",
+   "chunk_id": "DOC-f4cc8501e3d4-C0004",
+   "text_hash": "f80b80a793fa3e13259a04650282fc3ccf7d6469"
+  },
+  {
+   "section": "",
+   "text": "Bandundu ; Bukavu ; Butembo ; Goma ; Kananga ; Kinshasa ; Kisangani ; Kolwezi ; Likasi(a) ; Lubumbashi ; Zongo\nCôte d'Ivoire\nAbengourou ; Abidjan ; Aboisso ; Assemblée des Régions et Districts de Côte-d'Ivoire ; Bouaké ; Daloa ; Gagnoa ; Grand-Bassam ; Korhogo ; Odienné(a) ; San-Pédro ; Union\ndes villes et communes de côte d'ivoire ; Yamoussoukro\nDjibouti\nAli Sabieh ; Conseil régional d'Arta ; Djibouti\nÉgypte\nAlexandrie ; Le Caire ; Port-Saïd\nÉtats-Unis\nLafayette ; La Nouvelle-Orléans\nFrance\nAngoulême(a) ; Association des communes et collectivités d'Outre-Mer ; Association des\nmaires ruraux de l'Oise ; Bordeaux ; Clichy(a) ; Communauté d'agglomération Grand Paris Sud(a) ; Bordeaux Métropole(a) ; Grasse(a) ; Lille ; Lyon ; Marseille ; Mérignac(a) ; Grand Nancy ; Nantes ; Nice ; Paris ; Poitiers(a) ; Rennes Métropole(a) ; Saint-Denis(a) ; Saint-Denis (La Réunion) ; Strasbourg ; Tours ; Fédération des festivals, carnavals et\nfêtes de France\nGabon\nFranceville ; Lambaréné ; Libreville ; Oyem ; Port-Gentil\nGéorgie\nTbilissi\nGuinée\nAssociation nationale des communes de Guinée ; Conakry ; Guéckédou ; Kindia ; Labé ; Mamou ; Pita ; Télimélé\nHaïti\nCap-Haïtien ; Carrefour ; Pétion-Ville ; Port-au-Prince\nItalie\nAoste\nKurdistan irakien\nErbil\nLiban\nBaalbek ; Batroun ; Beyrouth ; Byblos ; Ghazir ; Jounieh ; Tyr ; Zahlé ;",
+   "chunk_id": "DOC-f4cc8501e3d4-C0005",
+   "text_hash": "b0b10e1f790f3e0eec91aa120ad9f54ec1eb7226"
+  },
+  {
+   "section": "",
+   "text": "Communauté des\ncommunes de Dannieh\nLibye\nTripoli\nLuxembourg\nLuxembourg\nMacédoine\nSkopje\nMadagascar\nAntananarivo ; Antsirabe ; Diégo-Suarez ; Association des maires de grandes villes de\nMadagascar ; Fianarantsoa ; Majunga ; Toamasina ; Toliara\nMali\nAssociation des municipalités du Cercle de Yélimané ; Association des municipalités du\nCercle de Bandiagara ; Association des municipalités du Mali ; Bamako ; Bandiagara ; Djenné ; Gao ; Kayes ; Mopti ; Ségou ; Sikasso ; Tombouctou\nMaroc\nAgadir ; Casablanca ; Chefchaouen ; Essaouira ; Fès ; Marrakech ; Meknès ; Rabat ; Tanger ; Témara\nMaurice\nBeau Bassin-Rose Hill ; Curepipe ; Port-Louis\nMauritanie\nAkjoujt ; Association des maires de Mauritanie ; Atar ; Boghé(a) ; Boutilimit ; Kaédi ; Kiffa ; Nouadhibou ; Nouakchott ; R'Kiz ; Rachid-El Wahat(a) ; Rosso ; Tidjikdja ; Zouerate\nMoldavie\nChișinău\nMonaco\nMonaco\nNiger\nAgadez ; Association des municipalités du Niger ; Birni N'Konni ; Diffa ; Dosso ; Gaya ; Maradi ; Niamey ; Tahoua ; Tillaberi ; Zinder\nRoumanie\nAssociation des municipalités de Roumanie ; Association des villes de Roumanie ; Bucarest\nRwanda\nKigali ; Rubavu ; District de Rusizi ; Nyanza\nSénégal\nAssociation des maires du Sénégal ; Dakar ; Guédiawaye(a) ; Kaolack ; Kédougou ; Louga ; Nioro du Rip(a) ; Pikine ; Podor ; Saint-Louis ; Thiès ; Ziguinchor\nSeychelles\nVictoria\nSuisse\nGenève ; Lausanne ; Montreux ; Nyon ;",
+   "chunk_id": "DOC-f4cc8501e3d4-C0006",
+   "text_hash": "a83dac37556017b9032717821774bf09b2d29b3e"
+  },
+  {
+   "section": "",
+   "text": "Vernier\nTchad\nAbéché ; Association nationale des Communes du Tchad ; Doba ; Moundou ; N'Djaména ; Sarh\nTogo\nAného ; Atakpamé ; Dapaong ; Kara ; Kpalimé ; Lomé ; Notsé ; Sokodé ; Sotouboua ; Tsévié ; Faîtière des communes du Togo; Grand Lomé\nTunisie\nBéja ; Bizerte ; Carthage ; Fédération nationale des villes tunisiennes ; Gafsa(a) ; Kasserine(a) ; Monastir ; Sfax ; Silianaa) ; Sousse ; Tunis Uruguay\nMontevideo\nVietnam\nCan Tho ; Hanoï ; Hô Chi Minh-Ville ; Hué ;",
+   "chunk_id": "DOC-f4cc8501e3d4-C0007",
+   "text_hash": "e57f8caed9e146891dd8ed85c7a4568c74fdd98c"
+  },
+  {
+   "section": "",
+   "text": "Pleiku\nAssemblée\ngénérale\nLieu\nDates\nThème\n1re\nQuébec\n1er - 2 mai 1979\nCompte rendu de l'Assemblée constitutive\n2e\nRabat et\nCasablanca\n14 - 16 avril 1982\nÉtudes des possibilités d'échanges entre les villes\n3e\nParis\n15 - 17 juillet 1983\nDialogue Nord-Sud : solidarité et coopération\n4e\nQuébec et\nMontréal\n23 - 25 juillet 1984\nModernisation de l'administration municipale\n5e\nKinshasa\n18 - 20 juillet 1985\nLa gestion des collectivités locales\n6e\nCasablanca\n4 - 6 octobre 1986\nLa formation du personnel municipal\n7e\nBrazzaville\n23 - 25 juillet 1987\nLa communication et l'information municipales\n8e\nLyon\n21 - 23 juillet 1988\nLa jeunesse, les sports et les loisirs\n9e\nLibreville\n28 - 29 juillet 1989\nLes crédits municipaux\n10e\nTunis\n18 - 19 juillet 1990\nLa ville de l'an 2000\n11e\nBordeaux\n18 - 19 juillet 1991\nLe développement urbain et les finances\n12e\nMontréal\n16- 17 juillet 1992\nLes ressources humaines et la formation\n13e\nPort-Louis\n1er - 2 juillet 1993\nLe patrimoine des villes\n14e\nCasablanca\n9- 10 juillet 1994\nLa ville acteur du développement économique\n15e\nAoste\n6 - 8 juillet 1995\nLa ville acteur du développement culturel\n16e\nBrazzaville\n17 - 19 juillet 1996\nOrganisation des services municipaux\n17e\nBruxelles\n17 - 18 juillet 1997\nFrancophonie et développement\n18e\nBeyrouth\n30 mai -\n1er juin 1998\nRéhabilitation du centre des villes\n19e\nQuébec\n2 -\n3 septembre 1999\nLa jeunesse et la ville\n20e\nParis\n15 - 16 juin 2000\nCoopération de proximité et cohésion sociale\n21e\nCasablanca\n23 -\n25 octobre 2001\nVilles, diversités linguistiques et culturelles\n22e\nBeyrouth\n16 -\n18 octobre 2002\nVilles, émigration et immigration : enjeux\néconomiques et culturels\n23e\nDakar\n22 -\n24 octobre 2003\nLe maire médiateur\n24e\nOuagadougou\n23 -\n25 novembre 2004\nVilles dans le développement durable et la\nsolidarité: leur rôle et leurs moyens\nAssemblées générales",
+   "chunk_id": "DOC-f4cc8501e3d4-C0008",
+   "text_hash": "29ccf0ec459e4220acda4bf85fa1d65c7d7b1d6b"
+  },
+  {
+   "section": "",
+   "text": "25e\nAntananarivo\n25 -\n27 novembre 2005\nVilles et microfinance\n26e\nBucarest\n26 -\n27 septembre 2006\nVille et éducation citoyenne\n27e\nHué\n24 -\n26 octobre 2007\nVilles, patrimoine et développement local\n28e\nQuébec\n15 -\n16 octobre 2008\nVilles et finances municipales\n29e\nParis\n1er - 3 octobre 2009\nVilles et dialogue des cultures\n30e\nLausanne\n20 -\n21 octobre 2010\nCollaboration des villes et des universités au\nservice du développement local\n31e\nErevan\n25 -\n26 octobre 2011\nRenforcer la cohésion des territoires : un impératif\nau service de la bonne gouvernance locale\n32e\nAbidjan\n26 -\n28 novembre 2012\nVilles, dialogue interculturel et paix\n33e\nParis\n14 -\n16 novembre 2013\nLes élus locaux francophones : leur action en\nfaveur de l'économie sociale et solidaire\n34e\nKinshasa\n3 -\n6 novembre 2014\nVilles et migrations internationales ; Dialogue,\nAutorités locales, Union européenne et autres\npartenaires internationaux ;",
+   "chunk_id": "DOC-f4cc8501e3d4-C0009",
+   "text_hash": "9f9e041c9d03f4ce3c8d3f682691c3adea94ceb5"
+  },
+  {
+   "section": "",
+   "text": "Villes en lutte contre les\nchangements climatiques\n35e\nTunis\n7 - 9 octobre 2015\nL’innovation, une réponse au défi d’un monde plus\nurbain\n36e\nBeyrouth\n28 -\n30 septembre 2016\nLa ville du vivre ensemble\n37e\nMontréal\n19 - 22 juin 2017\nLes femmes et leur mobilisation en réseau\n38e\nLille\n5 -\n7 novembre 2018\nVilles et sport au service du développement et du\nmieux vivre ensemble\n39e\nPhnom\nPenh\n2 -\n4 décembre 2019\nLa ville résiliente : penser les défis de la\nreconstruction urbaine\n40e\nTunis\n9 -\n10 décembre 2020\nConstruire la gouvernance des villes de demain\n41e\nKigali\n18 - 22 juillet 2021\nLe maire et la société civile\n42e\nAbidjan\n28 - 2 juillet 2022\n43e\nCotonou\n11 -\n14 octobre 2023\n44e\nLausanne\n22 - 24 mai 2024\n1. « L’Association internationale des maires francophones (https://cn.ambafrance.org/L-Associ\nation-Internationale-des-Maires-Francophones) », sur La France en Chine (consulté le\n3 janvier 2018)\nAnnexes\nNotes et références",
+   "chunk_id": "DOC-f4cc8501e3d4-C0010",
+   "text_hash": "41eebed409fd65cc2708632c91f0786ae84e06bf"
+  },
+  {
+   "section": "",
+   "text": "2. « Le « Vivre ensemble » au cœur de la 28e assemblée générale des maires francophones |\nFrance Urbaine – métropoles, agglos et grandes villes (http://franceurbaine.org/vivre-ensem\nble-coeur-28e-assemblee-generale-maires-francophones) », sur franceurbaine.org (consulté\nle 3 janvier 2018)\n3. « Qu’est-ce que la Francophonie ? (https://archive.wikiwix.com/cache/20150626071654/htt\np://www.francophonie.org/-Qu-est-ce-que-la-Francophonie-) », sur francophonie.org via\nWikiwix (consulté le 15 octobre 2023).\nSite officiel (https://www.aimf.asso.fr/)\nOrganisation internationale de la francophonie\nFrancisation\nCe document provient de « https://fr.wikipedia.org/w/index.php?\ntitle=Association_internationale_des_maires_francophones&oldid=238683582 ».\nLiens externes\nArticles connexes",
+   "chunk_id": "DOC-f4cc8501e3d4-C0011",
+   "text_hash": "50b68001b5f5e07d9f7dba9497fd852dccafbe3e"
+  }
+ ]
+}

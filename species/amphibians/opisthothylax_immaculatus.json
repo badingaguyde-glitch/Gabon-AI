@@ -1,0 +1,82 @@
+{
+  "species_id": "SPECIES-000186",
+  "scientific_name": "Opisthothylax immaculatus",
+  "normalized_name": "opisthothylax_immaculatus",
+  "category": "amphibians",
+  "taxonomy": {
+    "class": "Amphibia",
+    "order": "",
+    "family": "Hyperoliidae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-009707",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": 2022,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000019",
+      "provenance": {
+        "source_id": "SRC-000019",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 88,
+        "extracted_text_snippet": "Table row: Gabon 03/11/2022 G45 G0342 Hyperoliidae Opisthothylax immaculatus 1.95 31 11 2.1 14.6 5.6",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:30.625015+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-009952",
+      "location": null,
+      "park_name": null,
+      "coordinates": null,
+      "year": null,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": null,
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000023",
+      "provenance": {
+        "source_id": "SRC-000023",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 109,
+        "extracted_text_snippet": "Table row: Opisthothylax immaculatus Opisthothylax ARAQ 1.8870696490323797 -0.30603734930969473 -0.0016492591232053961 0.08653861867857392 0.6606293445452127 -0.",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:32.372704+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000019",
+    "SRC-000023"
+  ],
+  "conflicts": [],
+  "version": 2,
+  "created_at": "2026-10-14T10:10:30.625221+00:00",
+  "updated_at": "2026-10-14T10:10:32.373667+00:00"
+}

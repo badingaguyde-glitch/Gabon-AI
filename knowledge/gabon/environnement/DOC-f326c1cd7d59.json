@@ -1,0 +1,289 @@
+{
+ "doc_id": "DOC-f326c1cd7d59",
+ "country": "Gabon",
+ "category": "environnement",
+ "subcategory": null,
+ "secondary_categories": [],
+ "classification_confidence": 0.99,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Dynamique des semis et exploitation forestière\\recensus_2022.csv"
+ ],
+ "sha256": "f326c1cd7d5932024a3f2ce468292c5b33b3c719aacc5895d9d162b085667e14",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:33.185817+00:00",
+ "dataset_summary": {
+  "columns": [
+   "date",
+   "plot",
+   "subplot",
+   "spp",
+   "height_cm",
+   "tag_no",
+   "code",
+   "code_2022",
+   "height_cm_2022",
+   "survival"
+  ],
+  "rows_analyzed": 3295,
+  "numeric_stats": {
+   "height_cm": {
+    "min": 2.0,
+    "max": 85.0,
+    "mean": 26.9835,
+    "n": 2303
+   },
+   "height_cm_2022": {
+    "min": 2.0,
+    "max": 400.0,
+    "mean": 46.0621,
+    "n": 2494
+   },
+   "survival": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.7059,
+    "n": 2346
+   }
+  },
+  "categorical_top_values": {
+   "date": [
+    [
+     "8/29/22",
+     115
+    ],
+    [
+     "7/17/22",
+     111
+    ],
+    [
+     "1/30/22",
+     111
+    ],
+    [
+     "7/13/22",
+     107
+    ],
+    [
+     "7/29/22",
+     105
+    ],
+    [
+     "7/16/22",
+     103
+    ],
+    [
+     "7/14/22",
+     101
+    ],
+    [
+     "7/30/22",
+     101
+    ]
+   ],
+   "plot": [
+    [
+     "295",
+     74
+    ],
+    [
+     "T15",
+     70
+    ],
+    [
+     "B63",
+     68
+    ],
+    [
+     "C20",
+     63
+    ],
+    [
+     "B59",
+     62
+    ],
+    [
+     "B92",
+     62
+    ],
+    [
+     "279",
+     61
+    ],
+    [
+     "265",
+     60
+    ]
+   ],
+   "subplot": [
+    [
+     "S6",
+     391
+    ],
+    [
+     "S1",
+     390
+    ],
+    [
+     "S3",
+     384
+    ],
+    [
+     "S4",
+     378
+    ],
+    [
+     "S2",
+     365
+    ],
+    [
+     "S5",
+     364
+    ],
+    [
+     "S8",
+     349
+    ],
+    [
+     "S7",
+     344
+    ]
+   ],
+   "spp": [
+    [
+     "L",
+     1044
+    ],
+    [
+     "SCAPBL",
+     244
+    ],
+    [
+     "DICHGL",
+     169
+    ],
+    [
+     "SANTTR",
+     113
+    ],
+    [
+     "THOMCO",
+     78
+    ],
+    [
+     "SCAPTH",
+     70
+    ],
+    [
+     "DACRBU",
+     65
+    ],
+    [
+     "ALCHFL",
+     64
+    ]
+   ],
+   "tag_no": [
+    [
+     "Y-57",
+     7
+    ],
+    [
+     "O-125",
+     6
+    ],
+    [
+     "O-127",
+     6
+    ],
+    [
+     "O-128",
+     6
+    ],
+    [
+     "O-129",
+     6
+    ],
+    [
+     "O-130",
+     6
+    ],
+    [
+     "O-131",
+     6
+    ],
+    [
+     "O-132",
+     6
+    ]
+   ],
+   "code": [
+    [
+     "L",
+     807
+    ],
+    [
+     "X",
+     2
+    ],
+    [
+     "M",
+     2
+    ],
+    [
+     "M;L",
+     2
+    ],
+    [
+     "O-35",
+     1
+    ],
+    [
+     "O-34",
+     1
+    ]
+   ],
+   "code_2022": [
+    [
+     "L",
+     221
+    ],
+    [
+     "X",
+     57
+    ],
+    [
+     "M",
+     6
+    ],
+    [
+     "L;X",
+     5
+    ],
+    [
+     "BELCPE",
+     1
+    ],
+    [
+     "X;L",
+     1
+    ],
+    [
+     "l",
+     1
+    ]
+   ]
+  },
+  "readme": "# Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest\n\n## Description of the data and file structure\n\nWe studied forest recovery in northwestern Gabon by setting up 80 plots, each 20×20 m, across areas logged in different years and one untouched forest. Inside each plot, we placed smaller seedling plots to track young trees and vines—measuring their growth and survival from 2018–2019 and again in 2022. We also recorded light levels, signs of damage, and elephant trails to understand how these factors affect regeneration.\n\n### Description:\n\nrecensus_2022.csv contains the vegetation plot information from the 720 seedling plots:\n\n* date - date that plots were recensused\n* plot - vegetation plot subplot - seedling subplot ID\n* spp - species code\n* height_cm - height from census1 (2019) in cm\n* tag_no - tag number on seedling\n* code - codes indicating broken, liana, etc. from census1\n* code_2022 - codes indicating broken, liana, etc. from census2\n* height_cm_2022 - height from census2 (2022) in cm\n* survival - status of seedling in census2 (2022): alive (1), dead (0)\n\nplot_info.csv* c*ontains descriptive information about understory factors and other details in each of the 720 seedling plots:\n\n* plot - vegetation plot ID\n* subplot - seedling subplot ID\n* ele_trail - status of elephant trails in each seedling plot: presence (1) or absence (0)\n* log_veg - status of damage from logging or falling vegetation (i.e. treefall or branchfall) in each seedling plot: presence (1) or absence (0)\n* light - canopy openness as measured via densiometer in each seedling subplot\n* plot_type - ID of each seedling plot in chronosequence\n* date1 - date each plot was measured from census1\n* date2 - date each plot was measured from census2\n\nAny empty cells indicate that there is no data for that entry and NA represents not applicable"
+ },
+ "kind": "dataset",
+ "title": "Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest — recensus_2022.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest — recensus_2022.csv (Gabon).\nDescription : # Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest\n\n## Description of the data and file structure\n\nWe studied forest recovery in northwestern Gabon by setting up 80 plots, each 20×20 m, across areas logged in different years and one untouched forest. Inside each plot, we placed smaller seedling plots to track young trees and vines—measuring their growth and survival from 2018–2019 and again in 2022. We also recorded light levels, signs of damage, and elephant trails to understand how these factors affect regeneration.\n\n### Description:\n\nrecensus_2022.csv contains the vegetation plot information from the 720 seedling plots:\n\n* date - date that plots were recensused\n* plot - vegetation plot subplot - seedling subplot ID\n* spp - species code\n* height_cm - height from census1 (2019) in cm\n* tag_no - tag number on seedling\n* code - codes indicating broken, liana, etc. from census1\n* code_2022 - codes indicating broken, liana, etc. from census2\n* height_cm_2022 - height from census2 (2022) in cm\n* survival - status of seedling in census2 (2022): alive (1), dead (0)\n\nplot_info.csv* c*ontains descriptive information about understory factors and other details in each of the 720 seedling plots:\n\n* plot - vegetation plot ID\n* subplot - seedling subplot ID\n* ele_trail - status of elephant trails in each seedling plot: presence (1) or absence (0)\n* log_veg - status of damage from logging or falling vegetation (i.e. treefall or branchfall) in each seedling plot: presence (1) or absence (0)\n* light - canopy openness as measured via densiometer in each seedling subplot\n* plot_type - ID of each seedling plot in chronosequence\n* date1 - date each plot was measured from census1\n* date2 - date each plot was measured from census2\n\nAny empty cells indicate that there is no data for that entry and NA represents not applicable\nColonnes (10) : date, plot, subplot, spp, height_cm, tag_no, code, code_2022, height_cm_2022, survival.\nNombre de lignes analysées : 3295.\n- height_cm : min 2.0, max 85.0, moyenne 26.9835 (n=2303).\n- height_cm_2022 : min 2.0, max 400.0, moyenne 46.0621 (n=2494).\n- survival : min 0.0, max 1.0, moyenne 0.7059 (n=2346).\n- date : valeurs principales 8/29/22 (115), 7/17/22 (111), 1/30/22 (111), 7/13/22 (107), 7/29/22 (105), 7/16/22 (103).\n- plot : valeurs principales 295 (74), T15 (70), B63 (68), C20 (63), B59 (62), B92 (62).\n- subplot : valeurs principales S6 (391), S1 (390), S3 (384), S4 (378), S2 (365), S5 (364).\n- spp : valeurs principales L (1044), SCAPBL (244), DICHGL (169), SANTTR (113), THOMCO (78), SCAPTH (70).\n- tag_no : valeurs principales Y-57 (7), O-125 (6), O-127 (6), O-128 (6), O-129 (6), O-130 (6).\n- code : valeurs principales L (807), X (2), M (2), M;L (2), O-35 (1), O-34 (1).\n- code_2022 : valeurs principales L (221), X (57), M (6), L;X (5), BELCPE (1), X;L (1).",
+   "chunk_id": "DOC-f326c1cd7d59-C0001",
+   "text_hash": "86ccae023eca1f0d369ce435c5bbca63f0d0349b"
+  }
+ ]
+}

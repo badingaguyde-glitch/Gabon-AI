@@ -1,0 +1,33 @@
+{
+ "doc_id": "DOC-7a961b51534f",
+ "country": "Gabon",
+ "category": "environnement",
+ "subcategory": null,
+ "secondary_categories": [
+  "demographie"
+ ],
+ "classification_confidence": 0.854,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Dynamique des semis et exploitation forestière\\README.md"
+ ],
+ "sha256": "7a961b51534f4677afd821ac8be1e952131b13728c2cb8b89ee004dd7b0959ce",
+ "format": "markdown",
+ "processed_at": "2026-10-14T10:10:33.121121+00:00",
+ "kind": "text",
+ "title": "Data from: Timber and trails: Low-intensity selective logging and elephant trails shape seedling dynamics in an Afrotropical forest",
+ "chunks": [
+  {
+   "section": "Description of the data and file structure",
+   "text": "We studied forest recovery in northwestern Gabon by setting up 80 plots, each 20×20 m, across areas logged in different years and one untouched forest. Inside each plot, we placed smaller seedling plots to track young trees and vines—measuring their growth and survival from 2018–2019 and again in 2022. We also recorded light levels, signs of damage, and elephant trails to understand how these factors affect regeneration.",
+   "chunk_id": "DOC-7a961b51534f-C0001",
+   "text_hash": "151d5d6bd72a5ce64c386b456a2e7720ddcb7f87"
+  },
+  {
+   "section": "Description:",
+   "text": "recensus_2022.csv contains the vegetation plot information from the 720 seedling plots:\n\n* date - date that plots were recensused\n* plot - vegetation plot subplot - seedling subplot ID\n* spp - species code\n* height_cm - height from census1 (2019) in cm\n* tag_no - tag number on seedling\n* code - codes indicating broken, liana, etc. from census1\n* code_2022 - codes indicating broken, liana, etc. from census2\n* height_cm_2022 - height from census2 (2022) in cm\n* survival - status of seedling in census2 (2022): alive (1), dead (0)\n\nplot_info.csv* c*ontains descriptive information about understory factors and other details in each of the 720 seedling plots:\n\n* plot - vegetation plot ID\n* subplot - seedling subplot ID\n* ele_trail - status of elephant trails in each seedling plot: presence (1) or absence (0)\n* log_veg - status of damage from logging or falling vegetation (i.e. treefall or branchfall) in each seedling plot: presence (1) or absence (0)\n* light - canopy openness as measured via densiometer in each seedling subplot\n* plot_type - ID of each seedling plot in chronosequence\n* date1 - date each plot was measured from census1\n* date2 - date each plot was measured from census2\n\nAny empty cells indicate that there is no data for that entry and NA represents not applicable",
+   "chunk_id": "DOC-7a961b51534f-C0002",
+   "text_hash": "91db9a15a78569221649555d462b21ca1b3d8b20"
+  }
+ ]
+}

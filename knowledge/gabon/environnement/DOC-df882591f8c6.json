@@ -1,0 +1,224 @@
+{
+ "doc_id": "DOC-df882591f8c6",
+ "country": "Gabon",
+ "category": "environnement",
+ "subcategory": null,
+ "secondary_categories": [
+  "biodiversite"
+ ],
+ "classification_confidence": 0.967,
+ "language": "en",
+ "source_files": [
+  "Données-scientifiques\\Amphibiens du Gabon — climat + biodiversité\\Climate_data.csv"
+ ],
+ "sha256": "df882591f8c632745ef3be74a30842c6ed5e808f7175507739ff926e777c89fe",
+ "format": "csv",
+ "processed_at": "2026-10-14T10:10:30.291588+00:00",
+ "dataset_summary": {
+  "columns": [
+   "temperature",
+   "max_daily_temp",
+   "min_daily_temp",
+   "mean_daily_temp",
+   "mean_hourly_temp",
+   "rh",
+   "max_rh_daily",
+   "min_rh_daily",
+   "mean_rh_daily",
+   "mean_rh_hourly",
+   "dewpoint",
+   "tree",
+   "Strata",
+   "date",
+   "time",
+   "temp_range",
+   "humid_range"
+  ],
+  "rows_analyzed": 20328,
+  "numeric_stats": {
+   "temperature": {
+    "min": 17.35,
+    "max": 28.976,
+    "mean": 21.5725,
+    "n": 20328
+   },
+   "max_daily_temp": {
+    "min": 20.568,
+    "max": 28.976,
+    "mean": 24.0806,
+    "n": 279
+   },
+   "min_daily_temp": {
+    "min": 17.35,
+    "max": 22.046,
+    "mean": 20.0357,
+    "n": 279
+   },
+   "mean_daily_temp": {
+    "min": 19.691,
+    "max": 22.749,
+    "mean": 21.4909,
+    "n": 279
+   },
+   "mean_hourly_temp": {
+    "min": 17.479,
+    "max": 28.72,
+    "mean": 21.4904,
+    "n": 6822
+   },
+   "rh": {
+    "min": 56.606,
+    "max": 100.0,
+    "mean": 96.0745,
+    "n": 6945
+   },
+   "max_rh_daily": {
+    "min": 98.681,
+    "max": 100.0,
+    "mean": 99.9334,
+    "n": 142
+   },
+   "min_rh_daily": {
+    "min": 56.606,
+    "max": 100.0,
+    "mean": 82.3545,
+    "n": 142
+   },
+   "mean_rh_daily": {
+    "min": 88.896,
+    "max": 100.0,
+    "mean": 96.0859,
+    "n": 142
+   },
+   "mean_rh_hourly": {
+    "min": 61.025,
+    "max": 100.0,
+    "mean": 96.0725,
+    "n": 3474
+   },
+   "dewpoint": {
+    "min": 17.373,
+    "max": 23.982,
+    "mean": 20.5631,
+    "n": 6945
+   },
+   "temp_range": {
+    "min": 0.383,
+    "max": 11.584,
+    "mean": 4.0449,
+    "n": 279
+   },
+   "humid_range": {
+    "min": 0.0,
+    "max": 43.394,
+    "mean": 17.5789,
+    "n": 142
+   }
+  },
+  "categorical_top_values": {
+   "tree": [
+    [
+     "G16",
+     10743
+    ],
+    [
+     "G08",
+     9585
+    ]
+   ],
+   "Strata": [
+    [
+     "Soil",
+     9086
+    ],
+    [
+     "Understory",
+     6690
+    ],
+    [
+     "Canopy",
+     4552
+    ]
+   ],
+   "date": [
+    [
+     "11/10/2022",
+     432
+    ],
+    [
+     "12/10/2022",
+     432
+    ],
+    [
+     "13/10/2022",
+     432
+    ],
+    [
+     "14/10/2022",
+     432
+    ],
+    [
+     "15/10/2022",
+     432
+    ],
+    [
+     "16/10/2022",
+     432
+    ],
+    [
+     "17/10/2022",
+     432
+    ],
+    [
+     "18/10/2022",
+     432
+    ]
+   ],
+   "time": [
+    [
+     "09:00:00",
+     286
+    ],
+    [
+     "15:00:00",
+     285
+    ],
+    [
+     "15:30:00",
+     285
+    ],
+    [
+     "16:00:00",
+     285
+    ],
+    [
+     "16:30:00",
+     285
+    ],
+    [
+     "17:00:00",
+     285
+    ],
+    [
+     "17:30:00",
+     285
+    ],
+    [
+     "18:00:00",
+     285
+    ]
+   ]
+  },
+  "readme": "# Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of temperature and humidity range are included which are the maximum - the minimum values per day."
+ },
+ "kind": "dataset",
+ "title": "Data from: Vertical niche usage and trait associations in Gabonese amphibians — Climate_data.csv",
+ "chunks": [
+  {
+   "section": "Description du jeu de données",
+   "text": "Jeu de données : Data from: Vertical niche usage and trait associations in Gabonese amphibians — Climate_data.csv (Gabon).\nDescription : # Data from: Vertical niche usage and trait associations in Gabonese amphibians\n\nThis data was collected by Edmund Basham at great cost of effort and resources. If downloaded for use in publications we would appreciate a notification on its usage and would be glad to discuss potential research avenues and collaborations. Please use this email for contact : [edmund.basham@gmail.com](mailto:edmund.basham@gmail.com)\n\n**Surveys**\n\nThis contains data relating to each sampling occasion, consisting of a vertical transect located on a tree. Tree code and Date (UK format throughout- DD/MM/YYYY) columns can be used to link surveys to individuals. Location can be determined by the longitude (decimal degrees) and latitude (decimal degrees), and elevation (meters above sea level) which are included. The start time of the survey (24hr throughout), total height (meters) of the tree, and the max height climbed (meters) to which the tree was surveyed are also included here.\n\n**Individuals**\n\nThis contains data relating to the individuals captured and used in this study. Tree code and Date columns can be used to link the survey information to the individuals collected on each survey. Species names are listed, along with the height (meters) at which the individual was found. The raw trait values of Mass (g), Snout to Vent Length (mm), Mouth Width (mm), Toe Disc Width (mm), and Tibia Length (mm) are included here.\n\n**Traits**\n\nThis contains the scaled and averaged trait data for all species, including ratio traits. NA results represent traits which were unable to be sampled in an individual.\n\n**Climate**\n\nThis contains data relating to temperature taken at 30 minute intervals, as well as maximum, minimum, and mean daily temperature (Celsius), columns 1 - 5.\n\nSecondly, represented by \"rh\" in columns 6 - 10, humidity (%) was taken at 30 minute intervals, as well as maximum, minimum, and mean daily results. Dewpoint (Celsius) is also included here in column 11.\n\nTemperature were taken at separate trees (identified by the tree code column) from the soil, understory, and canopy, whereas humidity were only recorded at the understory and canopy. These are denoted by the \"Strata\" column. Data can be linked to the survey tab by tree code which contains their longitude and latitude coordinates. NA results represent summary columns which are only populated at the times where averages or maximum/minimum values are inputted. All values have a recorded time and date. Finally, the values of\nColonnes (17) : temperature, max_daily_temp, min_daily_temp, mean_daily_temp, mean_hourly_temp, rh, max_rh_daily, min_rh_daily, mean_rh_daily, mean_rh_hourly, dewpoint, tree, Strata, date, time, temp_range, humid_range.\nNombre de lignes analysées : 20328.\n- temperature : min 17.35, max 28.976, moyenne 21.5725 (n=20328).\n- max_daily_temp : min 20.568, max 28.976, moyenne 24.0806 (n=279).\n- min_daily_temp : min 17.35, max 22.046, moyenne 20.0357 (n=279).\n- mean_daily_temp : min 19.691, max 22.749, moyenne 21.4909 (n=279).\n- mean_hourly_temp : min 17.479, max 28.72, moyenne 21.4904 (n=6822).\n- rh : min 56.606, max 100.0, moyenne 96.0745 (n=6945).\n- max_rh_daily : min 98.681, max 100.0, moyenne 99.9334 (n=142).\n- min_rh_daily : min 56.606, max 100.0, moyenne 82.3545 (n=142).\n- mean_rh_daily : min 88.896, max 100.0, moyenne 96.0859 (n=142).\n- mean_rh_hourly : min 61.025, max 100.0, moyenne 96.0725 (n=3474).\n- dewpoint : min 17.373, max 23.982, moyenne 20.5631 (n=6945).\n- temp_range : min 0.383, max 11.584, moyenne 4.0449 (n=279).\n- humid_range : min 0.0, max 43.394, moyenne 17.5789 (n=142).\n- tree : valeurs principales G16 (10743), G08 (9585).\n- Strata : valeurs principales Soil (9086), Understory (6690), Canopy (4552).\n- date : valeurs principales 11/10/2022 (432), 12/10/2022 (432), 13/10/2022 (432), 14/10/2022 (432), 15/10/2022 (432), 16/10/2022 (432).\n- time : valeurs principales 09:00:00 (286), 15:00:00 (285), 15:30:00 (285), 16:00:00 (285), 16:30:00 (285), 17:00:00 (285).",
+   "chunk_id": "DOC-df882591f8c6-C0001",
+   "text_hash": "76509908e30cc47d21aee5835cf5b04a5e79e9af"
+  }
+ ]
+}

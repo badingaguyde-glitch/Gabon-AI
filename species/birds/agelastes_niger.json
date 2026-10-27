@@ -1,0 +1,81 @@
+{
+  "species_id": "SPECIES-000020",
+  "scientific_name": "Agelastes niger",
+  "normalized_name": "agelastes_niger",
+  "category": "birds",
+  "taxonomy": {
+    "class": "Aves",
+    "order": "Galliformes",
+    "family": "Numididae"
+  },
+  "synonyms": [],
+  "common_names": {
+    "en": [],
+    "fr": []
+  },
+  "iucn_status": null,
+  "facts": {},
+  "observations": [
+    {
+      "observation_id": "OBS-007023",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2019,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 436,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 1435 436  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2019-11-19 2019-11-19 12:06:21 11190436.JPG AVES GALLIFORMES NUMIDIDAE Agelast",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:25.384576+00:00"
+      },
+      "metadata": {}
+    },
+    {
+      "observation_id": "OBS-007032",
+      "location": "FSC5",
+      "park_name": "Fsc5",
+      "coordinates": null,
+      "year": 2020,
+      "date": null,
+      "count": null,
+      "count_type": null,
+      "method": "FSC",
+      "observers": [],
+      "notes": null,
+      "source_id": "SRC-000013",
+      "provenance": {
+        "source_id": "SRC-000013",
+        "filename": "",
+        "file_path": null,
+        "section": null,
+        "page": null,
+        "table_id": "TABLE-001",
+        "line_number": 5917,
+        "extracted_text_snippet": "Table row: Gabon FSC5 FSC 5 6916 5917  C01 C01 _ FSC5_C01   FSC5-2019-10-C01 Animal 2020-01-01 2020-01-01 13:22:47 01010922.JPG AVES GALLIFORMES NUMIDIDAE Agelas",
+        "confidence": 1.0,
+        "timestamp": "2026-10-14T10:10:25.417498+00:00"
+      },
+      "metadata": {}
+    }
+  ],
+  "sources": [
+    "SRC-000013"
+  ],
+  "conflicts": [],
+  "version": 1,
+  "created_at": "2026-10-14T10:10:25.513007+00:00",
+  "updated_at": "2026-10-14T10:10:25.513032+00:00"
+}
